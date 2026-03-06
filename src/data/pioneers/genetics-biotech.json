@@ -394,5 +394,182 @@
       "Wikipedia: Bonnie Bassler — https://en.wikipedia.org/wiki/Bonnie_Bassler",
       "Bassler, B. 'How Bacteria Talk to Each Other,' TED Talk, 2009."
     ]
+  },
+  {
+    "id": 202,
+    "name": "Martha Chase",
+    "nameCn": "玛莎·蔡斯",
+    "slug": "martha-chase",
+    "field": "genetics-biotech",
+    "born": 1927,
+    "died": 2003,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Proved DNA Is the Genetic Material",
+    "taglineCn": "证明DNA是遗传物质",
+    "bio": "Martha Chase, together with Alfred Hershey, conducted the famous Hershey-Chase experiment in 1952 that confirmed DNA — not protein — is the genetic material. Using bacteriophages labeled with radioactive isotopes, they demonstrated that only the phage DNA entered bacteria during infection, providing definitive evidence for DNA as the carrier of hereditary information. This was one of the most important experiments in the history of molecular biology.",
+    "bioCn": "玛莎·蔡斯与阿尔弗雷德·赫尔希于1952年共同进行了著名的赫尔希-蔡斯实验，证实了DNA——而非蛋白质——才是遗传物质。他们使用放射性同位素标记的噬菌体，证明在感染过程中只有噬菌体DNA进入细菌，为DNA作为遗传信息载体提供了确凿证据。这是分子生物学历史上最重要的实验之一。",
+    "achievements": [
+      "Conducted the Hershey-Chase experiment proving DNA is genetic material (1952)",
+      "Used radioactive isotopes to trace DNA and protein in phage infection",
+      "Landmark experiment in the history of molecular biology"
+    ],
+    "achievementsCn": [
+      "进行赫尔希-蔡斯实验证明DNA是遗传物质（1952年）",
+      "使用放射性同位素追踪噬菌体感染中的DNA和蛋白质",
+      "分子生物学历史上的里程碑实验"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Martha_Chase.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Martha Chase — https://en.wikipedia.org/wiki/Martha_Chase",
+      "Hershey, A.D. & Chase, M. 'Independent Functions of Viral Protein and Nucleic Acid in Growth of Bacteriophage,' Journal of General Physiology, 1952."
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Mary Lyon",
+    "nameCn": "玛丽·莱昂",
+    "slug": "mary-lyon",
+    "field": "genetics-biotech",
+    "born": 1925,
+    "died": 2014,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Discovered X-Chromosome Inactivation",
+    "taglineCn": "发现X染色体失活",
+    "bio": "Mary Lyon was a British geneticist who proposed the Lyon hypothesis in 1961 — that one of the two X chromosomes in female mammals is randomly inactivated in each cell during early development. This fundamental concept of X-chromosome inactivation, now known as lyonization, explains many genetic phenomena including why female carriers of X-linked diseases can show variable symptoms. Her discovery has had profound implications for understanding X-linked genetic disorders.",
+    "bioCn": "玛丽·莱昂是一位英国遗传学家，1961年提出了莱昂假说——在哺乳动物雌性的每个细胞中，两条X染色体中的一条在早期发育过程中被随机失活。这一X染色体失活的基本概念（现称为莱昂化）解释了许多遗传现象，包括为什么X连锁疾病的女性携带者可能表现出不同程度的症状。她的发现对理解X连锁遗传疾病具有深远意义。",
+    "achievements": [
+      "Proposed the Lyon hypothesis of X-chromosome inactivation (1961)",
+      "Concept now known as lyonization in her honor",
+      "Transformed understanding of X-linked genetic disorders"
+    ],
+    "achievementsCn": [
+      "提出X染色体失活的莱昂假说（1961年）",
+      "该概念以她的名字命名为'莱昂化'",
+      "改变了对X连锁遗传疾病的理解"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA 4.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Calico_cat%2C_-_Assisi%2C_Italy.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Lyon — https://en.wikipedia.org/wiki/Mary_Lyon_(geneticist)",
+      "Lyon, M.F. 'Gene Action in the X-chromosome of the Mouse,' Nature, 1961."
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Anne McLaren",
+    "nameCn": "安妮·麦克拉伦",
+    "slug": "anne-mclaren",
+    "field": "genetics-biotech",
+    "born": 1927,
+    "died": 2007,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of In Vitro Fertilization",
+    "taglineCn": "体外受精先驱",
+    "bio": "Anne McLaren was a developmental biologist who pioneered embryo manipulation techniques that laid the groundwork for in vitro fertilization (IVF). In 1958, she and John Biggers successfully grew mouse embryos outside the womb and transferred them back, producing live offspring — a breakthrough crucial to the later development of human IVF. She was a Fellow of the Royal Society and served on the Human Fertilisation and Embryology Authority, helping shape the ethical framework for reproductive technologies.",
+    "bioCn": "安妮·麦克拉伦是一位发育生物学家，她开创的胚胎操纵技术为体外受精（IVF）奠定了基础。1958年，她与约翰·比格斯成功在体外培养小鼠胚胎并将其移植回母体，产生了活的后代——这一突破对后来人类IVF的发展至关重要。她是英国皇家学会会员，曾在人类受精和胚胎学管理局任职，帮助建立了生殖技术的伦理框架。",
+    "achievements": [
+      "Pioneered embryo manipulation crucial to IVF development",
+      "First to grow mouse embryos outside the womb and produce live offspring (1958)",
+      "Fellow of the Royal Society and member of HFEA"
+    ],
+    "achievementsCn": [
+      "开创对IVF发展至关重要的胚胎操纵技术",
+      "首次在体外培养小鼠胚胎并产生活的后代（1958年）",
+      "英国皇家学会会员和HFEA成员"
+    ],
+    "era": "20th Century",
+    "imageCredit": "BruceBlaus, CC BY 3.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Blausen_0060_AssistedReproductiveTechnology.png",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Anne McLaren — https://en.wikipedia.org/wiki/Anne_McLaren"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Ruth Sager",
+    "nameCn": "露丝·萨格尔",
+    "slug": "ruth-sager",
+    "field": "genetics-biotech",
+    "born": 1918,
+    "died": 1997,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered Non-Chromosomal Genes",
+    "taglineCn": "发现非染色体基因",
+    "bio": "Ruth Sager was a geneticist who discovered non-chromosomal (cytoplasmic) genes in the alga Chlamydomonas, proving that hereditary material exists outside the cell nucleus in organelles such as chloroplasts. This challenged the prevailing view that all genes reside on chromosomes. Later in her career at Harvard, she pivoted to cancer genetics and made significant contributions to identifying tumor suppressor genes, advancing the understanding of how cells become cancerous.",
+    "bioCn": "露丝·萨格尔是一位遗传学家，她在绿藻衣藻中发现了非染色体（细胞质）基因，证明遗传物质存在于细胞核之外的细胞器（如叶绿体）中。这挑战了所有基因都位于染色体上的主流观点。在她后来于哈佛大学的职业生涯中，她转向癌症遗传学研究，在鉴定肿瘤抑制基因方面做出了重要贡献，推进了对细胞癌变机制的理解。",
+    "achievements": [
+      "Discovered non-chromosomal genes in Chlamydomonas",
+      "Proved hereditary material exists outside the nucleus",
+      "Identified tumor suppressor genes at Harvard"
+    ],
+    "achievementsCn": [
+      "在衣藻中发现非染色体基因",
+      "证明遗传物质存在于细胞核之外",
+      "在哈佛鉴定肿瘤抑制基因"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Ruth_Sager_yearbook.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ruth Sager — https://en.wikipedia.org/wiki/Ruth_Sager"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Yuan Chang",
+    "nameCn": "张远",
+    "slug": "yuan-chang",
+    "field": "genetics-biotech",
+    "born": 1959,
+    "died": null,
+    "nationality": "Taiwanese-American",
+    "nationalityCn": "美籍台湾人",
+    "tagline": "Discovered Kaposi's Sarcoma Herpesvirus",
+    "taglineCn": "发现卡波西肉瘤相关疱疹病毒",
+    "bio": "Yuan Chang is a virologist at the University of Pittsburgh who, together with Patrick Moore, discovered Kaposi's sarcoma-associated herpesvirus (KSHV/HHV-8) in 1994. This discovery identified the cause of Kaposi's sarcoma, a cancer commonly associated with AIDS. Using representational difference analysis, a novel molecular technique at the time, they isolated viral DNA sequences unique to the tumor. Her work has had a major impact on understanding virus-associated cancers.",
+    "bioCn": "张远是匹兹堡大学的病毒学家，1994年她与帕特里克·摩尔共同发现了卡波西肉瘤相关疱疹病毒（KSHV/HHV-8）。这一发现确定了卡波西肉瘤——一种常与艾滋病相关的癌症——的致病原因。她们使用当时新颖的代表性差异分析技术，从肿瘤中分离出独特的病毒DNA序列。她的工作对理解病毒相关癌症产生了重大影响。",
+    "achievements": [
+      "Discovered KSHV/HHV-8, the cause of Kaposi's sarcoma (1994)",
+      "Used representational difference analysis to isolate viral DNA",
+      "Major contributions to understanding virus-associated cancers"
+    ],
+    "achievementsCn": [
+      "发现导致卡波西肉瘤的KSHV/HHV-8（1994年）",
+      "使用代表性差异分析分离病毒DNA",
+      "对理解病毒相关癌症做出重大贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Yuan_Chang_2017-01.JPG",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Yuan Chang — https://en.wikipedia.org/wiki/Yuan_Chang"
+    ]
   }
 ]

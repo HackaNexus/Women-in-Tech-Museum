@@ -536,5 +536,183 @@
       "Wikipedia: Ayanna Howard — https://en.wikipedia.org/wiki/Ayanna_Howard",
       "Ohio State University College of Engineering — https://engineering.osu.edu/"
     ]
+  },
+  {
+    "id": 207,
+    "name": "Margaret Dayhoff",
+    "nameCn": "玛格丽特·戴霍夫",
+    "slug": "margaret-dayhoff",
+    "field": "data-science-ai",
+    "born": 1925,
+    "died": 1983,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Bioinformatics",
+    "taglineCn": "生物信息学先驱",
+    "bio": "Margaret Dayhoff was a pioneer of bioinformatics who created the Atlas of Protein Sequence and Structure, the first comprehensive collection of protein sequences. She developed the PAM (Point Accepted Mutation) substitution matrices, which are still widely used in sequence alignment algorithms today. She established the first protein sequence database, a precursor to modern bioinformatics resources like GenBank and UniProt. Her work laid the computational foundations for the field of molecular evolution.",
+    "bioCn": "玛格丽特·戴霍夫是生物信息学先驱，创建了《蛋白质序列与结构图谱》——第一部全面的蛋白质序列集。她开发了PAM（点接受突变）替代矩阵，至今仍广泛用于序列比对算法。她建立了第一个蛋白质序列数据库，是GenBank和UniProt等现代生物信息学资源的前身。她的工作为分子进化领域奠定了计算基础。",
+    "achievements": [
+      "Created the Atlas of Protein Sequence and Structure",
+      "Developed PAM substitution matrices still used today",
+      "Established the first protein sequence database"
+    ],
+    "achievementsCn": [
+      "创建《蛋白质序列与结构图谱》",
+      "开发至今仍在使用的PAM替代矩阵",
+      "建立第一个蛋白质序列数据库"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Blosum62-dayhoff-ordering.svg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Margaret Dayhoff — https://en.wikipedia.org/wiki/Margaret_Dayhoff"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Mary Eleanor Spear",
+    "nameCn": "玛丽·埃莉诺·斯皮尔",
+    "slug": "mary-eleanor-spear",
+    "field": "data-science-ai",
+    "born": 1897,
+    "died": 1986,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Data Visualization",
+    "taglineCn": "数据可视化先驱",
+    "bio": "Mary Eleanor Spear was a pioneer of data visualization who worked at the U.S. Bureau of Labor Statistics for decades. She authored 'Charting Statistics' (1952) and 'Practical Charting Techniques' (1969), foundational texts that established standards for clear and effective statistical graphics. Her principles for honest visual communication of data — including guidelines on scales, labeling, and chart selection — continue to influence modern data visualization practice.",
+    "bioCn": "玛丽·埃莉诺·斯皮尔是数据可视化先驱，在美国劳工统计局工作了数十年。她撰写了《统计图表法》（1952年）和《实用图表技术》（1969年），这两本奠基性著作确立了清晰有效的统计图表标准。她关于数据诚实视觉传达的原则——包括刻度、标注和图表选择的指南——至今仍影响着现代数据可视化实践。",
+    "achievements": [
+      "Authored foundational texts on statistical charting",
+      "Established standards for data visualization at the Bureau of Labor Statistics",
+      "Principles still influence modern data visualization practice"
+    ],
+    "achievementsCn": [
+      "撰写统计图表领域的奠基性著作",
+      "在劳工统计局建立数据可视化标准",
+      "原则至今影响着现代数据可视化实践"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Charles Joseph Minard, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Eleanor Spear — https://en.wikipedia.org/wiki/Mary_Eleanor_Spear",
+      "Spear, M.E. Charting Statistics. McGraw-Hill, 1952."
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Rediet Abebe",
+    "nameCn": "雷迪特·阿贝贝",
+    "slug": "rediet-abebe",
+    "field": "data-science-ai",
+    "born": 1991,
+    "died": null,
+    "nationality": "Ethiopian-American",
+    "nationalityCn": "埃塞俄比亚裔美国人",
+    "tagline": "Algorithms for Social Good",
+    "taglineCn": "致力于社会公益的算法研究者",
+    "bio": "Rediet Abebe is a computer scientist working at the intersection of algorithms, AI, and social good. She co-founded Mechanism Design for Social Good (MD4SG), a multi-institutional initiative that uses computational techniques to address inequality and social challenges. She was a Harvard Society of Fellows member and became the first Black woman to earn a computer science PhD from Cornell University. She is an assistant professor at UC Berkeley, advancing research on how algorithms can promote equity.",
+    "bioCn": "雷迪特·阿贝贝是一位在算法、人工智能与社会公益交叉领域工作的计算机科学家。她联合创立了面向社会公益的机制设计（MD4SG）——一项利用计算技术解决不平等和社会挑战的多机构倡议。她是哈佛学会会员，也是首位在康奈尔大学获得计算机科学博士学位的黑人女性。她是加州大学伯克利分校助理教授，致力于研究算法如何促进公平。",
+    "achievements": [
+      "Co-founded Mechanism Design for Social Good (MD4SG)",
+      "First Black woman to earn a CS PhD from Cornell",
+      "Harvard Society of Fellows member and UC Berkeley professor"
+    ],
+    "achievementsCn": [
+      "联合创立面向社会公益的机制设计（MD4SG）",
+      "首位在康奈尔大学获得计算机科学博士的黑人女性",
+      "哈佛学会会员和加州大学伯克利分校教授"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Rediet_Abebe_%283x4_cropped%29.png",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Rediet Abebe — https://en.wikipedia.org/wiki/Rediet_Abebe"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Corinna Cortes",
+    "nameCn": "科琳娜·科尔特斯",
+    "slug": "corinna-cortes",
+    "field": "data-science-ai",
+    "born": 1961,
+    "died": null,
+    "nationality": "Danish-American",
+    "nationalityCn": "丹麦裔美国人",
+    "tagline": "Co-Inventor of Support Vector Machines",
+    "taglineCn": "支持向量机共同发明者",
+    "bio": "Corinna Cortes is a computer scientist and VP of Google Research who co-invented Support Vector Machines (SVM) with Vladimir Vapnik, one of the most widely used machine learning algorithms. Her 1995 SVM paper is among the most cited in all of computer science. Her work at AT&T Bell Labs and subsequently at Google has advanced the fields of machine learning, computational learning theory, and large-scale data mining.",
+    "bioCn": "科琳娜·科尔特斯是一位计算机科学家和谷歌研究副总裁，她与弗拉基米尔·瓦普尼克共同发明了支持向量机（SVM）——最广泛使用的机器学习算法之一。她1995年的SVM论文是整个计算机科学领域被引用最多的论文之一。她在AT&T贝尔实验室和之后在谷歌的工作推动了机器学习、计算学习理论和大规模数据挖掘领域的发展。",
+    "achievements": [
+      "Co-invented Support Vector Machines (SVM) with Vapnik",
+      "1995 SVM paper among most cited in computer science",
+      "VP of Google Research"
+    ],
+    "achievementsCn": [
+      "与瓦普尼克共同发明支持向量机（SVM）",
+      "1995年SVM论文是计算机科学领域被引用最多的论文之一",
+      "谷歌研究副总裁"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/SVM_margin.png",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Corinna Cortes — https://en.wikipedia.org/wiki/Corinna_Cortes",
+      "Cortes, C. & Vapnik, V. 'Support-Vector Networks,' Machine Learning, 1995."
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Dorothy Denning",
+    "nameCn": "多萝西·丹宁",
+    "slug": "dorothy-denning",
+    "field": "data-science-ai",
+    "born": 1945,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Cybersecurity",
+    "taglineCn": "网络安全先驱",
+    "bio": "Dorothy Denning is a cybersecurity pioneer who created the first intrusion detection model in 1987, laying the foundation for modern network security systems. She is a professor at Georgetown University and a Fellow of the ACM. Her book 'Information Warfare and Security' is a foundational text in the field. Her work spans cryptography, information security, and cyber conflict, and she has been instrumental in shaping cybersecurity policy and education.",
+    "bioCn": "多萝西·丹宁是网络安全先驱，1987年创建了第一个入侵检测模型，为现代网络安全系统奠定了基础。她是乔治城大学教授和ACM会士。她的著作《信息战争与安全》是该领域的奠基性文献。她的研究涵盖密码学、信息安全和网络冲突，在塑造网络安全政策和教育方面发挥了重要作用。",
+    "achievements": [
+      "Created the first intrusion detection model (1987)",
+      "Fellow of the ACM",
+      "Authored foundational text 'Information Warfare and Security'"
+    ],
+    "achievementsCn": [
+      "创建第一个入侵检测模型（1987年）",
+      "ACM会士",
+      "撰写奠基性著作《信息战争与安全》"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dorothy-Denning-Feb2013-head.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Dorothy E. Denning — https://en.wikipedia.org/wiki/Dorothy_E._Denning",
+      "Denning, D.E. 'An Intrusion-Detection Model,' IEEE Transactions on Software Engineering, 1987."
+    ]
   }
 ]

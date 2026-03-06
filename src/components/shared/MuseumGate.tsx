@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react";
 import { motion, AnimatePresence, useAnimation } from "framer-motion";
+import { stats } from "@/lib/data";
 
 const STORAGE_KEY = "herstory-museum-entered";
 
@@ -137,7 +138,7 @@ export function MuseumGate() {
             </h1>
             <div className="w-12 h-px bg-museum-gold/40 mx-auto mb-4" />
             <p className="text-white/40 text-sm mb-10 max-w-xs tracking-wide">
-              4,000 years of women pioneers in STEM
+              {stats.yearSpan.toLocaleString()}+ years of women pioneers in STEM
             </p>
             <button
               onClick={handleEnter}

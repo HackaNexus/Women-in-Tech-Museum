@@ -613,5 +613,180 @@
       "Wikipedia: Dian Fossey — https://en.wikipedia.org/wiki/Dian_Fossey",
       "Fossey, Dian. Gorillas in the Mist. Houghton Mifflin, 1983."
     ]
+  },
+  {
+    "id": 182,
+    "name": "Alice Hamilton",
+    "nameCn": "艾丽斯·汉密尔顿",
+    "slug": "alice-hamilton",
+    "field": "biology-medicine",
+    "born": 1869,
+    "died": 1970,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Founder of Occupational Medicine in the United States",
+    "taglineCn": "美国职业医学创始人",
+    "bio": "Alice Hamilton was the founder of occupational medicine in the United States and the first woman appointed to the faculty of Harvard Medical School in 1919. She investigated industrial diseases caused by lead, mercury, and other toxic exposures in factories, personally visiting dangerous workplaces to document conditions. Her meticulous research directly led to workers' compensation laws and workplace safety regulations that protected millions of American laborers.",
+    "bioCn": "艾丽斯·汉密尔顿是美国职业医学的创始人，也是1919年哈佛医学院任命的第一位女性教员。她调查了工厂中铅、汞和其他有毒物质暴露引起的工业疾病，亲自深入危险的工作场所记录情况。她细致的研究直接促成了工人赔偿法和工作场所安全法规的制定，保护了数百万美国劳动者。",
+    "achievements": [
+      "First woman appointed to the faculty of Harvard Medical School (1919)",
+      "Founded the field of occupational medicine in the U.S.",
+      "Research led to workers' compensation laws and workplace safety regulations"
+    ],
+    "achievementsCn": [
+      "哈佛医学院任命的第一位女性教员（1919年）",
+      "创立了美国职业医学领域",
+      "研究促成了工人赔偿法和工作场所安全法规"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Alice_Hamilton.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Alice Hamilton — https://en.wikipedia.org/wiki/Alice_Hamilton"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Rebecca Lancefield",
+    "nameCn": "丽贝卡·兰斯菲尔德",
+    "slug": "rebecca-lancefield",
+    "field": "biology-medicine",
+    "born": 1895,
+    "died": 1981,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Creator of the Lancefield Classification for Streptococci",
+    "taglineCn": "链球菌兰斯菲尔德分类法的创立者",
+    "bio": "Rebecca Lancefield was a microbiologist who developed the Lancefield grouping system for classifying streptococcal bacteria, a system still used worldwide today. Working at the Rockefeller Institute for over 60 years, she identified the specific carbohydrate antigens on the cell walls of streptococci that distinguish different groups. Her classification system became essential for diagnosing strep infections and preventing rheumatic fever, saving countless lives globally.",
+    "bioCn": "丽贝卡·兰斯菲尔德是一位微生物学家，她开发了链球菌的兰斯菲尔德分群系统，该系统至今仍在全球范围内使用。她在洛克菲勒研究所工作了60多年，鉴定了链球菌细胞壁上区分不同群的特异性碳水化合物抗原。她的分类系统对于诊断链球菌感染和预防风湿热至关重要，在全球挽救了无数生命。",
+    "achievements": [
+      "Developed the Lancefield grouping system for streptococcal bacteria",
+      "Worked at Rockefeller Institute for over 60 years",
+      "Classification system essential for diagnosing strep infections worldwide"
+    ],
+    "achievementsCn": [
+      "开发了链球菌的兰斯菲尔德分群系统",
+      "在洛克菲勒研究所工作超过60年",
+      "分类系统对全球链球菌感染诊断至关重要"
+    ],
+    "era": "20th Century",
+    "imageCredit": "OpenStax, CC BY 4.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/OSC_Microbio_03_03_Group.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Rebecca Lancefield — https://en.wikipedia.org/wiki/Rebecca_Lancefield"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Sarah Stewart",
+    "nameCn": "萨拉·斯图尔特",
+    "slug": "sarah-stewart",
+    "field": "biology-medicine",
+    "born": 1905,
+    "died": 1976,
+    "nationality": "Mexican-American",
+    "nationalityCn": "墨西哥裔美国人",
+    "tagline": "Proved Viruses Could Cause Cancer in Mammals",
+    "taglineCn": "证明了病毒可以在哺乳动物中致癌",
+    "bio": "Sarah Stewart was a virologist at the National Institutes of Health who discovered the polyomavirus (Stewart-Eddy polyomavirus), providing the first proof that viruses could cause cancer in mammals. She was one of the first Mexican-American women to receive an MD. Working with Bernice Eddy, she demonstrated that a single virus could produce multiple types of tumors, fundamentally changing our understanding of cancer biology and laying the groundwork for the field of cancer virology.",
+    "bioCn": "萨拉·斯图尔特是美国国立卫生研究院的病毒学家，她发现了多瘤病毒（斯图尔特-埃迪多瘤病毒），首次证明了病毒可以在哺乳动物中致癌。她是最早获得医学博士学位的墨西哥裔美国女性之一。她与伯尼斯·埃迪合作，证明了单一病毒可以产生多种类型的肿瘤，从根本上改变了我们对癌症生物学的理解，为癌症病毒学领域奠定了基础。",
+    "achievements": [
+      "Discovered the polyomavirus (Stewart-Eddy polyomavirus)",
+      "First proof that viruses could cause cancer in mammals",
+      "One of the first Mexican-American women to receive an MD"
+    ],
+    "achievementsCn": [
+      "发现多瘤病毒（斯图尔特-埃迪多瘤病毒）",
+      "首次证明病毒可以在哺乳动物中致癌",
+      "最早获得医学博士学位的墨西哥裔美国女性之一"
+    ],
+    "era": "20th Century",
+    "imageCredit": "National Cancer Institute, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sarah_Stewart_MD_nci-vol-1921-300.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Sarah Stewart (microbiologist) — https://en.wikipedia.org/wiki/Sarah_Stewart_(microbiologist)"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Ogino Ginko",
+    "nameCn": "荻野吟子",
+    "slug": "ogino-ginko",
+    "field": "biology-medicine",
+    "born": 1851,
+    "died": 1913,
+    "nationality": "Japanese",
+    "nationalityCn": "日本",
+    "tagline": "Japan's First Licensed Female Doctor of Western Medicine",
+    "taglineCn": "日本第一位获得执照的西医女医生",
+    "bio": "Ogino Ginko became the first officially licensed female practicing doctor of Western medicine in Japan in 1885. After contracting gonorrhea from her husband, she was determined that women should be able to seek treatment from female doctors. She fought for years against regulations that barred women from taking medical licensing exams, eventually petitioning the government to change the rules. Her persistence opened the medical profession to women in Japan.",
+    "bioCn": "荻野吟子于1885年成为日本第一位获得正式执照的西医女医生。在从丈夫处感染淋病后，她下定决心让女性能够向女医生寻求治疗。她多年来与禁止女性参加医师资格考试的法规抗争，最终向政府请愿修改规则。她的坚持为日本女性打开了从医之门。",
+    "achievements": [
+      "First officially licensed female doctor of Western medicine in Japan (1885)",
+      "Successfully petitioned to change laws barring women from medical exams",
+      "Opened the medical profession to women in Japan"
+    ],
+    "achievementsCn": [
+      "日本第一位获得正式执照的西医女医生（1885年）",
+      "成功请愿修改禁止女性参加医师考试的法律",
+      "为日本女性打开了从医之门"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ogino_Ginko2.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ogino Ginko — https://en.wikipedia.org/wiki/Ogino_Ginko"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Patricia Goldman-Rakic",
+    "nameCn": "帕特丽夏·戈德曼-拉基奇",
+    "slug": "patricia-goldman-rakic",
+    "field": "biology-medicine",
+    "born": 1937,
+    "died": 2003,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Prefrontal Cortex and Working Memory Research",
+    "taglineCn": "前额叶皮层和工作记忆研究先驱",
+    "bio": "Patricia Goldman-Rakic was a neuroscientist at Yale University who pioneered the understanding of the prefrontal cortex and its role in working memory. Her groundbreaking research on dopamine's role in cognitive function revolutionized our understanding of mental illnesses such as schizophrenia. She was one of the most cited neuroscientists in history and a member of the National Academy of Sciences, transforming how scientists study the neural basis of thought and decision-making.",
+    "bioCn": "帕特丽夏·戈德曼-拉基奇是耶鲁大学的神经科学家，她开创了对前额叶皮层及其在工作记忆中作用的研究。她关于多巴胺在认知功能中作用的突破性研究彻底改变了我们对精神分裂症等精神疾病的理解。她是历史上被引用次数最多的神经科学家之一，也是美国国家科学院院士，改变了科学家研究思维和决策神经基础的方式。",
+    "achievements": [
+      "Pioneered understanding of the prefrontal cortex and working memory",
+      "Revolutionized understanding of dopamine's role in schizophrenia",
+      "One of the most cited neuroscientists in history"
+    ],
+    "achievementsCn": [
+      "开创了前额叶皮层和工作记忆的研究",
+      "彻底改变了对多巴胺在精神分裂症中作用的理解",
+      "历史上被引用次数最多的神经科学家之一"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Maria_Goldman-Rakic_-_10.1371_journal.pbio.0000038.g001-O.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Patricia Goldman-Rakic — https://en.wikipedia.org/wiki/Patricia_Goldman-Rakic"
+    ]
   }
 ]

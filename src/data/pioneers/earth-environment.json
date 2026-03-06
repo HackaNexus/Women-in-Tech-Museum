@@ -394,5 +394,180 @@
       "Wikipedia: Joanne Simpson — https://en.wikipedia.org/wiki/Joanne_Simpson",
       "NASA Goddard Space Flight Center: Joanne Simpson tribute."
     ]
+  },
+  {
+    "id": 197,
+    "name": "Susan Solomon",
+    "nameCn": "苏珊·所罗门",
+    "slug": "susan-solomon",
+    "field": "earth-environment",
+    "born": 1956,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Explained the Antarctic Ozone Hole",
+    "taglineCn": "解释了南极臭氧层空洞的成因",
+    "bio": "Susan Solomon is an atmospheric chemist who provided the first explanation for the cause of the Antarctic ozone hole, demonstrating that chlorofluorocarbons (CFCs) reacting on polar stratospheric clouds were responsible. Her 1986 expedition to Antarctica and subsequent research were instrumental in shaping the Montreal Protocol, the landmark international treaty that phased out ozone-depleting substances. She is a professor at MIT, co-chaired the IPCC Working Group I, and received the National Medal of Science.",
+    "bioCn": "苏珊·所罗门是一位大气化学家，她首次解释了南极臭氧层空洞的成因，证明氯氟烃（CFCs）在极地平流层云上发生的化学反应是罪魁祸首。她1986年的南极考察及后续研究对推动《蒙特利尔议定书》——这一逐步淘汰消耗臭氧层物质的里程碑式国际条约——发挥了关键作用。她是MIT教授，曾共同主持IPCC第一工作组，并获得美国国家科学奖章。",
+    "achievements": [
+      "First to explain the cause of the Antarctic ozone hole",
+      "Research instrumental to the Montreal Protocol",
+      "National Medal of Science recipient and IPCC co-chair"
+    ],
+    "achievementsCn": [
+      "首次解释南极臭氧层空洞的成因",
+      "研究对《蒙特利尔议定书》发挥关键作用",
+      "美国国家科学奖章获得者、IPCC联合主席"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Chemical Heritage Foundation, CC BY-SA 3.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Susan_Solomon_crop_2010_Ullyot_Public_Affairs_Lecture.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Susan Solomon — https://en.wikipedia.org/wiki/Susan_Solomon"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Marcia McNutt",
+    "nameCn": "玛西亚·麦克纳特",
+    "slug": "marcia-mcnutt",
+    "field": "earth-environment",
+    "born": 1952,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Woman President of the National Academy of Sciences",
+    "taglineCn": "美国国家科学院首位女性院长",
+    "bio": "Marcia McNutt is a marine geophysicist who became the first woman president of the National Academy of Sciences in 2016. She previously served as director of the U.S. Geological Survey from 2009 to 2013 and as editor-in-chief of Science magazine. Her research spans ocean floor mapping, mantle convection, and marine geophysics. During her tenure at USGS, she led the scientific response to the Deepwater Horizon oil spill.",
+    "bioCn": "玛西亚·麦克纳特是一位海洋地球物理学家，2016年成为美国国家科学院首位女性院长。她此前于2009年至2013年担任美国地质调查局局长，并担任过《科学》杂志主编。她的研究涵盖海底测绘、地幔对流和海洋地球物理学。在她任职美国地质调查局期间，她领导了深水地平线漏油事故的科学应对工作。",
+    "achievements": [
+      "First woman president of the National Academy of Sciences (2016)",
+      "Director of U.S. Geological Survey (2009–2013)",
+      "Former editor-in-chief of Science magazine"
+    ],
+    "achievementsCn": [
+      "美国国家科学院首位女性院长（2016年）",
+      "美国地质调查局局长（2009–2013年）",
+      "《科学》杂志前主编"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/2023_Marcia_McNutt_%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Marcia McNutt — https://en.wikipedia.org/wiki/Marcia_McNutt"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Jane Lubchenco",
+    "nameCn": "简·卢布琴科",
+    "slug": "jane-lubchenco",
+    "field": "earth-environment",
+    "born": 1947,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Marine Ecologist Who Led NOAA",
+    "taglineCn": "领导NOAA的海洋生态学家",
+    "bio": "Jane Lubchenco is a marine ecologist who became the first woman to lead the National Oceanic and Atmospheric Administration (NOAA), serving as its administrator from 2009 to 2013. A MacArthur Fellow, her research on ocean ecosystems, biodiversity, and climate change has profoundly influenced environmental policy worldwide. She is a professor at Oregon State University and has been a leading advocate for science-based ocean management and marine conservation.",
+    "bioCn": "简·卢布琴科是一位海洋生态学家，2009年至2013年担任美国国家海洋和大气管理局（NOAA）局长，成为首位领导该机构的女性。作为麦克阿瑟奖获得者，她在海洋生态系统、生物多样性和气候变化方面的研究深刻影响了全球环境政策。她是俄勒冈州立大学教授，一直是基于科学的海洋管理和海洋保护的领军倡导者。",
+    "achievements": [
+      "First woman to lead NOAA (2009–2013)",
+      "MacArthur Fellow",
+      "Influential research on ocean ecosystems and climate change"
+    ],
+    "achievementsCn": [
+      "首位领导NOAA的女性（2009–2013年）",
+      "麦克阿瑟奖获得者",
+      "在海洋生态系统和气候变化方面的有影响力的研究"
+    ],
+    "era": "21st Century",
+    "imageCredit": "NOAA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LubchencoJane-NOAA.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Jane Lubchenco — https://en.wikipedia.org/wiki/Jane_Lubchenco"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Florence Bascom",
+    "nameCn": "弗洛伦斯·巴斯科姆",
+    "slug": "florence-bascom",
+    "field": "earth-environment",
+    "born": 1862,
+    "died": 1945,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of American Geology",
+    "taglineCn": "美国地质学先驱",
+    "bio": "Florence Bascom was a pioneer of American geology and the second woman to earn a PhD from Johns Hopkins University in 1893. She became the first woman hired by the U.S. Geological Survey and the first woman to present a paper at the Geological Society of Washington. At Bryn Mawr College, she built a renowned geology department and trained many of the next generation of female geologists, earning her the title 'the mother of American women geologists.'",
+    "bioCn": "弗洛伦斯·巴斯科姆是美国地质学先驱，1893年成为约翰斯·霍普金斯大学第二位获得博士学位的女性。她是美国地质调查局聘用的第一位女性，也是第一位在华盛顿地质学会宣读论文的女性。在布林莫尔学院，她建立了著名的地质系并培养了下一代的许多女地质学家，因此被誉为'美国女地质学家之母'。",
+    "achievements": [
+      "Second woman to earn a PhD from Johns Hopkins University (1893)",
+      "First woman hired by the U.S. Geological Survey",
+      "Trained many of the next generation of female geologists at Bryn Mawr"
+    ],
+    "achievementsCn": [
+      "约翰斯·霍普金斯大学第二位获得博士学位的女性（1893年）",
+      "美国地质调查局聘用的第一位女性",
+      "在布林莫尔学院培养了下一代的许多女地质学家"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Florence_Bascom2.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Florence Bascom — https://en.wikipedia.org/wiki/Florence_Bascom"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Edith Widder",
+    "nameCn": "伊迪丝·威德",
+    "slug": "edith-widder",
+    "field": "earth-environment",
+    "born": 1951,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Deep-Sea Explorer and Bioluminescence Pioneer",
+    "taglineCn": "深海探险家和生物发光研究先驱",
+    "bio": "Edith Widder is a deep-sea explorer and marine biologist who helped capture the first footage of a giant squid in its natural habitat in 2012, using a camera system she designed with a bioluminescent lure. She is a world-leading authority on bioluminescence — the production of light by living organisms in the deep ocean. A MacArthur Fellow, she founded the Ocean Research & Conservation Association (ORCA) to develop technologies for protecting marine ecosystems.",
+    "bioCn": "伊迪丝·威德是一位深海探险家和海洋生物学家，2012年她利用自己设计的带有生物发光诱饵的摄像系统，帮助拍摄了大王乌贼在自然栖息地中的首段影像。她是生物发光——深海生物产生光的现象——领域的世界顶级权威。作为麦克阿瑟奖获得者，她创立了海洋研究与保护协会（ORCA），致力于开发保护海洋生态系统的技术。",
+    "achievements": [
+      "Helped capture first footage of a giant squid in its habitat (2012)",
+      "World-leading authority on bioluminescence",
+      "MacArthur Fellow and founder of ORCA"
+    ],
+    "achievementsCn": [
+      "帮助拍摄大王乌贼在自然栖息地的首段影像（2012年）",
+      "生物发光领域的世界顶级权威",
+      "麦克阿瑟奖获得者、ORCA创始人"
+    ],
+    "era": "21st Century",
+    "imageCredit": "ORCA, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Edie_thumb_33_ft.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Edith Widder — https://en.wikipedia.org/wiki/Edith_Widder"
+    ]
   }
 ]

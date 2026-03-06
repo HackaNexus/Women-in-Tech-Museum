@@ -613,5 +613,185 @@
       "Wikipedia: Nergis Mavalvala — https://en.wikipedia.org/wiki/Nergis_Mavalvala",
       "MIT News: Nergis Mavalvala named dean of science — https://news.mit.edu/"
     ]
+  },
+  {
+    "id": 172,
+    "name": "Lene Hau",
+    "nameCn": "莱内·豪",
+    "slug": "lene-hau",
+    "field": "physics",
+    "born": 1959,
+    "died": null,
+    "nationality": "Danish-American",
+    "nationalityCn": "丹麦裔美国人",
+    "tagline": "The Physicist Who Slowed and Stopped Light",
+    "taglineCn": "减速并停止光的物理学家",
+    "bio": "Lene Hau achieved what was once thought impossible — slowing light to just 17 meters per second in 1999 using a Bose-Einstein condensate, and then stopping it entirely in 2001. Her groundbreaking experiments at Harvard University fundamentally altered our understanding of the nature of light and opened new possibilities for quantum computing and information processing. As the Mallinckrodt Professor of Physics and Applied Physics at Harvard, she continues to push the boundaries of atomic physics and optics.",
+    "bioCn": "莱内·豪实现了曾被认为不可能的壮举——1999年利用玻色-爱因斯坦凝聚体将光速减慢至每秒仅17米，并于2001年将光完全停止。她在哈佛大学的开创性实验从根本上改变了我们对光的本质的理解，为量子计算和信息处理开辟了新的可能性。作为哈佛大学马林克罗特物理学与应用物理学教授，她持续推动着原子物理学和光学的前沿发展。",
+    "achievements": [
+      "Slowed light to 17 meters per second (1999)",
+      "Stopped light entirely using Bose-Einstein condensate (2001)",
+      "Mallinckrodt Professor of Physics at Harvard University"
+    ],
+    "achievementsCn": [
+      "将光速减至每秒17米（1999年）",
+      "利用玻色-爱因斯坦凝聚体完全停止光（2001年）",
+      "哈佛大学马林克罗特物理学教授"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Professor_Lene_Hau_in_her_laboratory_at_Harvard.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Lene Hau — https://en.wikipedia.org/wiki/Lene_Hau",
+      "Harvard University: Lene Vestergaard Hau profile — https://www.physics.harvard.edu/people/facpages/hau"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Sau Lan Wu",
+    "nameCn": "吴秀兰",
+    "slug": "sau-lan-wu",
+    "field": "physics",
+    "born": 1940,
+    "died": null,
+    "nationality": "Chinese-American",
+    "nationalityCn": "华裔美国人",
+    "tagline": "Experimental Physicist Behind Three Major Discoveries",
+    "taglineCn": "三大重要发现背后的实验物理学家",
+    "bio": "Sau Lan Wu is one of the most accomplished experimental particle physicists in the world, having played pivotal roles in three of the most important discoveries in modern physics: the J/ψ particle (1974), the gluon (1979), and the Higgs boson (2012). Based at the University of Wisconsin-Madison for decades, her meticulous experimental work at major accelerator facilities has consistently pushed the boundaries of our understanding of fundamental particles and forces. Her career stands as a testament to persistence and brilliance in the most demanding branch of physics.",
+    "bioCn": "吴秀兰是世界上最杰出的实验粒子物理学家之一，在现代物理学三大最重要的发现中发挥了关键作用：J/ψ粒子（1974年）、胶子（1979年）和希格斯玻色子（2012年）。她在威斯康星大学麦迪逊分校工作数十年，在主要加速器设施上的细致实验工作不断推动着我们对基本粒子和力的认识的边界。她的职业生涯是物理学最具挑战性领域中坚韧与才华的最佳证明。",
+    "achievements": [
+      "Key role in the discovery of the J/ψ particle (1974)",
+      "Key role in the discovery of the gluon (1979)",
+      "Key role in the discovery of the Higgs boson (2012)"
+    ],
+    "achievementsCn": [
+      "在J/ψ粒子发现中发挥关键作用（1974年）",
+      "在胶子发现中发挥关键作用（1979年）",
+      "在希格斯玻色子发现中发挥关键作用（2012年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Physicist_Sau_Lan_Wu.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Sau Lan Wu — https://en.wikipedia.org/wiki/Sau_Lan_Wu",
+      "University of Wisconsin-Madison: Sau Lan Wu profile"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Shirley Ann Jackson",
+    "nameCn": "雪莉·安·杰克逊",
+    "slug": "shirley-ann-jackson",
+    "field": "physics",
+    "born": 1946,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First African American Woman to Earn a PhD from MIT",
+    "taglineCn": "第一位获得MIT博士学位的非裔美国女性",
+    "bio": "Shirley Ann Jackson made history in 1973 as the first African American woman to earn a doctorate from MIT, completing her PhD in theoretical elementary particle physics. Her research at Bell Labs in theoretical physics contributed to telecommunications advances that enabled the development of caller ID, call waiting, and the portable fax machine. As president of Rensselaer Polytechnic Institute since 1999, she transformed the institution into a top research university. She also served as chairman of the U.S. Nuclear Regulatory Commission.",
+    "bioCn": "雪莉·安·杰克逊于1973年创造了历史，成为第一位从MIT获得博士学位的非裔美国女性，完成了理论基本粒子物理学博士学位。她在贝尔实验室的理论物理研究促进了电信技术的进步，推动了来电显示、呼叫等待和便携式传真机的开发。自1999年起担任伦斯勒理工学院校长以来，她将该校打造成为一流研究型大学。她还曾担任美国核管理委员会主席。",
+    "achievements": [
+      "First African American woman to earn a PhD from MIT (1973)",
+      "Research at Bell Labs led to telecommunications advances",
+      "President of Rensselaer Polytechnic Institute"
+    ],
+    "achievementsCn": [
+      "第一位获得MIT博士学位的非裔美国女性（1973年）",
+      "在贝尔实验室的研究推动了电信技术进步",
+      "伦斯勒理工学院校长"
+    ],
+    "era": "20th Century",
+    "imageCredit": "World Economic Forum, CC BY-SA 2.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Shirley_Ann_Jackson_World_Economic_Forum_2010.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Shirley Ann Jackson — https://en.wikipedia.org/wiki/Shirley_Ann_Jackson",
+      "MIT Black History — https://www.blackhistory.mit.edu/"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Helen Edwards",
+    "nameCn": "海伦·爱德华兹",
+    "slug": "helen-edwards",
+    "field": "physics",
+    "born": 1936,
+    "died": 2016,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Leader of the Tevatron Particle Accelerator",
+    "taglineCn": "特瓦特龙粒子加速器的领导者",
+    "bio": "Helen Edwards led the design and construction of the Tevatron at Fermilab, which was the world's highest-energy particle accelerator for over two decades. Her engineering brilliance and tireless leadership made possible some of the most significant discoveries in particle physics, including the top quark in 1995. She received the National Medal of Technology, the E.O. Lawrence Award, and a MacArthur Fellowship. The Tevatron stands as one of the greatest achievements in accelerator physics, and Edwards was the driving force behind it.",
+    "bioCn": "海伦·爱德华兹领导了费米实验室特瓦特龙加速器的设计和建造，该加速器在二十多年间一直是世界上能量最高的粒子加速器。她卓越的工程才能和不懈的领导力使粒子物理学的一些最重要发现成为可能，包括1995年发现顶夸克。她获得了国家技术奖章、E.O.劳伦斯奖和麦克阿瑟奖。特瓦特龙是加速器物理学最伟大的成就之一，而爱德华兹正是其背后的驱动力。",
+    "achievements": [
+      "Led design and construction of the Tevatron at Fermilab",
+      "National Medal of Technology and MacArthur Fellowship recipient",
+      "Tevatron enabled discovery of the top quark (1995)"
+    ],
+    "achievementsCn": [
+      "领导费米实验室特瓦特龙的设计和建造",
+      "获国家技术奖章和麦克阿瑟奖",
+      "特瓦特龙使顶夸克的发现成为可能（1995年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Fermilab, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Helen_Edwards_83-0834-04.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Helen T. Edwards — https://en.wikipedia.org/wiki/Helen_T._Edwards",
+      "Fermilab: Helen Edwards memorial — https://news.fnal.gov/"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Myriam Sarachik",
+    "nameCn": "米里亚姆·萨拉奇克",
+    "slug": "myriam-sarachik",
+    "field": "physics",
+    "born": 1933,
+    "died": 2021,
+    "nationality": "Belgian-American",
+    "nationalityCn": "比利时裔美国人",
+    "tagline": "Condensed Matter Pioneer and APS President",
+    "taglineCn": "凝聚态物理先驱与美国物理学会主席",
+    "bio": "Myriam Sarachik was a distinguished condensed matter physicist at City College of New York whose career spanned six decades of groundbreaking research. Born in Antwerp, Belgium, she fled the Nazis as a child, eventually reaching the United States as a refugee. She provided the first experimental confirmation of the Kondo effect and became a pioneer in the study of quantum tunneling of magnetization in molecular magnets. As president of the American Physical Society in 2003, she was a powerful advocate for diversity in physics. She received the National Medal of Science and the APS Medal for Exceptional Achievement.",
+    "bioCn": "米里亚姆·萨拉奇克是纽约城市学院的杰出凝聚态物理学家，她的职业生涯跨越了六十年的开创性研究。她出生于比利时安特卫普，幼年逃离纳粹迫害，最终以难民身份到达美国。她首次从实验上证实了近藤效应，并成为分子磁体中磁化量子隧穿研究的先驱。2003年担任美国物理学会主席期间，她积极倡导物理学界的多元化。她获得了国家科学奖章和美国物理学会杰出成就奖章。",
+    "achievements": [
+      "First experimental confirmation of the Kondo effect",
+      "President of the American Physical Society (2003)",
+      "Pioneer in quantum tunneling of magnetization"
+    ],
+    "achievementsCn": [
+      "首次从实验上证实近藤效应",
+      "美国物理学会主席（2003年）",
+      "磁化量子隧穿研究的先驱"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Myriam_Sarachik_-_APS_2019_-_20.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Myriam Sarachik — https://en.wikipedia.org/wiki/Myriam_Sarachik",
+      "APS News: In Memoriam — Myriam Sarachik"
+    ]
   }
 ]

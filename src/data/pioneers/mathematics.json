@@ -543,5 +543,185 @@
       "Wikipedia: Fan Chung — https://en.wikipedia.org/wiki/Fan_Chung",
       "Chung, Fan R.K. Spectral Graph Theory. AMS, 1997."
     ]
+  },
+  {
+    "id": 167,
+    "name": "Olga Ladyzhenskaya",
+    "nameCn": "奥尔加·拉德任斯卡娅",
+    "slug": "olga-ladyzhenskaya",
+    "field": "mathematics",
+    "born": 1922,
+    "died": 2004,
+    "nationality": "Russian",
+    "nationalityCn": "俄国",
+    "tagline": "Pioneer of Partial Differential Equations and Fluid Dynamics",
+    "taglineCn": "偏微分方程与流体力学先驱",
+    "bio": "Olga Ladyzhenskaya made foundational contributions to the theory of partial differential equations and fluid dynamics that profoundly shaped modern mathematical physics. She proved the existence and uniqueness of solutions for the Navier-Stokes equations in two dimensions, a landmark result in the study of fluid flow. A student of Ivan Petrovsky, she authored over 250 papers and received the Lomonosov Gold Medal from the Russian Academy of Sciences in 2002 for her extraordinary contributions to mathematics.",
+    "bioCn": "奥尔加·拉德任斯卡娅在偏微分方程理论和流体力学方面做出了奠基性贡献，深刻影响了现代数学物理。她证明了二维纳维-斯托克斯方程解的存在性和唯一性，这是流体流动研究中的里程碑式成果。作为伊万·彼得罗夫斯基的学生，她发表了250多篇论文，并于2002年因对数学的杰出贡献获得俄罗斯科学院罗蒙诺索夫金质奖章。",
+    "achievements": [
+      "Proved existence and uniqueness of Navier-Stokes solutions in 2D",
+      "Published over 250 papers on PDEs and fluid dynamics",
+      "Received the Lomonosov Gold Medal (2002)"
+    ],
+    "achievementsCn": [
+      "证明了二维纳维-斯托克斯方程解的存在性和唯一性",
+      "在偏微分方程和流体力学领域发表250多篇论文",
+      "获得罗蒙诺索夫金质奖章（2002年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ladyshenskaya.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Olga Ladyzhenskaya — https://en.wikipedia.org/wiki/Olga_Ladyzhenskaya",
+      "Ladyzhenskaya, O.A. The Mathematical Theory of Viscous Incompressible Flow. Gordon and Breach, 1969."
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Cathleen Morawetz",
+    "nameCn": "凯思琳·莫拉维茨",
+    "slug": "cathleen-morawetz",
+    "field": "mathematics",
+    "born": 1923,
+    "died": 2017,
+    "nationality": "Canadian-American",
+    "nationalityCn": "加拿大裔美国人",
+    "tagline": "First Woman to Head a Major Math Research Institute",
+    "taglineCn": "首位领导重要数学研究所的女性",
+    "bio": "Cathleen Synge Morawetz was the first woman to lead a major mathematics research institute when she became director of the Courant Institute of Mathematical Sciences at New York University. Her groundbreaking work on transonic flow and nonlinear partial differential equations had significant implications for aerodynamics and aircraft design. She received the National Medal of Science in 1998 and served as president of the American Mathematical Society from 1995 to 1996.",
+    "bioCn": "凯思琳·辛格·莫拉维茨在担任纽约大学柯朗数学科学研究所所长时，成为首位领导重要数学研究所的女性。她在跨音速流和非线性偏微分方程方面的开创性工作对空气动力学和飞机设计具有重大意义。她于1998年获得国家科学奖章，并于1995至1996年担任美国数学学会主席。",
+    "achievements": [
+      "First woman to direct the Courant Institute at NYU",
+      "Received the National Medal of Science (1998)",
+      "President of the American Mathematical Society (1995–1996)"
+    ],
+    "achievementsCn": [
+      "首位担任纽约大学柯朗研究所所长的女性",
+      "获得国家科学奖章（1998年）",
+      "美国数学学会主席（1995–1996年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cathleen_S_Morawetz.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Cathleen Morawetz — https://en.wikipedia.org/wiki/Cathleen_Morawetz",
+      "National Science Foundation: National Medal of Science, 1998"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Claire Voisin",
+    "nameCn": "克莱尔·瓦赞",
+    "slug": "claire-voisin",
+    "field": "mathematics",
+    "born": 1962,
+    "died": null,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Leading Figure in Algebraic Geometry",
+    "taglineCn": "代数几何领域的领军人物",
+    "bio": "Claire Voisin is one of the world's leading mathematicians in algebraic geometry. She disproved a long-standing conjecture by showing that the Kodaira conjecture is false for compact Kähler manifolds, a result that sent shockwaves through the mathematical community. In 2016, she received the CNRS Gold Medal, France's highest scientific distinction, and became the first woman mathematician elected to the Collège de France, one of the most prestigious academic institutions in the world.",
+    "bioCn": "克莱尔·瓦赞是代数几何领域世界顶尖的数学家之一。她通过证明小平猜想对紧致凯勒流形不成立，推翻了一个长期存在的猜想，这一结果在数学界引起了极大震动。2016年，她获得法国国家科学研究中心金质奖章——法国最高科学荣誉，并成为首位当选法兰西学院教授的女性数学家。",
+    "achievements": [
+      "Disproved the Kodaira conjecture for compact Kähler manifolds",
+      "Received the CNRS Gold Medal (2016)",
+      "First woman mathematician elected to the Collège de France"
+    ],
+    "achievementsCn": [
+      "证明小平猜想对紧致凯勒流形不成立",
+      "获得法国国家科学研究中心金质奖章（2016年）",
+      "首位当选法兰西学院教授的女性数学家"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2009-Claire-Voisin-Scotland.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Claire Voisin — https://en.wikipedia.org/wiki/Claire_Voisin",
+      "Collège de France: Claire Voisin profile"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Olga Taussky-Todd",
+    "nameCn": "奥尔加·陶斯基-托德",
+    "slug": "olga-taussky-todd",
+    "field": "mathematics",
+    "born": 1906,
+    "died": 1995,
+    "nationality": "Austrian-American",
+    "nationalityCn": "奥地利裔美国人",
+    "tagline": "Torchbearer of Matrix Theory",
+    "taglineCn": "矩阵理论的火炬手",
+    "bio": "Olga Taussky-Todd was a prolific mathematician who published over 300 papers and became one of the foremost experts in matrix theory and algebraic number theory. During World War II, she worked at the National Physical Laboratory in England on flutter analysis for aircraft, applying matrix methods to solve critical aerodynamic stability problems. After fleeing Austria following the Nazi annexation, she eventually joined the California Institute of Technology, where she inspired generations of mathematicians.",
+    "bioCn": "奥尔加·陶斯基-托德是一位多产的数学家，发表了300多篇论文，成为矩阵理论和代数数论领域最杰出的专家之一。二战期间，她在英国国家物理实验室从事飞机颤振分析工作，运用矩阵方法解决关键的空气动力学稳定性问题。在纳粹吞并奥地利后流亡海外，她最终加入加州理工学院，在那里激励了一代又一代数学家。",
+    "achievements": [
+      "Published over 300 papers on matrix theory and number theory",
+      "Applied matrix analysis to WWII aircraft flutter problems",
+      "Supervised Caltech's first female PhD in mathematics"
+    ],
+    "achievementsCn": [
+      "在矩阵理论和数论领域发表300多篇论文",
+      "将矩阵分析应用于二战飞机颤振问题",
+      "指导了加州理工学院首位女性数学博士"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA 2.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Olga_Taussky-Todd.jpeg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Olga Taussky-Todd — https://en.wikipedia.org/wiki/Olga_Taussky-Todd",
+      "Luchins, E. & McLoughlin, M. 'In Memoriam: Olga Taussky-Todd,' Notices of the AMS, 1996."
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Sun-Yung Alice Chang",
+    "nameCn": "张圣容",
+    "slug": "sun-yung-alice-chang",
+    "field": "mathematics",
+    "born": 1948,
+    "died": null,
+    "nationality": "Taiwanese-American",
+    "nationalityCn": "台湾裔美国人",
+    "tagline": "Pioneer of Conformal Geometry and Nonlinear PDEs",
+    "taglineCn": "共形几何与非线性偏微分方程先驱",
+    "bio": "Sun-Yung Alice Chang is a distinguished mathematician whose work in differential geometry, partial differential equations, and conformal geometry has had a profound impact on modern analysis. As the Eugene Higgins Professor of Mathematics at Princeton University, she has made important contributions to the study of extremal problems in spectral geometry and the regularity of nonlinear elliptic equations. She received the Ruth Lyttle Satter Prize in 1995 and is a Fellow of the American Mathematical Society.",
+    "bioCn": "张圣容是一位杰出的数学家，她在微分几何、偏微分方程和共形几何方面的工作对现代分析产生了深远影响。作为普林斯顿大学尤金·希金斯数学教授，她在谱几何的极值问题和非线性椭圆方程的正则性研究方面做出了重要贡献。她于1995年获得露丝·莱特尔·萨特奖，并且是美国数学学会会士。",
+    "achievements": [
+      "Ruth Lyttle Satter Prize recipient (1995)",
+      "Eugene Higgins Professor of Mathematics at Princeton",
+      "Fellow of the American Mathematical Society"
+    ],
+    "achievementsCn": [
+      "露丝·莱特尔·萨特奖得主（1995年）",
+      "普林斯顿大学尤金·希金斯数学教授",
+      "美国数学学会会士"
+    ],
+    "era": "20th Century",
+    "imageCredit": "George M. Bergman, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sun-Yung_Alice_Chang_1989_%28headshot%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Sun-Yung Alice Chang — https://en.wikipedia.org/wiki/Sun-Yung_Alice_Chang",
+      "Princeton University Mathematics Department: Sun-Yung Alice Chang profile"
+    ]
   }
 ]

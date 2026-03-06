@@ -608,5 +608,180 @@
       "Wikipedia: Martha Coston — https://en.wikipedia.org/wiki/Martha_Coston",
       "Coston, Martha J. A Signal Success. J.B. Lippincott, 1886."
     ]
+  },
+  {
+    "id": 192,
+    "name": "Elsie MacGill",
+    "nameCn": "埃尔西·麦吉尔",
+    "slug": "elsie-macgill",
+    "field": "engineering",
+    "born": 1905,
+    "died": 1980,
+    "nationality": "Canadian",
+    "nationalityCn": "加拿大",
+    "tagline": "Queen of the Hurricanes",
+    "taglineCn": "'飓风女王'",
+    "bio": "Elsie MacGill was the first woman in the world to earn an aeronautical engineering degree, graduating from the University of Michigan in 1929. Known as the 'Queen of the Hurricanes,' she led the mass production of Hawker Hurricane fighter planes during World War II at Canadian Car and Foundry, overseeing the manufacture of over 1,400 aircraft. She accomplished this while using a wheelchair and two canes after contracting polio. Later in life, she became a prominent feminist advocate for women's rights.",
+    "bioCn": "埃尔西·麦吉尔是世界上第一位获得航空工程学位的女性，1929年毕业于密歇根大学。她被称为'飓风女王'，在二战期间领导了加拿大汽车和铸造公司的霍克飓风式战斗机大规模生产，监督了1400多架飞机的制造。她在感染小儿麻痹症后依靠轮椅和两根拐杖完成了这一壮举。后来她成为著名的女权主义者，为女性权益奔走呼号。",
+    "achievements": [
+      "First woman in the world to earn an aeronautical engineering degree (1929)",
+      "Led mass production of Hawker Hurricane fighters during WWII",
+      "Prominent feminist advocate for women's rights"
+    ],
+    "achievementsCn": [
+      "世界上第一位获得航空工程学位的女性（1929年）",
+      "领导二战期间霍克飓风式战斗机的大规模生产",
+      "著名的女性权益倡导者"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Elsie_macgill.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Elsie MacGill — https://en.wikipedia.org/wiki/Elsie_MacGill"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Mary Jackson",
+    "nameCn": "玛丽·杰克逊",
+    "slug": "mary-jackson",
+    "field": "engineering",
+    "born": 1921,
+    "died": 2005,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "NASA's First Black Female Engineer",
+    "taglineCn": "NASA第一位黑人女性工程师",
+    "bio": "Mary Jackson was NASA's first Black female engineer, working at the Langley Research Center where she analyzed data from wind tunnel experiments and real-world aircraft flight experiments. She had to petition the City of Hampton to be allowed to attend graduate-level classes at the all-white Hampton High School to qualify for promotion. She was featured in the book and film Hidden Figures. Later in her career, she became manager of NASA's Federal Women's Program, working to promote hiring and advancement of women in science and engineering.",
+    "bioCn": "玛丽·杰克逊是NASA第一位黑人女性工程师，在兰利研究中心工作，分析风洞实验和实际飞行实验的数据。她不得不向汉普顿市请愿，获准在全白人学校汉普顿高中上研究生课程以获得晋升资格。她的故事被收录在《隐藏人物》一书和同名电影中。在职业生涯后期，她担任NASA联邦女性项目经理，致力于促进女性在科学和工程领域的招聘和晋升。",
+    "achievements": [
+      "NASA's first Black female engineer",
+      "Featured in the book and film Hidden Figures",
+      "Managed NASA's Federal Women's Program promoting women in STEM"
+    ],
+    "achievementsCn": [
+      "NASA第一位黑人女性工程师",
+      "故事被收录在《隐藏人物》书籍和电影中",
+      "管理NASA联邦女性项目，推动女性在STEM领域发展"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Mary_Jackson_1979_Portrait_%28LRC-1979-B701_P_F002-07086%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Jackson (engineer) — https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Yvonne Brill",
+    "nameCn": "伊冯娜·布里尔",
+    "slug": "yvonne-brill",
+    "field": "engineering",
+    "born": 1924,
+    "died": 2013,
+    "nationality": "Canadian-American",
+    "nationalityCn": "加拿大裔美国人",
+    "tagline": "Inventor of the Electrothermal Hydrazine Thruster",
+    "taglineCn": "电热肼推进器的发明者",
+    "bio": "Yvonne Brill was a rocket scientist who invented the electrothermal hydrazine thruster, a propulsion system used to keep communication satellites in orbit. Her innovative design became the standard for satellite station-keeping, helping enable the global telecommunications revolution. She worked on propulsion systems for NASA's first weather satellite, TIROS, and received the National Medal of Technology and Innovation in 2011, the highest honor for technological achievement in the United States.",
+    "bioCn": "伊冯娜·布里尔是一位火箭科学家，她发明了电热肼推进器——一种用于保持通信卫星轨道的推进系统。她的创新设计成为卫星轨道保持的标准，帮助推动了全球电信革命。她为NASA第一颗气象卫星TIROS研发了推进系统，并于2011年获得美国国家技术与创新奖章——美国技术成就的最高荣誉。",
+    "achievements": [
+      "Invented the electrothermal hydrazine thruster for satellites",
+      "National Medal of Technology and Innovation (2011)",
+      "Worked on propulsion for NASA's first weather satellite (TIROS)"
+    ],
+    "achievementsCn": [
+      "发明了卫星用电热肼推进器",
+      "获得美国国家技术与创新奖章（2011年）",
+      "为NASA第一颗气象卫星（TIROS）研发推进系统"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Yvonne_Brill_%28Ausschnitt%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Yvonne Brill — https://en.wikipedia.org/wiki/Yvonne_Brill"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Nora Stanton Blatch Barney",
+    "nameCn": "诺拉·斯坦顿·布拉奇·巴尼",
+    "slug": "nora-stanton-blatch-barney",
+    "field": "engineering",
+    "born": 1883,
+    "died": 1971,
+    "nationality": "British-American",
+    "nationalityCn": "英裔美国人",
+    "tagline": "First U.S. Woman with a Civil Engineering Degree",
+    "taglineCn": "美国第一位获得土木工程学位的女性",
+    "bio": "Nora Stanton Blatch Barney was the first woman in the United States to earn a degree in civil engineering, graduating from Cornell University in 1905. The granddaughter of women's suffrage leader Elizabeth Cady Stanton, she carried on the family legacy of fighting for equality while building a career in engineering. She worked as a draftsman and engineer on steel, bridge, and water supply projects. She was also the first woman admitted to the American Society of Civil Engineers, though she had to fight to maintain her membership when it was challenged.",
+    "bioCn": "诺拉·斯坦顿·布拉奇·巴尼是美国第一位获得土木工程学位的女性，1905年毕业于康奈尔大学。作为女性选举权领袖伊丽莎白·卡迪·斯坦顿的孙女，她在从事工程职业的同时延续了家族争取平等的传统。她在钢铁、桥梁和供水项目中担任制图员和工程师。她也是第一位被美国土木工程师学会接纳的女性，尽管她不得不为维护被质疑的会员资格而抗争。",
+    "achievements": [
+      "First woman in the U.S. to earn a civil engineering degree (Cornell, 1905)",
+      "First woman admitted to the American Society of Civil Engineers",
+      "Granddaughter of Elizabeth Cady Stanton, combined engineering with suffrage activism"
+    ],
+    "achievementsCn": [
+      "美国第一位获得土木工程学位的女性（康奈尔大学，1905年）",
+      "第一位被美国土木工程师学会接纳的女性",
+      "伊丽莎白·卡迪·斯坦顿的孙女，将工程事业与争取选举权相结合"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Nora_Stanton_Blatch_Barney_1921.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Nora Stanton Blatch Barney — https://en.wikipedia.org/wiki/Nora_Stanton_Blatch_Barney"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Aprille Ericsson",
+    "nameCn": "阿普里尔·埃里克森",
+    "slug": "aprille-ericsson",
+    "field": "engineering",
+    "born": 1963,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Aerospace Engineer and STEM Education Pioneer",
+    "taglineCn": "航空航天工程师和STEM教育先驱",
+    "bio": "Aprille Ericsson is an aerospace engineer at NASA's Goddard Space Flight Center and the first African American woman to receive a PhD in mechanical engineering from Howard University in 1995. She works on instrument development and technology for space science missions, including projects related to Earth observation and planetary exploration. She is a passionate STEM education advocate, dedicating significant effort to inspiring underrepresented youth to pursue careers in science and engineering.",
+    "bioCn": "阿普里尔·埃里克森是NASA戈达德太空飞行中心的航空航天工程师，也是1995年第一位从霍华德大学获得机械工程博士学位的非裔美国女性。她从事太空科学任务的仪器开发和技术工作，包括地球观测和行星探索相关项目。她是一位热情的STEM教育倡导者，致力于激励代表性不足的青少年从事科学和工程事业。",
+    "achievements": [
+      "First African American woman to receive a PhD in mechanical engineering from Howard University (1995)",
+      "Aerospace engineer at NASA Goddard Space Flight Center",
+      "Dedicated STEM education advocate for underrepresented communities"
+    ],
+    "achievementsCn": [
+      "第一位从霍华德大学获得机械工程博士学位的非裔美国女性（1995年）",
+      "NASA戈达德太空飞行中心航空航天工程师",
+      "致力于在代表性不足社区推广STEM教育"
+    ],
+    "era": "21st Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Aprille_Ericsson%2C_DoD.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Aprille Ericsson — https://en.wikipedia.org/wiki/Aprille_Ericsson"
+    ]
   }
 ]

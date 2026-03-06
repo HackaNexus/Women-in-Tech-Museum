@@ -1098,5 +1098,185 @@
       "Wikipedia: Valerie Thomas — https://en.wikipedia.org/wiki/Valerie_Thomas_(scientist)",
       "NASA biography: Valerie Thomas — https://www.nasa.gov/"
     ]
+  },
+  {
+    "id": 162,
+    "name": "Erna Schneider Hoover",
+    "nameCn": "厄纳·施奈德·胡佛",
+    "slug": "erna-schneider-hoover",
+    "field": "computer-science",
+    "born": 1926,
+    "died": 2023,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Computerized Telephone Switching",
+    "taglineCn": "计算机化电话交换系统先驱",
+    "bio": "Erna Schneider Hoover was a mathematician and inventor who received one of the first software patents ever issued in the United States. In 1971, while working at Bell Labs, she designed a computerized telephone switching system that used a stored-program computer to monitor incoming call traffic and automatically adjust the rate of call acceptance, preventing system overloads during peak periods. Her invention fundamentally transformed telecommunications and remained in use for decades.",
+    "bioCn": "厄纳·施奈德·胡佛是一位数学家和发明家，获得了美国最早的软件专利之一。1971年，她在贝尔实验室工作期间设计了一种计算机化电话交换系统，利用存储程序计算机监控来电流量并自动调整呼叫接入速率，防止高峰期系统过载。她的发明从根本上改变了电信行业，并持续使用了数十年。",
+    "achievements": [
+      "Received one of the first software patents in the U.S. (1971)",
+      "Invented computerized telephone switching system at Bell Labs",
+      "Transformed telecommunications with automated call management"
+    ],
+    "achievementsCn": [
+      "获得美国最早的软件专利之一（1971年）",
+      "在贝尔实验室发明计算机化电话交换系统",
+      "通过自动化呼叫管理变革电信行业"
+    ],
+    "era": "20th Century",
+    "imageCredit": "National Archives, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Photograph_of_Women_Working_at_a_Bell_System_Telephone_Switchboard_%283660047829%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Erna Schneider Hoover — https://en.wikipedia.org/wiki/Erna_Schneider_Hoover",
+      "U.S. Patent 3,820,090: Feedback Control Monitor for Stored Program Data Processing System"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Ida Rhodes",
+    "nameCn": "艾达·罗德斯",
+    "slug": "ida-rhodes",
+    "field": "computer-science",
+    "born": 1900,
+    "died": 1986,
+    "nationality": "Ukrainian-American",
+    "nationalityCn": "乌克兰裔美国人",
+    "tagline": "Designer of the C-10 Programming Language for UNIVAC I",
+    "taglineCn": "UNIVAC I的C-10编程语言设计者",
+    "bio": "Ida Rhodes, born Hadassah Itzkowitz in Ukraine, emigrated to the United States as a teenager and became one of the most influential women in early American computing. At the National Bureau of Standards, she co-designed the C-10 programming language for the UNIVAC I with Betty Holberton, and pioneered work in machine translation of natural languages. She also created the computer system used by the Social Security Administration and developed an algorithm for computing Jewish holiday dates that remains in use today.",
+    "bioCn": "艾达·罗德斯原名哈达萨·伊茨科维茨，出生于乌克兰，少年时移居美国，成为早期美国计算机发展中最具影响力的女性之一。在美国国家标准局，她与贝蒂·霍尔伯顿共同设计了UNIVAC I的C-10编程语言，并在自然语言机器翻译方面开展了开创性工作。她还为社会保障管理局创建了计算机系统，并开发了一种至今仍在使用的犹太节日日期计算算法。",
+    "achievements": [
+      "Co-designed the C-10 programming language for UNIVAC I",
+      "Pioneered machine translation of natural languages",
+      "Developed the Jewish Holiday algorithm still in use today"
+    ],
+    "achievementsCn": [
+      "共同设计了UNIVAC I的C-10编程语言",
+      "开创了自然语言机器翻译",
+      "开发了至今仍在使用的犹太节日计算算法"
+    ],
+    "era": "20th Century",
+    "imageCredit": "National Bureau of Standards, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ida_Rhodes_at_NBS_001.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ida Rhodes — https://en.wikipedia.org/wiki/Ida_Rhodes",
+      "NIST: Ida Rhodes and the Problem with 'Water Goats' — https://www.nist.gov/blogs/taking-measure/ida-rhodes-and-problem-water-goats"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Marian Croak",
+    "nameCn": "玛丽安·克罗克",
+    "slug": "marian-croak",
+    "field": "computer-science",
+    "born": 1955,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Voice over Internet Protocol (VoIP)",
+    "taglineCn": "网络电话（VoIP）先驱",
+    "bio": "Marian Croak is a Vice President of Engineering at Google and a pioneer whose research laid the groundwork for Voice over Internet Protocol (VoIP) technology, which transformed how the world communicates. She holds over 200 patents and was instrumental in advancing the transition from traditional telephone networks to internet-based communication. In 2022, she was inducted into the National Inventors Hall of Fame, becoming one of the few Black women to receive this honor.",
+    "bioCn": "玛丽安·克罗克是谷歌工程副总裁，也是一位先驱，她的研究为网络电话（VoIP）技术奠定了基础，改变了全世界的通信方式。她拥有200多项专利，在推动从传统电话网络向互联网通信转型方面发挥了关键作用。2022年，她入选美国发明家名人堂，成为获得这一荣誉的少数非裔美国女性之一。",
+    "achievements": [
+      "Pioneer of VoIP technology with over 200 patents",
+      "Inducted into National Inventors Hall of Fame (2022)",
+      "VP of Engineering at Google"
+    ],
+    "achievementsCn": [
+      "VoIP技术先驱，拥有200多项专利",
+      "入选美国发明家名人堂（2022年）",
+      "谷歌工程副总裁"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Google, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/The_Next_Three_Billion-_Marian_Croak_speaking_%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Marian Croak — https://en.wikipedia.org/wiki/Marian_Croak",
+      "National Inventors Hall of Fame: Marian Croak — https://www.invent.org/inductees/marian-croak"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Mary Lee Berners-Lee",
+    "nameCn": "玛丽·李·伯纳斯-李",
+    "slug": "mary-lee-berners-lee",
+    "field": "computer-science",
+    "born": 1924,
+    "died": 2017,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer Programmer of the Ferranti Mark 1",
+    "taglineCn": "费兰蒂Mark 1计算机先驱程序员",
+    "bio": "Mary Lee Berners-Lee was one of the first commercial computer programmers, working on the Ferranti Mark 1 — the world's first commercially available general-purpose electronic computer — in Manchester in the early 1950s. She successfully campaigned for equal pay for female programmers nearly two decades before the Equal Pay Act, and later became one of the world's first freelance software consultants. She was the mother of Tim Berners-Lee, inventor of the World Wide Web.",
+    "bioCn": "玛丽·李·伯纳斯-李是最早的商用计算机程序员之一，1950年代初在曼彻斯特为费兰蒂Mark 1——世界上第一台商用通用电子计算机——编写程序。她在《同工同酬法》颁布近二十年前就成功争取了女性程序员的同工同酬，后来成为世界上最早的自由软件顾问之一。她是万维网发明者蒂姆·伯纳斯-李的母亲。",
+    "achievements": [
+      "One of the first commercial computer programmers on Ferranti Mark 1",
+      "Campaigned for equal pay for women programmers",
+      "Became one of the world's first freelance software consultants"
+    ],
+    "achievementsCn": [
+      "费兰蒂Mark 1最早的商用计算机程序员之一",
+      "为女性程序员争取同工同酬",
+      "成为世界上最早的自由软件顾问之一"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC0 Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mary_Lee_Berners-Lee_%28n%C3%A9e_Woods%29.png",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Lee Woods — https://en.wikipedia.org/wiki/Mary_Lee_Woods",
+      "The Guardian: Mary Lee Berners-Lee obituary — https://www.theguardian.com/technology/2018/jan/23/mary-lee-berners-lee-obituary"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Elizabeth Feinler",
+    "nameCn": "伊丽莎白·费恩勒",
+    "slug": "elizabeth-feinler",
+    "field": "computer-science",
+    "born": 1931,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Architect of the Internet's Domain Naming System",
+    "taglineCn": "互联网域名系统架构师",
+    "bio": "Elizabeth 'Jake' Feinler managed the Network Information Center (NIC) for ARPANET and the early Internet at SRI International from the 1970s through the 1980s. Her group was responsible for managing the Host Naming Registry, and she led the development of the domain naming scheme that gave the world .com, .edu, .gov, .mil, and .org — the foundational structure of internet addresses we use today. She was inducted into the Internet Hall of Fame in 2012.",
+    "bioCn": "伊丽莎白·'杰克'·费恩勒在1970年代至1980年代期间，在斯坦福研究所管理ARPANET和早期互联网的网络信息中心（NIC）。她的团队负责管理主机命名注册表，并领导开发了域名方案，为世界带来了.com、.edu、.gov、.mil和.org——这是我们今天使用的互联网地址的基础架构。她于2012年入选互联网名人堂。",
+    "achievements": [
+      "Developed the internet domain naming scheme (.com, .edu, .gov, .mil, .org)",
+      "Managed ARPANET/Internet Network Information Center at SRI",
+      "Inducted into the Internet Hall of Fame (2012)"
+    ],
+    "achievementsCn": [
+      "开发了互联网域名方案（.com、.edu、.gov、.mil、.org）",
+      "管理SRI的ARPANET/互联网网络信息中心",
+      "入选互联网名人堂（2012年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/ElizabethFeinler-2011.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Elizabeth J. Feinler — https://en.wikipedia.org/wiki/Elizabeth_J._Feinler",
+      "Internet Hall of Fame: Elizabeth Feinler — https://www.internethalloffame.org/inductee/elizabeth-feinler/"
+    ]
   }
 ]

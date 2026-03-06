@@ -468,5 +468,185 @@
       "Wikipedia: Asima Chatterjee — https://en.wikipedia.org/wiki/Asima_Chatterjee",
       "Ray, P. History of Chemistry in Ancient and Medieval India. Indian Chemical Society, 1956."
     ]
+  },
+  {
+    "id": 177,
+    "name": "Agnes Pockels",
+    "nameCn": "阿格内斯·波克尔斯",
+    "slug": "agnes-pockels",
+    "field": "chemistry",
+    "born": 1862,
+    "died": 1935,
+    "nationality": "German",
+    "nationalityCn": "德国",
+    "tagline": "Pioneer of Surface Science from Her Kitchen Sink",
+    "taglineCn": "在厨房水槽旁开创表面科学的先驱",
+    "bio": "Agnes Pockels conducted groundbreaking experiments on surface tension from her kitchen sink, having been denied university education as a woman in 19th-century Germany. She invented the slide trough, the precursor to the Langmuir-Blodgett trough that became essential to surface chemistry research. Unable to publish through traditional channels, she sent her findings to Lord Rayleigh, who was so impressed that he arranged for their publication in Nature in 1891. Her self-taught discoveries laid the foundation for modern surface science.",
+    "bioCn": "阿格内斯·波克尔斯在她的厨房水槽旁进行了关于表面张力的开创性实验——在19世纪的德国，她因为是女性而被拒绝接受大学教育。她发明了滑动槽，即后来成为表面化学研究必备工具的朗缪尔-布洛杰特槽的前身。由于无法通过传统渠道发表成果，她将研究寄给了瑞利勋爵，后者非常赞赏，安排于1891年在《自然》杂志上发表。她自学成才的发现奠定了现代表面科学的基础。",
+    "achievements": [
+      "Pioneered surface tension measurements at her kitchen sink",
+      "Invented the slide trough, precursor to the Langmuir-Blodgett trough",
+      "Published in Nature through Lord Rayleigh's support (1891)"
+    ],
+    "achievementsCn": [
+      "在厨房水槽旁开创了表面张力测量",
+      "发明了滑动槽，朗缪尔-布洛杰特槽的前身",
+      "通过瑞利勋爵的支持在《自然》杂志上发表（1891年）"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Agnes_Pockels_ca1922.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Agnes Pockels — https://en.wikipedia.org/wiki/Agnes_Pockels",
+      "Derrick, M.E. 'Agnes Pockels, 1862–1935.' Journal of Chemical Education, 1982."
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Clara Immerwahr",
+    "nameCn": "克拉拉·伊默瓦尔",
+    "slug": "clara-immerwahr",
+    "field": "chemistry",
+    "born": 1870,
+    "died": 1915,
+    "nationality": "German",
+    "nationalityCn": "德国",
+    "tagline": "First Woman PhD in Chemistry from Breslau",
+    "taglineCn": "布雷斯劳大学第一位化学女博士",
+    "bio": "Clara Immerwahr became the first woman to earn a PhD in chemistry from the University of Breslau in 1900, a remarkable achievement for that era. She married Fritz Haber, who would go on to develop chemical weapons for the German military. Immerwahr was a vocal opponent of chemical weapons research, viewing it as a perversion of science. After the first deployment of chlorine gas at the Second Battle of Ypres in April 1915, she took her own life in protest — a tragic act that has made her a symbol of the ethical responsibilities of scientists.",
+    "bioCn": "克拉拉·伊默瓦尔于1900年成为布雷斯劳大学第一位获得化学博士学位的女性，这在那个时代是非凡的成就。她嫁给了后来为德国军方开发化学武器的弗里茨·哈伯。伊默瓦尔强烈反对化学武器研究，认为这是对科学的亵渎。1915年4月，在第二次伊普尔战役中首次使用氯气后，她以自杀的方式表达抗议——这一悲剧性行为使她成为科学家伦理责任的象征。",
+    "achievements": [
+      "First woman to earn a PhD in chemistry from the University of Breslau (1900)",
+      "Vocal opponent of chemical weapons development",
+      "Symbol of ethical responsibility in science"
+    ],
+    "achievementsCn": [
+      "布雷斯劳大学第一位化学女博士（1900年）",
+      "化学武器开发的坚定反对者",
+      "科学伦理责任的象征"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Clara_Immerwahr.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Clara Immerwahr — https://en.wikipedia.org/wiki/Clara_Immerwahr",
+      "Friedrich, Bretislav. 'Clara Haber, nee Immerwahr: Life, Work, and Legacy.' Zeitschrift für anorganische und allgemeine Chemie, 2015."
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Mildred Cohn",
+    "nameCn": "米尔德里德·科恩",
+    "slug": "mildred-cohn",
+    "field": "chemistry",
+    "born": 1913,
+    "died": 2009,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of NMR Spectroscopy in Biochemistry",
+    "taglineCn": "生物化学核磁共振波谱学的先驱",
+    "bio": "Mildred Cohn was an American biochemist who pioneered the use of nuclear magnetic resonance (NMR) spectroscopy and isotope tracers to study enzyme mechanisms, transforming our understanding of how enzymes catalyze biological reactions. She received the National Medal of Science in 1982 and was the first woman elected to the board of directors of the American Chemical Society. As a professor at the University of Pennsylvania, she overcame significant gender discrimination throughout her career, having been denied teaching positions and promotions simply because she was a woman.",
+    "bioCn": "米尔德里德·科恩是一位美国生物化学家，她开创了利用核磁共振（NMR）波谱学和同位素示踪剂研究酶机制的方法，深刻改变了我们对酶如何催化生物反应的理解。她于1982年获得国家科学奖章，并且是第一位当选美国化学学会董事会成员的女性。作为宾夕法尼亚大学教授，她在整个职业生涯中克服了严重的性别歧视——仅仅因为是女性就被拒绝教职和晋升机会。",
+    "achievements": [
+      "Pioneered NMR spectroscopy for studying enzyme mechanisms",
+      "National Medal of Science (1982)",
+      "First woman on the board of directors of the American Chemical Society"
+    ],
+    "achievementsCn": [
+      "开创了利用NMR波谱学研究酶机制的方法",
+      "国家科学奖章（1982年）",
+      "第一位当选美国化学学会董事会成员的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Science History Institute, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mildred_Cohn_Brown_Bag_Lecture_2005_10_19.JPG",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mildred Cohn — https://en.wikipedia.org/wiki/Mildred_Cohn",
+      "University of Pennsylvania: Mildred Cohn memorial — https://www.med.upenn.edu/"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Isabella Karle",
+    "nameCn": "伊莎贝拉·卡尔勒",
+    "slug": "isabella-karle",
+    "field": "chemistry",
+    "born": 1921,
+    "died": 2017,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "X-ray Crystallographer Who Decoded Molecular Structures",
+    "taglineCn": "解码分子结构的X射线晶体学家",
+    "bio": "Isabella Karle was an American X-ray crystallographer at the Naval Research Laboratory who developed practical methods for determining molecular structures from X-ray diffraction data. Her techniques are now used worldwide in drug design, materials science, and biological research. She received the National Medal of Science and numerous other honors. Working alongside her husband Jerome Karle, she developed the experimental methods that complemented his theoretical framework — work for which he shared the 1985 Nobel Prize in Chemistry, though Isabella's essential contributions were not included in the award.",
+    "bioCn": "伊莎贝拉·卡尔勒是美国海军研究实验室的X射线晶体学家，她开发了从X射线衍射数据确定分子结构的实用方法。她的技术如今在全球范围内被广泛用于药物设计、材料科学和生物学研究。她获得了国家科学奖章和众多其他荣誉。她与丈夫杰罗姆·卡尔勒并肩工作，开发了补充其理论框架的实验方法——杰罗姆因此分享了1985年诺贝尔化学奖，但伊莎贝拉的关键贡献却未被纳入奖项。",
+    "achievements": [
+      "Developed practical methods for determining molecular structures",
+      "National Medal of Science recipient",
+      "Techniques used worldwide in drug design and materials science"
+    ],
+    "achievementsCn": [
+      "开发了确定分子结构的实用方法",
+      "国家科学奖章获得者",
+      "技术在全球药物设计和材料科学中广泛使用"
+    ],
+    "era": "20th Century",
+    "imageCredit": "US Naval Research Laboratory, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Isabella-karle-nrl-2009.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Isabella Karle — https://en.wikipedia.org/wiki/Isabella_Karle",
+      "Naval Research Laboratory: Isabella Karle memorial"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Jacqueline Barton",
+    "nameCn": "杰奎琳·巴顿",
+    "slug": "jacqueline-barton",
+    "field": "chemistry",
+    "born": 1952,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered That DNA Conducts Electrical Charge",
+    "taglineCn": "发现DNA能传导电荷",
+    "bio": "Jacqueline Barton is an American chemist at the California Institute of Technology who made the remarkable discovery that DNA can conduct electrical charge over long distances. Her groundbreaking work on DNA-mediated charge transport has profound implications for understanding how cells detect and repair genetic damage. She received the National Medal of Science in 2011 and the Priestley Medal in 2015 — the highest honor of the American Chemical Society. Her research bridges inorganic chemistry, biochemistry, and molecular biology in pioneering ways.",
+    "bioCn": "杰奎琳·巴顿是加州理工学院的美国化学家，她做出了DNA能够远距离传导电荷的重大发现。她在DNA介导的电荷传输方面的开创性工作对理解细胞如何检测和修复基因损伤具有深远意义。她于2011年获得国家科学奖章，2015年获得普里斯特利奖章——美国化学学会的最高荣誉。她的研究以开创性的方式将无机化学、生物化学和分子生物学联系起来。",
+    "achievements": [
+      "Discovered that DNA conducts electrical charge",
+      "National Medal of Science (2011)",
+      "Priestley Medal, highest honor of the American Chemical Society (2015)"
+    ],
+    "achievementsCn": [
+      "发现DNA能传导电荷",
+      "国家科学奖章（2011年）",
+      "普里斯特利奖章，美国化学学会最高荣誉（2015年）"
+    ],
+    "era": "21st Century",
+    "imageCredit": "White House, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jacqueline_K._Barton.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Jacqueline Barton — https://en.wikipedia.org/wiki/Jacqueline_Barton",
+      "Caltech: Jacqueline Barton profile — https://www.cce.caltech.edu/people/jacqueline-k-barton"
+    ]
   }
 ]

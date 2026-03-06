@@ -537,5 +537,180 @@
       "Wikipedia: Samantha Cristoforetti — https://en.wikipedia.org/wiki/Samantha_Cristoforetti",
       "ESA astronaut biography — https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Samantha_Cristoforetti"
     ]
+  },
+  {
+    "id": 187,
+    "name": "Ruby Payne-Scott",
+    "nameCn": "鲁比·佩恩-斯科特",
+    "slug": "ruby-payne-scott",
+    "field": "astronomy-space",
+    "born": 1912,
+    "died": 1981,
+    "nationality": "Australian",
+    "nationalityCn": "澳大利亚",
+    "tagline": "Pioneer of Radio Astronomy",
+    "taglineCn": "射电天文学先驱",
+    "bio": "Ruby Payne-Scott was a pioneer of radio astronomy, the first woman radio astronomer in Australia and one of the first in the world. She discovered Type I and Type III solar radio bursts, making fundamental contributions to our understanding of solar activity. She was forced to resign from CSIRO when her marriage was discovered, as married women were barred from holding permanent positions — a policy she had secretly defied for years to continue her research.",
+    "bioCn": "鲁比·佩恩-斯科特是射电天文学的先驱，也是澳大利亚第一位女性射电天文学家和世界上最早的女性射电天文学家之一。她发现了I型和III型太阳射电暴，对我们理解太阳活动做出了根本性贡献。当她的婚姻被发现后，她被迫从CSIRO辞职，因为已婚女性被禁止持有永久职位——她曾秘密违反这一政策多年以继续研究。",
+    "achievements": [
+      "First woman radio astronomer in Australia",
+      "Discovered Type I and Type III solar radio bursts",
+      "Pioneer of radio astronomy and solar physics"
+    ],
+    "achievementsCn": [
+      "澳大利亚第一位女性射电天文学家",
+      "发现I型和III型太阳射电暴",
+      "射电天文学和太阳物理学先驱"
+    ],
+    "era": "20th Century",
+    "imageCredit": "CSIRO/Peter Hall, CC BY 3.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Peter-hall.ruby.payne-scott.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ruby Payne-Scott — https://en.wikipedia.org/wiki/Ruby_Payne-Scott"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Paris Pişmiş",
+    "nameCn": "帕丽斯·皮什米什",
+    "slug": "paris-pismis",
+    "field": "astronomy-space",
+    "born": 1911,
+    "died": 1999,
+    "nationality": "Armenian-Turkish-Mexican",
+    "nationalityCn": "亚美尼亚裔土耳其-墨西哥人",
+    "tagline": "First Professional Astronomer in Mexico",
+    "taglineCn": "墨西哥第一位专业天文学家",
+    "bio": "Paris Pişmiş was the first professional astronomer in Mexico. Born in Istanbul to Armenian parents, she earned her PhD from Istanbul University and moved to Mexico in 1942, where she founded the astrophysics program at the National Autonomous University of Mexico (UNAM). Over her career, she discovered 20 open clusters and 3 globular clusters, and trained generations of Mexican astronomers who went on to build Mexico's modern astronomical research infrastructure.",
+    "bioCn": "帕丽斯·皮什米什是墨西哥第一位专业天文学家。她出生在伊斯坦布尔的一个亚美尼亚家庭，在伊斯坦布尔大学获得博士学位后于1942年移居墨西哥，在墨西哥国立自治大学（UNAM）创立了天体物理学项目。在她的职业生涯中，她发现了20个疏散星团和3个球状星团，并培养了几代墨西哥天文学家，他们后来建立了墨西哥现代天文研究基础设施。",
+    "achievements": [
+      "First professional astronomer in Mexico",
+      "Founded the astrophysics program at UNAM",
+      "Discovered 20 open clusters and 3 globular clusters"
+    ],
+    "achievementsCn": [
+      "墨西哥第一位专业天文学家",
+      "在墨西哥国立自治大学创立天体物理学项目",
+      "发现20个疏散星团和3个球状星团"
+    ],
+    "era": "20th Century",
+    "imageCredit": "ESA/Hubble, CC BY 4.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Glittering_Gathering_of_Stars_in_Pismis_26_%2852515088826%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Paris Pişmiş — https://en.wikipedia.org/wiki/Paris_Pi%C5%9Fmi%C5%9F"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Helen Sawyer Hogg",
+    "nameCn": "海伦·索耶·霍格",
+    "slug": "helen-sawyer-hogg",
+    "field": "astronomy-space",
+    "born": 1905,
+    "died": 1993,
+    "nationality": "American-Canadian",
+    "nationalityCn": "美裔加拿大人",
+    "tagline": "Cataloguer of Variable Stars in Globular Clusters",
+    "taglineCn": "球状星团变星编目者",
+    "bio": "Helen Sawyer Hogg was an astronomer who catalogued variable stars in globular clusters, compiling comprehensive data that became essential references for astronomers worldwide. She wrote a weekly astronomy column for the Toronto Star newspaper for 30 years, making complex astronomical concepts accessible to the general public. She was the first woman president of several Canadian astronomical societies and received the Order of Canada for her contributions to science and public education.",
+    "bioCn": "海伦·索耶·霍格是一位天文学家，她对球状星团中的变星进行了编目，编纂的综合数据成为全球天文学家的重要参考资料。她为《多伦多星报》撰写了长达30年的每周天文学专栏，使复杂的天文学概念为普通大众所理解。她是多个加拿大天文学会的第一位女性主席，并因对科学和公众教育的贡献获得了加拿大勋章。",
+    "achievements": [
+      "Catalogued variable stars in globular clusters",
+      "Wrote a weekly astronomy column for the Toronto Star for 30 years",
+      "First woman president of several Canadian astronomical societies"
+    ],
+    "achievementsCn": [
+      "对球状星团中的变星进行编目",
+      "为《多伦多星报》撰写30年每周天文专栏",
+      "多个加拿大天文学会的第一位女性主席"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dr._Helen_Sawyer_Hogg%2C_1969.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Helen Sawyer Hogg — https://en.wikipedia.org/wiki/Helen_Sawyer_Hogg"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Kathryn Sullivan",
+    "nameCn": "凯瑟琳·沙利文",
+    "slug": "kathryn-sullivan",
+    "field": "astronomy-space",
+    "born": 1951,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First American Woman to Walk in Space",
+    "taglineCn": "第一位太空行走的美国女性",
+    "bio": "Kathryn Sullivan became the first American woman to walk in space on October 11, 1984, during the STS-41-G mission. She flew on three Space Shuttle missions and holds a PhD in geology. After leaving NASA, she served as Administrator of the National Oceanic and Atmospheric Administration (NOAA). In 2020, she became the first woman to reach the deepest point in the ocean — Challenger Deep in the Mariana Trench — making her the first person to both walk in space and reach the ocean's deepest point.",
+    "bioCn": "凯瑟琳·沙利文于1984年10月11日在STS-41-G任务中成为第一位进行太空行走的美国女性。她参加了三次航天飞机任务，拥有地质学博士学位。离开NASA后，她担任了美国国家海洋和大气管理局（NOAA）局长。2020年，她成为第一位到达海洋最深处——马里亚纳海沟挑战者深渊——的女性，使她成为第一位既进行过太空行走又到达过海洋最深处的人。",
+    "achievements": [
+      "First American woman to walk in space (1984)",
+      "First woman to reach Challenger Deep in the Mariana Trench (2020)",
+      "Served as NOAA Administrator"
+    ],
+    "achievementsCn": [
+      "第一位太空行走的美国女性（1984年）",
+      "第一位到达马里亚纳海沟挑战者深渊的女性（2020年）",
+      "曾任美国国家海洋和大气管理局局长"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kathryn_Sullivan%2C_PCAST_Member_%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Kathryn D. Sullivan — https://en.wikipedia.org/wiki/Kathryn_D._Sullivan"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Sunita Williams",
+    "nameCn": "苏尼塔·威廉姆斯",
+    "slug": "sunita-williams",
+    "field": "astronomy-space",
+    "born": 1965,
+    "died": null,
+    "nationality": "Indian-American",
+    "nationalityCn": "印度裔美国人",
+    "tagline": "Record-Setting Woman Spacewalker",
+    "taglineCn": "创纪录的女性太空行走者",
+    "bio": "Sunita Williams is a NASA astronaut who has spent over 322 days in space across multiple missions. She held the record for most spacewalks by a woman (7) and most spacewalk time by a woman. A former US Navy test pilot, she has been a crew member on ISS Expeditions 14/15 and 32/33. Known for her endurance and skill, she also ran the first marathon in space during the 2007 Boston Marathon while aboard the International Space Station.",
+    "bioCn": "苏尼塔·威廉姆斯是一名NASA宇航员，在多次任务中累计在太空停留超过322天。她曾保持女性最多太空行走次数（7次）和女性最长太空行走时间的纪录。她是前美国海军试飞员，曾参加国际空间站第14/15次和第32/33次远征任务。她以耐力和技能闻名，还在2007年波士顿马拉松期间在国际空间站上完成了太空中的第一次马拉松。",
+    "achievements": [
+      "Held record for most spacewalks by a woman (7)",
+      "Spent over 322 days in space across multiple missions",
+      "Ran the first marathon in space (Boston Marathon, 2007)"
+    ],
+    "achievementsCn": [
+      "曾保持女性最多太空行走次数纪录（7次）",
+      "在多次任务中累计太空停留超过322天",
+      "在太空中完成第一次马拉松（2007年波士顿马拉松）"
+    ],
+    "era": "21st Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sunita_Williams_in_2018.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Sunita Williams — https://en.wikipedia.org/wiki/Sunita_Williams"
+    ]
   }
 ]
