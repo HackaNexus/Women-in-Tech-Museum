@@ -183,6 +183,9 @@ export function FeaturedCarousel() {
               science, where each story reveals layers of discovery, resilience,
               and the enduring beauty of human curiosity.
             </p>
+            <p className="text-white/30 text-sm leading-relaxed font-light mt-3">
+              步入一个才华超越边界的世界。在这里，你将探索一组杰出女性科学先驱的故事，每一段历程都揭示着发现的力量、坚韧的精神，以及人类求知欲的永恒之美。
+            </p>
             <Link
               href="/about"
               className="group inline-flex items-center gap-3 mt-8 text-white/50 hover:text-white transition-colors duration-300"
