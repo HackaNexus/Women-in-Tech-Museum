@@ -137,24 +137,27 @@ function DiscoveryCard({ item, index }: { item: DiscoveryItem; index: number }) 
         onMouseLeave={() => setHovered(false)}
       >
         <motion.div
-          className={`inline-flex items-center gap-2 cursor-pointer ${sizeText[item.size]} ${sizeBaseOpacity[item.size]} hover:!opacity-100 transition-opacity duration-300`}
+          className={`cursor-pointer ${sizeBaseOpacity[item.size]} hover:!opacity-100 transition-opacity duration-300`}
           initial={{ opacity: 0, x: -12 }}
           whileInView={{ opacity: 1, x: 0 }}
           viewport={{ once: true, margin: "-30px" }}
           transition={{ duration: 0.5, delay: (index % 5) * 0.06, ease: [0.25, 0.46, 0.45, 0.94] }}
         >
-          <span className="font-light" style={{ color: `${item.field.color}77` }}>/</span>
-          <span className="text-white tracking-wide font-light whitespace-nowrap">
-            {item.achievementCn}
-          </span>
-          {item.size === "lg" && (
-            <span
-              className="inline-flex items-center justify-center w-5 h-5 rounded-full text-[0.55rem] flex-shrink-0"
-              style={{ backgroundColor: `${item.field.color}18`, color: item.field.color }}
-            >
-              ↗
+          <div className={`inline-flex items-center gap-2 ${sizeText[item.size]}`}>
+            <span className="font-light" style={{ color: `${item.field.color}77` }}>/</span>
+            <span className="text-white tracking-wide font-light whitespace-nowrap">
+              {item.achievementCn}
             </span>
-          )}
+            {item.size === "lg" && (
+              <span
+                className="inline-flex items-center justify-center w-5 h-5 rounded-full text-[0.55rem] flex-shrink-0"
+                style={{ backgroundColor: `${item.field.color}18`, color: item.field.color }}
+              >
+                ↗
+              </span>
+            )}
+          </div>
+          <p className="text-white/20 text-[0.6rem] mt-0.5 ml-4 whitespace-nowrap">{item.achievement}</p>
         </motion.div>
 
         <AnimatePresence>

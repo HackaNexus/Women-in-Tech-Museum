@@ -8,6 +8,7 @@ import type { Pioneer } from "@/lib/types";
 
 interface FloatingItem {
   text: string;
+  textEn: string;
   pioneer: Pioneer;
   fieldColor: string;
   fieldName: string;
@@ -71,6 +72,7 @@ function buildPreviewItems(): FloatingItem[] {
       const pos = PREVIEW_POSITIONS[slotIdx];
       selected.push({
         text: p.achievementsCn[0] || p.taglineCn,
+        textEn: p.achievements[0] || p.tagline,
         pioneer: p,
         fieldColor: f.color,
         fieldName: f.nameCn,
@@ -100,30 +102,36 @@ function PreviewCard({ item, index }: { item: FloatingItem; index: number }) {
       onMouseLeave={() => setHovered(false)}
     >
       <motion.div
-        className={`whitespace-nowrap cursor-default ${sizeClass[item.size]}`}
+        className={`cursor-default ${sizeClass[item.size]}`}
         initial={{ opacity: 0, y: 12 }}
         whileInView={{ opacity: sizeOpacity[item.size] }}
         viewport={{ once: true }}
         whileHover={{ opacity: 0.9, scale: 1.04 }}
         transition={{ duration: 0.4, delay: index * 0.06 }}
       >
-        <span style={{ color: `${item.fieldColor}66` }}>/</span>
-        <span className="text-white/70 tracking-wide font-light ml-1">{item.text}</span>
+        <div className="whitespace-nowrap">
+          <span style={{ color: `${item.fieldColor}66` }}>/</span>
+          <span className="text-white/70 tracking-wide font-light ml-1">{item.text}</span>
+        </div>
+        <p className="text-white/20 text-[0.6rem] mt-0.5 ml-3 whitespace-nowrap">{item.textEn}</p>
       </motion.div>
 
       {hovered && (
         <motion.div
           initial={{ opacity: 0, y: 6 }}
           animate={{ opacity: 1, y: 0 }}
-          className="absolute left-0 top-full mt-2 bg-museum-surface/95 glass border border-white/[0.08] px-3 py-2 min-w-[180px]"
+          className="absolute left-0 top-full mt-2"
         >
-          <div className="flex items-center gap-2.5">
+          <Link
+            href={`/exhibitions/${item.pioneer.field}/${item.pioneer.slug}`}
+            className="flex items-center gap-2.5 bg-museum-surface/95 glass border border-white/[0.08] px-3 py-2 min-w-[180px] group hover:border-museum-gold/30 transition-colors duration-300"
+          >
             <div className="w-8 h-8 flex-shrink-0 portrait-frame rounded-full overflow-hidden">
               {item.pioneer.image ? (
                 <img
                   src={item.pioneer.image}
                   alt={item.pioneer.name}
-                  className="w-full h-full object-cover grayscale"
+                  className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
                   loading="lazy"
                 />
               ) : (
@@ -133,10 +141,10 @@ function PreviewCard({ item, index }: { item: FloatingItem; index: number }) {
               )}
             </div>
             <div>
-              <p className="text-xs text-white/80">{item.pioneer.nameCn}</p>
+              <p className="text-xs text-white/80 group-hover:text-museum-gold transition-colors duration-300">{item.pioneer.nameCn}</p>
               <p className="text-[0.6rem]" style={{ color: item.fieldColor }}>{item.fieldName}</p>
             </div>
-          </div>
+          </Link>
         </motion.div>
       )}
     </div>
