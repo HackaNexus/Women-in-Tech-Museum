@@ -2,6 +2,7 @@
 
 import { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
+import type { Variants } from "framer-motion";
 import Link from "next/link";
 import { DaVinciLines } from "./DaVinciLines";
 import {
@@ -25,13 +26,13 @@ const heroFloatingItems = [
 ];
 
 /** Stagger config for child animations */
-const stagger = {
+const stagger: Variants = {
   hidden: {},
   show: { transition: { staggerChildren: 0.18, delayChildren: 0.8 } },
 };
-const fadeUp = {
+const fadeUp: Variants = {
   hidden: { opacity: 0, y: 24 },
-  show: { opacity: 1, y: 0, transition: { duration: 0.7, ease: [0.25, 0.46, 0.45, 0.94] } },
+  show: { opacity: 1, y: 0, transition: { duration: 0.7, ease: "easeInOut" } },
 };
 
 export function Hero() {

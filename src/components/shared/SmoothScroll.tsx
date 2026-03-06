@@ -10,7 +10,7 @@ export function SmoothScroll({ children }: { children: React.ReactNode }) {
     const lenis = new Lenis({
       lerp: 0.08,
       smoothWheel: true,
-      touchInertiaMultiplier: 35,
+      touchMultiplier: 2,
     });
     lenisRef.current = lenis;
 
