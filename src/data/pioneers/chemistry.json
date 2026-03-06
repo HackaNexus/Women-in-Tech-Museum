@@ -1,0 +1,292 @@
+[
+  {
+    "id": 38,
+    "name": "Rosalind Franklin",
+    "nameCn": "罗莎琳德·富兰克林",
+    "slug": "rosalind-franklin",
+    "field": "chemistry",
+    "born": 1920,
+    "died": 1958,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "The Woman Behind DNA's Double Helix",
+    "taglineCn": "DNA双螺旋背后的女性",
+    "bio": "Rosalind Franklin's X-ray diffraction image known as Photo 51 was the crucial evidence that revealed the double helix structure of DNA. Her colleague Maurice Wilkins showed the photograph to James Watson without her knowledge, and Watson and Crick used it to build their famous model. Franklin never knew her data had been shared. She died of ovarian cancer at 37, four years before Watson, Crick, and Wilkins received the Nobel Prize — which is not awarded posthumously.",
+    "bioCn": "罗莎琳德·富兰克林的X射线衍射图像——著名的Photo 51——是揭示DNA双螺旋结构的关键证据。她的同事莫里斯·威尔金斯在她不知情的情况下将照片展示给了詹姆斯·沃森，沃森和克里克利用它构建了他们著名的模型。富兰克林从不知道她的数据被分享了。她37岁死于卵巢癌，在沃森、克里克和威尔金斯获得诺贝尔奖的四年前——该奖不授予已故者。",
+    "achievements": [
+      "Captured Photo 51, key evidence for DNA's structure",
+      "Pioneered X-ray diffraction studies of biological molecules",
+      "Also made major contributions to understanding viruses"
+    ],
+    "achievementsCn": [
+      "拍摄Photo 51，DNA结构的关键证据",
+      "开创了生物分子的X射线衍射研究",
+      "对理解病毒也做出了重大贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Rosalind_Franklin_%281920-1958%29.jpg",
+    "quote": "Science and everyday life cannot and should not be separated.",
+    "quoteCn": "科学与日常生活不能也不应该分离。",
+    "quoteSource": "From her personal papers",
+    "references": [
+      "Wikipedia: Rosalind Franklin — https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "Maddox, Brenda. Rosalind Franklin: The Dark Lady of DNA. HarperCollins, 2002."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Dorothy Hodgkin",
+    "nameCn": "多萝西·霍奇金",
+    "slug": "dorothy-hodgkin",
+    "field": "chemistry",
+    "born": 1910,
+    "died": 1994,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Nobel Laureate in X-ray Crystallography",
+    "taglineCn": "X射线晶体学诺贝尔奖得主",
+    "bio": "Dorothy Crowfoot Hodgkin advanced the technique of X-ray crystallography to determine the three-dimensional structures of biomolecules. She confirmed the structure of penicillin, mapped vitamin B12, and later determined the structure of insulin — work that took her 35 years. She received the 1964 Nobel Prize in Chemistry, becoming only the third woman to receive the prize. She was also a lifelong peace activist.",
+    "bioCn": "多萝西·克劳福特·霍奇金推进了X射线晶体学技术，用以确定生物分子的三维结构。她确认了青霉素的结构、绘制了维生素B12的图谱，后来还确定了胰岛素的结构——这项工作耗费了她35年。她获得了1964年诺贝尔化学奖，成为第三位获此殊荣的女性。她也是一位终身和平活动家。",
+    "achievements": [
+      "Nobel Prize in Chemistry (1964)",
+      "Determined structures of penicillin, vitamin B12, and insulin",
+      "Only British woman to win a Nobel Prize in science"
+    ],
+    "achievementsCn": [
+      "诺贝尔化学奖（1964年）",
+      "确定了青霉素、维生素B12和胰岛素的结构",
+      "唯一获得诺贝尔科学奖的英国女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Dorothy_Hodgkin_Nobel.jpg",
+    "quote": "I was captured for life by chemistry and by crystals.",
+    "quoteCn": "化学和晶体俘获了我的一生。",
+    "quoteSource": "Nobel autobiography, 1964",
+    "references": [
+      "Wikipedia: Dorothy Hodgkin — https://en.wikipedia.org/wiki/Dorothy_Hodgkin",
+      "Nobel Prize: Dorothy Crowfoot Hodgkin — https://www.nobelprize.org/prizes/chemistry/1964/hodgkin/",
+      "Ferry, Georgina. Dorothy Hodgkin: A Life. Granta Books, 1998."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Alice Ball",
+    "nameCn": "爱丽丝·鲍尔",
+    "slug": "alice-ball",
+    "field": "chemistry",
+    "born": 1892,
+    "died": 1916,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Developed the First Effective Leprosy Treatment",
+    "taglineCn": "开发了第一种有效的麻风病治疗方法",
+    "bio": "Alice Ball was an African-American chemist who developed the first effective treatment for leprosy (Hansen's disease) at the age of 23. Her 'Ball Method' made chaulmoogra oil injectable by isolating its active compounds, treating thousands of patients worldwide. She died at just 24 from chlorine poisoning in a laboratory accident. Her work was initially claimed by a colleague, but her contributions were formally recognized by the University of Hawaii in 2000.",
+    "bioCn": "爱丽丝·鲍尔是一位非裔美国化学家，23岁时开发了第一种有效的麻风病（汉森病）治疗方法。她的'鲍尔方法'通过分离活性化合物使大风子油可注射，在全球治疗了数千名患者。她年仅24岁因实验室氯气中毒去世。她的工作最初被一位同事占为己有，但2000年夏威夷大学正式承认了她的贡献。",
+    "achievements": [
+      "Developed the Ball Method for treating leprosy",
+      "Youngest and first African-American master's graduate at University of Hawaii",
+      "Treated thousands of leprosy patients worldwide"
+    ],
+    "achievementsCn": [
+      "开发了治疗麻风病的鲍尔方法",
+      "夏威夷大学最年轻的、也是第一位非裔美国硕士毕业生",
+      "在全球治疗了数千名麻风病患者"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_Augusta_Ball.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Alice Ball — https://en.wikipedia.org/wiki/Alice_Ball",
+      "Swaby, Rachel. Headstrong: 52 Women Who Changed Science. Crown/Broadway, 2015."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Irène Joliot-Curie",
+    "nameCn": "伊雷娜·约里奥-居里",
+    "slug": "irene-joliot-curie",
+    "field": "chemistry",
+    "born": 1897,
+    "died": 1956,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Nobel Laureate for Artificial Radioactivity",
+    "taglineCn": "人工放射性诺贝尔奖得主",
+    "bio": "Irène Joliot-Curie, daughter of Marie and Pierre Curie, shared the 1935 Nobel Prize in Chemistry with her husband Frédéric for their discovery of artificial radioactivity. She demonstrated that radioactive elements could be artificially produced, opening the door to nuclear medicine and advancing nuclear physics. Like her mother, she died from leukemia caused by prolonged radiation exposure. She also served in the French government as undersecretary of state for scientific research.",
+    "bioCn": "伊雷娜·约里奥-居里是玛丽和皮埃尔·居里的女儿，与丈夫弗雷德里克因发现人工放射性而分享了1935年诺贝尔化学奖。她证明放射性元素可以人工制造，为核医学打开了大门，推动了核物理学的发展。和她的母亲一样，她死于长期辐射暴露引起的白血病。她还在法国政府担任科学研究国务副秘书。",
+    "achievements": [
+      "Nobel Prize in Chemistry (1935) for artificial radioactivity",
+      "Part of the only mother-daughter Nobel Prize pair",
+      "Served as French undersecretary of state for scientific research"
+    ],
+    "achievementsCn": [
+      "因人工放射性获诺贝尔化学奖（1935年）",
+      "唯一的母女诺贝尔奖得主之一",
+      "担任法国科学研究国务副秘书"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ir%C3%A8ne_Joliot-Curie_%281897-1956%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Irène Joliot-Curie — https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie",
+      "Nobel Prize: Irène Joliot-Curie — https://www.nobelprize.org/prizes/chemistry/1935/joliot-curie/"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Gertrude Elion",
+    "nameCn": "格特鲁德·埃利恩",
+    "slug": "gertrude-elion",
+    "field": "chemistry",
+    "born": 1918,
+    "died": 1999,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Revolutionized Drug Development",
+    "taglineCn": "革新了药物开发",
+    "bio": "Gertrude Elion developed a revolutionary approach to drug design that used differences in biochemistry between normal cells and pathogens. Her method led to treatments for leukemia, herpes, malaria, gout, and organ transplant rejection. She shared the 1988 Nobel Prize in Physiology or Medicine. Despite never completing a PhD — she was denied admission to graduate programs because she was a woman — her innovations saved millions of lives.",
+    "bioCn": "格特鲁德·埃利恩开发了一种革命性的药物设计方法，利用正常细胞和病原体之间的生化差异。她的方法导致了白血病、疱疹、疟疾、痛风和器官移植排斥反应的治疗方案。她分享了1988年诺贝尔生理学或医学奖。尽管从未完成博士学位——她因为是女性而被拒绝进入研究生项目——她的创新挽救了数百万人的生命。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1988)",
+      "Developed treatments for leukemia, herpes, and malaria",
+      "Revolutionized rational drug design methodology"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（1988年）",
+      "开发了白血病、疱疹和疟疾的治疗方法",
+      "革新了理性药物设计方法论"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gertrude_Elion.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Gertrude Elion — https://en.wikipedia.org/wiki/Gertrude_B._Elion",
+      "Nobel Prize: Gertrude B. Elion — https://www.nobelprize.org/prizes/medicine/1988/elion/"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Jennifer Doudna",
+    "nameCn": "珍妮弗·杜德纳",
+    "slug": "jennifer-doudna",
+    "field": "chemistry",
+    "born": 1964,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Co-inventor of CRISPR Gene Editing",
+    "taglineCn": "CRISPR基因编辑的共同发明者",
+    "bio": "Jennifer Doudna and Emmanuelle Charpentier shared the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9, a revolutionary tool for editing DNA with unprecedented precision. Their discovery has transformed biology, enabling potential cures for genetic diseases, creation of disease-resistant crops, and new approaches to treating cancer. It is one of the most consequential scientific discoveries of the 21st century.",
+    "bioCn": "珍妮弗·杜德纳和埃曼纽尔·夏彭蒂耶因开发CRISPR-Cas9——一种以前所未有的精度编辑DNA的革命性工具——而分享了2020年诺贝尔化学奖。她们的发现改变了生物学，使遗传疾病的潜在治愈、抗病作物的创造和治疗癌症的新方法成为可能。这是21世纪最具深远影响的科学发现之一。",
+    "achievements": [
+      "Nobel Prize in Chemistry (2020) for CRISPR-Cas9",
+      "Revolutionized genome editing",
+      "Founded the Innovative Genomics Institute"
+    ],
+    "achievementsCn": [
+      "因CRISPR-Cas9获诺贝尔化学奖（2020年）",
+      "革新了基因组编辑",
+      "创立创新基因组学研究所"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Professor_Jennifer_Doudna_ForMemRS.jpg",
+    "quote": "The power to control our species' genetic future is awesome and terrifying.",
+    "quoteCn": "控制我们物种基因未来的力量既令人敬畏又令人恐惧。",
+    "quoteSource": "A Crack in Creation, 2017",
+    "references": [
+      "Wikipedia: Jennifer Doudna — https://en.wikipedia.org/wiki/Jennifer_Doudna",
+      "Nobel Prize: Jennifer A. Doudna — https://www.nobelprize.org/prizes/chemistry/2020/doudna/",
+      "Doudna, J. & Sternberg, S. A Crack in Creation. Houghton Mifflin, 2017."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Emmanuelle Charpentier",
+    "nameCn": "埃曼纽尔·夏彭蒂耶",
+    "slug": "emmanuelle-charpentier",
+    "field": "chemistry",
+    "born": 1968,
+    "died": null,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Co-inventor of CRISPR Gene Editing",
+    "taglineCn": "CRISPR基因编辑的共同发明者",
+    "bio": "Emmanuelle Charpentier is a French microbiologist and biochemist who co-developed CRISPR-Cas9 gene editing technology with Jennifer Doudna. Her discovery of tracrRNA, a molecule essential for bacterial immune defense, was the key insight that led to the development of the CRISPR tool. She shared the 2020 Nobel Prize in Chemistry, making Doudna and Charpentier the first all-female team to share a science Nobel.",
+    "bioCn": "埃曼纽尔·夏彭蒂耶是一位法国微生物学家和生物化学家，与珍妮弗·杜德纳共同开发了CRISPR-Cas9基因编辑技术。她对tracrRNA——一种对细菌免疫防御至关重要的分子——的发现是开发CRISPR工具的关键洞见。她分享了2020年诺贝尔化学奖，使杜德纳和夏彭蒂耶成为第一个分享诺贝尔科学奖的全女性团队。",
+    "achievements": [
+      "Nobel Prize in Chemistry (2020) for CRISPR-Cas9",
+      "Discovered tracrRNA crucial for CRISPR mechanism",
+      "First all-female team to share a science Nobel Prize"
+    ],
+    "achievementsCn": [
+      "因CRISPR-Cas9获诺贝尔化学奖（2020年）",
+      "发现对CRISPR机制至关重要的tracrRNA",
+      "第一个分享诺贝尔科学奖的全女性团队"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Emmanuelle_Charpentier.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Emmanuelle Charpentier — https://en.wikipedia.org/wiki/Emmanuelle_Charpentier",
+      "Nobel Prize: Emmanuelle Charpentier — https://www.nobelprize.org/prizes/chemistry/2020/charpentier/"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Tu Youyou",
+    "nameCn": "屠呦呦",
+    "slug": "tu-youyou",
+    "field": "chemistry",
+    "born": 1930,
+    "died": null,
+    "nationality": "Chinese",
+    "nationalityCn": "中国",
+    "tagline": "Discoverer of Artemisinin for Malaria",
+    "taglineCn": "发现青蒿素治疗疟疾",
+    "bio": "Tu Youyou discovered artemisinin, a compound derived from traditional Chinese medicine that has saved millions of lives from malaria. During the Cultural Revolution, she led a secret military project that screened thousands of herbal remedies. Inspired by a 1,600-year-old text by Ge Hong, she developed a low-temperature extraction method that preserved the compound's efficacy. She received the 2015 Nobel Prize in Physiology or Medicine — the first Chinese Nobel laureate in the sciences and the first without a doctoral degree or overseas study experience.",
+    "bioCn": "屠呦呦发现了青蒿素——一种源自中国传统医学的化合物，已经拯救了数百万人免于疟疾。在文化大革命期间，她领导了一个秘密军事项目，筛选了数千种草药。受葛洪1600年前古籍的启发，她开发了保持化合物功效的低温提取方法。她获得了2015年诺贝尔生理学或医学奖——中国第一位科学领域的诺贝尔奖得主，也是第一位没有博士学位和海外留学经历的获奖者。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2015)",
+      "Discovered artemisinin, saving millions from malaria",
+      "First Chinese scientist to win a Nobel Prize"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2015年）",
+      "发现青蒿素，拯救数百万人免于疟疾",
+      "中国第一位获得诺贝尔奖的科学家"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/D810_4987_Tu_Youyou%2C_medicine_%2822945001843%29_%28cropped%29.jpg",
+    "quote": "Every scientist dreams of doing something that can help the world.",
+    "quoteCn": "每个科学家都梦想做一些能帮助世界的事情。",
+    "quoteSource": "Nobel lecture, 2015",
+    "references": [
+      "Wikipedia: Tu Youyou — https://en.wikipedia.org/wiki/Tu_Youyou",
+      "Nobel Prize: Tu Youyou — https://www.nobelprize.org/prizes/medicine/2015/tu/"
+    ]
+  }
+]

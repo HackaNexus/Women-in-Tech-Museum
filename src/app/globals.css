@@ -1,0 +1,379 @@
+@import "tailwindcss";
+@import "lenis/dist/lenis.css";
+
+@theme {
+  --color-museum-ivory: #FAFAF7;
+  --color-museum-cream: #F3F0EA;
+  --color-museum-warm: #EDE8DF;
+  --color-museum-gold: #B8956A;
+  --color-museum-gold-light: #D4BFA0;
+  --color-museum-gold-dark: #8C6D47;
+  --color-museum-deep: #1B1B2F;
+  --color-museum-deep-soft: #2A2A45;
+  --color-museum-ink: #1C1C28;
+  --color-museum-slate: #5A5A6E;
+  --color-museum-stone: #8A8A9A;
+  --color-museum-mist: #E0DDD6;
+  --color-museum-line: #D5D0C8;
+
+  --font-display: "Georgia", "Noto Serif SC", "Times New Roman", serif;
+  --font-body: "system-ui", "-apple-system", "Segoe UI", "Roboto", "Helvetica Neue", sans-serif;
+  --font-mono: "SF Mono", "Fira Code", monospace;
+}
+
+html.lenis, html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-museum-ivory);
+  color: var(--color-museum-ink);
+  line-height: 1.6;
+}
+
+::selection {
+  background-color: var(--color-museum-gold-light);
+  color: var(--color-museum-deep);
+}
+
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Portrait image with fallback initials */
+.portrait-frame {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(145deg, var(--color-museum-warm), var(--color-museum-mist));
+}
+
+.portrait-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.portrait-frame:hover img {
+  transform: scale(1.05);
+}
+
+.portrait-initials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  color: var(--color-museum-stone);
+  font-size: 1.25rem;
+}
+
+/* Elegant line clamp */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Scroll without scrollbar */
+.scroll-clean::-webkit-scrollbar { display: none; }
+.scroll-clean { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Subtle entrance animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Glass morphism */
+.glass {
+  backdrop-filter: blur(20px) saturate(1.4);
+  -webkit-backdrop-filter: blur(20px) saturate(1.4);
+}
+
+/* Refined divider */
+.divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-museum-line), transparent);
+}
+
+/* Image overlay gradient */
+.overlay-bottom {
+  background: linear-gradient(to top, rgba(27,27,47,0.85) 0%, rgba(27,27,47,0.4) 40%, transparent 100%);
+}
+
+.overlay-full {
+  background: linear-gradient(to bottom, rgba(27,27,47,0.3) 0%, rgba(27,27,47,0.7) 100%);
+}
+
+/* ── Bookshelf Exhibition ── */
+
+.bookshelf-wrapper {
+  perspective: 1200px;
+  max-width: 72rem;
+  margin: 0 auto;
+}
+
+.shelf-container {
+  position: relative;
+}
+
+.shelf-board {
+  position: relative;
+  height: 20px;
+  background: linear-gradient(180deg, #e8e4dc 0%, #d5d0c6 40%, #c4bfb4 100%);
+  border-radius: 0 0 4px 4px;
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.10),
+    0 8px 24px rgba(0, 0, 0, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+.shelf-board::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(180deg, #f0ece5, #ddd8cf);
+  border-radius: 2px 2px 0 0;
+}
+
+.shelf-board::after {
+  content: "";
+  position: absolute;
+  bottom: -8px;
+  left: 2%;
+  right: 2%;
+  height: 8px;
+  background: linear-gradient(180deg, rgba(0,0,0,0.06), transparent);
+  border-radius: 0 0 50% 50%;
+}
+
+/* Shelf: fixed grid so cards stay in order (no wrap mess) */
+.shelf-items {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem 1.25rem;
+  padding: 0 0.5rem;
+  align-items: end;
+}
+
+@media (min-width: 640px) {
+  .shelf-items {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.25rem 1.5rem;
+    padding: 0 1rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .shelf-items {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.5rem 2rem;
+    padding: 0;
+    max-width: 72rem;
+    margin: 0 auto;
+  }
+}
+
+.book-item {
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto;
+  transition: transform 0.35s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+@media (min-width: 640px) {
+  .book-item {
+    max-width: 220px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .book-item {
+    max-width: none;
+    margin: 0;
+  }
+}
+
+.book-3d {
+  aspect-ratio: 3 / 4;
+  border-radius: 2px;
+  transform-origin: bottom center;
+  transition:
+    transform 0.4s cubic-bezier(0.23, 1, 0.32, 1),
+    box-shadow 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+  box-shadow:
+    2px 2px 6px rgba(0, 0, 0, 0.12),
+    4px 4px 16px rgba(0, 0, 0, 0.06);
+  position: relative;
+}
+
+.book-3d::after {
+  content: "";
+  position: absolute;
+  right: -4px;
+  top: 3px;
+  bottom: 3px;
+  width: 4px;
+  background: linear-gradient(90deg, rgba(0,0,0,0.12), rgba(0,0,0,0.04));
+  border-radius: 0 2px 2px 0;
+}
+
+.book-item:hover .book-3d {
+  transform: translateY(-10px) scale(1.03);
+  box-shadow:
+    4px 8px 20px rgba(0, 0, 0, 0.18),
+    6px 12px 32px rgba(0, 0, 0, 0.10);
+}
+
+.book-item:hover {
+  z-index: 10;
+}
+
+.book-cover {
+  box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.05);
+}
+
+/* Dark variant for use on dark backgrounds (e.g. homepage) */
+.bookshelf-dark .shelf-board {
+  background: linear-gradient(180deg, #3a3a50 0%, #2e2e44 40%, #252538 100%);
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.25),
+    0 8px 24px rgba(0, 0, 0, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+.bookshelf-dark .shelf-board::before {
+  background: linear-gradient(180deg, #4a4a62, #3a3a50);
+}
+
+.bookshelf-dark .shelf-board::after {
+  background: linear-gradient(180deg, rgba(0,0,0,0.18), transparent);
+}
+
+.bookshelf-dark .book-3d {
+  box-shadow:
+    2px 2px 8px rgba(0, 0, 0, 0.3),
+    4px 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.bookshelf-dark .book-item:hover .book-3d {
+  box-shadow:
+    4px 8px 24px rgba(0, 0, 0, 0.35),
+    6px 12px 40px rgba(0, 0, 0, 0.2);
+}
+
+/* ── Da Vinci Construction Lines ── */
+
+.davinci-lines {
+  color: var(--color-museum-gold);
+}
+
+.davinci-lines .line-group line,
+.davinci-lines .line-group circle:not(.accent-dot),
+.davinci-lines .line-group path {
+  stroke: currentColor;
+  stroke-width: 0.5;
+  fill: none;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.davinci-lines .accent-dot {
+  fill: currentColor;
+  stroke: none;
+  opacity: 0;
+  transition: opacity 0.8s ease;
+}
+
+/* Phase 1: lines start drawing */
+.davinci-lines[data-phase="1"] .line-group[data-group="1"] line,
+.davinci-lines[data-phase="1"] .line-group[data-group="1"] path {
+  stroke-dashoffset: 0;
+  opacity: 0.15;
+  transition: stroke-dashoffset 3s cubic-bezier(0.34, 0.22, 0.47, 0.84),
+              opacity 0.6s ease;
+}
+.davinci-lines[data-phase="1"] .line-group[data-group="2"] line,
+.davinci-lines[data-phase="1"] .line-group[data-group="2"] path {
+  stroke-dashoffset: 0;
+  opacity: 0.1;
+  transition: stroke-dashoffset 3.5s cubic-bezier(0.34, 0.22, 0.47, 0.84) 0.4s,
+              opacity 0.6s ease 0.4s;
+}
+
+/* Phase 2: all lines visible including circles */
+.davinci-lines[data-phase="2"] .line-group line,
+.davinci-lines[data-phase="2"] .line-group circle:not(.accent-dot),
+.davinci-lines[data-phase="2"] .line-group path {
+  stroke-dashoffset: 0;
+  opacity: 0.12;
+  transition: stroke-dashoffset 2.5s cubic-bezier(0.34, 0.22, 0.47, 0.84),
+              opacity 0.5s ease;
+}
+.davinci-lines[data-phase="2"] .accent-dot {
+  opacity: 0.25;
+  transition: opacity 0.8s ease 0.3s;
+}
+
+/* Phase 3: lines fade to very subtle */
+.davinci-lines[data-phase="3"] .line-group line,
+.davinci-lines[data-phase="3"] .line-group circle:not(.accent-dot),
+.davinci-lines[data-phase="3"] .line-group path {
+  stroke-dashoffset: 0;
+  opacity: 0.05;
+  transition: opacity 2s ease;
+}
+.davinci-lines[data-phase="3"] .accent-dot {
+  opacity: 0.08;
+  transition: opacity 2s ease;
+}
+
+/* Reduced motion: skip animations */
+@media (prefers-reduced-motion: reduce) {
+  .davinci-lines .line-group line,
+  .davinci-lines .line-group circle,
+  .davinci-lines .line-group path {
+    stroke-dashoffset: 0 !important;
+    opacity: 0.06 !important;
+    transition: none !important;
+  }
+}

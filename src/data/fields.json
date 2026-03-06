@@ -1,0 +1,112 @@
+[
+  {
+    "id": "computer-science",
+    "name": "Computer Science & Programming",
+    "nameCn": "计算机科学与编程",
+    "slug": "computer-science",
+    "description": "From the world's first programmer to the architects of modern AI, women have shaped every era of computing — writing the code, building the compilers, and designing the systems that power our digital world.",
+    "descriptionCn": "从世界上第一位程序员到现代AI的缔造者，女性塑造了计算机发展的每一个时代——编写代码、构建编译器、设计驱动数字世界的系统。",
+    "icon": "terminal",
+    "color": "#6366F1",
+    "count": 25
+  },
+  {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "nameCn": "数学",
+    "slug": "mathematics",
+    "description": "Across millennia, women mathematicians have unlocked the language of the universe — from ancient Alexandria to modern Fields Medal stages, proving theorems that reshape our understanding of reality.",
+    "descriptionCn": "跨越千年，女性数学家解开了宇宙的语言——从古代亚历山大到现代菲尔兹奖舞台，证明了重塑我们对现实理解的定理。",
+    "icon": "sigma",
+    "color": "#8B5CF6",
+    "count": 10
+  },
+  {
+    "id": "physics",
+    "name": "Physics",
+    "nameCn": "物理学",
+    "slug": "physics",
+    "description": "Women physicists have split the atom, discovered dark matter, and unraveled the fabric of spacetime — often against institutional barriers that sought to keep them invisible.",
+    "descriptionCn": "女性物理学家分裂了原子、发现了暗物质、揭示了时空的结构——常常是在试图使她们隐形的制度壁垒面前完成的。",
+    "icon": "atom",
+    "color": "#EC4899",
+    "count": 12
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "nameCn": "化学",
+    "slug": "chemistry",
+    "description": "From decoding DNA's double helix to editing the genome itself, women chemists have transformed medicine, materials, and our molecular understanding of life.",
+    "descriptionCn": "从解码DNA的双螺旋到编辑基因组本身，女性化学家改变了医学、材料科学以及我们对生命分子层面的理解。",
+    "icon": "flask",
+    "color": "#F59E0B",
+    "count": 8
+  },
+  {
+    "id": "biology-medicine",
+    "name": "Biology & Medicine",
+    "nameCn": "生物与医学",
+    "slug": "biology-medicine",
+    "description": "Women in biology and medicine have pioneered life-saving treatments, decoded genetic mysteries, and championed the health of our planet's ecosystems.",
+    "descriptionCn": "生物与医学领域的女性开创了挽救生命的治疗方法，解码了遗传之谜，捍卫了地球生态系统的健康。",
+    "icon": "heart-pulse",
+    "color": "#EF4444",
+    "count": 12
+  },
+  {
+    "id": "astronomy-space",
+    "name": "Astronomy & Space",
+    "nameCn": "天文与航天",
+    "slug": "astronomy-space",
+    "description": "Women have mapped the stars, measured the cosmos, and ventured beyond Earth — charting humanity's path through the universe from observatory floors to orbit.",
+    "descriptionCn": "女性绘制了星图、测量了宇宙、走出了地球——从天文台到太空轨道，为人类描绘穿越宇宙的航路。",
+    "icon": "telescope",
+    "color": "#3B82F6",
+    "count": 10
+  },
+  {
+    "id": "engineering",
+    "name": "Engineering & Invention",
+    "nameCn": "工程与发明",
+    "slug": "engineering",
+    "description": "Women engineers and inventors have built bridges, created bulletproof materials, pioneered wireless communication, and launched rockets — literally constructing the modern world.",
+    "descriptionCn": "女性工程师和发明家建造了桥梁、创造了防弹材料、开创了无线通信、发射了火箭——切实地构建了现代世界。",
+    "icon": "wrench",
+    "color": "#F97316",
+    "count": 12
+  },
+  {
+    "id": "earth-environment",
+    "name": "Earth & Environmental Science",
+    "nameCn": "地球与环境科学",
+    "slug": "earth-environment",
+    "description": "Women earth scientists have discovered our planet's inner core, mapped the ocean floor, and sounded the alarm on climate change — revealing the forces that shape our world.",
+    "descriptionCn": "女性地球科学家发现了地球内核、绘制了海底地图、敲响了气候变化的警钟——揭示了塑造我们世界的力量。",
+    "icon": "globe",
+    "color": "#10B981",
+    "count": 6
+  },
+  {
+    "id": "genetics-biotech",
+    "name": "Genetics & Biotechnology",
+    "nameCn": "遗传学与生物技术",
+    "slug": "genetics-biotech",
+    "description": "Women geneticists and biotechnologists have mapped the HIV genome, discovered cancer genes, and invented the mRNA vaccines that saved millions of lives.",
+    "descriptionCn": "女性遗传学家和生物技术专家绘制了HIV基因组图谱、发现了癌症基因、发明了拯救了数百万人生命的mRNA疫苗。",
+    "icon": "dna",
+    "color": "#14B8A6",
+    "count": 6
+  },
+  {
+    "id": "data-science-ai",
+    "name": "Data Science & AI",
+    "nameCn": "数据科学与人工智能",
+    "slug": "data-science-ai",
+    "description": "From NASA's hidden figures to the pioneers of ethical AI, women have been at the forefront of data science — computing trajectories, building learning systems, and demanding algorithmic justice.",
+    "descriptionCn": "从NASA的'隐藏人物'到AI伦理的先驱，女性一直处于数据科学的前沿——计算轨道、构建学习系统、倡导算法公正。",
+    "icon": "brain",
+    "color": "#A855F7",
+    "count": 10
+  }
+]

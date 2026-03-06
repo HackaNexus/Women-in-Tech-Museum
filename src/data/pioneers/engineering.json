@@ -1,0 +1,432 @@
+[
+  {
+    "id": 68,
+    "name": "Hedy Lamarr",
+    "nameCn": "海蒂·拉玛",
+    "slug": "hedy-lamarr",
+    "field": "engineering",
+    "born": 1914,
+    "died": 2000,
+    "nationality": "Austrian-American",
+    "nationalityCn": "奥地利裔美国人",
+    "tagline": "Hollywood Star Who Invented Wireless Communication",
+    "taglineCn": "发明无线通信技术的好莱坞明星",
+    "bio": "Hedy Lamarr was both a glamorous Hollywood actress and a brilliant inventor. During World War II, she co-invented a frequency-hopping spread spectrum communication system to prevent the jamming of torpedo guidance signals. Though the Navy initially dismissed her work, the principles she developed became the foundation for modern wireless technologies including Wi-Fi, Bluetooth, and GPS. She was posthumously inducted into the National Inventors Hall of Fame.",
+    "bioCn": "海蒂·拉玛既是一位迷人的好莱坞女演员，也是一位杰出的发明家。二战期间，她共同发明了一种跳频扩频通信系统，用于防止鱼雷导引信号被干扰。虽然海军最初否定了她的工作，但她开发的原理成为了现代无线技术——包括Wi-Fi、蓝牙和GPS——的基础。她在去世后被追授入美国国家发明家名人堂。",
+    "achievements": [
+      "Co-invented frequency-hopping spread spectrum technology",
+      "Foundation for Wi-Fi, Bluetooth, and GPS",
+      "Inducted into National Inventors Hall of Fame"
+    ],
+    "achievementsCn": [
+      "共同发明跳频扩频技术",
+      "Wi-Fi、蓝牙和GPS的基础",
+      "入选美国国家发明家名人堂"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg",
+    "quote": "All creative people want to do the unexpected.",
+    "quoteCn": "所有有创造力的人都想做出人意料的事。",
+    "quoteSource": "From interviews",
+    "references": [
+      "Wikipedia: Hedy Lamarr — https://en.wikipedia.org/wiki/Hedy_Lamarr",
+      "Rhodes, Richard. Hedy's Folly. Doubleday, 2011.",
+      "Lamarr, H. & Antheil, G. US Patent 2,292,387: Secret Communication System, 1942."
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Stephanie Kwolek",
+    "nameCn": "斯蒂芬妮·科沃莱克",
+    "slug": "stephanie-kwolek",
+    "field": "engineering",
+    "born": 1923,
+    "died": 2014,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Inventor of Kevlar",
+    "taglineCn": "凯夫拉的发明者",
+    "bio": "Stephanie Kwolek invented Kevlar, a heat-resistant synthetic fiber five times stronger than steel by weight, while working at DuPont. Her discovery was accidental — she almost discarded the unusual solution she had created. Kevlar is now used in bulletproof vests, firefighter gear, suspension bridge cables, and spacecraft components. Her invention has saved countless lives and earned her the National Medal of Technology.",
+    "bioCn": "斯蒂芬妮·科沃莱克在杜邦工作时发明了凯夫拉——一种按重量计算是钢铁五倍强度的耐热合成纤维。她的发现是偶然的——她差点丢弃了她创造的异常溶液。凯夫拉现在被用于防弹衣、消防员装备、悬索桥缆绳和航天器部件。她的发明挽救了无数生命，为她赢得了国家技术奖章。",
+    "achievements": [
+      "Invented Kevlar, five times stronger than steel",
+      "National Medal of Technology recipient",
+      "Inducted into National Inventors Hall of Fame"
+    ],
+    "achievementsCn": [
+      "发明凯夫拉，强度是钢铁的五倍",
+      "获得国家技术奖章",
+      "入选国家发明家名人堂"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stephanie_Kwolek_at_ceremony.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Stephanie Kwolek — https://en.wikipedia.org/wiki/Stephanie_Kwolek",
+      "Chemical Heritage Foundation oral history"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Edith Clarke",
+    "nameCn": "伊迪丝·克拉克",
+    "slug": "edith-clarke",
+    "field": "engineering",
+    "born": 1883,
+    "died": 1959,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Female Electrical Engineering Professor",
+    "taglineCn": "首位女性电气工程教授",
+    "bio": "Edith Clarke was the first woman to earn a Master's degree in electrical engineering from MIT, the first female professionally employed electrical engineer in the United States, and the first female professor of electrical engineering in the country. She invented the Clarke calculator, a graphical device that solved equations involving electric current, and her textbook on power systems was widely used for decades.",
+    "bioCn": "伊迪丝·克拉克是第一位从MIT获得电气工程硕士学位的女性，美国第一位被专业雇用的女性电气工程师，也是美国第一位电气工程女性教授。她发明了克拉克计算器——一种解决电流方程的图形设备，她的电力系统教科书被广泛使用了几十年。",
+    "achievements": [
+      "First woman with an EE Master's from MIT",
+      "First female electrical engineering professor in the U.S.",
+      "Invented the Clarke calculator"
+    ],
+    "achievementsCn": [
+      "第一位从MIT获得电气工程硕士学位的女性",
+      "美国第一位女性电气工程教授",
+      "发明了克拉克计算器"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edith_Clarke_1948.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Edith Clarke — https://en.wikipedia.org/wiki/Edith_Clarke",
+      "IEEE History Center"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Emily Warren Roebling",
+    "nameCn": "艾米丽·沃伦·罗布林",
+    "slug": "emily-warren-roebling",
+    "field": "engineering",
+    "born": 1843,
+    "died": 1903,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "The Woman Who Built the Brooklyn Bridge",
+    "taglineCn": "建造布鲁克林大桥的女性",
+    "bio": "Emily Warren Roebling took over the day-to-day supervision of the Brooklyn Bridge construction when her husband, the chief engineer, became bedridden with caisson disease. She studied higher mathematics, bridge engineering, and materials science to manage the project. For over a decade, she was the primary liaison between her husband and the engineers on site. She was the first person to cross the completed bridge in 1883.",
+    "bioCn": "当她的丈夫——首席工程师——因沉箱病卧床不起时，艾米丽·沃伦·罗布林接管了布鲁克林大桥建设的日常监督工作。她学习了高等数学、桥梁工程和材料科学来管理项目。十多年来，她是丈夫和现场工程师之间的主要联络人。1883年她是第一个走过建成的大桥的人。",
+    "achievements": [
+      "Supervised construction of the Brooklyn Bridge",
+      "Self-taught bridge engineering and materials science",
+      "First person to cross the completed Brooklyn Bridge"
+    ],
+    "achievementsCn": [
+      "监督布鲁克林大桥的建设",
+      "自学桥梁工程和材料科学",
+      "第一个走过建成的布鲁克林大桥的人"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Emily_Warren_Roebling_%281843-1903%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Emily Warren Roebling — https://en.wikipedia.org/wiki/Emily_Warren_Roebling",
+      "McCullough, David. The Great Bridge. Simon & Schuster, 1972."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Lillian Gilbreth",
+    "nameCn": "莉莲·吉尔布雷思",
+    "slug": "lillian-gilbreth",
+    "field": "engineering",
+    "born": 1878,
+    "died": 1972,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mother of Modern Management",
+    "taglineCn": "现代管理之母",
+    "bio": "Lillian Gilbreth was a pioneer of industrial engineering and management who applied psychology to workplace efficiency. She held a PhD in psychology, raised 12 children, and designed kitchens and household products that reduced physical strain — including the foot-pedal trash can and shelves inside refrigerator doors. She was the first woman elected to the National Academy of Engineering and the first woman to receive an honorary membership in the American Society of Mechanical Engineers.",
+    "bioCn": "莉莲·吉尔布雷思是工业工程和管理的先驱，将心理学应用于工作场所效率。她拥有心理学博士学位，养育了12个孩子，并设计了减轻体力负担的厨房和家用产品——包括脚踏式垃圾桶和冰箱门内搁架。她是第一位当选国家工程院院士的女性，也是第一位获得美国机械工程师协会荣誉会员的女性。",
+    "achievements": [
+      "Pioneer of industrial engineering and ergonomics",
+      "First woman elected to National Academy of Engineering",
+      "Designed everyday products still used today"
+    ],
+    "achievementsCn": [
+      "工业工程和人体工程学先驱",
+      "第一位当选国家工程院院士的女性",
+      "设计了至今仍在使用的日常产品"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Lillian_Moller_Gilbreth.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Lillian Moller Gilbreth — https://en.wikipedia.org/wiki/Lillian_Moller_Gilbreth",
+      "Lancaster, Jane. Making Time: Lillian Moller Gilbreth. Northeastern Univ Press, 2004."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Mary Anderson",
+    "nameCn": "玛丽·安德森",
+    "slug": "mary-anderson",
+    "field": "engineering",
+    "born": 1866,
+    "died": 1953,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Inventor of the Windshield Wiper",
+    "taglineCn": "雨刮器的发明者",
+    "bio": "Mary Anderson invented the first practical windshield wiper in 1903 after observing a streetcar driver struggling to see through sleet in New York City. She received a patent for her 'window cleaning device' — a spring-loaded arm with a rubber blade that could be operated from inside the vehicle. Though manufacturers initially showed no interest, her invention became standard equipment on all American cars by 1916.",
+    "bioCn": "玛丽·安德森于1903年观察到一位街车司机在纽约雨雪中挣扎看路后，发明了第一个实用的雨刮器。她为她的'车窗清洁装置'——一个带弹簧的臂和橡胶刮片，可从车内操作——获得了专利。虽然制造商最初没有兴趣，但到1916年她的发明成为所有美国汽车的标准设备。",
+    "achievements": [
+      "Invented the windshield wiper (1903)",
+      "Patent for window cleaning device",
+      "Standard equipment on all American cars by 1916"
+    ],
+    "achievementsCn": [
+      "发明雨刮器（1903年）",
+      "获得车窗清洁装置专利",
+      "1916年成为所有美国汽车标准设备"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Anderson (inventor) — https://en.wikipedia.org/wiki/Mary_Anderson_(inventor)"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Beulah Louise Henry",
+    "nameCn": "比尤拉·路易丝·亨利",
+    "slug": "beulah-louise-henry",
+    "field": "engineering",
+    "born": 1887,
+    "died": 1973,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Lady Edison — 49 Patents and 110 Inventions",
+    "taglineCn": "女爱迪生——49项专利和110项发明",
+    "bio": "Beulah Louise Henry was dubbed 'Lady Edison' by the press for her prolific inventive output. She received 49 patents and is credited with approximately 110 inventions, spanning vacuum ice cream freezers, typewriter improvements, dolls with changeable eye colors, and a protograph that could produce four copies of a document without carbon paper. Despite having no formal engineering training, her mechanical intuition was extraordinary.",
+    "bioCn": "比尤拉·路易丝·亨利因其丰富的发明产出被媒体称为'女爱迪生'。她获得了49项专利，被认为有大约110项发明，涵盖真空冰淇淋冷冻机、打字机改进、可变换眼睛颜色的洋娃娃，以及无需碳纸即可复制四份文件的复印机。尽管没有正式的工程培训，她的机械直觉非常出众。",
+    "achievements": [
+      "Received 49 patents for her inventions",
+      "Credited with approximately 110 inventions",
+      "Known as 'Lady Edison'"
+    ],
+    "achievementsCn": [
+      "获得49项发明专利",
+      "被认为有大约110项发明",
+      "被称为'女爱迪生'"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Beulah Louise Henry — https://en.wikipedia.org/wiki/Beulah_Louise_Henry"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Ellen Swallow Richards",
+    "nameCn": "艾伦·斯沃洛·理查兹",
+    "slug": "ellen-swallow-richards",
+    "field": "engineering",
+    "born": 1842,
+    "died": 1911,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Environmental Engineering",
+    "taglineCn": "环境工程先驱",
+    "bio": "Ellen Swallow Richards was the first woman admitted to MIT, where she earned a degree in chemistry. She pioneered the field of sanitary engineering (now environmental engineering), conducting the first comprehensive water quality survey in the United States. Her work led to the first state water quality standards in America and the first modern sewage treatment plant. She also established the field of home economics as a science.",
+    "bioCn": "艾伦·斯沃洛·理查兹是第一位被MIT录取的女性，在那里获得了化学学位。她开创了卫生工程（现在的环境工程）领域，进行了美国第一次全面的水质调查。她的工作促成了美国第一个州水质标准和第一座现代污水处理厂。她还将家政学确立为一门科学。",
+    "achievements": [
+      "First woman admitted to MIT",
+      "Pioneered environmental engineering in the U.S.",
+      "Conducted first comprehensive water quality survey"
+    ],
+    "achievementsCn": [
+      "第一位被MIT录取的女性",
+      "在美国开创环境工程",
+      "进行了第一次全面水质调查"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ellen_Swallow_Richards.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ellen Swallow Richards — https://en.wikipedia.org/wiki/Ellen_Swallow_Richards",
+      "Clarke, Robert. Ellen Swallow: The Woman Who Founded Ecology. Follett, 1973."
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Bessie Coleman",
+    "nameCn": "贝西·科尔曼",
+    "slug": "bessie-coleman",
+    "field": "engineering",
+    "born": 1892,
+    "died": 1926,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First African-American Woman Pilot",
+    "taglineCn": "第一位非裔美国女飞行员",
+    "bio": "Bessie Coleman became the first African-American woman — and the first Native American — to hold a pilot's license. Denied admission to flight schools in the United States because of her race and gender, she learned French and traveled to France to earn her license in 1921. She became a celebrated barnstormer and refused to perform at venues that would not admit African Americans. She died in a plane crash at 34 while preparing for an aerial show.",
+    "bioCn": "贝西·科尔曼成为第一位获得飞行员执照的非裔美国女性——也是第一位美洲原住民。由于种族和性别原因被美国飞行学校拒绝后，她学习了法语，前往法国并于1921年获得执照。她成为著名的特技飞行员，拒绝在不接纳非裔美国人的场地表演。她34岁时在准备航空表演时因飞机失事去世。",
+    "achievements": [
+      "First African-American and Native American woman pilot",
+      "Earned license in France after U.S. rejection",
+      "Pioneered racial integration in aviation"
+    ],
+    "achievementsCn": [
+      "第一位非裔美国和美洲原住民女飞行员",
+      "在被美国拒绝后在法国获得执照",
+      "开创了航空界的种族融合"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bessie_Coleman%2C_First_African_American_Pilot_-_GPN-2004-00027.jpg",
+    "quote": "I refused to take no for an answer.",
+    "quoteCn": "我拒绝接受否定的回答。",
+    "quoteSource": "Attributed, from biographical accounts",
+    "references": [
+      "Wikipedia: Bessie Coleman — https://en.wikipedia.org/wiki/Bessie_Coleman",
+      "Rich, Doris L. Queen Bess: Daredevil Aviator. Smithsonian, 1993."
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Beatrice Shilling",
+    "nameCn": "比阿特丽斯·希林",
+    "slug": "beatrice-shilling",
+    "field": "engineering",
+    "born": 1909,
+    "died": 1990,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Engineer Who Saved RAF Pilots in WWII",
+    "taglineCn": "二战中拯救RAF飞行员的工程师",
+    "bio": "Beatrice Shilling was a British aeronautical engineer whose simple yet brilliant invention saved countless RAF pilots' lives during World War II. She designed a small metal disc — nicknamed 'Miss Shilling's Orifice' — that prevented Merlin engines in Spitfires and Hurricanes from cutting out during negative-G maneuvers. She was also an accomplished motorcycle racer who earned the coveted Brooklands Gold Star.",
+    "bioCn": "比阿特丽斯·希林是一位英国航空工程师，她简单而巧妙的发明在二战中挽救了无数RAF飞行员的生命。她设计了一个小金属盘——被戏称为'希林小姐的孔'——防止喷火式和飓风式战斗机的梅林发动机在负G机动时熄火。她还是一位出色的摩托车赛车手，获得了令人梦寐以求的布鲁克兰兹金星。",
+    "achievements": [
+      "Invented device saving RAF pilots in WWII",
+      "Solved engine failure problem in Spitfires and Hurricanes",
+      "Earned Brooklands Gold Star in motorcycle racing"
+    ],
+    "achievementsCn": [
+      "发明了二战中挽救RAF飞行员的装置",
+      "解决了喷火式和飓风式战斗机的发动机故障问题",
+      "在摩托车赛中获得布鲁克兰兹金星"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Beatrice Shilling — https://en.wikipedia.org/wiki/Beatrice_Shilling"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Gwynne Shotwell",
+    "nameCn": "格温·肖特韦尔",
+    "slug": "gwynne-shotwell",
+    "field": "engineering",
+    "born": 1963,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "President of SpaceX",
+    "taglineCn": "SpaceX总裁",
+    "bio": "Gwynne Shotwell has served as President and COO of SpaceX since 2008, managing day-to-day operations and business development for the company that has revolutionized space transportation. Under her leadership, SpaceX developed reusable rockets, launched astronauts to the International Space Station, and built the Starlink satellite network. She was inspired to pursue engineering after attending a talk by a woman mechanical engineer as a teenager.",
+    "bioCn": "格温·肖特韦尔自2008年以来一直担任SpaceX总裁兼首席运营官，管理这家彻底改变太空运输的公司的日常运营和业务发展。在她的领导下，SpaceX开发了可重复使用的火箭、将宇航员送入国际空间站、并建立了星链卫星网络。她是在少年时参加一位女机械工程师的演讲后受到启发而从事工程的。",
+    "achievements": [
+      "President and COO of SpaceX since 2008",
+      "Led development of reusable rocket technology",
+      "Oversaw Starlink satellite network deployment"
+    ],
+    "achievementsCn": [
+      "自2008年起担任SpaceX总裁兼COO",
+      "领导可重复使用火箭技术的开发",
+      "监督星链卫星网络部署"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Gwynne Shotwell — https://en.wikipedia.org/wiki/Gwynne_Shotwell",
+      "SpaceX company profile"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Limor Fried",
+    "nameCn": "利莫·弗里德",
+    "slug": "limor-fried",
+    "field": "engineering",
+    "born": 1979,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Open-Source Hardware Pioneer",
+    "taglineCn": "开源硬件先驱",
+    "bio": "Limor Fried is the founder and lead engineer of Adafruit Industries, one of the world's leading open-source hardware companies. An MIT-trained engineer, she has been a leading voice in the maker movement and open-source hardware community. In 2012, she became the first female engineer on the cover of WIRED magazine. Adafruit has grown into a company that educates and empowers millions of people to learn electronics.",
+    "bioCn": "利莫·弗里德是Adafruit Industries的创始人和首席工程师，这是世界领先的开源硬件公司之一。作为MIT培养的工程师，她一直是创客运动和开源硬件社区的领军人物。2012年，她成为第一位登上《连线》杂志封面的女性工程师。Adafruit已发展成为一家教育和赋能数百万人学习电子技术的公司。",
+    "achievements": [
+      "Founded Adafruit Industries",
+      "First female engineer on the cover of WIRED",
+      "Pioneer of open-source hardware movement"
+    ],
+    "achievementsCn": [
+      "创立Adafruit Industries",
+      "第一位登上《连线》杂志封面的女性工程师",
+      "开源硬件运动先驱"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Limor_Fried_-_PopTech_2012_-_Camden_Maine_USA_%288092095792%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Limor Fried — https://en.wikipedia.org/wiki/Limor_Fried",
+      "Adafruit Industries — https://www.adafruit.com/"
+    ]
+  }
+]

@@ -1,0 +1,360 @@
+[
+  {
+    "id": 91,
+    "name": "Dorothy Vaughan",
+    "nameCn": "多萝西·沃恩",
+    "slug": "dorothy-vaughan",
+    "field": "data-science-ai",
+    "born": 1910,
+    "died": 2008,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "NASA's First African-American Manager",
+    "taglineCn": "NASA第一位非裔美国管理者",
+    "bio": "Dorothy Vaughan was a mathematician and NASA's first African-American manager. She led the West Area Computers, a group of African-American women mathematicians who performed complex calculations for the space program during the era of segregation. When electronic computers arrived, she taught herself and her team FORTRAN programming, ensuring they remained vital to NASA's operations. Her story was told in the book and film Hidden Figures.",
+    "bioCn": "多萝西·沃恩是一位数学家和NASA第一位非裔美国管理者。在种族隔离时代，她领导西区计算员——一群为太空项目进行复杂计算的非裔美国女数学家。当电子计算机到来时，她自学并教团队FORTRAN编程，确保她们对NASA的运营仍然至关重要。她的故事在书籍和电影《隐藏人物》中被讲述。",
+    "achievements": [
+      "NASA's first African-American manager",
+      "Led West Area Computers group",
+      "Self-taught FORTRAN programming to adapt to electronic computers"
+    ],
+    "achievementsCn": [
+      "NASA第一位非裔美国管理者",
+      "领导西区计算员团队",
+      "自学FORTRAN编程以适应电子计算机"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dorothy_Vaughan.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Dorothy Vaughan — https://en.wikipedia.org/wiki/Dorothy_Vaughan",
+      "Shetterly, Margot Lee. Hidden Figures. William Morrow, 2016."
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Annie Easley",
+    "nameCn": "安妮·伊斯利",
+    "slug": "annie-easley",
+    "field": "data-science-ai",
+    "born": 1933,
+    "died": 2011,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "NASA Computer Scientist and Rocket Pioneer",
+    "taglineCn": "NASA计算机科学家和火箭先驱",
+    "bio": "Annie Easley was an African-American computer scientist and mathematician who worked at NASA for 34 years. She developed and implemented code for the Centaur rocket stage, which launched the first missions to explore other planets. She also contributed to energy-conversion systems and battery technology that laid the groundwork for hybrid vehicles. Throughout her career, she faced racial discrimination but remained a fierce advocate for equal opportunity in STEM.",
+    "bioCn": "安妮·伊斯利是一位非裔美国计算机科学家和数学家，在NASA工作了34年。她为半人马座火箭级开发和实施了代码，该火箭发射了探索其他行星的第一批任务。她还为能量转换系统和电池技术做出了贡献，这为混合动力汽车奠定了基础。在她的整个职业生涯中，她面临种族歧视但始终是STEM领域机会平等的坚定倡导者。",
+    "achievements": [
+      "Developed code for the Centaur rocket stage",
+      "Contributed to battery technology for hybrid vehicles",
+      "34-year career at NASA as a computer scientist"
+    ],
+    "achievementsCn": [
+      "为半人马座火箭级开发代码",
+      "为混合动力汽车的电池技术做出贡献",
+      "在NASA担任34年计算机科学家"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Annie_Easley_in_1955.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Annie Easley — https://en.wikipedia.org/wiki/Annie_Easley",
+      "NASA Glenn Research Center oral history, 2001"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Mary Allen Wilkes",
+    "nameCn": "玛丽·艾伦·威尔克斯",
+    "slug": "mary-allen-wilkes",
+    "field": "data-science-ai",
+    "born": 1937,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Home Computer User",
+    "taglineCn": "第一位家用电脑用户",
+    "bio": "Mary Allen Wilkes was a pioneering computer programmer who became the first person to have a personal computer in her home. While working at MIT Lincoln Laboratory, she designed the operating system for the LINC, often considered the first minicomputer. In 1965, she took a LINC home to continue her work — years before personal computers existed commercially. She later became a lawyer, but her early work helped envision the personal computing revolution.",
+    "bioCn": "玛丽·艾伦·威尔克斯是一位开创性的计算机程序员，她成为第一个在家中拥有个人电脑的人。在MIT林肯实验室工作时，她为LINC设计了操作系统——LINC通常被认为是第一台小型计算机。1965年，她把一台LINC带回家继续工作——比个人电脑商业化早了好几年。她后来成为律师，但她的早期工作帮助构想了个人计算革命。",
+    "achievements": [
+      "First person to use a computer at home (1965)",
+      "Designed the operating system for the LINC minicomputer",
+      "Pioneered the concept of personal computing"
+    ],
+    "achievementsCn": [
+      "第一个在家使用电脑的人（1965年）",
+      "为LINC小型计算机设计操作系统",
+      "开创了个人计算的概念"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Allen Wilkes — https://en.wikipedia.org/wiki/Mary_Allen_Wilkes"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Evelyn Boyd Granville",
+    "nameCn": "伊芙琳·博伊德·格兰维尔",
+    "slug": "evelyn-boyd-granville",
+    "field": "data-science-ai",
+    "born": 1924,
+    "died": 2023,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Second African-American Woman to Earn a Math PhD",
+    "taglineCn": "第二位获得数学博士学位的非裔美国女性",
+    "bio": "Evelyn Boyd Granville was the second African-American woman to receive a PhD in mathematics in the United States, earning her degree from Yale in 1949. She worked at IBM and later at NASA's Jet Propulsion Laboratory, where she developed computer programs for trajectory analysis during the Mercury and Apollo missions. She spent the latter part of her career teaching mathematics at universities, inspiring future generations.",
+    "bioCn": "伊芙琳·博伊德·格兰维尔是美国第二位获得数学博士学位的非裔美国女性，1949年从耶鲁大学获得学位。她在IBM和后来的NASA喷气推进实验室工作，在那里她为水星和阿波罗任务开发了轨迹分析计算机程序。她职业生涯的后期在大学教授数学，激励了未来的世代。",
+    "achievements": [
+      "Second African-American woman with a math PhD from Yale (1949)",
+      "Developed trajectory programs for Mercury and Apollo missions",
+      "Taught mathematics at multiple universities"
+    ],
+    "achievementsCn": [
+      "第二位从耶鲁获得数学博士的非裔美国女性（1949年）",
+      "为水星和阿波罗任务开发轨迹程序",
+      "在多所大学教授数学"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Evelyn Boyd Granville — https://en.wikipedia.org/wiki/Evelyn_Boyd_Granville"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Gladys West",
+    "nameCn": "格拉迪丝·韦斯特",
+    "slug": "gladys-west",
+    "field": "data-science-ai",
+    "born": 1930,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mathematical Mind Behind GPS",
+    "taglineCn": "GPS背后的数学头脑",
+    "bio": "Gladys West was a mathematician whose work at the Naval Surface Warfare Center was critical to the development of the Global Positioning System (GPS). She programmed an IBM computer to deliver precise calculations for an accurate geodetic Earth model, which became the basis for GPS technology. Her contributions were unknown to the public for decades until she was inducted into the Air Force Space and Missile Pioneers Hall of Fame in 2018.",
+    "bioCn": "格拉迪丝·韦斯特是一位数学家，她在海军水面作战中心的工作对全球定位系统（GPS）的开发至关重要。她为IBM计算机编程，提供精确计算以建立准确的大地测量地球模型，这成为了GPS技术的基础。她的贡献在几十年里不为公众所知，直到2018年她入选空军太空和导弹先驱名人堂。",
+    "achievements": [
+      "Mathematical modeling critical to GPS development",
+      "Inducted into Air Force Space and Missile Pioneers Hall of Fame",
+      "Programmed precise geodetic Earth model"
+    ],
+    "achievementsCn": [
+      "对GPS开发至关重要的数学建模",
+      "入选空军太空和导弹先驱名人堂",
+      "编程精确的大地测量地球模型"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Gladys West — https://en.wikipedia.org/wiki/Gladys_West",
+      "USAF Hall of Fame induction, 2018"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Cynthia Breazeal",
+    "nameCn": "辛西娅·布雷齐尔",
+    "slug": "cynthia-breazeal",
+    "field": "data-science-ai",
+    "born": 1967,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Social Robotics",
+    "taglineCn": "社交机器人先驱",
+    "bio": "Cynthia Breazeal is a roboticist and professor at MIT who pioneered the field of social robotics. She designed Kismet, one of the first robots capable of recognizing and simulating human emotions, and later created Jibo, described as the world's first social robot for the home. Her work explores how robots can interact with humans as collaborative partners rather than mere tools.",
+    "bioCn": "辛西娅·布雷齐尔是MIT的机器人学家和教授，开创了社交机器人领域。她设计了Kismet——第一批能够识别和模拟人类情感的机器人之一，后来又创造了Jibo——被描述为世界上第一个家用社交机器人。她的工作探索机器人如何作为协作伙伴而非仅仅是工具与人类互动。",
+    "achievements": [
+      "Created Kismet, early robot recognizing human emotions",
+      "Developed Jibo, first social robot for the home",
+      "Pioneered human-robot interaction research at MIT"
+    ],
+    "achievementsCn": [
+      "创造Kismet，早期识别人类情感的机器人",
+      "开发Jibo，第一个家用社交机器人",
+      "在MIT开创人机交互研究"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Cynthia_Breazeal_2014.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Cynthia Breazeal — https://en.wikipedia.org/wiki/Cynthia_Breazeal",
+      "Breazeal, C. Designing Sociable Robots. MIT Press, 2002."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Daphne Koller",
+    "nameCn": "达芙妮·科勒",
+    "slug": "daphne-koller",
+    "field": "data-science-ai",
+    "born": 1968,
+    "died": null,
+    "nationality": "Israeli-American",
+    "nationalityCn": "以色列裔美国人",
+    "tagline": "AI Pioneer and Coursera Co-founder",
+    "taglineCn": "AI先驱与Coursera联合创始人",
+    "bio": "Daphne Koller is a computer scientist whose work on probabilistic graphical models and machine learning has shaped modern artificial intelligence. As a Stanford professor, she co-founded Coursera in 2012, democratizing education by making university-level courses available to millions worldwide for free. She was awarded the MacArthur Fellowship and is a member of the National Academy of Sciences. She later founded Insitro, applying machine learning to drug discovery.",
+    "bioCn": "达芙妮·科勒是一位计算机科学家，她在概率图模型和机器学习方面的工作塑造了现代人工智能。作为斯坦福教授，她于2012年联合创立Coursera，通过向全球数百万人免费提供大学级课程来实现教育民主化。她获得了麦克阿瑟奖并是国家科学院成员。她后来创立了Insitro，将机器学习应用于药物发现。",
+    "achievements": [
+      "Co-founded Coursera, educating millions worldwide",
+      "MacArthur Fellowship recipient",
+      "Pioneer of probabilistic graphical models in AI"
+    ],
+    "achievementsCn": [
+      "联合创立Coursera，教育全球数百万人",
+      "获得麦克阿瑟奖",
+      "AI概率图模型先驱"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Daphne_Koller_2015.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Daphne Koller — https://en.wikipedia.org/wiki/Daphne_Koller",
+      "Coursera co-founder — https://www.coursera.org/"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Joy Buolamwini",
+    "nameCn": "乔伊·布兰维尼",
+    "slug": "joy-buolamwini",
+    "field": "data-science-ai",
+    "born": 1989,
+    "died": null,
+    "nationality": "Ghanaian-Canadian-American",
+    "nationalityCn": "加纳裔加拿大裔美国人",
+    "tagline": "Champion of Algorithmic Justice",
+    "taglineCn": "算法公正倡导者",
+    "bio": "Joy Buolamwini is a computer scientist and digital activist who founded the Algorithmic Justice League after discovering significant racial and gender bias in commercial facial recognition systems. Her MIT research showed that facial analysis software from major tech companies had error rates up to 34% higher for darker-skinned women compared to lighter-skinned men. Her work has led to concrete policy changes and corporate accountability in AI development.",
+    "bioCn": "乔伊·布兰维尼是一位计算机科学家和数字活动家，在发现商业面部识别系统中存在严重的种族和性别偏见后，创立了算法正义联盟。她在MIT的研究表明，主要科技公司的面部分析软件对深肤色女性的错误率比浅肤色男性高出34%。她的工作促成了AI开发方面的具体政策变化和企业问责。",
+    "achievements": [
+      "Founded the Algorithmic Justice League",
+      "Exposed racial and gender bias in AI facial recognition",
+      "Influenced policy changes in AI development"
+    ],
+    "achievementsCn": [
+      "创立算法正义联盟",
+      "揭露AI面部识别中的种族和性别偏见",
+      "影响AI开发的政策变化"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Joy Buolamwini — https://en.wikipedia.org/wiki/Joy_Buolamwini",
+      "Buolamwini, J. & Gebru, T. 'Gender Shades,' Proceedings of Machine Learning Research, 2018."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Timnit Gebru",
+    "nameCn": "蒂姆尼特·格布鲁",
+    "slug": "timnit-gebru",
+    "field": "data-science-ai",
+    "born": 1982,
+    "died": null,
+    "nationality": "Ethiopian-American",
+    "nationalityCn": "埃塞俄比亚裔美国人",
+    "tagline": "Leader in AI Ethics",
+    "taglineCn": "AI伦理领袖",
+    "bio": "Timnit Gebru is a computer scientist and advocate for ethical AI who co-founded Black in AI, a community of Black researchers in artificial intelligence. Her research highlighted the social and environmental costs of large language models and the disproportionate harm AI systems can cause to marginalized communities. She founded the Distributed AI Research Institute (DAIR) to conduct independent, community-rooted AI research.",
+    "bioCn": "蒂姆尼特·格布鲁是一位计算机科学家和AI伦理倡导者，她联合创立了Black in AI——一个人工智能领域黑人研究者社区。她的研究突出了大型语言模型的社会和环境成本，以及AI系统可能对边缘化社区造成的不成比例的伤害。她创立了分布式AI研究所（DAIR），进行独立的、以社区为根基的AI研究。",
+    "achievements": [
+      "Co-founded Black in AI community",
+      "Founded Distributed AI Research Institute (DAIR)",
+      "Highlighted social costs of large language models"
+    ],
+    "achievementsCn": [
+      "联合创立Black in AI社区",
+      "创立分布式AI研究所（DAIR）",
+      "突出大型语言模型的社会成本"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Timnit Gebru — https://en.wikipedia.org/wiki/Timnit_Gebru",
+      "Distributed AI Research Institute (DAIR) — https://www.dair-institute.org/"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Lisa Randall",
+    "nameCn": "丽莎·兰道尔",
+    "slug": "lisa-randall",
+    "field": "data-science-ai",
+    "born": 1962,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Theoretical Physicist Exploring Extra Dimensions",
+    "taglineCn": "探索额外维度的理论物理学家",
+    "bio": "Lisa Randall is a theoretical physicist at Harvard University whose work on particle physics and cosmology has proposed models involving extra dimensions of space. Her Randall-Sundrum model, developed with Raman Sundrum, suggests that our visible universe exists on a membrane within a higher-dimensional space. She is one of the most cited theoretical physicists in the world and has authored popular science books making complex physics accessible to general audiences.",
+    "bioCn": "丽莎·兰道尔是哈佛大学的理论物理学家，她在粒子物理学和宇宙学方面的工作提出了涉及空间额外维度的模型。她与拉曼·桑德鲁姆共同开发的兰道尔-桑德鲁姆模型表明，我们可见的宇宙存在于更高维空间中的一个膜上。她是世界上被引用最多的理论物理学家之一，还撰写了科普书籍，使复杂的物理学对普通读者变得易于理解。",
+    "achievements": [
+      "Developed the Randall-Sundrum model of extra dimensions",
+      "Most cited theoretical physicist in the world",
+      "Best-selling author making physics accessible"
+    ],
+    "achievementsCn": [
+      "开发兰道尔-桑德鲁姆额外维度模型",
+      "世界上被引用最多的理论物理学家",
+      "畅销书作者，使物理学变得易懂"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Harvard_physicist_Lisa_Randall_2006.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Lisa Randall — https://en.wikipedia.org/wiki/Lisa_Randall",
+      "Randall, L. Warped Passages. Ecco Press, 2005."
+    ]
+  }
+]

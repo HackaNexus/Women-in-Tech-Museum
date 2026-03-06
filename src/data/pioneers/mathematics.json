@@ -1,0 +1,367 @@
+[
+  {
+    "id": 16,
+    "name": "Hypatia",
+    "nameCn": "希帕提娅",
+    "slug": "hypatia",
+    "field": "mathematics",
+    "born": 360,
+    "died": 415,
+    "nationality": "Roman Egyptian",
+    "nationalityCn": "罗马埃及",
+    "tagline": "Ancient World's Greatest Woman Scholar",
+    "taglineCn": "古代世界最伟大的女性学者",
+    "bio": "Hypatia of Alexandria was a philosopher, mathematician, and astronomer who led the Neoplatonic school in Alexandria. She edited mathematical works, built astrolabes and hydrometers, and taught students from across the Mediterranean world. Renowned for her wisdom and eloquence, she was murdered by a Christian mob in 415 CE, making her a symbol of intellectual freedom and the pursuit of knowledge against intolerance.",
+    "bioCn": "亚历山大的希帕提娅是一位哲学家、数学家和天文学家，领导着亚历山大的新柏拉图学派。她编辑数学著作、制造星盘和比重计，并教授来自地中海世界各地的学生。她以智慧和雄辩著称，于公元415年被基督教暴徒杀害，成为了知识自由和对抗不容忍的象征。",
+    "achievements": [
+      "Led the Neoplatonic school in Alexandria",
+      "Edited works on conic sections and number theory",
+      "Built astronomical instruments"
+    ],
+    "achievementsCn": [
+      "领导亚历山大新柏拉图学派",
+      "编辑圆锥曲线和数论著作",
+      "制造天文仪器"
+    ],
+    "era": "Ancient",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hypatia_portrait.png",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Hypatia — https://en.wikipedia.org/wiki/Hypatia",
+      "Watts, Edward J. Hypatia: The Life and Legend of an Ancient Philosopher. Oxford Univ Press, 2017.",
+      "Dzielska, Maria. Hypatia of Alexandria. Harvard Univ Press, 1995."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sophie Germain",
+    "nameCn": "索菲·热尔曼",
+    "slug": "sophie-germain",
+    "field": "mathematics",
+    "born": 1776,
+    "died": 1831,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Self-Taught Mathematical Genius",
+    "taglineCn": "自学成才的数学天才",
+    "bio": "Sophie Germain taught herself mathematics from books in her father's library during the French Revolution, when women were barred from universities. She corresponded with Lagrange and Gauss under a male pseudonym, and her work on Fermat's Last Theorem and elasticity theory earned her the respect of the mathematical community. Gauss later said she proved that women can accomplish remarkable work in the most rigorous sciences.",
+    "bioCn": "法国大革命期间，当女性被禁止进入大学时，索菲·热尔曼在父亲的图书馆里自学数学。她以男性笔名与拉格朗日和高斯通信，她在费马大定理和弹性理论方面的工作为她赢得了数学界的尊重。高斯后来说她证明了女性能够在最严谨的科学中取得非凡成就。",
+    "achievements": [
+      "Major contributions to number theory and Fermat's Last Theorem",
+      "Pioneered mathematical elasticity theory",
+      "Won the French Academy Prize for her work on vibrating surfaces"
+    ],
+    "achievementsCn": [
+      "对数论和费马大定理做出重大贡献",
+      "开创了数学弹性理论",
+      "因振动表面研究获法国科学院奖"
+    ],
+    "era": "18th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Germain.jpeg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Sophie Germain — https://en.wikipedia.org/wiki/Sophie_Germain",
+      "Laubenbacher, R. & Pengelley, D. 'Voici ce que j'ai trouvé: Sophie Germain's grand plan,' Historia Mathematica, 2010."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Emmy Noether",
+    "nameCn": "埃米·诺特",
+    "slug": "emmy-noether",
+    "field": "mathematics",
+    "born": 1882,
+    "died": 1935,
+    "nationality": "German",
+    "nationalityCn": "德国",
+    "tagline": "The Mother of Modern Algebra",
+    "taglineCn": "现代代数之母",
+    "bio": "Emmy Noether transformed abstract algebra and theoretical physics. Noether's theorem, which proves a deep connection between symmetries and conservation laws, is considered one of the most important theorems in physics. Einstein called her 'the most significant creative mathematical genius thus far produced since the higher education of women began.' Despite her brilliance, she faced persistent gender discrimination and was never granted a full professorship in Germany.",
+    "bioCn": "埃米·诺特改变了抽象代数和理论物理。诺特定理证明了对称性和守恒定律之间的深层联系，被认为是物理学中最重要的定理之一。爱因斯坦称她为'自女性高等教育开始以来最重要的创造性数学天才'。尽管才华横溢，她始终面对性别歧视，在德国从未获得正式教授职位。",
+    "achievements": [
+      "Formulated Noether's theorem linking symmetry and conservation",
+      "Revolutionized abstract algebra",
+      "Called the most important woman in mathematics history"
+    ],
+    "achievementsCn": [
+      "提出诺特定理，连接对称性和守恒定律",
+      "革新了抽象代数",
+      "被称为数学史上最重要的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Noether.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Emmy Noether — https://en.wikipedia.org/wiki/Emmy_Noether",
+      "Angier, Natalie. 'The Mighty Mathematician You've Never Heard Of.' The New York Times, 2012.",
+      "Dick, Auguste. Emmy Noether 1882–1935. Birkhäuser, 1981."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sofia Kovalevskaya",
+    "nameCn": "索菲亚·柯瓦列夫斯卡娅",
+    "slug": "sofia-kovalevskaya",
+    "field": "mathematics",
+    "born": 1850,
+    "died": 1891,
+    "nationality": "Russian",
+    "nationalityCn": "俄国",
+    "tagline": "Europe's First Female Mathematics PhD",
+    "taglineCn": "欧洲首位数学女博士",
+    "bio": "Sofia Kovalevskaya entered a fictitious marriage to leave Russia and study mathematics in Europe, where women could not enroll independently. She became the first woman in Europe to earn a doctorate in mathematics and the first woman appointed to a full professorship in Northern Europe, at Stockholm University. Her work on partial differential equations and the rotation of rigid bodies remains influential.",
+    "bioCn": "索菲亚·柯瓦列夫斯卡娅通过假结婚离开俄国到欧洲学习数学，因为那里的女性不能独立注册入学。她成为欧洲第一位获得数学博士学位的女性，也是北欧第一位被任命为正教授的女性，任教于斯德哥尔摩大学。她在偏微分方程和刚体旋转方面的工作至今仍有影响力。",
+    "achievements": [
+      "First woman in Europe to earn a mathematics PhD",
+      "First female full professor in Northern Europe",
+      "Major contributions to differential equations and mechanics"
+    ],
+    "achievementsCn": [
+      "欧洲第一位获数学博士的女性",
+      "北欧第一位女性正教授",
+      "对微分方程和力学做出重大贡献"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sofja_Wassiljewna_Kowalewskaja_1_%28cropped%29.jpg",
+    "quote": "Say what you know, do what you must, come what may.",
+    "quoteCn": "说你所知，做你所必须，任凭后果。",
+    "quoteSource": "Motto inscribed on her papers",
+    "references": [
+      "Wikipedia: Sofia Kovalevskaya — https://en.wikipedia.org/wiki/Sofia_Kovalevskaya",
+      "Koblitz, Ann Hibner. A Convergence of Lives: Sofia Kovalevskaia. Birkhäuser, 1983."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Maryam Mirzakhani",
+    "nameCn": "玛丽亚姆·米尔扎哈尼",
+    "slug": "maryam-mirzakhani",
+    "field": "mathematics",
+    "born": 1977,
+    "died": 2017,
+    "nationality": "Iranian",
+    "nationalityCn": "伊朗",
+    "tagline": "First Woman to Win the Fields Medal",
+    "taglineCn": "首位菲尔兹奖女性得主",
+    "bio": "Maryam Mirzakhani grew up in Tehran and won two gold medals at the International Mathematical Olympiad as a teenager. In 2014, she became the first woman — and the first Iranian — to receive the Fields Medal, mathematics' highest honor, for her groundbreaking work on the dynamics and geometry of Riemann surfaces. She died of breast cancer at age 40, but her legacy continues to inspire mathematicians worldwide.",
+    "bioCn": "玛丽亚姆·米尔扎哈尼在德黑兰长大，少年时在国际数学奥林匹克竞赛中获得两枚金牌。2014年，她因在黎曼曲面的动力学和几何学方面的开创性工作，成为第一位——也是第一位伊朗人——获得菲尔兹奖——数学最高荣誉的女性。她40岁因乳腺癌去世，但她的遗产继续激励着全世界的数学家。",
+    "achievements": [
+      "First woman to receive the Fields Medal (2014)",
+      "Groundbreaking work on Riemann surfaces",
+      "Won two gold medals at International Math Olympiad"
+    ],
+    "achievementsCn": [
+      "首位获得菲尔兹奖的女性（2014年）",
+      "在黎曼曲面方面的开创性工作",
+      "国际数学奥林匹克竞赛两枚金牌"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Maryam_Mirzakhani_%282014%29.jpg",
+    "quote": "The beauty of mathematics only shows itself to more patient followers.",
+    "quoteCn": "数学之美只向更有耐心的追随者展现。",
+    "quoteSource": "Stanford memorial tribute",
+    "references": [
+      "Wikipedia: Maryam Mirzakhani — https://en.wikipedia.org/wiki/Maryam_Mirzakhani",
+      "Stanford News: Memorial — https://news.stanford.edu/",
+      "Fields Medal citation, International Mathematical Union, 2014."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Mary Cartwright",
+    "nameCn": "玛丽·卡特赖特",
+    "slug": "mary-cartwright",
+    "field": "mathematics",
+    "born": 1900,
+    "died": 1998,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Chaos Theory",
+    "taglineCn": "混沌理论先驱",
+    "bio": "Mary Cartwright was a British mathematician whose wartime research on radio waves with J.E. Littlewood uncovered some of the first examples of what would later be called chaos theory. She became the first woman to receive the Sylvester Medal, the first woman elected to the Royal Society's council, and the first female president of the London Mathematical Society.",
+    "bioCn": "玛丽·卡特赖特是一位英国数学家，她与利特尔伍德在战时对无线电波的研究中发现了后来被称为混沌理论的一些最早的例子。她成为第一位获得西尔维斯特奖章的女性、第一位当选皇家学会理事会成员的女性，以及伦敦数学学会第一位女性主席。",
+    "achievements": [
+      "Discovered early examples of chaos theory",
+      "First woman to receive the Sylvester Medal",
+      "First female president of the London Mathematical Society"
+    ],
+    "achievementsCn": [
+      "发现混沌理论的早期例子",
+      "第一位获得西尔维斯特奖章的女性",
+      "伦敦数学学会第一位女性主席"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mary_Cartwright.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Cartwright — https://en.wikipedia.org/wiki/Mary_Cartwright",
+      "Royal Society biography"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Maria Gaetana Agnesi",
+    "nameCn": "玛利亚·加埃塔纳·阿涅西",
+    "slug": "maria-gaetana-agnesi",
+    "field": "mathematics",
+    "born": 1718,
+    "died": 1799,
+    "nationality": "Italian",
+    "nationalityCn": "意大利",
+    "tagline": "First Woman to Write a Mathematics Textbook",
+    "taglineCn": "第一位编写数学教科书的女性",
+    "bio": "Maria Gaetana Agnesi was an Italian mathematician and philosopher recognized as the first woman to write a mathematics textbook. Her two-volume work Instituzioni analitiche (1748) was one of the first comprehensive treatments of both differential and integral calculus. She was appointed to the chair of mathematics and natural philosophy at the University of Bologna — the first woman to hold such a position at any university.",
+    "bioCn": "玛利亚·加埃塔纳·阿涅西是一位意大利数学家和哲学家，被认为是第一位编写数学教科书的女性。她的两卷本著作《分析讲义》（1748年）是最早全面论述微积分的著作之一。她被任命为博洛尼亚大学数学和自然哲学教席——这是任何大学中第一位担任此职位的女性。",
+    "achievements": [
+      "Wrote first comprehensive calculus textbook by a woman",
+      "Appointed professor at University of Bologna",
+      "Studied the cubic curve known as 'Witch of Agnesi'"
+    ],
+    "achievementsCn": [
+      "编写了首部由女性撰写的综合微积分教科书",
+      "被任命为博洛尼亚大学教授",
+      "研究了被称为'阿涅西的女巫'的三次曲线"
+    ],
+    "era": "18th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Maria_Gaetana_Agnesi.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Maria Gaetana Agnesi — https://en.wikipedia.org/wiki/Maria_Gaetana_Agnesi",
+      "Mazzotti, Massimo. The World of Maria Gaetana Agnesi. Johns Hopkins Univ Press, 2007."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Florence Nightingale",
+    "nameCn": "弗洛伦斯·南丁格尔",
+    "slug": "florence-nightingale",
+    "field": "mathematics",
+    "born": 1820,
+    "died": 1910,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Statistical Graphics and Data Visualization",
+    "taglineCn": "统计图形与数据可视化先驱",
+    "bio": "While Florence Nightingale is celebrated as the founder of modern nursing, her revolutionary use of statistical analysis and data visualization is equally remarkable. She invented the polar area diagram — a type of pie chart — to dramatically illustrate that most soldiers in the Crimean War died from preventable diseases rather than battle wounds. Her statistical evidence convinced Parliament to reform military healthcare, saving countless lives through the power of data.",
+    "bioCn": "虽然弗洛伦斯·南丁格尔作为现代护理学的创始人而闻名，但她在统计分析和数据可视化方面的革命性运用同样引人注目。她发明了极坐标面积图——一种饼图——来戏剧性地说明克里米亚战争中大多数士兵死于可预防的疾病而非战伤。她的统计证据说服议会改革军事医疗保健，通过数据的力量挽救了无数生命。",
+    "achievements": [
+      "Invented the polar area diagram (coxcomb chart)",
+      "Pioneered use of statistics in public health policy",
+      "First female member of the Royal Statistical Society"
+    ],
+    "achievementsCn": [
+      "发明极坐标面积图（鸡冠花图）",
+      "开创了统计学在公共卫生政策中的应用",
+      "皇家统计学会第一位女性成员"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
+    "quote": "I think one's feelings waste themselves in words; they ought all to be distilled into actions which bring results.",
+    "quoteCn": "我认为人的感情浪费在言语中；它们应该全部提炼为带来成果的行动。",
+    "quoteSource": "From personal letters",
+    "references": [
+      "Wikipedia: Florence Nightingale — https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "McDonald, Lynn (ed). The Collected Works of Florence Nightingale. Wilfrid Laurier Univ Press, 2001–2012.",
+      "Bostridge, Mark. Florence Nightingale: The Making of an Icon. Farrar, Straus and Giroux, 2008."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Wang Zhenyi",
+    "nameCn": "王贞仪",
+    "slug": "wang-zhenyi",
+    "field": "mathematics",
+    "born": 1768,
+    "died": 1797,
+    "nationality": "Chinese",
+    "nationalityCn": "中国",
+    "tagline": "Qing Dynasty Astronomer and Mathematician",
+    "taglineCn": "清代天文数学家",
+    "bio": "Wang Zhenyi was a remarkable Qing Dynasty scholar who mastered mathematics, astronomy, and poetry despite living in an era when women's education was severely limited. She wrote accessible explanations of complex mathematical concepts and correctly explained lunar eclipses through ingenious home experiments using a round table as the globe, a lamp as the sun, and a mirror as the moon. She died at just 29 but left behind a body of work that challenged both scientific and social conventions.",
+    "bioCn": "王贞仪是清代一位杰出的学者，尽管生活在女性教育极为有限的时代，她仍精通数学、天文学和诗歌。她为复杂的数学概念撰写了通俗易懂的解释，并通过巧妙的家庭实验——用圆桌代表地球、灯代表太阳、镜子代表月球——正确解释了月食现象。她年仅29岁去世，但留下的著作同时挑战了科学和社会的传统。",
+    "achievements": [
+      "Correctly explained lunar eclipses through home experiments",
+      "Made mathematics accessible to wider audiences",
+      "Published works on astronomy, mathematics, and poetry"
+    ],
+    "achievementsCn": [
+      "通过家庭实验正确解释月食",
+      "使数学对更广泛的受众变得易懂",
+      "发表天文学、数学和诗歌著作"
+    ],
+    "era": "18th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Wang Zhenyi (astronomer) — https://en.wikipedia.org/wiki/Wang_Zhenyi_(astronomer)",
+      "Peterson, Andrea. '4000 Years of Women in Science.'"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Katherine Johnson",
+    "nameCn": "凯瑟琳·约翰逊",
+    "slug": "katherine-johnson",
+    "field": "mathematics",
+    "born": 1918,
+    "died": 2020,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "The Human Computer Behind the Moon Landing",
+    "taglineCn": "登月背后的'人体计算机'",
+    "bio": "Katherine Johnson was a mathematician whose orbital mechanics calculations at NASA were critical to the success of American crewed spaceflight. As an African-American woman working in the segregated South, she broke barriers daily. John Glenn personally requested that she verify the electronic computer's trajectory calculations before his orbital flight. Her story was popularized by the book and film Hidden Figures. She received the Presidential Medal of Freedom in 2015 at age 97.",
+    "bioCn": "凯瑟琳·约翰逊是一位数学家，她在NASA进行的轨道力学计算对美国载人航天的成功至关重要。作为一位在种族隔离南方工作的非裔美国女性，她每天都在打破壁垒。约翰·格伦亲自要求她在他的轨道飞行前验证电子计算机的轨迹计算。她的故事因书籍和电影《隐藏人物》而广为人知。她在97岁时获得了总统自由勋章。",
+    "achievements": [
+      "Calculated trajectory for first American orbital spaceflight",
+      "Verified computer calculations for Apollo 11",
+      "Received Presidential Medal of Freedom (2015)"
+    ],
+    "achievementsCn": [
+      "计算了美国首次轨道航天飞行的轨迹",
+      "为阿波罗11号验证计算机计算",
+      "获得总统自由勋章（2015年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Katherine_Johnson_1983.jpg",
+    "quote": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed.",
+    "quoteCn": "我数一切东西。数走到路上的步数、上教堂的台阶、洗了多少碗碟和银器。",
+    "quoteSource": "From interviews, documented in NASA oral histories",
+    "references": [
+      "Wikipedia: Katherine Johnson — https://en.wikipedia.org/wiki/Katherine_Johnson",
+      "Shetterly, Margot Lee. Hidden Figures. William Morrow, 2016.",
+      "NASA: Katherine Johnson biography — https://www.nasa.gov/"
+    ]
+  }
+]

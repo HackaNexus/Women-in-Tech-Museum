@@ -1,0 +1,218 @@
+[
+  {
+    "id": 80,
+    "name": "Eunice Newton Foote",
+    "nameCn": "尤尼斯·牛顿·富特",
+    "slug": "eunice-newton-foote",
+    "field": "earth-environment",
+    "born": 1819,
+    "died": 1888,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First to Discover the Greenhouse Effect",
+    "taglineCn": "第一个发现温室效应的人",
+    "bio": "Eunice Newton Foote was the first scientist to demonstrate the greenhouse effect of carbon dioxide. In 1856 — three years before John Tyndall's more famous experiments — she showed that a cylinder of CO2 heated more in sunlight than one filled with air, and that it cooled more slowly. As a woman, she was not allowed to present her own paper at the AAAS meeting; a male colleague read it for her. Her work was forgotten for over 150 years.",
+    "bioCn": "尤尼斯·牛顿·富特是第一位证明二氧化碳温室效应的科学家。1856年——比约翰·廷德尔更著名的实验早三年——她表明装有CO2的圆筒在阳光下比装满空气的加热更多，冷却更慢。作为一名女性，她不被允许在AAAS会议上宣读自己的论文；由一位男同事代为宣读。她的工作被遗忘了150多年。",
+    "achievements": [
+      "First to demonstrate CO2 greenhouse effect (1856)",
+      "Preceded Tyndall's experiments by three years",
+      "Work rediscovered after 150+ years"
+    ],
+    "achievementsCn": [
+      "第一个证明CO2温室效应（1856年）",
+      "比廷德尔的实验早三年",
+      "工作在150多年后被重新发现"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Eunice Newton Foote — https://en.wikipedia.org/wiki/Eunice_Newton_Foote",
+      "Foote, E.N. 'Circumstances Affecting the Heat of the Sun's Rays,' American Journal of Science, 1856."
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Inge Lehmann",
+    "nameCn": "英格·莱曼",
+    "slug": "inge-lehmann",
+    "field": "earth-environment",
+    "born": 1888,
+    "died": 1993,
+    "nationality": "Danish",
+    "nationalityCn": "丹麦",
+    "tagline": "Discovered Earth's Inner Core",
+    "taglineCn": "发现了地球内核",
+    "bio": "Inge Lehmann was a Danish seismologist who discovered that Earth has a solid inner core within its liquid outer core. By analyzing seismic waves from earthquakes, she proposed in 1936 that the Earth's core is not a single molten sphere, as previously believed, but has a solid inner part. She lived to 104, making her one of the longest-lived scientists in history, and continued publishing research into her 70s.",
+    "bioCn": "英格·莱曼是一位丹麦地震学家，她发现地球在液态外核内有一个固态内核。通过分析地震产生的地震波，她于1936年提出地球的核心不像之前认为的那样是单一的熔融球体，而是有一个固态的内部。她活到了104岁，成为历史上最长寿的科学家之一，70多岁仍在发表研究。",
+    "achievements": [
+      "Discovered Earth's solid inner core (1936)",
+      "Lived to age 104",
+      "Fundamentally changed understanding of Earth's structure"
+    ],
+    "achievementsCn": [
+      "发现地球固态内核（1936年）",
+      "活到104岁",
+      "从根本上改变了对地球结构的理解"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Inge_Lehmann.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Inge Lehmann — https://en.wikipedia.org/wiki/Inge_Lehmann",
+      "Lehmann, I. 'P',' Publications du Bureau Central Séismologique International, 1936."
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Marie Tharp",
+    "nameCn": "玛丽·萨普",
+    "slug": "marie-tharp",
+    "field": "earth-environment",
+    "born": 1920,
+    "died": 2006,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mapped the Ocean Floor",
+    "taglineCn": "绘制了海底地图",
+    "bio": "Marie Tharp created the first comprehensive map of the ocean floor, revealing the Mid-Atlantic Ridge and providing crucial evidence for the theory of plate tectonics and continental drift. Banned from research ships because she was a woman, she worked from shore analyzing sonar data. When she first identified the rift valley, her colleague Bruce Heezen dismissed her findings as 'girl talk.' Her maps fundamentally changed our understanding of Earth's geology.",
+    "bioCn": "玛丽·萨普创建了第一张综合性海底地图，揭示了大西洋中脊，为板块构造和大陆漂移理论提供了关键证据。因为她是女性而被禁止上研究船，她在岸上工作分析声纳数据。当她首次发现裂谷时，她的同事布鲁斯·黑曾将她的发现斥为'女人话'。她的地图从根本上改变了我们对地球地质的理解。",
+    "achievements": [
+      "Created first comprehensive map of the ocean floor",
+      "Discovered the Mid-Atlantic Ridge rift valley",
+      "Provided key evidence for plate tectonics theory"
+    ],
+    "achievementsCn": [
+      "创建第一张综合性海底地图",
+      "发现大西洋中脊裂谷",
+      "为板块构造理论提供关键证据"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Marie_Tharp_in_her_lab.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Marie Tharp — https://en.wikipedia.org/wiki/Marie_Tharp",
+      "Felt, Hali. Soundings: The Story of the Remarkable Woman Who Mapped the Ocean Floor. Henry Holt, 2012."
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Wangari Maathai",
+    "nameCn": "旺加里·马塔伊",
+    "slug": "wangari-maathai",
+    "field": "earth-environment",
+    "born": 1940,
+    "died": 2011,
+    "nationality": "Kenyan",
+    "nationalityCn": "肯尼亚",
+    "tagline": "Nobel Peace Prize for Environmental Conservation",
+    "taglineCn": "因环境保护获诺贝尔和平奖",
+    "bio": "Wangari Maathai was the first African woman to receive the Nobel Peace Prize (2004) for her contribution to sustainable development, democracy, and peace through her Green Belt Movement. She mobilized rural women across Kenya to plant over 51 million trees, combating deforestation and providing livelihoods. She was also the first woman in East and Central Africa to earn a PhD and the first female professor in Kenya.",
+    "bioCn": "旺加里·马塔伊是第一位获得诺贝尔和平奖（2004年）的非洲女性，表彰她通过绿带运动对可持续发展、民主和和平的贡献。她动员肯尼亚各地的农村妇女种植了超过5100万棵树，对抗森林砍伐并提供生计。她还是东非和中非第一位获得博士学位的女性，也是肯尼亚第一位女性教授。",
+    "achievements": [
+      "Nobel Peace Prize (2004) for environmental conservation",
+      "Green Belt Movement planted 51+ million trees",
+      "First African woman to receive the Nobel Peace Prize"
+    ],
+    "achievementsCn": [
+      "因环境保护获诺贝尔和平奖（2004年）",
+      "绿带运动种植超过5100万棵树",
+      "第一位获诺贝尔和平奖的非洲女性"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wangari_Maathai_portrait_by_Martin_Rowe.jpg",
+    "quote": "It's the little things citizens do. That's what will make the difference. My little thing is planting trees.",
+    "quoteCn": "正是公民做的小事会带来改变。我的小事就是种树。",
+    "quoteSource": "Nobel lecture, 2004",
+    "references": [
+      "Wikipedia: Wangari Maathai — https://en.wikipedia.org/wiki/Wangari_Maathai",
+      "Nobel Prize: Wangari Maathai — https://www.nobelprize.org/prizes/peace/2004/maathai/",
+      "Maathai, W. Unbowed: A Memoir. Knopf, 2006."
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Sylvia Earle",
+    "nameCn": "西尔维亚·厄尔",
+    "slug": "sylvia-earle",
+    "field": "earth-environment",
+    "born": 1935,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Her Deepness — Queen of the Deep",
+    "taglineCn": "深海女王",
+    "bio": "Sylvia Earle is a marine biologist, explorer, and author who has been at the forefront of ocean exploration for over five decades. In 1979, she walked untethered on the sea floor at 381 meters depth — deeper than any human before. Known as 'Her Deepness,' she was the first female chief scientist of NOAA and has led over 100 expeditions. She founded Mission Blue, a global initiative to establish marine protected areas.",
+    "bioCn": "西尔维亚·厄尔是一位海洋生物学家、探险家和作家，五十多年来一直处于海洋探索的最前沿。1979年，她在381米深处无系绳行走于海底——比之前任何人都深。被称为'深海女王'，她是NOAA第一位女性首席科学家，领导了100多次探险。她创立了Mission Blue，一个建立海洋保护区的全球倡议。",
+    "achievements": [
+      "Set solo ocean depth record at 381 meters",
+      "First female chief scientist of NOAA",
+      "Led over 100 ocean expeditions"
+    ],
+    "achievementsCn": [
+      "创下381米独自海底深潜纪录",
+      "NOAA第一位女性首席科学家",
+      "领导100多次海洋探险"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Dr._Sylvia_Earle%2C_Construction_Worker%3F_%286666200905%29_%28cropped%29.jpg",
+    "quote": "No water, no life. No blue, no green.",
+    "quoteCn": "没有水就没有生命。没有蓝色就没有绿色。",
+    "quoteSource": "From TED Prize speech, 2009",
+    "references": [
+      "Wikipedia: Sylvia Earle — https://en.wikipedia.org/wiki/Sylvia_Earle",
+      "Earle, Sylvia. The World Is Blue. National Geographic, 2009."
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Katia Krafft",
+    "nameCn": "卡提亚·克拉夫特",
+    "slug": "katia-krafft",
+    "field": "earth-environment",
+    "born": 1942,
+    "died": 1991,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Pioneer Volcanologist",
+    "taglineCn": "火山学先驱",
+    "bio": "Katia Krafft was a French volcanologist who, together with her husband Maurice, documented volcanic eruptions around the world with extraordinary courage and scientific rigor. Their footage and photographs of eruptions from dangerously close range have been invaluable for volcanology and public safety. Their film of pyroclastic flows directly influenced evacuation procedures that saved tens of thousands of lives during the 1991 Mount Pinatubo eruption. Tragically, both Kraffts died in a pyroclastic flow at Mount Unzen, Japan, in 1991.",
+    "bioCn": "卡提亚·克拉夫特是一位法国火山学家，与丈夫莫里斯一起以非凡的勇气和科学严谨性记录了世界各地的火山喷发。他们在危险近距离拍摄的火山喷发影像和照片对火山学和公共安全具有无价的价值。他们拍摄的火山碎屑流影片直接影响了1991年皮纳图博火山喷发时的疏散程序，拯救了数万人的生命。不幸的是，两位克拉夫特于1991年在日本云仙岳的一次火山碎屑流中遇难。",
+    "achievements": [
+      "Pioneered close-range volcanic documentation",
+      "Footage saved tens of thousands during Pinatubo eruption",
+      "Documented over 150 volcanic eruptions worldwide"
+    ],
+    "achievementsCn": [
+      "开创近距离火山记录",
+      "影像在皮纳图博喷发期间拯救了数万人",
+      "在全球记录了150多次火山喷发"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Katia Krafft — https://en.wikipedia.org/wiki/Katia_Krafft"
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": 86,
+    "name": "Mary-Claire King",
+    "nameCn": "玛丽-克莱尔·金",
+    "slug": "mary-claire-king",
+    "field": "genetics-biotech",
+    "born": 1946,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered the BRCA1 Cancer Gene",
+    "taglineCn": "发现了BRCA1癌症基因",
+    "bio": "Mary-Claire King proved that breast cancer can be inherited through a single gene — BRCA1 — revolutionizing cancer research and prevention. Her discovery, made in 1990 after 17 years of research, enabled genetic testing that has saved countless lives through early detection. She also proved that humans and chimpanzees are 99% genetically identical and used DNA analysis to identify victims of Argentina's 'Dirty War,' reuniting stolen children with their biological families.",
+    "bioCn": "玛丽-克莱尔·金证明了乳腺癌可以通过单一基因——BRCA1——遗传，革新了癌症研究和预防。她的发现是在17年研究之后于1990年做出的，使基因检测成为可能，通过早期检测挽救了无数生命。她还证明人类和黑猩猩在基因上有99%相同，并利用DNA分析鉴定阿根廷'肮脏战争'的受害者，帮助被盗儿童与亲生家庭团聚。",
+    "achievements": [
+      "Discovered BRCA1 breast cancer gene",
+      "Proved 99% genetic similarity between humans and chimps",
+      "Used DNA to identify victims of Argentina's Dirty War"
+    ],
+    "achievementsCn": [
+      "发现BRCA1乳腺癌基因",
+      "证明人类和黑猩猩99%基因相似",
+      "利用DNA鉴定阿根廷肮脏战争受害者"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mary-Claire_King_-_World_Economic_Forum_Annual_Meeting_2012.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary-Claire King — https://en.wikipedia.org/wiki/Mary-Claire_King",
+      "King, M.C. et al. 'Breast and Ovarian Cancer Risks Due to Inherited Mutations in BRCA1 and BRCA2,' Science, 2003."
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Katalin Karikó",
+    "nameCn": "卡塔林·卡里科",
+    "slug": "katalin-kariko",
+    "field": "genetics-biotech",
+    "born": 1955,
+    "died": null,
+    "nationality": "Hungarian-American",
+    "nationalityCn": "匈牙利裔美国人",
+    "tagline": "Pioneer of mRNA Technology",
+    "taglineCn": "mRNA技术先驱",
+    "bio": "Katalin Karikó spent decades researching mRNA technology despite repeated rejections, demotions, and funding denials. Her persistence paid off spectacularly when her foundational work on modified mRNA enabled the rapid development of the Pfizer-BioNTech and Moderna COVID-19 vaccines, which have been administered billions of times worldwide. She received the 2023 Nobel Prize in Physiology or Medicine, vindicating decades of underfunded, underappreciated research.",
+    "bioCn": "卡塔林·卡里科尽管一再遭到拒绝、降职和资金否决，仍花了数十年研究mRNA技术。她的坚持获得了惊人的回报——她在修饰mRNA方面的基础工作使辉瑞-BioNTech和Moderna新冠疫苗得以快速开发，这些疫苗已在全球接种数十亿次。她获得了2023年诺贝尔生理学或医学奖，证明了数十年来资金不足、不受重视的研究的价值。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2023)",
+      "Foundational mRNA research enabled COVID-19 vaccines",
+      "Vaccines administered billions of times worldwide"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2023年）",
+      "基础mRNA研究使新冠疫苗成为可能",
+      "疫苗在全球接种数十亿次"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Katalin_Karik%C3%B3_on_22_May_2022.jpg",
+    "quote": "I thought of leaving science many times, but I always went back to the bench.",
+    "quoteCn": "我多次想过离开科学，但总是回到了实验台前。",
+    "quoteSource": "From interviews, The Guardian, 2021",
+    "references": [
+      "Wikipedia: Katalin Karikó — https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3",
+      "Nobel Prize: Katalin Karikó — https://www.nobelprize.org/prizes/medicine/2023/kariko/"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Flossie Wong-Staal",
+    "nameCn": "黄以静",
+    "slug": "flossie-wong-staal",
+    "field": "genetics-biotech",
+    "born": 1947,
+    "died": 2020,
+    "nationality": "Chinese-American",
+    "nationalityCn": "华裔美国人",
+    "tagline": "First to Clone and Map HIV Genome",
+    "taglineCn": "首次克隆和绘制HIV基因组图谱",
+    "bio": "Flossie Wong-Staal was the first scientist to clone HIV and determine the function of its genes, work that was essential for proving HIV causes AIDS and for developing the first HIV blood test. Born in Guangzhou, China, she moved to the United States and became one of the most cited scientists in the world. She later developed a novel approach to gene therapy and co-founded a biotech company focused on treating hepatitis C.",
+    "bioCn": "黄以静是第一位克隆HIV并确定其基因功能的科学家，这一工作对证明HIV导致AIDS以及开发第一个HIV血液检测至关重要。她出生于中国广州，移居美国后成为世界上被引用最多的科学家之一。她后来开发了一种新的基因治疗方法，并共同创办了一家专注于治疗丙型肝炎的生物技术公司。",
+    "achievements": [
+      "First to clone HIV and map its genome",
+      "Work essential for first HIV blood test",
+      "Among most cited scientists in the world"
+    ],
+    "achievementsCn": [
+      "首次克隆HIV并绘制其基因组图谱",
+      "工作对第一个HIV血液检测至关重要",
+      "世界上被引用最多的科学家之一"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Flossie Wong-Staal — https://en.wikipedia.org/wiki/Flossie_Wong-Staal"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Patricia Bath",
+    "nameCn": "帕特里夏·巴斯",
+    "slug": "patricia-bath",
+    "field": "genetics-biotech",
+    "born": 1942,
+    "died": 2019,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Invented Laser Cataract Surgery",
+    "taglineCn": "发明了激光白内障手术",
+    "bio": "Patricia Bath was an ophthalmologist and inventor who created the Laserphaco Probe, a device that uses laser technology to remove cataracts and restore sight. She was the first African-American woman to complete a residency in ophthalmology, the first to receive a medical patent, and the first African-American woman doctor to receive a patent for a medical purpose. Her invention has restored sight to people who had been blind for over 30 years.",
+    "bioCn": "帕特里夏·巴斯是一位眼科医生和发明家，她创造了Laserphaco探针——一种使用激光技术去除白内障并恢复视力的设备。她是第一位完成眼科住院医师培训的非裔美国女性，第一位获得医学专利的非裔美国女性，也是第一位因医疗目的获得专利的非裔美国女医生。她的发明已为失明超过30年的人恢复了视力。",
+    "achievements": [
+      "Invented Laserphaco Probe for cataract surgery",
+      "First African-American woman with a medical patent",
+      "Restored sight to people blind for 30+ years"
+    ],
+    "achievementsCn": [
+      "发明了用于白内障手术的Laserphaco探针",
+      "第一位获得医学专利的非裔美国女性",
+      "为失明超过30年的人恢复了视力"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Patriciabath.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Patricia Bath — https://en.wikipedia.org/wiki/Patricia_Bath",
+      "Bath, P. US Patent 4,744,360: Apparatus for ablating and removing cataract lenses, 1988."
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Esther Lederberg",
+    "nameCn": "埃丝特·莱德伯格",
+    "slug": "esther-lederberg",
+    "field": "genetics-biotech",
+    "born": 1922,
+    "died": 2006,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Bacterial Genetics",
+    "taglineCn": "细菌遗传学先驱",
+    "bio": "Esther Lederberg made foundational discoveries in bacterial genetics, including the discovery of lambda phage (a virus that infects bacteria) and the invention of replica plating, a technique still used in microbiology labs worldwide. Despite these breakthrough contributions, the 1958 Nobel Prize for work on bacterial genetics was awarded only to her husband Joshua Lederberg. Her techniques remain essential tools in genetics and molecular biology research.",
+    "bioCn": "埃丝特·莱德伯格在细菌遗传学方面做出了奠基性发现，包括发现λ噬菌体（一种感染细菌的病毒）和发明复制平板法——一种至今仍在全世界微生物学实验室使用的技术。尽管她做出了突破性贡献，1958年细菌遗传学方面的诺贝尔奖仅授予了她的丈夫约书亚·莱德伯格。她的技术至今仍是遗传学和分子生物学研究的基本工具。",
+    "achievements": [
+      "Discovered lambda phage",
+      "Invented replica plating technique",
+      "Foundational contributions to bacterial genetics"
+    ],
+    "achievementsCn": [
+      "发现λ噬菌体",
+      "发明复制平板法",
+      "对细菌遗传学做出奠基性贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Esther_Lederberg.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Esther Lederberg — https://en.wikipedia.org/wiki/Esther_Lederberg",
+      "Stanford University archives"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Elizabeth Blackburn",
+    "nameCn": "伊丽莎白·布莱克本",
+    "slug": "elizabeth-blackburn",
+    "field": "genetics-biotech",
+    "born": 1948,
+    "died": null,
+    "nationality": "Australian-American",
+    "nationalityCn": "澳大利亚裔美国人",
+    "tagline": "Nobel Laureate Who Discovered Telomerase",
+    "taglineCn": "发现端粒酶的诺贝尔奖得主",
+    "bio": "Elizabeth Blackburn is a molecular biologist who discovered the molecular nature of telomeres — the protective caps at the ends of chromosomes — and co-discovered telomerase, the enzyme that replenishes them. This work revealed fundamental mechanisms of aging and cancer. She shared the 2009 Nobel Prize in Physiology or Medicine with Carol Greider and Jack Szostak. Her research has opened vast new fields in aging biology, cancer research, and stress physiology. She served as President of the Salk Institute for Biological Studies.",
+    "bioCn": "伊丽莎白·布莱克本是一位分子生物学家，她发现了端粒——染色体末端保护帽——的分子本质，并共同发现了补充端粒的端粒酶。这项工作揭示了衰老和癌症的基本机制。她与卡罗尔·格雷德和杰克·绍斯塔克共同获得了2009年诺贝尔生理学或医学奖。她的研究开辟了衰老生物学、癌症研究和应激生理学的广阔新领域。她曾担任索尔克生物研究所所长。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2009)",
+      "Discovered the molecular nature of telomeres",
+      "Co-discovered telomerase enzyme"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2009年）",
+      "发现端粒的分子本质",
+      "共同发现端粒酶"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Elizabeth_Blackburn_CHF_Heritage_Day_2012_crop.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Elizabeth Blackburn — https://en.wikipedia.org/wiki/Elizabeth_Blackburn",
+      "Nobel Prize: Elizabeth H. Blackburn — https://www.nobelprize.org/prizes/medicine/2009/blackburn/",
+      "Blackburn, E. & Epel, E. The Telomere Effect. Grand Central Publishing, 2017."
+    ]
+  }
+]

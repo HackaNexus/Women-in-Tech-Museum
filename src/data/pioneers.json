@@ -1,0 +1,4026 @@
+[
+  {
+    "id": 1,
+    "name": "Ada Lovelace",
+    "nameCn": "阿达·洛芙莱斯",
+    "slug": "ada-lovelace",
+    "field": "computer-science",
+    "born": 1815,
+    "died": 1852,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "The World's First Computer Programmer",
+    "taglineCn": "世界第一位计算机程序员",
+    "bio": "Augusta Ada King, Countess of Lovelace, recognized that Charles Babbage's proposed Analytical Engine had potential far beyond mere calculation. In 1843, she published extensive notes on the engine that included what is now recognized as the first algorithm intended for machine processing — making her the world's first computer programmer. Her visionary insight that machines could manipulate symbols according to rules anticipated modern computing by a full century.",
+    "bioCn": "阿达·洛芙莱斯，洛芙莱斯伯爵夫人，认识到查尔斯·巴贝奇提出的分析机的潜力远不止简单的计算。1843年，她发表了关于分析机的详细注释，其中包含了现在被公认为第一个为机器处理而设计的算法——使她成为世界上第一位计算机程序员。她关于机器可以按规则操纵符号的远见卓识，提前整整一个世纪预见了现代计算。",
+    "achievements": [
+      "Published the first computer algorithm",
+      "Envisioned general-purpose computing a century ahead",
+      "First to recognize machines could process more than numbers"
+    ],
+    "achievementsCn": [
+      "发表了第一个计算机算法",
+      "提前一个世纪预见了通用计算",
+      "第一个认识到机器可以处理数字以外的事物"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg",
+    "quote": "That brain of mine is something more than merely mortal, as time will show.",
+    "quoteCn": "我的大脑不仅仅是凡人的大脑，时间会证明这一点。",
+    "quoteSource": "Letter to her mother, 1843",
+    "references": [
+      "Toole, Betty A. Ada, the Enchantress of Numbers: Poetical Science. Strawberry Press, 1998.",
+      "Wikipedia: Ada Lovelace — https://en.wikipedia.org/wiki/Ada_Lovelace",
+      "Lovelace, A. 'Notes on L. Menabrea's Sketch of the Analytical Engine,' 1843."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Grace Hopper",
+    "nameCn": "格蕾丝·霍珀",
+    "slug": "grace-hopper",
+    "field": "computer-science",
+    "born": 1906,
+    "died": 1992,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Computer Programming Languages",
+    "taglineCn": "计算机编程语言先驱",
+    "bio": "Rear Admiral Grace Murray Hopper was a mathematician and U.S. Navy officer who revolutionized computer programming. She developed the first compiler, which translated written language into computer code, and led the team that created COBOL, one of the first modern programming languages. Her insistence that programming languages should be closer to English transformed the accessibility of computing for generations.",
+    "bioCn": "海军少将格蕾丝·穆雷·霍珀是一位数学家和美国海军军官，她彻底改变了计算机编程。她开发了第一个编译器，将书面语言翻译成计算机代码，并领导团队创建了COBOL——最早的现代编程语言之一。她坚持认为编程语言应该更接近英语的理念，改变了几代人接触计算的方式。",
+    "achievements": [
+      "Developed the first compiler (A-0 System)",
+      "Led creation of COBOL programming language",
+      "Popularized the term 'debugging'",
+      "Reached rank of Rear Admiral in U.S. Navy"
+    ],
+    "achievementsCn": [
+      "开发了第一个编译器（A-0系统）",
+      "领导创建了COBOL编程语言",
+      "普及了'调试（debugging）'一词",
+      "晋升为美国海军少将"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.'",
+    "quoteCn": "语言中最危险的一句话是：'我们一直都是这样做的。'",
+    "quoteSource": "From various lectures and speeches",
+    "references": [
+      "Wikipedia: Grace Hopper — https://en.wikipedia.org/wiki/Grace_Hopper",
+      "Beyer, Kurt W. Grace Hopper and the Invention of the Information Age. MIT Press, 2009.",
+      "Yale University: Grace Murray Hopper Collection"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Betty Holberton",
+    "nameCn": "贝蒂·霍尔伯顿",
+    "slug": "betty-holberton",
+    "field": "computer-science",
+    "born": 1917,
+    "died": 2001,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "ENIAC Programmer Who Invented Breakpoints",
+    "taglineCn": "发明断点调试的ENIAC程序员",
+    "bio": "Betty Holberton was one of the six original programmers of ENIAC, the world's first general-purpose electronic computer. She wrote the first software application, invented breakpoints for debugging, and helped develop the UNIVAC. She also played a key role in developing the first sort-merge generator and contributed to the creation of COBOL and Fortran standards.",
+    "bioCn": "贝蒂·霍尔伯顿是世界上第一台通用电子计算机ENIAC的六位原始程序员之一。她编写了第一个软件应用程序，发明了用于调试的断点，并帮助开发了UNIVAC。她还在开发第一个排序合并生成器方面发挥了关键作用，并为COBOL和Fortran标准的创建做出了贡献。",
+    "achievements": [
+      "One of six original ENIAC programmers",
+      "Invented breakpoints for debugging",
+      "Helped develop COBOL and Fortran standards"
+    ],
+    "achievementsCn": [
+      "六位ENIAC原始程序员之一",
+      "发明了用于调试的断点",
+      "帮助开发了COBOL和Fortran标准"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Betty_Holberton.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Betty Holberton — https://en.wikipedia.org/wiki/Betty_Holberton",
+      "Kleiman, Kathy. Proving Ground: The Untold Story of the Six Women Who Programmed the World's First Modern Computer. Grand Central, 2022.",
+      "ENIAC Programmers Project — http://eniacprogrammers.org/"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Jean Jennings Bartik",
+    "nameCn": "琼·詹宁斯·巴蒂克",
+    "slug": "jean-jennings-bartik",
+    "field": "computer-science",
+    "born": 1924,
+    "died": 2011,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "ENIAC Pioneer and Computing Visionary",
+    "taglineCn": "ENIAC先驱与计算远见者",
+    "bio": "Jean Jennings Bartik was one of the original programmers of ENIAC. Born on a farm in Missouri, she studied mathematics and was hired to calculate ballistic trajectories during World War II. She went on to help convert ENIAC into a stored-program computer and later worked on BINAC and UNIVAC. Her contributions were overlooked for decades until she was inducted into the Women in Technology International Hall of Fame in 1997.",
+    "bioCn": "琼·詹宁斯·巴蒂克是ENIAC的原始程序员之一。她出生在密苏里州的一个农场，学习数学后在二战期间被聘用计算弹道轨迹。她后来帮助将ENIAC转换为存储程序计算机，并参与了BINAC和UNIVAC的开发。她的贡献被忽视了数十年，直到1997年入选国际女性技术名人堂。",
+    "achievements": [
+      "One of six original ENIAC programmers",
+      "Helped convert ENIAC to stored-program computer",
+      "Worked on BINAC and UNIVAC"
+    ],
+    "achievementsCn": [
+      "六位ENIAC原始程序员之一",
+      "帮助将ENIAC转换为存储程序计算机",
+      "参与BINAC和UNIVAC开发"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jean_Bartik_%282008%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Jean Bartik — https://en.wikipedia.org/wiki/Jean_Bartik",
+      "Bartik, Jean. Pioneer Programmer: Jean Jennings Bartik and the Computer That Changed the World. Truman State Univ Press, 2013.",
+      "ENIAC Programmers Project — http://eniacprogrammers.org/"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kathleen McNulty",
+    "nameCn": "凯瑟琳·麦克纳尔蒂",
+    "slug": "kathleen-mcnulty",
+    "field": "computer-science",
+    "born": 1921,
+    "died": 2006,
+    "nationality": "Irish-American",
+    "nationalityCn": "爱尔兰裔美国人",
+    "tagline": "ENIAC Programmer and Mathematical Computer",
+    "taglineCn": "ENIAC程序员与数学计算员",
+    "bio": "Kathleen McNulty Mauchly Antonelli was born in Ireland and emigrated to the United States as a child. One of the six original ENIAC programmers, she used her mathematics degree to compute ballistic firing tables during World War II. She later married ENIAC co-inventor John Mauchly and continued to contribute to the development of computing technology throughout her life.",
+    "bioCn": "凯瑟琳·麦克纳尔蒂·莫奇利·安东内利出生于爱尔兰，童年时移居美国。作为ENIAC六位原始程序员之一，她利用数学学位在二战期间计算弹道射击表。她后来嫁给了ENIAC的共同发明人约翰·莫奇利，并在一生中继续为计算技术的发展做出贡献。",
+    "achievements": [
+      "One of six original ENIAC programmers",
+      "Computed ballistic firing tables during WWII",
+      "Contributed to early computing development"
+    ],
+    "achievementsCn": [
+      "六位ENIAC原始程序员之一",
+      "二战期间计算弹道射击表",
+      "为早期计算发展做出贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kay_McNulty_Mauchly_Antonelli.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Kathleen Antonelli — https://en.wikipedia.org/wiki/Kathleen_Antonelli",
+      "Kleiman, Kathy. Proving Ground. Grand Central, 2022."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Frances Allen",
+    "nameCn": "弗朗西丝·艾伦",
+    "slug": "frances-allen",
+    "field": "computer-science",
+    "born": 1932,
+    "died": 2020,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Woman to Win the Turing Award",
+    "taglineCn": "首位女性图灵奖得主",
+    "bio": "Frances Allen spent her career at IBM pioneering compiler optimization and parallelization. Her seminal 1966 paper on program optimization laid the theoretical foundation for modern compilers. In 2006, she became the first woman to receive the A.M. Turing Award, computing's highest honor, for her contributions to the theory and practice of optimizing compiler techniques.",
+    "bioCn": "弗朗西丝·艾伦在IBM度过了她的职业生涯，开创了编译器优化和并行化的先河。她1966年发表的关于程序优化的开创性论文为现代编译器奠定了理论基础。2006年，她因对优化编译器技术的理论和实践的贡献，成为第一位获得图灵奖——计算机领域最高荣誉——的女性。",
+    "achievements": [
+      "First woman to receive the Turing Award (2006)",
+      "Pioneered compiler optimization theory",
+      "Foundational work on parallelization at IBM"
+    ],
+    "achievementsCn": [
+      "首位女性图灵奖得主（2006年）",
+      "开创编译器优化理论",
+      "在IBM进行并行化基础工作"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Allen_mg_2528-3750K-b.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Frances Allen — https://en.wikipedia.org/wiki/Frances_Allen",
+      "ACM Turing Award: Frances E. Allen — https://amturing.acm.org/award_winners/allen_1012327.cfm",
+      "Allen, F.E. 'Program Optimization,' Annual Review in Automatic Programming, 1969."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Margaret Hamilton",
+    "nameCn": "玛格丽特·汉密尔顿",
+    "slug": "margaret-hamilton",
+    "field": "computer-science",
+    "born": 1936,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Coded the Moon Landing",
+    "taglineCn": "编写了登月代码",
+    "bio": "Margaret Hamilton led the team that developed the on-board flight software for NASA's Apollo missions. Her rigorous approach to software engineering — a term she coined — ensured the Apollo 11 mission's success when her error-detection code prevented an abort during the lunar landing. The iconic photograph of her standing next to a stack of Apollo guidance code taller than herself has become a symbol of women in computing.",
+    "bioCn": "玛格丽特·汉密尔顿领导团队开发了NASA阿波罗任务的机载飞行软件。她严谨的软件工程方法——这个术语正是她创造的——确保了阿波罗11号任务的成功，她的错误检测代码在登月过程中阻止了任务中止。她站在比自己还高的阿波罗导航代码旁边的标志性照片，已经成为计算机领域女性的象征。",
+    "achievements": [
+      "Led Apollo on-board flight software development",
+      "Coined the term 'software engineering'",
+      "Received Presidential Medal of Freedom (2016)"
+    ],
+    "achievementsCn": [
+      "领导阿波罗机载飞行软件开发",
+      "创造了'软件工程'一词",
+      "获得总统自由勋章（2016年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Margaret_Hamilton_-_restoration.jpg",
+    "quote": "There was no choice but to be pioneers.",
+    "quoteCn": "我们别无选择，只能成为先驱。",
+    "quoteSource": "On the Apollo program, from interviews",
+    "references": [
+      "Wikipedia: Margaret Hamilton (software engineer) — https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+      "NASA History: Margaret Hamilton — https://www.nasa.gov/",
+      "Hamilton, M. 'Universal Systems Language,' 1986."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Radia Perlman",
+    "nameCn": "拉迪亚·珀尔曼",
+    "slug": "radia-perlman",
+    "field": "computer-science",
+    "born": 1951,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mother of the Internet",
+    "taglineCn": "互联网之母",
+    "bio": "Radia Perlman's invention of the Spanning Tree Protocol (STP) was fundamental to the operation of network bridges and made today's internet possible. Often called the 'Mother of the Internet,' she has made lasting contributions to network design and security, including the TRILL protocol. She holds over 100 patents and continues to shape how data moves across global networks.",
+    "bioCn": "拉迪亚·珀尔曼发明的生成树协议（STP）是网络桥接操作的基础，使今天的互联网成为可能。她常被称为'互联网之母'，在网络设计和安全方面做出了持久的贡献，包括TRILL协议。她拥有100多项专利，继续影响着数据在全球网络中的传输方式。",
+    "achievements": [
+      "Invented Spanning Tree Protocol (STP)",
+      "Holds over 100 patents in networking",
+      "Developed TRILL protocol"
+    ],
+    "achievementsCn": [
+      "发明了生成树协议（STP）",
+      "在网络领域拥有100多项专利",
+      "开发了TRILL协议"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Radia_Perlman_2009.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Radia Perlman — https://en.wikipedia.org/wiki/Radia_Perlman",
+      "Perlman, Radia. Interconnections: Bridges, Routers, Switches. Addison-Wesley, 1999."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Barbara Liskov",
+    "nameCn": "芭芭拉·利斯科夫",
+    "slug": "barbara-liskov",
+    "field": "computer-science",
+    "born": 1939,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Turing Award Winner, Liskov Substitution Principle",
+    "taglineCn": "图灵奖得主，里氏替换原则",
+    "bio": "Barbara Liskov is a computer scientist whose work on programming language design, software engineering methodology, and distributed systems earned her the 2008 Turing Award. She is best known for the Liskov Substitution Principle, a fundamental concept in object-oriented programming. She was one of the first women in the United States to earn a PhD in computer science.",
+    "bioCn": "芭芭拉·利斯科夫是一位计算机科学家，她在编程语言设计、软件工程方法和分布式系统方面的工作使她获得了2008年图灵奖。她最著名的是里氏替换原则，这是面向对象编程中的基本概念。她是美国最早获得计算机科学博士学位的女性之一。",
+    "achievements": [
+      "Turing Award recipient (2008)",
+      "Formulated the Liskov Substitution Principle",
+      "Pioneered data abstraction in programming"
+    ],
+    "achievementsCn": [
+      "图灵奖得主（2008年）",
+      "提出里氏替换原则",
+      "开创了编程中的数据抽象"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Barbara_Liskov_MIT_computer_scientist_2010.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Barbara Liskov — https://en.wikipedia.org/wiki/Barbara_Liskov",
+      "ACM Turing Award: Barbara Liskov — https://amturing.acm.org/award_winners/liskov_1108679.cfm"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Shafi Goldwasser",
+    "nameCn": "沙菲·戈德瓦塞尔",
+    "slug": "shafi-goldwasser",
+    "field": "computer-science",
+    "born": 1958,
+    "died": null,
+    "nationality": "Israeli-American",
+    "nationalityCn": "以色列裔美国人",
+    "tagline": "Pioneer of Modern Cryptography",
+    "taglineCn": "现代密码学先驱",
+    "bio": "Shafi Goldwasser co-invented probabilistic encryption and zero-knowledge proofs, two cornerstones of modern cryptography. Her work laid the mathematical foundations for secure digital communication. She received the Turing Award in 2012, becoming only the third woman to receive the honor, alongside two Gödel Prizes and numerous other accolades.",
+    "bioCn": "沙菲·戈德瓦塞尔共同发明了概率加密和零知识证明，这是现代密码学的两大基石。她的工作为安全数字通信奠定了数学基础。她在2012年获得图灵奖，成为第三位获此殊荣的女性，此外还获得了两项哥德尔奖和众多其他荣誉。",
+    "achievements": [
+      "Turing Award recipient (2012)",
+      "Co-invented probabilistic encryption",
+      "Pioneered zero-knowledge proofs"
+    ],
+    "achievementsCn": [
+      "图灵奖得主（2012年）",
+      "共同发明概率加密",
+      "开创零知识证明"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Shafi_Goldwasser.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Shafi Goldwasser — https://en.wikipedia.org/wiki/Shafi_Goldwasser",
+      "ACM Turing Award: Shafi Goldwasser — https://amturing.acm.org/award_winners/goldwasser_8627889.cfm"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Fei-Fei Li",
+    "nameCn": "李飞飞",
+    "slug": "fei-fei-li",
+    "field": "computer-science",
+    "born": 1976,
+    "died": null,
+    "nationality": "Chinese-American",
+    "nationalityCn": "华裔美国人",
+    "tagline": "Pioneer of Computer Vision and ImageNet",
+    "taglineCn": "计算机视觉与ImageNet先驱",
+    "bio": "Fei-Fei Li is a computer scientist who transformed the field of artificial intelligence through ImageNet, a massive visual database that catalyzed the deep learning revolution. Her work demonstrated that AI systems need large, diverse datasets to learn effectively. As a professor at Stanford and former chief scientist at Google Cloud, she advocates for human-centered AI and diversity in technology.",
+    "bioCn": "李飞飞是一位计算机科学家，通过ImageNet——一个催化深度学习革命的大型视觉数据库——改变了人工智能领域。她的工作表明，AI系统需要大规模、多样化的数据集来有效学习。作为斯坦福大学教授和前谷歌云首席科学家，她倡导以人为本的AI和技术多样性。",
+    "achievements": [
+      "Created ImageNet, catalyzing the deep learning revolution",
+      "Stanford professor and AI research leader",
+      "Advocates for human-centered AI"
+    ],
+    "achievementsCn": [
+      "创建ImageNet，催化深度学习革命",
+      "斯坦福大学教授和AI研究领导者",
+      "倡导以人为本的AI"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fei-Fei_Li_at_AI_for_Good_2017.jpg",
+    "quote": "If we want machines to think, we need to teach them to see.",
+    "quoteCn": "如果我们想让机器思考，就需要教它们看见。",
+    "quoteSource": "TED Talk, 2015",
+    "references": [
+      "Wikipedia: Fei-Fei Li — https://en.wikipedia.org/wiki/Fei-Fei_Li",
+      "Stanford HAI — https://hai.stanford.edu/",
+      "Deng et al. ImageNet: A Large-Scale Hierarchical Image Database. CVPR, 2009."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Sister Mary Kenneth Keller",
+    "nameCn": "玛丽·肯尼斯·凯勒修女",
+    "slug": "mary-kenneth-keller",
+    "field": "computer-science",
+    "born": 1913,
+    "died": 1985,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First American Woman with a Computer Science PhD",
+    "taglineCn": "美国首位计算机科学女博士",
+    "bio": "Sister Mary Kenneth Keller was a Catholic nun who became one of the first people in America — and the first woman — to earn a PhD in computer science in 1965. She contributed to the development of the BASIC programming language at Dartmouth College, which was originally men-only but made an exception for her. She founded the computer science department at Clarke College and championed computing education for all.",
+    "bioCn": "玛丽·肯尼斯·凯勒修女是一位天主教修女，1965年成为美国最早获得计算机科学博士学位的人之一——也是第一位女性。她在达特茅斯学院参与了BASIC编程语言的开发，该学院原本只收男生，但为她破了例。她在克拉克学院创建了计算机科学系，倡导面向所有人的计算机教育。",
+    "achievements": [
+      "First American woman with a PhD in Computer Science (1965)",
+      "Contributed to developing BASIC programming language",
+      "Founded computer science department at Clarke College"
+    ],
+    "achievementsCn": [
+      "美国首位计算机科学女博士（1965年）",
+      "参与开发BASIC编程语言",
+      "在克拉克学院创建计算机科学系"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Kenneth Keller — https://en.wikipedia.org/wiki/Mary_Kenneth_Keller",
+      "Clarke University archives"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Adele Goldberg",
+    "nameCn": "阿黛尔·戈德堡",
+    "slug": "adele-goldberg",
+    "field": "computer-science",
+    "born": 1945,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Co-developer of Smalltalk Programming Language",
+    "taglineCn": "Smalltalk编程语言共同开发者",
+    "bio": "Adele Goldberg worked at Xerox PARC where she co-developed the Smalltalk programming language and contributed to the graphical user interface concepts that Steve Jobs famously saw during his 1979 visit. Her work on object-oriented programming and interactive development environments influenced generations of software design, from the Macintosh to modern IDEs.",
+    "bioCn": "阿黛尔·戈德堡在施乐帕洛阿尔托研究中心（Xerox PARC）工作，共同开发了Smalltalk编程语言，并为图形用户界面概念做出了贡献——这正是史蒂夫·乔布斯1979年访问时著名地看到的东西。她在面向对象编程和交互式开发环境方面的工作影响了几代软件设计，从Macintosh到现代IDE。",
+    "achievements": [
+      "Co-developed Smalltalk at Xerox PARC",
+      "Influenced graphical user interface design",
+      "Pioneered object-oriented programming education"
+    ],
+    "achievementsCn": [
+      "在施乐PARC共同开发Smalltalk",
+      "影响了图形用户界面设计",
+      "开创面向对象编程教育"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Adele_Goldberg_at_PyCon_2007.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Adele Goldberg (computer scientist) — https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
+      "Goldberg, A. & Robson, D. Smalltalk-80: The Language. Addison-Wesley, 1989."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Karen Spärck Jones",
+    "nameCn": "凯伦·斯帕克·琼斯",
+    "slug": "karen-sparck-jones",
+    "field": "computer-science",
+    "born": 1935,
+    "died": 2007,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Information Retrieval and Search Engines",
+    "taglineCn": "信息检索与搜索引擎先驱",
+    "bio": "Karen Spärck Jones was a British computer scientist who developed the concept of inverse document frequency (IDF), a foundational technique now used by virtually every search engine in the world. Working at the Cambridge Computer Laboratory, she bridged the gap between linguistics and computing, establishing the field of natural language processing. Her famous dictum — 'Computing is too important to be left to men' — remains a rallying cry for diversity in tech.",
+    "bioCn": "凯伦·斯帕克·琼斯是一位英国计算机科学家，她提出了逆文档频率（IDF）的概念，这一基础技术现在被全世界几乎所有搜索引擎使用。在剑桥计算机实验室工作期间，她架起了语言学和计算之间的桥梁，建立了自然语言处理领域。她的名言——'计算太重要了，不能只留给男人'——至今仍是科技多元化的号角。",
+    "achievements": [
+      "Developed inverse document frequency (IDF)",
+      "Pioneer of natural language processing",
+      "Bridged linguistics and computer science"
+    ],
+    "achievementsCn": [
+      "开发逆文档频率（IDF）",
+      "自然语言处理先驱",
+      "架起语言学和计算机科学的桥梁"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Prof._Karen_Sp%C3%A4rck_Jones.jpg",
+    "quote": "Computing is too important to be left to men.",
+    "quoteCn": "计算太重要了，不能只留给男人。",
+    "quoteSource": "Cambridge Computer Laboratory report, 2002",
+    "references": [
+      "Wikipedia: Karen Spärck Jones — https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones",
+      "Spärck Jones, K. 'A statistical interpretation of term specificity,' Journal of Documentation, 1972.",
+      "Cambridge Computer Laboratory memorial"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Lynn Conway",
+    "nameCn": "林恩·康威",
+    "slug": "lynn-conway",
+    "field": "computer-science",
+    "born": 1938,
+    "died": 2024,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Revolutionized VLSI Chip Design",
+    "taglineCn": "革新了超大规模集成电路设计",
+    "bio": "Lynn Conway revolutionized microchip design through her work on VLSI (Very Large Scale Integration) technology at Xerox PARC. The Mead-Conway approach she co-developed democratized chip design, enabling thousands of engineers to create custom chips. She also made key contributions to superscalar architecture at IBM. Conway is recognized both for her technical achievements and as a transgender pioneer who rebuilt her career after being fired from IBM in 1968.",
+    "bioCn": "林恩·康威通过在施乐PARC进行的VLSI（超大规模集成）技术研究，彻底改变了微芯片设计。她共同开发的Mead-Conway方法使芯片设计民主化，使数千名工程师能够创建定制芯片。她还在IBM对超标量架构做出了关键贡献。康威因其技术成就以及作为跨性别先驱——她在1968年被IBM解雇后重新建立了自己的事业——而受到认可。",
+    "achievements": [
+      "Revolutionized VLSI chip design",
+      "Co-developed Mead-Conway approach",
+      "Key contributions to superscalar architecture"
+    ],
+    "achievementsCn": [
+      "革新了VLSI芯片设计",
+      "共同开发Mead-Conway方法",
+      "对超标量架构做出关键贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lynn_Conway_July_2006.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Lynn Conway — https://en.wikipedia.org/wiki/Lynn_Conway",
+      "Mead, C. & Conway, L. Introduction to VLSI Systems. Addison-Wesley, 1980.",
+      "Lynn Conway's personal archive — https://ai.eecs.umich.edu/people/conway/"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Hypatia",
+    "nameCn": "希帕提娅",
+    "slug": "hypatia",
+    "field": "mathematics",
+    "born": 360,
+    "died": 415,
+    "nationality": "Roman Egyptian",
+    "nationalityCn": "罗马埃及",
+    "tagline": "Ancient World's Greatest Woman Scholar",
+    "taglineCn": "古代世界最伟大的女性学者",
+    "bio": "Hypatia of Alexandria was a philosopher, mathematician, and astronomer who led the Neoplatonic school in Alexandria. She edited mathematical works, built astrolabes and hydrometers, and taught students from across the Mediterranean world. Renowned for her wisdom and eloquence, she was murdered by a Christian mob in 415 CE, making her a symbol of intellectual freedom and the pursuit of knowledge against intolerance.",
+    "bioCn": "亚历山大的希帕提娅是一位哲学家、数学家和天文学家，领导着亚历山大的新柏拉图学派。她编辑数学著作、制造星盘和比重计，并教授来自地中海世界各地的学生。她以智慧和雄辩著称，于公元415年被基督教暴徒杀害，成为了知识自由和对抗不容忍的象征。",
+    "achievements": [
+      "Led the Neoplatonic school in Alexandria",
+      "Edited works on conic sections and number theory",
+      "Built astronomical instruments"
+    ],
+    "achievementsCn": [
+      "领导亚历山大新柏拉图学派",
+      "编辑圆锥曲线和数论著作",
+      "制造天文仪器"
+    ],
+    "era": "Ancient",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hypatia_portrait.png",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Hypatia — https://en.wikipedia.org/wiki/Hypatia",
+      "Watts, Edward J. Hypatia: The Life and Legend of an Ancient Philosopher. Oxford Univ Press, 2017.",
+      "Dzielska, Maria. Hypatia of Alexandria. Harvard Univ Press, 1995."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sophie Germain",
+    "nameCn": "索菲·热尔曼",
+    "slug": "sophie-germain",
+    "field": "mathematics",
+    "born": 1776,
+    "died": 1831,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Self-Taught Mathematical Genius",
+    "taglineCn": "自学成才的数学天才",
+    "bio": "Sophie Germain taught herself mathematics from books in her father's library during the French Revolution, when women were barred from universities. She corresponded with Lagrange and Gauss under a male pseudonym, and her work on Fermat's Last Theorem and elasticity theory earned her the respect of the mathematical community. Gauss later said she proved that women can accomplish remarkable work in the most rigorous sciences.",
+    "bioCn": "法国大革命期间，当女性被禁止进入大学时，索菲·热尔曼在父亲的图书馆里自学数学。她以男性笔名与拉格朗日和高斯通信，她在费马大定理和弹性理论方面的工作为她赢得了数学界的尊重。高斯后来说她证明了女性能够在最严谨的科学中取得非凡成就。",
+    "achievements": [
+      "Major contributions to number theory and Fermat's Last Theorem",
+      "Pioneered mathematical elasticity theory",
+      "Won the French Academy Prize for her work on vibrating surfaces"
+    ],
+    "achievementsCn": [
+      "对数论和费马大定理做出重大贡献",
+      "开创了数学弹性理论",
+      "因振动表面研究获法国科学院奖"
+    ],
+    "era": "18th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Germain.jpeg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Sophie Germain — https://en.wikipedia.org/wiki/Sophie_Germain",
+      "Laubenbacher, R. & Pengelley, D. 'Voici ce que j'ai trouvé: Sophie Germain's grand plan,' Historia Mathematica, 2010."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Emmy Noether",
+    "nameCn": "埃米·诺特",
+    "slug": "emmy-noether",
+    "field": "mathematics",
+    "born": 1882,
+    "died": 1935,
+    "nationality": "German",
+    "nationalityCn": "德国",
+    "tagline": "The Mother of Modern Algebra",
+    "taglineCn": "现代代数之母",
+    "bio": "Emmy Noether transformed abstract algebra and theoretical physics. Noether's theorem, which proves a deep connection between symmetries and conservation laws, is considered one of the most important theorems in physics. Einstein called her 'the most significant creative mathematical genius thus far produced since the higher education of women began.' Despite her brilliance, she faced persistent gender discrimination and was never granted a full professorship in Germany.",
+    "bioCn": "埃米·诺特改变了抽象代数和理论物理。诺特定理证明了对称性和守恒定律之间的深层联系，被认为是物理学中最重要的定理之一。爱因斯坦称她为'自女性高等教育开始以来最重要的创造性数学天才'。尽管才华横溢，她始终面对性别歧视，在德国从未获得正式教授职位。",
+    "achievements": [
+      "Formulated Noether's theorem linking symmetry and conservation",
+      "Revolutionized abstract algebra",
+      "Called the most important woman in mathematics history"
+    ],
+    "achievementsCn": [
+      "提出诺特定理，连接对称性和守恒定律",
+      "革新了抽象代数",
+      "被称为数学史上最重要的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Noether.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Emmy Noether — https://en.wikipedia.org/wiki/Emmy_Noether",
+      "Angier, Natalie. 'The Mighty Mathematician You've Never Heard Of.' The New York Times, 2012.",
+      "Dick, Auguste. Emmy Noether 1882–1935. Birkhäuser, 1981."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sofia Kovalevskaya",
+    "nameCn": "索菲亚·柯瓦列夫斯卡娅",
+    "slug": "sofia-kovalevskaya",
+    "field": "mathematics",
+    "born": 1850,
+    "died": 1891,
+    "nationality": "Russian",
+    "nationalityCn": "俄国",
+    "tagline": "Europe's First Female Mathematics PhD",
+    "taglineCn": "欧洲首位数学女博士",
+    "bio": "Sofia Kovalevskaya entered a fictitious marriage to leave Russia and study mathematics in Europe, where women could not enroll independently. She became the first woman in Europe to earn a doctorate in mathematics and the first woman appointed to a full professorship in Northern Europe, at Stockholm University. Her work on partial differential equations and the rotation of rigid bodies remains influential.",
+    "bioCn": "索菲亚·柯瓦列夫斯卡娅通过假结婚离开俄国到欧洲学习数学，因为那里的女性不能独立注册入学。她成为欧洲第一位获得数学博士学位的女性，也是北欧第一位被任命为正教授的女性，任教于斯德哥尔摩大学。她在偏微分方程和刚体旋转方面的工作至今仍有影响力。",
+    "achievements": [
+      "First woman in Europe to earn a mathematics PhD",
+      "First female full professor in Northern Europe",
+      "Major contributions to differential equations and mechanics"
+    ],
+    "achievementsCn": [
+      "欧洲第一位获数学博士的女性",
+      "北欧第一位女性正教授",
+      "对微分方程和力学做出重大贡献"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sofja_Wassiljewna_Kowalewskaja_1_%28cropped%29.jpg",
+    "quote": "Say what you know, do what you must, come what may.",
+    "quoteCn": "说你所知，做你所必须，任凭后果。",
+    "quoteSource": "Motto inscribed on her papers",
+    "references": [
+      "Wikipedia: Sofia Kovalevskaya — https://en.wikipedia.org/wiki/Sofia_Kovalevskaya",
+      "Koblitz, Ann Hibner. A Convergence of Lives: Sofia Kovalevskaia. Birkhäuser, 1983."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Maryam Mirzakhani",
+    "nameCn": "玛丽亚姆·米尔扎哈尼",
+    "slug": "maryam-mirzakhani",
+    "field": "mathematics",
+    "born": 1977,
+    "died": 2017,
+    "nationality": "Iranian",
+    "nationalityCn": "伊朗",
+    "tagline": "First Woman to Win the Fields Medal",
+    "taglineCn": "首位菲尔兹奖女性得主",
+    "bio": "Maryam Mirzakhani grew up in Tehran and won two gold medals at the International Mathematical Olympiad as a teenager. In 2014, she became the first woman — and the first Iranian — to receive the Fields Medal, mathematics' highest honor, for her groundbreaking work on the dynamics and geometry of Riemann surfaces. She died of breast cancer at age 40, but her legacy continues to inspire mathematicians worldwide.",
+    "bioCn": "玛丽亚姆·米尔扎哈尼在德黑兰长大，少年时在国际数学奥林匹克竞赛中获得两枚金牌。2014年，她因在黎曼曲面的动力学和几何学方面的开创性工作，成为第一位——也是第一位伊朗人——获得菲尔兹奖——数学最高荣誉的女性。她40岁因乳腺癌去世，但她的遗产继续激励着全世界的数学家。",
+    "achievements": [
+      "First woman to receive the Fields Medal (2014)",
+      "Groundbreaking work on Riemann surfaces",
+      "Won two gold medals at International Math Olympiad"
+    ],
+    "achievementsCn": [
+      "首位获得菲尔兹奖的女性（2014年）",
+      "在黎曼曲面方面的开创性工作",
+      "国际数学奥林匹克竞赛两枚金牌"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Maryam_Mirzakhani_%282014%29.jpg",
+    "quote": "The beauty of mathematics only shows itself to more patient followers.",
+    "quoteCn": "数学之美只向更有耐心的追随者展现。",
+    "quoteSource": "Stanford memorial tribute",
+    "references": [
+      "Wikipedia: Maryam Mirzakhani — https://en.wikipedia.org/wiki/Maryam_Mirzakhani",
+      "Stanford News: Memorial — https://news.stanford.edu/",
+      "Fields Medal citation, International Mathematical Union, 2014."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Mary Cartwright",
+    "nameCn": "玛丽·卡特赖特",
+    "slug": "mary-cartwright",
+    "field": "mathematics",
+    "born": 1900,
+    "died": 1998,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Chaos Theory",
+    "taglineCn": "混沌理论先驱",
+    "bio": "Mary Cartwright was a British mathematician whose wartime research on radio waves with J.E. Littlewood uncovered some of the first examples of what would later be called chaos theory. She became the first woman to receive the Sylvester Medal, the first woman elected to the Royal Society's council, and the first female president of the London Mathematical Society.",
+    "bioCn": "玛丽·卡特赖特是一位英国数学家，她与利特尔伍德在战时对无线电波的研究中发现了后来被称为混沌理论的一些最早的例子。她成为第一位获得西尔维斯特奖章的女性、第一位当选皇家学会理事会成员的女性，以及伦敦数学学会第一位女性主席。",
+    "achievements": [
+      "Discovered early examples of chaos theory",
+      "First woman to receive the Sylvester Medal",
+      "First female president of the London Mathematical Society"
+    ],
+    "achievementsCn": [
+      "发现混沌理论的早期例子",
+      "第一位获得西尔维斯特奖章的女性",
+      "伦敦数学学会第一位女性主席"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mary_Cartwright.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Cartwright — https://en.wikipedia.org/wiki/Mary_Cartwright",
+      "Royal Society biography"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Maria Gaetana Agnesi",
+    "nameCn": "玛利亚·加埃塔纳·阿涅西",
+    "slug": "maria-gaetana-agnesi",
+    "field": "mathematics",
+    "born": 1718,
+    "died": 1799,
+    "nationality": "Italian",
+    "nationalityCn": "意大利",
+    "tagline": "First Woman to Write a Mathematics Textbook",
+    "taglineCn": "第一位编写数学教科书的女性",
+    "bio": "Maria Gaetana Agnesi was an Italian mathematician and philosopher recognized as the first woman to write a mathematics textbook. Her two-volume work Instituzioni analitiche (1748) was one of the first comprehensive treatments of both differential and integral calculus. She was appointed to the chair of mathematics and natural philosophy at the University of Bologna — the first woman to hold such a position at any university.",
+    "bioCn": "玛利亚·加埃塔纳·阿涅西是一位意大利数学家和哲学家，被认为是第一位编写数学教科书的女性。她的两卷本著作《分析讲义》（1748年）是最早全面论述微积分的著作之一。她被任命为博洛尼亚大学数学和自然哲学教席——这是任何大学中第一位担任此职位的女性。",
+    "achievements": [
+      "Wrote first comprehensive calculus textbook by a woman",
+      "Appointed professor at University of Bologna",
+      "Studied the cubic curve known as 'Witch of Agnesi'"
+    ],
+    "achievementsCn": [
+      "编写了首部由女性撰写的综合微积分教科书",
+      "被任命为博洛尼亚大学教授",
+      "研究了被称为'阿涅西的女巫'的三次曲线"
+    ],
+    "era": "18th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Maria_Gaetana_Agnesi.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Maria Gaetana Agnesi — https://en.wikipedia.org/wiki/Maria_Gaetana_Agnesi",
+      "Mazzotti, Massimo. The World of Maria Gaetana Agnesi. Johns Hopkins Univ Press, 2007."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Florence Nightingale",
+    "nameCn": "弗洛伦斯·南丁格尔",
+    "slug": "florence-nightingale",
+    "field": "mathematics",
+    "born": 1820,
+    "died": 1910,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Statistical Graphics and Data Visualization",
+    "taglineCn": "统计图形与数据可视化先驱",
+    "bio": "While Florence Nightingale is celebrated as the founder of modern nursing, her revolutionary use of statistical analysis and data visualization is equally remarkable. She invented the polar area diagram — a type of pie chart — to dramatically illustrate that most soldiers in the Crimean War died from preventable diseases rather than battle wounds. Her statistical evidence convinced Parliament to reform military healthcare, saving countless lives through the power of data.",
+    "bioCn": "虽然弗洛伦斯·南丁格尔作为现代护理学的创始人而闻名，但她在统计分析和数据可视化方面的革命性运用同样引人注目。她发明了极坐标面积图——一种饼图——来戏剧性地说明克里米亚战争中大多数士兵死于可预防的疾病而非战伤。她的统计证据说服议会改革军事医疗保健，通过数据的力量挽救了无数生命。",
+    "achievements": [
+      "Invented the polar area diagram (coxcomb chart)",
+      "Pioneered use of statistics in public health policy",
+      "First female member of the Royal Statistical Society"
+    ],
+    "achievementsCn": [
+      "发明极坐标面积图（鸡冠花图）",
+      "开创了统计学在公共卫生政策中的应用",
+      "皇家统计学会第一位女性成员"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
+    "quote": "I think one's feelings waste themselves in words; they ought all to be distilled into actions which bring results.",
+    "quoteCn": "我认为人的感情浪费在言语中；它们应该全部提炼为带来成果的行动。",
+    "quoteSource": "From personal letters",
+    "references": [
+      "Wikipedia: Florence Nightingale — https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "McDonald, Lynn (ed). The Collected Works of Florence Nightingale. Wilfrid Laurier Univ Press, 2001–2012.",
+      "Bostridge, Mark. Florence Nightingale: The Making of an Icon. Farrar, Straus and Giroux, 2008."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Wang Zhenyi",
+    "nameCn": "王贞仪",
+    "slug": "wang-zhenyi",
+    "field": "mathematics",
+    "born": 1768,
+    "died": 1797,
+    "nationality": "Chinese",
+    "nationalityCn": "中国",
+    "tagline": "Qing Dynasty Astronomer and Mathematician",
+    "taglineCn": "清代天文数学家",
+    "bio": "Wang Zhenyi was a remarkable Qing Dynasty scholar who mastered mathematics, astronomy, and poetry despite living in an era when women's education was severely limited. She wrote accessible explanations of complex mathematical concepts and correctly explained lunar eclipses through ingenious home experiments using a round table as the globe, a lamp as the sun, and a mirror as the moon. She died at just 29 but left behind a body of work that challenged both scientific and social conventions.",
+    "bioCn": "王贞仪是清代一位杰出的学者，尽管生活在女性教育极为有限的时代，她仍精通数学、天文学和诗歌。她为复杂的数学概念撰写了通俗易懂的解释，并通过巧妙的家庭实验——用圆桌代表地球、灯代表太阳、镜子代表月球——正确解释了月食现象。她年仅29岁去世，但留下的著作同时挑战了科学和社会的传统。",
+    "achievements": [
+      "Correctly explained lunar eclipses through home experiments",
+      "Made mathematics accessible to wider audiences",
+      "Published works on astronomy, mathematics, and poetry"
+    ],
+    "achievementsCn": [
+      "通过家庭实验正确解释月食",
+      "使数学对更广泛的受众变得易懂",
+      "发表天文学、数学和诗歌著作"
+    ],
+    "era": "18th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Wang Zhenyi (astronomer) — https://en.wikipedia.org/wiki/Wang_Zhenyi_(astronomer)",
+      "Peterson, Andrea. '4000 Years of Women in Science.'"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Katherine Johnson",
+    "nameCn": "凯瑟琳·约翰逊",
+    "slug": "katherine-johnson",
+    "field": "mathematics",
+    "born": 1918,
+    "died": 2020,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "The Human Computer Behind the Moon Landing",
+    "taglineCn": "登月背后的'人体计算机'",
+    "bio": "Katherine Johnson was a mathematician whose orbital mechanics calculations at NASA were critical to the success of American crewed spaceflight. As an African-American woman working in the segregated South, she broke barriers daily. John Glenn personally requested that she verify the electronic computer's trajectory calculations before his orbital flight. Her story was popularized by the book and film Hidden Figures. She received the Presidential Medal of Freedom in 2015 at age 97.",
+    "bioCn": "凯瑟琳·约翰逊是一位数学家，她在NASA进行的轨道力学计算对美国载人航天的成功至关重要。作为一位在种族隔离南方工作的非裔美国女性，她每天都在打破壁垒。约翰·格伦亲自要求她在他的轨道飞行前验证电子计算机的轨迹计算。她的故事因书籍和电影《隐藏人物》而广为人知。她在97岁时获得了总统自由勋章。",
+    "achievements": [
+      "Calculated trajectory for first American orbital spaceflight",
+      "Verified computer calculations for Apollo 11",
+      "Received Presidential Medal of Freedom (2015)"
+    ],
+    "achievementsCn": [
+      "计算了美国首次轨道航天飞行的轨迹",
+      "为阿波罗11号验证计算机计算",
+      "获得总统自由勋章（2015年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Katherine_Johnson_1983.jpg",
+    "quote": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed.",
+    "quoteCn": "我数一切东西。数走到路上的步数、上教堂的台阶、洗了多少碗碟和银器。",
+    "quoteSource": "From interviews, documented in NASA oral histories",
+    "references": [
+      "Wikipedia: Katherine Johnson — https://en.wikipedia.org/wiki/Katherine_Johnson",
+      "Shetterly, Margot Lee. Hidden Figures. William Morrow, 2016.",
+      "NASA: Katherine Johnson biography — https://www.nasa.gov/"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Marie Curie",
+    "nameCn": "玛丽·居里",
+    "slug": "marie-curie",
+    "field": "physics",
+    "born": 1867,
+    "died": 1934,
+    "nationality": "Polish-French",
+    "nationalityCn": "波兰裔法国人",
+    "tagline": "Two-Time Nobel Laureate Who Discovered Radioactivity",
+    "taglineCn": "发现放射性的两次诺贝尔奖得主",
+    "bio": "Marie Skłodowska Curie was the first woman to win a Nobel Prize, the first person to win Nobel Prizes in two different sciences, and remains the only person to achieve this distinction. Born in Warsaw, she moved to Paris where she and her husband Pierre discovered polonium and radium. Her research on radioactivity — a term she coined — fundamentally changed physics and chemistry and led to developments in cancer treatment. She died from aplastic anemia, likely caused by prolonged exposure to radiation.",
+    "bioCn": "玛丽·斯克沃多夫斯卡·居里是第一位获得诺贝尔奖的女性，也是第一位在两个不同科学领域获得诺贝尔奖的人，至今仍是唯一做到这一点的人。她出生于华沙，搬到巴黎后与丈夫皮埃尔一起发现了钋和镭。她对放射性——这个词正是她创造的——的研究从根本上改变了物理学和化学，并推动了癌症治疗的发展。她因再生障碍性贫血去世，这很可能是长期暴露于辐射造成的。",
+    "achievements": [
+      "First woman to win a Nobel Prize (Physics, 1903)",
+      "Only person to win Nobel Prizes in two sciences (Chemistry, 1911)",
+      "Discovered polonium and radium",
+      "Coined the term 'radioactivity'"
+    ],
+    "achievementsCn": [
+      "第一位获得诺贝尔奖的女性（物理学，1903年）",
+      "唯一在两个科学领域获诺贝尔奖的人（化学，1911年）",
+      "发现钋和镭",
+      "创造了'放射性'一词"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c._1920s.jpg",
+    "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "quoteCn": "生活中没有什么是值得恐惧的，只有需要理解的。现在是更多理解的时候，以便我们可以少些恐惧。",
+    "quoteSource": "Widely attributed, from various biographies",
+    "references": [
+      "Wikipedia: Marie Curie — https://en.wikipedia.org/wiki/Marie_Curie",
+      "Nobel Prize: Marie Curie — https://www.nobelprize.org/prizes/physics/1903/marie-curie/",
+      "Quinn, Susan. Marie Curie: A Life. Simon & Schuster, 1995."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Lise Meitner",
+    "nameCn": "丽泽·迈特纳",
+    "slug": "lise-meitner",
+    "field": "physics",
+    "born": 1878,
+    "died": 1968,
+    "nationality": "Austrian-Swedish",
+    "nationalityCn": "奥地利裔瑞典人",
+    "tagline": "The Physicist Who Explained Nuclear Fission",
+    "taglineCn": "解释核裂变的物理学家",
+    "bio": "Lise Meitner was an Austrian-Swedish physicist who provided the first theoretical explanation of nuclear fission. After fleeing Nazi Germany in 1938, she correctly interpreted the results of experiments by her longtime collaborator Otto Hahn, recognizing that the uranium nucleus had been split. Despite being nominated for the Nobel Prize 49 times, she was excluded from the 1944 Chemistry Nobel — a decision Einstein called 'unjust.' Element 109, meitnerium, is named in her honor.",
+    "bioCn": "丽泽·迈特纳是一位奥地利裔瑞典物理学家，她提供了核裂变的第一个理论解释。1938年逃离纳粹德国后，她正确解读了长期合作者奥托·哈恩的实验结果，认识到铀核已被分裂。尽管被诺贝尔奖提名49次，她却被排除在1944年的诺贝尔化学奖之外——爱因斯坦称这一决定'不公正'。第109号元素鿏以她的名字命名。",
+    "achievements": [
+      "Provided first theoretical explanation of nuclear fission",
+      "Nominated for Nobel Prize 49 times",
+      "Element 109 (meitnerium) named in her honor"
+    ],
+    "achievementsCn": [
+      "提供了核裂变的第一个理论解释",
+      "被诺贝尔奖提名49次",
+      "第109号元素以她的名字命名"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Lise_Meitner_%281878-1968%29%2C_lecturing_at_Catholic_University%2C_Washington%2C_D.C.%2C_1946.jpg",
+    "quote": "Science makes people reach selflessly for truth and objectivity; it teaches people to accept reality, with wonder and admiration.",
+    "quoteCn": "科学使人无私地追求真理和客观性；它教人以惊奇和赞叹接受现实。",
+    "quoteSource": "From her writings and lectures",
+    "references": [
+      "Wikipedia: Lise Meitner — https://en.wikipedia.org/wiki/Lise_Meitner",
+      "Sime, Ruth Lewin. Lise Meitner: A Life in Physics. Univ of California Press, 1996."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Chien-Shiung Wu",
+    "nameCn": "吴健雄",
+    "slug": "chien-shiung-wu",
+    "field": "physics",
+    "born": 1912,
+    "died": 1997,
+    "nationality": "Chinese-American",
+    "nationalityCn": "华裔美国人",
+    "tagline": "The First Lady of Physics",
+    "taglineCn": "物理学第一夫人",
+    "bio": "Chien-Shiung Wu conducted the famous Wu experiment in 1957, which proved that parity is not conserved in weak nuclear interactions — overturning a fundamental assumption of physics. While her male colleagues Tsung-Dao Lee and Chen-Ning Yang received the Nobel Prize for the theoretical prediction, Wu's experimental proof was excluded from the award. Known as the 'First Lady of Physics' and the 'Chinese Marie Curie,' she received the inaugural Wolf Prize in Physics and was honored with a U.S. postage stamp.",
+    "bioCn": "吴健雄在1957年进行了著名的吴氏实验，证明了在弱核相互作用中宇称不守恒——推翻了物理学的一个基本假设。虽然她的男性同事李政道和杨振宁因理论预测获得了诺贝尔奖，但吴健雄的实验证明却被排除在奖项之外。她被称为'物理学第一夫人'和'中国的居里夫人'，获得了首届沃尔夫物理学奖，并被印在美国邮票上。",
+    "achievements": [
+      "Proved parity non-conservation (Wu experiment)",
+      "Received inaugural Wolf Prize in Physics",
+      "Honored with U.S. postage stamp (2021)"
+    ],
+    "achievementsCn": [
+      "证明宇称不守恒（吴氏实验）",
+      "获得首届沃尔夫物理学奖",
+      "被印在美国邮票上（2021年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Chien-Shiung_Wu_%281963%29.jpg",
+    "quote": "There is only one thing worse than coming home from the lab to a sink full of dirty dishes. And that is not going to the lab at all!",
+    "quoteCn": "唯一比从实验室回家面对一水池脏碗碟更糟的事，就是根本没去实验室！",
+    "quoteSource": "Widely attributed, from interviews",
+    "references": [
+      "Wikipedia: Chien-Shiung Wu — https://en.wikipedia.org/wiki/Chien-Shiung_Wu",
+      "Chiang, Tsai-Chien. Madame Wu Chien-Shiung: The First Lady of Physics Research. World Scientific, 2014."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Maria Goeppert Mayer",
+    "nameCn": "玛丽亚·格佩特-梅耶",
+    "slug": "maria-goeppert-mayer",
+    "field": "physics",
+    "born": 1906,
+    "died": 1972,
+    "nationality": "German-American",
+    "nationalityCn": "德裔美国人",
+    "tagline": "Nobel Laureate for Nuclear Shell Model",
+    "taglineCn": "核壳层模型诺贝尔奖得主",
+    "bio": "Maria Goeppert Mayer was a theoretical physicist who proposed the nuclear shell model of the atomic nucleus, for which she received the Nobel Prize in Physics in 1963 — only the second woman to do so after Marie Curie. For much of her career, anti-nepotism rules prevented her from holding paid positions at universities where her husband worked, forcing her to pursue research as a volunteer or in unpaid positions.",
+    "bioCn": "玛丽亚·格佩特-梅耶是一位理论物理学家，她提出了原子核的核壳层模型，并因此获得1963年诺贝尔物理学奖——继居里夫人之后第二位获此殊荣的女性。在她职业生涯的大部分时间里，反裙带关系规定阻止她在丈夫工作的大学担任有薪职位，迫使她以志愿者或无薪职位进行研究。",
+    "achievements": [
+      "Nobel Prize in Physics (1963) for nuclear shell model",
+      "Second woman to win Nobel Prize in Physics",
+      "Pioneered two-photon absorption theory"
+    ],
+    "achievementsCn": [
+      "因核壳层模型获诺贝尔物理学奖（1963年）",
+      "第二位获得诺贝尔物理学奖的女性",
+      "开创两光子吸收理论"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Maria_Goeppert-Mayer.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Maria Goeppert Mayer — https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer",
+      "Nobel Prize: Maria Goeppert Mayer — https://www.nobelprize.org/prizes/physics/1963/mayer/"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Émilie du Châtelet",
+    "nameCn": "埃米莉·杜·夏特莱",
+    "slug": "emilie-du-chatelet",
+    "field": "physics",
+    "born": 1706,
+    "died": 1749,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Translated Newton's Principia into French",
+    "taglineCn": "将牛顿《原理》翻译成法语",
+    "bio": "Émilie du Châtelet was a French natural philosopher and mathematician who made Newton's work accessible to the European continent. Her translation and commentary on Newton's Principia Mathematica, published posthumously, remains the standard French translation to this day. She also proposed that kinetic energy is proportional to the square of velocity — a concept later confirmed and foundational to modern physics. She died at 42 from complications of childbirth, days after completing her translation.",
+    "bioCn": "埃米莉·杜·夏特莱是一位法国自然哲学家和数学家，她使牛顿的著作在欧洲大陆得到传播。她对牛顿《自然哲学的数学原理》的翻译和评注在她去世后出版，至今仍是标准的法语译本。她还提出动能与速度的平方成正比——这一概念后来得到证实，成为现代物理学的基础。她在完成翻译后数天，因分娩并发症去世，年仅42岁。",
+    "achievements": [
+      "Translated Newton's Principia Mathematica into French",
+      "Proposed kinetic energy proportional to velocity squared",
+      "Her translation remains the French standard after 275 years"
+    ],
+    "achievementsCn": [
+      "将牛顿《自然哲学的数学原理》翻译成法语",
+      "提出动能与速度平方成正比",
+      "她的译本在275年后仍是法语标准版"
+    ],
+    "era": "18th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%89milie_du_Ch%C3%A2telet_by_Latour.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Émilie du Châtelet — https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet",
+      "Zinsser, Judith. Emilie Du Chatelet: Daring Genius of the Enlightenment. Penguin, 2007."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Donna Strickland",
+    "nameCn": "唐娜·斯特里克兰",
+    "slug": "donna-strickland",
+    "field": "physics",
+    "born": 1959,
+    "died": null,
+    "nationality": "Canadian",
+    "nationalityCn": "加拿大",
+    "tagline": "Nobel Laureate in Laser Physics",
+    "taglineCn": "激光物理诺贝尔奖得主",
+    "bio": "Donna Strickland shared the 2018 Nobel Prize in Physics for developing chirped pulse amplification (CPA), a technique that generates ultrashort, high-intensity laser pulses now used in millions of corrective eye surgeries annually. She was only the third woman in history to receive the Nobel Prize in Physics. At the time of her award, she was an associate professor — she did not yet have a Wikipedia page, highlighting the persistent invisibility of women in science.",
+    "bioCn": "唐娜·斯特里克兰因开发啁啾脉冲放大（CPA）技术而分享了2018年诺贝尔物理学奖，该技术产生超短、高强度激光脉冲，现在每年用于数百万次矫正眼科手术。她是历史上第三位获得诺贝尔物理学奖的女性。获奖时她还是副教授——甚至还没有维基百科页面，这凸显了女性在科学中的持续隐形。",
+    "achievements": [
+      "Nobel Prize in Physics (2018) for chirped pulse amplification",
+      "Third woman to win Nobel Prize in Physics",
+      "Technology enables millions of eye surgeries annually"
+    ],
+    "achievementsCn": [
+      "因啁啾脉冲放大获诺贝尔物理学奖（2018年）",
+      "第三位获诺贝尔物理学奖的女性",
+      "技术每年支持数百万次眼科手术"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Donna_Strickland_EM1B5760_%2846183560632%29_%28cropped%29.jpg",
+    "quote": "We need to celebrate women physicists because they're out there.",
+    "quoteCn": "我们需要赞美女性物理学家，因为她们就在那里。",
+    "quoteSource": "Nobel Prize press conference, 2018",
+    "references": [
+      "Wikipedia: Donna Strickland — https://en.wikipedia.org/wiki/Donna_Strickland",
+      "Nobel Prize: Donna Strickland — https://www.nobelprize.org/prizes/physics/2018/strickland/"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Jocelyn Bell Burnell",
+    "nameCn": "乔斯林·贝尔·伯奈尔",
+    "slug": "jocelyn-bell-burnell",
+    "field": "physics",
+    "born": 1943,
+    "died": null,
+    "nationality": "British-Irish",
+    "nationalityCn": "英国裔爱尔兰人",
+    "tagline": "Discoverer of Pulsars",
+    "taglineCn": "脉冲星的发现者",
+    "bio": "As a graduate student in 1967, Jocelyn Bell Burnell discovered pulsars — rapidly rotating neutron stars that emit regular pulses of radio waves. The 1974 Nobel Prize for this discovery was controversially awarded to her supervisor Antony Hewish and Martin Ryle, excluding Bell Burnell. Despite this injustice, she has had an extraordinary career in astrophysics and donated the entire £2.3 million from her 2018 Breakthrough Prize to fund scholarships for underrepresented physics students.",
+    "bioCn": "1967年，作为研究生的乔斯林·贝尔·伯奈尔发现了脉冲星——快速旋转的中子星，发射规则的射电脉冲。1974年诺贝尔奖因这一发现颁发给了她的导师安东尼·休伊什和马丁·赖尔，争议性地将贝尔·伯奈尔排除在外。尽管遭受了这种不公正，她在天体物理学方面取得了非凡的职业成就，并将2018年突破奖的全部230万英镑捐赠用于资助代表性不足的物理学生奖学金。",
+    "achievements": [
+      "Discovered pulsars as a graduate student (1967)",
+      "Donated £2.3M Breakthrough Prize to student scholarships",
+      "Served as president of the Royal Astronomical Society"
+    ],
+    "achievementsCn": [
+      "作为研究生发现脉冲星（1967年）",
+      "将230万英镑突破奖全部捐赠给学生奖学金",
+      "担任皇家天文学会主席"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jocelyn_Bell_Burnell_at_workshop_on_Innovation%2C_ESA%2C_ESTEC_2009.jpg",
+    "quote": "I feel I've done very well out of not getting a Nobel Prize.",
+    "quoteCn": "我觉得没获得诺贝尔奖让我的人生过得很好。",
+    "quoteSource": "From public lectures and interviews",
+    "references": [
+      "Wikipedia: Jocelyn Bell Burnell — https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell",
+      "Burnell, J.B. 'Little Green Men, White Dwarfs, or Pulsars?' Cosmic Search, 1977."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Vera Rubin",
+    "nameCn": "维拉·鲁宾",
+    "slug": "vera-rubin",
+    "field": "physics",
+    "born": 1928,
+    "died": 2016,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Proved the Existence of Dark Matter",
+    "taglineCn": "证明了暗物质的存在",
+    "bio": "Vera Rubin's observations of galaxy rotation curves provided the first strong evidence that most of the matter in the universe is invisible dark matter. Her meticulous work in the 1970s showed that galaxies rotate far faster than expected, implying the existence of vast amounts of unseen mass. Despite revolutionizing our understanding of the cosmos, she was never awarded the Nobel Prize. In 2020, the Vera C. Rubin Observatory in Chile was named in her honor.",
+    "bioCn": "维拉·鲁宾对星系旋转曲线的观测提供了第一个有力证据，表明宇宙中的大部分物质是不可见的暗物质。她在20世纪70年代的细致工作表明，星系的旋转速度远超预期，暗示存在大量看不见的质量。尽管她彻底改变了我们对宇宙的理解，却从未获得诺贝尔奖。2020年，智利的维拉·C·鲁宾天文台以她的名字命名。",
+    "achievements": [
+      "Provided first strong evidence for dark matter",
+      "Vera C. Rubin Observatory named in her honor",
+      "Received National Medal of Science"
+    ],
+    "achievementsCn": [
+      "提供了暗物质的第一个有力证据",
+      "维拉·C·鲁宾天文台以她命名",
+      "获得国家科学奖章"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Vera_Rubin.jpg",
+    "quote": "Science progresses best when observations force us to alter our preconceptions.",
+    "quoteCn": "当观测迫使我们改变先入之见时，科学进步最大。",
+    "quoteSource": "From publications and talks",
+    "references": [
+      "Wikipedia: Vera Rubin — https://en.wikipedia.org/wiki/Vera_Rubin",
+      "Rubin, Vera. Bright Galaxies, Dark Matters. AIP Press, 1997."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Cecilia Payne-Gaposchkin",
+    "nameCn": "塞西莉亚·佩恩-加波施金",
+    "slug": "cecilia-payne-gaposchkin",
+    "field": "physics",
+    "born": 1900,
+    "died": 1979,
+    "nationality": "British-American",
+    "nationalityCn": "英裔美国人",
+    "tagline": "Discovered What Stars Are Made Of",
+    "taglineCn": "发现恒星由什么组成",
+    "bio": "Cecilia Payne-Gaposchkin's 1925 doctoral thesis was described by astronomer Otto Struve as 'the most brilliant PhD thesis ever written in astronomy.' She demonstrated that stars are composed primarily of hydrogen and helium, contradicting the prevailing belief that they had the same composition as Earth. Initially dissuaded from publishing this conclusion by Henry Norris Russell, her findings were later confirmed and are now fundamental to astrophysics.",
+    "bioCn": "塞西莉亚·佩恩-加波施金1925年的博士论文被天文学家奥托·斯特鲁维描述为'天文学史上写得最出色的博士论文'。她证明恒星主要由氢和氦组成，推翻了当时认为恒星与地球成分相同的主流观点。最初她被亨利·诺里斯·罗素劝阻不要发表这一结论，但她的发现后来得到证实，现在已成为天体物理学的基础。",
+    "achievements": [
+      "Discovered stars are primarily hydrogen and helium",
+      "Wrote what is called the most brilliant astronomy PhD thesis",
+      "First woman to become a full professor at Harvard"
+    ],
+    "achievementsCn": [
+      "发现恒星主要由氢和氦组成",
+      "撰写了被称为最出色的天文学博士论文",
+      "哈佛大学第一位女性正教授"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cecilia_Helena_Payne_Gaposchkin_%281900-1979%29_%283%29.jpg",
+    "quote": "The reward of the young scientist is the emotional thrill of being the first person in the history of the world to see something or to understand something.",
+    "quoteCn": "年轻科学家的回报，是成为世界历史上第一个看到或理解某事的人所带来的情感激动。",
+    "quoteSource": "From her autobiography",
+    "references": [
+      "Wikipedia: Cecilia Payne-Gaposchkin — https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin",
+      "Payne-Gaposchkin, C. An Autobiography and Other Recollections. Cambridge Univ Press, 1984."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Hertha Ayrton",
+    "nameCn": "赫莎·艾尔顿",
+    "slug": "hertha-ayrton",
+    "field": "physics",
+    "born": 1854,
+    "died": 1923,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Physicist and Electrical Engineer",
+    "taglineCn": "物理学家与电气工程师",
+    "bio": "Hertha Ayrton was the first woman to read a paper before the Royal Society of London and the first woman to win the Hughes Medal for original scientific research. Her work on electric arcs and ripple marks in sand and water had both theoretical and practical significance. She held 26 patents and was a passionate suffragette. When asked whether she minded being called a woman scientist, she replied that she did not understand the distinction.",
+    "bioCn": "赫莎·艾尔顿是第一位在伦敦皇家学会宣读论文的女性，也是第一位因原创科学研究获得休斯奖章的女性。她在电弧以及沙和水中的涟漪方面的工作具有理论和实践双重意义。她拥有26项专利，并且是一位热情的女性参政权运动者。当被问及是否介意被称为女科学家时，她回答说她不理解这种区分。",
+    "achievements": [
+      "First woman to read a paper before the Royal Society",
+      "First woman to win the Hughes Medal",
+      "Held 26 patents"
+    ],
+    "achievementsCn": [
+      "第一位在皇家学会宣读论文的女性",
+      "第一位获得休斯奖章的女性",
+      "拥有26项专利"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hertha_Ayrton._Photograph_by_Lena_Connell.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Hertha Ayrton — https://en.wikipedia.org/wiki/Hertha_Ayrton",
+      "Sharp, Evelyn. Hertha Ayrton: A Memoir. Edward Arnold, 1926."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Andrea Ghez",
+    "nameCn": "安德里亚·盖兹",
+    "slug": "andrea-ghez",
+    "field": "physics",
+    "born": 1965,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Nobel Laureate for Supermassive Black Hole Discovery",
+    "taglineCn": "因超大质量黑洞发现获诺贝尔奖",
+    "bio": "Andrea Ghez shared the 2020 Nobel Prize in Physics for her discovery of a supermassive compact object at the center of the Milky Way galaxy. Using the Keck Observatory in Hawaii, she developed techniques to peer through interstellar dust and tracked stars orbiting the invisible object now known as Sagittarius A*. She became the fourth woman to win the Nobel Prize in Physics.",
+    "bioCn": "安德里亚·盖兹因发现银河系中心的超大质量致密天体而分享了2020年诺贝尔物理学奖。利用夏威夷的凯克天文台，她开发了穿透星际尘埃的技术，追踪了围绕现在称为人马座A*的不可见天体运行的恒星。她成为第四位获得诺贝尔物理学奖的女性。",
+    "achievements": [
+      "Nobel Prize in Physics (2020) for black hole discovery",
+      "Fourth woman to win Nobel Prize in Physics",
+      "Pioneered adaptive optics techniques in astronomy"
+    ],
+    "achievementsCn": [
+      "因黑洞发现获诺贝尔物理学奖（2020年）",
+      "第四位获诺贝尔物理学奖的女性",
+      "开创天文学自适应光学技术"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Andrea_Ghez%2C_2019_%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Andrea Ghez — https://en.wikipedia.org/wiki/Andrea_Ghez",
+      "Nobel Prize: Andrea Ghez — https://www.nobelprize.org/prizes/physics/2020/ghez/"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Mildred Dresselhaus",
+    "nameCn": "米尔德里德·德雷塞尔豪斯",
+    "slug": "mildred-dresselhaus",
+    "field": "physics",
+    "born": 1930,
+    "died": 2017,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "The Queen of Carbon Science",
+    "taglineCn": "碳科学女王",
+    "bio": "Mildred Dresselhaus, known as the 'Queen of Carbon Science,' was an MIT physicist whose research on carbon nanostructures laid the groundwork for the field of nanotechnology. Her work on graphite, carbon nanotubes, and thermoelectric materials helped make possible technologies from lightweight composites to energy-harvesting devices. She received the Presidential Medal of Freedom and was the first woman to win the National Medal of Science in Engineering.",
+    "bioCn": "米尔德里德·德雷塞尔豪斯被称为'碳科学女王'，是MIT物理学家，她对碳纳米结构的研究为纳米技术领域奠定了基础。她在石墨、碳纳米管和热电材料方面的工作使从轻质复合材料到能量收集设备的技术成为可能。她获得了总统自由勋章，是第一位获得国家工程科学奖章的女性。",
+    "achievements": [
+      "Pioneered carbon nanostructure research",
+      "Presidential Medal of Freedom recipient",
+      "First woman to win National Medal of Science in Engineering"
+    ],
+    "achievementsCn": [
+      "开创碳纳米结构研究",
+      "获得总统自由勋章",
+      "第一位获得国家工程科学奖章的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Millie_Dresselhaus_1.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mildred Dresselhaus — https://en.wikipedia.org/wiki/Mildred_Dresselhaus",
+      "MIT memorial — https://news.mit.edu/"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Rosalind Franklin",
+    "nameCn": "罗莎琳德·富兰克林",
+    "slug": "rosalind-franklin",
+    "field": "chemistry",
+    "born": 1920,
+    "died": 1958,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "The Woman Behind DNA's Double Helix",
+    "taglineCn": "DNA双螺旋背后的女性",
+    "bio": "Rosalind Franklin's X-ray diffraction image known as Photo 51 was the crucial evidence that revealed the double helix structure of DNA. Her colleague Maurice Wilkins showed the photograph to James Watson without her knowledge, and Watson and Crick used it to build their famous model. Franklin never knew her data had been shared. She died of ovarian cancer at 37, four years before Watson, Crick, and Wilkins received the Nobel Prize — which is not awarded posthumously.",
+    "bioCn": "罗莎琳德·富兰克林的X射线衍射图像——著名的Photo 51——是揭示DNA双螺旋结构的关键证据。她的同事莫里斯·威尔金斯在她不知情的情况下将照片展示给了詹姆斯·沃森，沃森和克里克利用它构建了他们著名的模型。富兰克林从不知道她的数据被分享了。她37岁死于卵巢癌，在沃森、克里克和威尔金斯获得诺贝尔奖的四年前——该奖不授予已故者。",
+    "achievements": [
+      "Captured Photo 51, key evidence for DNA's structure",
+      "Pioneered X-ray diffraction studies of biological molecules",
+      "Also made major contributions to understanding viruses"
+    ],
+    "achievementsCn": [
+      "拍摄Photo 51，DNA结构的关键证据",
+      "开创了生物分子的X射线衍射研究",
+      "对理解病毒也做出了重大贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Rosalind_Franklin_%281920-1958%29.jpg",
+    "quote": "Science and everyday life cannot and should not be separated.",
+    "quoteCn": "科学与日常生活不能也不应该分离。",
+    "quoteSource": "From her personal papers",
+    "references": [
+      "Wikipedia: Rosalind Franklin — https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "Maddox, Brenda. Rosalind Franklin: The Dark Lady of DNA. HarperCollins, 2002."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Dorothy Hodgkin",
+    "nameCn": "多萝西·霍奇金",
+    "slug": "dorothy-hodgkin",
+    "field": "chemistry",
+    "born": 1910,
+    "died": 1994,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Nobel Laureate in X-ray Crystallography",
+    "taglineCn": "X射线晶体学诺贝尔奖得主",
+    "bio": "Dorothy Crowfoot Hodgkin advanced the technique of X-ray crystallography to determine the three-dimensional structures of biomolecules. She confirmed the structure of penicillin, mapped vitamin B12, and later determined the structure of insulin — work that took her 35 years. She received the 1964 Nobel Prize in Chemistry, becoming only the third woman to receive the prize. She was also a lifelong peace activist.",
+    "bioCn": "多萝西·克劳福特·霍奇金推进了X射线晶体学技术，用以确定生物分子的三维结构。她确认了青霉素的结构、绘制了维生素B12的图谱，后来还确定了胰岛素的结构——这项工作耗费了她35年。她获得了1964年诺贝尔化学奖，成为第三位获此殊荣的女性。她也是一位终身和平活动家。",
+    "achievements": [
+      "Nobel Prize in Chemistry (1964)",
+      "Determined structures of penicillin, vitamin B12, and insulin",
+      "Only British woman to win a Nobel Prize in science"
+    ],
+    "achievementsCn": [
+      "诺贝尔化学奖（1964年）",
+      "确定了青霉素、维生素B12和胰岛素的结构",
+      "唯一获得诺贝尔科学奖的英国女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Dorothy_Hodgkin_Nobel.jpg",
+    "quote": "I was captured for life by chemistry and by crystals.",
+    "quoteCn": "化学和晶体俘获了我的一生。",
+    "quoteSource": "Nobel autobiography, 1964",
+    "references": [
+      "Wikipedia: Dorothy Hodgkin — https://en.wikipedia.org/wiki/Dorothy_Hodgkin",
+      "Nobel Prize: Dorothy Crowfoot Hodgkin — https://www.nobelprize.org/prizes/chemistry/1964/hodgkin/",
+      "Ferry, Georgina. Dorothy Hodgkin: A Life. Granta Books, 1998."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Alice Ball",
+    "nameCn": "爱丽丝·鲍尔",
+    "slug": "alice-ball",
+    "field": "chemistry",
+    "born": 1892,
+    "died": 1916,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Developed the First Effective Leprosy Treatment",
+    "taglineCn": "开发了第一种有效的麻风病治疗方法",
+    "bio": "Alice Ball was an African-American chemist who developed the first effective treatment for leprosy (Hansen's disease) at the age of 23. Her 'Ball Method' made chaulmoogra oil injectable by isolating its active compounds, treating thousands of patients worldwide. She died at just 24 from chlorine poisoning in a laboratory accident. Her work was initially claimed by a colleague, but her contributions were formally recognized by the University of Hawaii in 2000.",
+    "bioCn": "爱丽丝·鲍尔是一位非裔美国化学家，23岁时开发了第一种有效的麻风病（汉森病）治疗方法。她的'鲍尔方法'通过分离活性化合物使大风子油可注射，在全球治疗了数千名患者。她年仅24岁因实验室氯气中毒去世。她的工作最初被一位同事占为己有，但2000年夏威夷大学正式承认了她的贡献。",
+    "achievements": [
+      "Developed the Ball Method for treating leprosy",
+      "Youngest and first African-American master's graduate at University of Hawaii",
+      "Treated thousands of leprosy patients worldwide"
+    ],
+    "achievementsCn": [
+      "开发了治疗麻风病的鲍尔方法",
+      "夏威夷大学最年轻的、也是第一位非裔美国硕士毕业生",
+      "在全球治疗了数千名麻风病患者"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_Augusta_Ball.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Alice Ball — https://en.wikipedia.org/wiki/Alice_Ball",
+      "Swaby, Rachel. Headstrong: 52 Women Who Changed Science. Crown/Broadway, 2015."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Irène Joliot-Curie",
+    "nameCn": "伊雷娜·约里奥-居里",
+    "slug": "irene-joliot-curie",
+    "field": "chemistry",
+    "born": 1897,
+    "died": 1956,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Nobel Laureate for Artificial Radioactivity",
+    "taglineCn": "人工放射性诺贝尔奖得主",
+    "bio": "Irène Joliot-Curie, daughter of Marie and Pierre Curie, shared the 1935 Nobel Prize in Chemistry with her husband Frédéric for their discovery of artificial radioactivity. She demonstrated that radioactive elements could be artificially produced, opening the door to nuclear medicine and advancing nuclear physics. Like her mother, she died from leukemia caused by prolonged radiation exposure. She also served in the French government as undersecretary of state for scientific research.",
+    "bioCn": "伊雷娜·约里奥-居里是玛丽和皮埃尔·居里的女儿，与丈夫弗雷德里克因发现人工放射性而分享了1935年诺贝尔化学奖。她证明放射性元素可以人工制造，为核医学打开了大门，推动了核物理学的发展。和她的母亲一样，她死于长期辐射暴露引起的白血病。她还在法国政府担任科学研究国务副秘书。",
+    "achievements": [
+      "Nobel Prize in Chemistry (1935) for artificial radioactivity",
+      "Part of the only mother-daughter Nobel Prize pair",
+      "Served as French undersecretary of state for scientific research"
+    ],
+    "achievementsCn": [
+      "因人工放射性获诺贝尔化学奖（1935年）",
+      "唯一的母女诺贝尔奖得主之一",
+      "担任法国科学研究国务副秘书"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ir%C3%A8ne_Joliot-Curie_%281897-1956%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Irène Joliot-Curie — https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie",
+      "Nobel Prize: Irène Joliot-Curie — https://www.nobelprize.org/prizes/chemistry/1935/joliot-curie/"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Gertrude Elion",
+    "nameCn": "格特鲁德·埃利恩",
+    "slug": "gertrude-elion",
+    "field": "chemistry",
+    "born": 1918,
+    "died": 1999,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Revolutionized Drug Development",
+    "taglineCn": "革新了药物开发",
+    "bio": "Gertrude Elion developed a revolutionary approach to drug design that used differences in biochemistry between normal cells and pathogens. Her method led to treatments for leukemia, herpes, malaria, gout, and organ transplant rejection. She shared the 1988 Nobel Prize in Physiology or Medicine. Despite never completing a PhD — she was denied admission to graduate programs because she was a woman — her innovations saved millions of lives.",
+    "bioCn": "格特鲁德·埃利恩开发了一种革命性的药物设计方法，利用正常细胞和病原体之间的生化差异。她的方法导致了白血病、疱疹、疟疾、痛风和器官移植排斥反应的治疗方案。她分享了1988年诺贝尔生理学或医学奖。尽管从未完成博士学位——她因为是女性而被拒绝进入研究生项目——她的创新挽救了数百万人的生命。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1988)",
+      "Developed treatments for leukemia, herpes, and malaria",
+      "Revolutionized rational drug design methodology"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（1988年）",
+      "开发了白血病、疱疹和疟疾的治疗方法",
+      "革新了理性药物设计方法论"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gertrude_Elion.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Gertrude Elion — https://en.wikipedia.org/wiki/Gertrude_B._Elion",
+      "Nobel Prize: Gertrude B. Elion — https://www.nobelprize.org/prizes/medicine/1988/elion/"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Jennifer Doudna",
+    "nameCn": "珍妮弗·杜德纳",
+    "slug": "jennifer-doudna",
+    "field": "chemistry",
+    "born": 1964,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Co-inventor of CRISPR Gene Editing",
+    "taglineCn": "CRISPR基因编辑的共同发明者",
+    "bio": "Jennifer Doudna and Emmanuelle Charpentier shared the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9, a revolutionary tool for editing DNA with unprecedented precision. Their discovery has transformed biology, enabling potential cures for genetic diseases, creation of disease-resistant crops, and new approaches to treating cancer. It is one of the most consequential scientific discoveries of the 21st century.",
+    "bioCn": "珍妮弗·杜德纳和埃曼纽尔·夏彭蒂耶因开发CRISPR-Cas9——一种以前所未有的精度编辑DNA的革命性工具——而分享了2020年诺贝尔化学奖。她们的发现改变了生物学，使遗传疾病的潜在治愈、抗病作物的创造和治疗癌症的新方法成为可能。这是21世纪最具深远影响的科学发现之一。",
+    "achievements": [
+      "Nobel Prize in Chemistry (2020) for CRISPR-Cas9",
+      "Revolutionized genome editing",
+      "Founded the Innovative Genomics Institute"
+    ],
+    "achievementsCn": [
+      "因CRISPR-Cas9获诺贝尔化学奖（2020年）",
+      "革新了基因组编辑",
+      "创立创新基因组学研究所"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Professor_Jennifer_Doudna_ForMemRS.jpg",
+    "quote": "The power to control our species' genetic future is awesome and terrifying.",
+    "quoteCn": "控制我们物种基因未来的力量既令人敬畏又令人恐惧。",
+    "quoteSource": "A Crack in Creation, 2017",
+    "references": [
+      "Wikipedia: Jennifer Doudna — https://en.wikipedia.org/wiki/Jennifer_Doudna",
+      "Nobel Prize: Jennifer A. Doudna — https://www.nobelprize.org/prizes/chemistry/2020/doudna/",
+      "Doudna, J. & Sternberg, S. A Crack in Creation. Houghton Mifflin, 2017."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Emmanuelle Charpentier",
+    "nameCn": "埃曼纽尔·夏彭蒂耶",
+    "slug": "emmanuelle-charpentier",
+    "field": "chemistry",
+    "born": 1968,
+    "died": null,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Co-inventor of CRISPR Gene Editing",
+    "taglineCn": "CRISPR基因编辑的共同发明者",
+    "bio": "Emmanuelle Charpentier is a French microbiologist and biochemist who co-developed CRISPR-Cas9 gene editing technology with Jennifer Doudna. Her discovery of tracrRNA, a molecule essential for bacterial immune defense, was the key insight that led to the development of the CRISPR tool. She shared the 2020 Nobel Prize in Chemistry, making Doudna and Charpentier the first all-female team to share a science Nobel.",
+    "bioCn": "埃曼纽尔·夏彭蒂耶是一位法国微生物学家和生物化学家，与珍妮弗·杜德纳共同开发了CRISPR-Cas9基因编辑技术。她对tracrRNA——一种对细菌免疫防御至关重要的分子——的发现是开发CRISPR工具的关键洞见。她分享了2020年诺贝尔化学奖，使杜德纳和夏彭蒂耶成为第一个分享诺贝尔科学奖的全女性团队。",
+    "achievements": [
+      "Nobel Prize in Chemistry (2020) for CRISPR-Cas9",
+      "Discovered tracrRNA crucial for CRISPR mechanism",
+      "First all-female team to share a science Nobel Prize"
+    ],
+    "achievementsCn": [
+      "因CRISPR-Cas9获诺贝尔化学奖（2020年）",
+      "发现对CRISPR机制至关重要的tracrRNA",
+      "第一个分享诺贝尔科学奖的全女性团队"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Emmanuelle_Charpentier.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Emmanuelle Charpentier — https://en.wikipedia.org/wiki/Emmanuelle_Charpentier",
+      "Nobel Prize: Emmanuelle Charpentier — https://www.nobelprize.org/prizes/chemistry/2020/charpentier/"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Tu Youyou",
+    "nameCn": "屠呦呦",
+    "slug": "tu-youyou",
+    "field": "chemistry",
+    "born": 1930,
+    "died": null,
+    "nationality": "Chinese",
+    "nationalityCn": "中国",
+    "tagline": "Discoverer of Artemisinin for Malaria",
+    "taglineCn": "发现青蒿素治疗疟疾",
+    "bio": "Tu Youyou discovered artemisinin, a compound derived from traditional Chinese medicine that has saved millions of lives from malaria. During the Cultural Revolution, she led a secret military project that screened thousands of herbal remedies. Inspired by a 1,600-year-old text by Ge Hong, she developed a low-temperature extraction method that preserved the compound's efficacy. She received the 2015 Nobel Prize in Physiology or Medicine — the first Chinese Nobel laureate in the sciences and the first without a doctoral degree or overseas study experience.",
+    "bioCn": "屠呦呦发现了青蒿素——一种源自中国传统医学的化合物，已经拯救了数百万人免于疟疾。在文化大革命期间，她领导了一个秘密军事项目，筛选了数千种草药。受葛洪1600年前古籍的启发，她开发了保持化合物功效的低温提取方法。她获得了2015年诺贝尔生理学或医学奖——中国第一位科学领域的诺贝尔奖得主，也是第一位没有博士学位和海外留学经历的获奖者。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2015)",
+      "Discovered artemisinin, saving millions from malaria",
+      "First Chinese scientist to win a Nobel Prize"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2015年）",
+      "发现青蒿素，拯救数百万人免于疟疾",
+      "中国第一位获得诺贝尔奖的科学家"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/D810_4987_Tu_Youyou%2C_medicine_%2822945001843%29_%28cropped%29.jpg",
+    "quote": "Every scientist dreams of doing something that can help the world.",
+    "quoteCn": "每个科学家都梦想做一些能帮助世界的事情。",
+    "quoteSource": "Nobel lecture, 2015",
+    "references": [
+      "Wikipedia: Tu Youyou — https://en.wikipedia.org/wiki/Tu_Youyou",
+      "Nobel Prize: Tu Youyou — https://www.nobelprize.org/prizes/medicine/2015/tu/"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Elizabeth Blackwell",
+    "nameCn": "伊丽莎白·布莱克韦尔",
+    "slug": "elizabeth-blackwell",
+    "field": "biology-medicine",
+    "born": 1821,
+    "died": 1910,
+    "nationality": "British-American",
+    "nationalityCn": "英裔美国人",
+    "tagline": "First Woman to Earn a Medical Degree in the U.S.",
+    "taglineCn": "美国第一位获得医学学位的女性",
+    "bio": "Elizabeth Blackwell became the first woman to receive a medical degree in the United States in 1849, graduating first in her class from Geneva Medical College. She faced enormous prejudice — her acceptance had been put to a student vote as a joke, but she persevered. She went on to found the New York Infirmary for Indigent Women and Children and established a medical college for women, opening the door for generations of female physicians.",
+    "bioCn": "伊丽莎白·布莱克韦尔于1849年成为美国第一位获得医学学位的女性，以全班第一名从日内瓦医学院毕业。她面对了巨大的偏见——她的录取曾被作为玩笑交由学生投票，但她坚持了下来。她后来创办了纽约贫困妇女儿童医院，并建立了女性医学院，为几代女性医生打开了大门。",
+    "achievements": [
+      "First woman to earn a medical degree in the U.S. (1849)",
+      "Founded New York Infirmary for Indigent Women and Children",
+      "Established a medical college for women"
+    ],
+    "achievementsCn": [
+      "美国第一位获得医学学位的女性（1849年）",
+      "创办纽约贫困妇女儿童医院",
+      "建立女性医学院"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Elizabeth_Blackwell.jpg",
+    "quote": "It is not easy to be a pioneer — but oh, it is fascinating!",
+    "quoteCn": "成为先驱并不容易——但天哪，这太迷人了！",
+    "quoteSource": "From her diary and letters",
+    "references": [
+      "Wikipedia: Elizabeth Blackwell — https://en.wikipedia.org/wiki/Elizabeth_Blackwell",
+      "Nimura, Janice. The Doctors Blackwell. W.W. Norton, 2021."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Barbara McClintock",
+    "nameCn": "芭芭拉·麦克林托克",
+    "slug": "barbara-mcclintock",
+    "field": "biology-medicine",
+    "born": 1902,
+    "died": 1992,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discoverer of Genetic Transposition",
+    "taglineCn": "遗传转座的发现者",
+    "bio": "Barbara McClintock discovered genetic transposition — the ability of genes to change position on chromosomes — decades before the scientific community accepted her findings. Working alone with maize plants at Cold Spring Harbor Laboratory, she showed that genes could move and regulate the expression of other genes. Her work, initially dismissed, was vindicated when she received the Nobel Prize in Physiology or Medicine in 1983, the first woman to win the prize unshared.",
+    "bioCn": "芭芭拉·麦克林托克发现了遗传转座——基因在染色体上改变位置的能力——比科学界接受她的发现早了几十年。她在冷泉港实验室独自研究玉米植物，表明基因可以移动并调节其他基因的表达。她的工作最初被否定，但在1983年获得诺贝尔生理学或医学奖时得到了平反，她是第一位独享该奖的女性。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1983)",
+      "Discovered genetic transposition (jumping genes)",
+      "First woman to win an unshared Nobel in Physiology or Medicine"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（1983年）",
+      "发现遗传转座（跳跃基因）",
+      "第一位独享诺贝尔生理学或医学奖的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947.jpg",
+    "quote": "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off.",
+    "quoteCn": "如果你知道自己走在正确的道路上，如果你有这种内在的认知，那么没有人能阻止你。",
+    "quoteSource": "Documented in Keller, Evelyn Fox. A Feeling for the Organism, 1983.",
+    "references": [
+      "Wikipedia: Barbara McClintock — https://en.wikipedia.org/wiki/Barbara_McClintock",
+      "Nobel Prize: Barbara McClintock — https://www.nobelprize.org/prizes/medicine/1983/mcclintock/",
+      "Keller, Evelyn Fox. A Feeling for the Organism. W.H. Freeman, 1983."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Rachel Carson",
+    "nameCn": "蕾切尔·卡逊",
+    "slug": "rachel-carson",
+    "field": "biology-medicine",
+    "born": 1907,
+    "died": 1964,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mother of the Environmental Movement",
+    "taglineCn": "环保运动之母",
+    "bio": "Rachel Carson was a marine biologist and author whose 1962 book Silent Spring documented the devastating effects of pesticides on the environment, particularly DDT's impact on bird populations. Despite a vicious industry campaign to discredit her, her meticulous scientific research catalyzed the modern environmental movement and led directly to the creation of the U.S. Environmental Protection Agency and the ban on DDT.",
+    "bioCn": "蕾切尔·卡逊是一位海洋生物学家和作家，她1962年的著作《寂静的春天》记录了农药对环境的毁灭性影响，特别是DDT对鸟类种群的影响。尽管面对行业恶意的诋毁运动，她细致的科学研究催化了现代环保运动，直接促成了美国环境保护署的创建和DDT的禁用。",
+    "achievements": [
+      "Published Silent Spring, catalyzing the environmental movement",
+      "Led to creation of the U.S. Environmental Protection Agency",
+      "Time magazine's 100 most influential people of the 20th century"
+    ],
+    "achievementsCn": [
+      "出版《寂静的春天》，催化环保运动",
+      "促成美国环境保护署的创建",
+      "《时代》杂志20世纪100位最具影响力人物"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Rachel-Carson.jpg",
+    "quote": "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
+    "quoteCn": "我们越清楚地将注意力集中在周围宇宙的奇迹和现实上，就越不会有毁灭的欲望。",
+    "quoteSource": "Silent Spring, 1962",
+    "references": [
+      "Wikipedia: Rachel Carson — https://en.wikipedia.org/wiki/Rachel_Carson",
+      "Carson, Rachel. Silent Spring. Houghton Mifflin, 1962.",
+      "Lear, Linda. Rachel Carson: Witness for Nature. Henry Holt, 1997."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Jane Goodall",
+    "nameCn": "珍·古道尔",
+    "slug": "jane-goodall",
+    "field": "biology-medicine",
+    "born": 1934,
+    "died": null,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "World's Foremost Expert on Chimpanzees",
+    "taglineCn": "世界最杰出的黑猩猩专家",
+    "bio": "Jane Goodall revolutionized our understanding of primates through her 60-year study of chimpanzees in Gombe, Tanzania. She was the first to observe that chimpanzees make and use tools — a discovery that blurred the line between humans and other animals. Without a college degree when she began, she earned her PhD from Cambridge and became one of the most influential scientists and conservationists in history.",
+    "bioCn": "珍·古道尔通过在坦桑尼亚贡贝长达60年的黑猩猩研究，彻底改变了我们对灵长类动物的理解。她是第一个观察到黑猩猩制造和使用工具的人——这一发现模糊了人类和其他动物之间的界限。开始研究时她没有大学学位，后来在剑桥获得博士学位，成为历史上最具影响力的科学家和保育人士之一。",
+    "achievements": [
+      "Discovered chimpanzees make and use tools",
+      "60+ year study of chimpanzees in Gombe, Tanzania",
+      "UN Messenger of Peace"
+    ],
+    "achievementsCn": [
+      "发现黑猩猩制造和使用工具",
+      "在坦桑尼亚贡贝进行60多年的黑猩猩研究",
+      "联合国和平信使"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jane_Goodall_2015.jpg/440px-Jane_Goodall_2015.jpg",
+    "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+    "quoteCn": "你所做的事会产生影响，你必须决定你想产生什么样的影响。",
+    "quoteSource": "From talks and published works",
+    "references": [
+      "Wikipedia: Jane Goodall — https://en.wikipedia.org/wiki/Jane_Goodall",
+      "Goodall, Jane. In the Shadow of Man. Houghton Mifflin, 1971.",
+      "Jane Goodall Institute — https://www.janegoodall.org/"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Mary Anning",
+    "nameCn": "玛丽·安宁",
+    "slug": "mary-anning",
+    "field": "biology-medicine",
+    "born": 1799,
+    "died": 1847,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Paleontology",
+    "taglineCn": "古生物学先驱",
+    "bio": "Mary Anning was a fossil collector and self-taught paleontologist who made some of the most important finds in the history of geology. Working the treacherous cliffs of Lyme Regis, she discovered the first correctly identified ichthyosaur skeleton at age 12, and later found the first plesiosaur and the first pterosaur known outside Germany. Despite her extraordinary discoveries, as a working-class woman she was excluded from the scientific societies that studied her finds.",
+    "bioCn": "玛丽·安宁是一位化石收集者和自学成才的古生物学家，她做出了地质学史上一些最重要的发现。在莱姆里吉斯危险的悬崖上工作，她12岁时发现了第一具被正确鉴定的鱼龙骨骼，后来又发现了第一具蛇颈龙和德国以外已知的第一只翼龙。尽管她的发现非同寻常，但作为一名工人阶级女性，她被排斥在研究她发现的科学学会之外。",
+    "achievements": [
+      "Discovered first correctly identified ichthyosaur skeleton",
+      "Found first plesiosaur and first British pterosaur",
+      "Fundamental contributions to understanding prehistoric life"
+    ],
+    "achievementsCn": [
+      "发现第一具被正确鉴定的鱼龙骨骼",
+      "发现第一具蛇颈龙和第一只英国翼龙",
+      "对理解史前生命做出根本性贡献"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mary_Anning_painting.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Anning — https://en.wikipedia.org/wiki/Mary_Anning",
+      "Emling, Shelley. The Fossil Hunter. Palgrave Macmillan, 2009."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Rita Levi-Montalcini",
+    "nameCn": "丽塔·列维-蒙塔尔奇尼",
+    "slug": "rita-levi-montalcini",
+    "field": "biology-medicine",
+    "born": 1909,
+    "died": 2012,
+    "nationality": "Italian",
+    "nationalityCn": "意大利",
+    "tagline": "Nobel Laureate Who Discovered Nerve Growth Factor",
+    "taglineCn": "发现神经生长因子的诺贝尔奖得主",
+    "bio": "Rita Levi-Montalcini discovered nerve growth factor (NGF), revealing how cells grow and develop. Banned from university by Mussolini's racial laws as a Jewish Italian, she set up a laboratory in her bedroom and continued her research in hiding during World War II. She shared the 1986 Nobel Prize in Physiology or Medicine and remained scientifically active until her death at 103, making her the longest-lived Nobel laureate at that time.",
+    "bioCn": "丽塔·列维-蒙塔尔奇尼发现了神经生长因子（NGF），揭示了细胞如何生长和发育。作为意大利犹太人，她因墨索里尼的种族法被禁止进入大学，于是在卧室里建了一个实验室，在二战期间秘密继续研究。她分享了1986年诺贝尔生理学或医学奖，并一直从事科学工作直到103岁去世，是当时最长寿的诺贝尔奖得主。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1986)",
+      "Discovered nerve growth factor (NGF)",
+      "Continued research hidden from fascist authorities"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（1986年）",
+      "发现神经生长因子（NGF）",
+      "在法西斯当局眼皮底下秘密继续研究"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Rita_Levi_Montalcini.jpg",
+    "quote": "Above all, don't fear difficult moments. The best comes from them.",
+    "quoteCn": "最重要的是，不要害怕困难时刻。最好的东西正是从中而来。",
+    "quoteSource": "From interviews",
+    "references": [
+      "Wikipedia: Rita Levi-Montalcini — https://en.wikipedia.org/wiki/Rita_Levi-Montalcini",
+      "Nobel Prize: Rita Levi-Montalcini — https://www.nobelprize.org/prizes/medicine/1986/levi-montalcini/"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Nettie Stevens",
+    "nameCn": "内蒂·史蒂文斯",
+    "slug": "nettie-stevens",
+    "field": "biology-medicine",
+    "born": 1861,
+    "died": 1912,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered Chromosomal Basis of Sex",
+    "taglineCn": "发现性别的染色体基础",
+    "bio": "Nettie Stevens discovered that sex is determined by chromosomes — specifically that XX chromosomes produce females and XY produce males in many species. Working with mealworms, she provided the crucial evidence linking chromosomes to inherited traits. Her colleague Edmund Beecher Wilson published similar findings simultaneously but received most of the credit, while Stevens' contribution was largely forgotten for decades.",
+    "bioCn": "内蒂·史蒂文斯发现性别是由染色体决定的——特别是在许多物种中XX染色体产生雌性，XY产生雄性。通过研究黄粉虫，她提供了将染色体与遗传特征联系起来的关键证据。她的同事埃德蒙·比彻·威尔逊同时发表了类似发现但获得了大部分荣誉，而史蒂文斯的贡献在几十年里几乎被遗忘。",
+    "achievements": [
+      "Discovered chromosomal basis of sex determination",
+      "Linked chromosomes to inherited traits",
+      "Pioneered the field of cytogenetics"
+    ],
+    "achievementsCn": [
+      "发现性别决定的染色体基础",
+      "将染色体与遗传特征联系起来",
+      "开创了细胞遗传学领域"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nettie_Stevens.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Nettie Stevens — https://en.wikipedia.org/wiki/Nettie_Stevens",
+      "Brush, Stephen G. 'Nettie M. Stevens and the Discovery of Sex Determination by Chromosomes,' Isis, 1978."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Françoise Barré-Sinoussi",
+    "nameCn": "弗朗索瓦丝·巴尔-西诺西",
+    "slug": "francoise-barre-sinoussi",
+    "field": "biology-medicine",
+    "born": 1947,
+    "died": null,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Co-discoverer of HIV",
+    "taglineCn": "HIV的共同发现者",
+    "bio": "Françoise Barré-Sinoussi co-discovered the human immunodeficiency virus (HIV) as the cause of AIDS in 1983 at the Pasteur Institute in Paris. Her identification of the retrovirus was crucial for developing diagnostic tests and treatments that have saved millions of lives. She received the 2008 Nobel Prize in Physiology or Medicine and has dedicated her career to fighting HIV/AIDS, particularly in developing countries.",
+    "bioCn": "弗朗索瓦丝·巴尔-西诺西于1983年在巴黎巴斯德研究所共同发现了人类免疫缺陷病毒（HIV）是艾滋病的病因。她对逆转录病毒的鉴定对于开发诊断测试和治疗方法至关重要，挽救了数百万人的生命。她获得了2008年诺贝尔生理学或医学奖，并将一生致力于抗击HIV/AIDS，特别是在发展中国家。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2008)",
+      "Co-discovered HIV as cause of AIDS",
+      "Dedicated career to fighting HIV/AIDS globally"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2008年）",
+      "共同发现HIV是艾滋病的病因",
+      "毕生致力于在全球范围内抗击HIV/AIDS"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Fran%C3%A7oise_Barr%C3%A9-Sinoussi-press_conference_Dec_06th%2C_2008-1.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Françoise Barré-Sinoussi — https://en.wikipedia.org/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi",
+      "Nobel Prize: Françoise Barré-Sinoussi — https://www.nobelprize.org/prizes/medicine/2008/barre-sinoussi/"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Christiane Nüsslein-Volhard",
+    "nameCn": "克里斯蒂安娜·纽斯林-沃尔哈德",
+    "slug": "christiane-nusslein-volhard",
+    "field": "biology-medicine",
+    "born": 1942,
+    "died": null,
+    "nationality": "German",
+    "nationalityCn": "德国",
+    "tagline": "Nobel Laureate for Embryonic Development Research",
+    "taglineCn": "胚胎发育研究诺贝尔奖得主",
+    "bio": "Christiane Nüsslein-Volhard shared the 1995 Nobel Prize in Physiology or Medicine for her discoveries concerning the genetic control of early embryonic development. Using fruit flies as a model organism, she identified the genes that control the body plan of the developing embryo, showing how a fertilized egg becomes a complex organism. She later established a foundation to support young women scientists with children.",
+    "bioCn": "克里斯蒂安娜·纽斯林-沃尔哈德因发现早期胚胎发育的遗传控制机制而分享了1995年诺贝尔生理学或医学奖。以果蝇作为模式生物，她鉴定了控制发育中胚胎体型的基因，展示了受精卵如何变成复杂有机体。她后来建立了一个基金会来支持有孩子的年轻女科学家。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1995)",
+      "Identified genes controlling embryonic body plan",
+      "Founded foundation supporting women scientists with children"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（1995年）",
+      "鉴定控制胚胎体型的基因",
+      "创建支持有孩子的女科学家的基金会"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Christiane_N%C3%BCsslein-Volhard_mg_4383.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Christiane Nüsslein-Volhard — https://en.wikipedia.org/wiki/Christiane_N%C3%BCsslein-Volhard",
+      "Nobel Prize: Christiane Nüsslein-Volhard — https://www.nobelprize.org/prizes/medicine/1995/nusslein-volhard/"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Linda Buck",
+    "nameCn": "琳达·巴克",
+    "slug": "linda-buck",
+    "field": "biology-medicine",
+    "born": 1947,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Nobel Laureate for Discovering Olfactory Receptors",
+    "taglineCn": "发现嗅觉受体的诺贝尔奖得主",
+    "bio": "Linda Buck shared the 2004 Nobel Prize in Physiology or Medicine for her discoveries of odorant receptors and the organization of the olfactory system. She identified approximately 1,000 different olfactory receptor genes, revealing how humans can detect and distinguish about 10,000 different odors. Her work opened entirely new areas of neuroscience research.",
+    "bioCn": "琳达·巴克因发现气味受体和嗅觉系统的组织方式而分享了2004年诺贝尔生理学或医学奖。她鉴定了约1000个不同的嗅觉受体基因，揭示了人类如何检测和区分约10000种不同的气味。她的工作开辟了全新的神经科学研究领域。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2004)",
+      "Identified ~1,000 olfactory receptor genes",
+      "Revealed how humans detect 10,000 different odors"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2004年）",
+      "鉴定了约1000个嗅觉受体基因",
+      "揭示了人类如何检测10000种不同气味"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Linda_Buck_2015.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Linda B. Buck — https://en.wikipedia.org/wiki/Linda_B._Buck",
+      "Nobel Prize: Linda B. Buck — https://www.nobelprize.org/prizes/medicine/2004/buck/"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Elizabeth Garrett Anderson",
+    "nameCn": "伊丽莎白·加勒特·安德森",
+    "slug": "elizabeth-garrett-anderson",
+    "field": "biology-medicine",
+    "born": 1836,
+    "died": 1917,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Britain's First Female Physician",
+    "taglineCn": "英国第一位女医师",
+    "bio": "Elizabeth Garrett Anderson was the first woman to qualify as a physician and surgeon in Britain. Rejected by every medical school, she qualified through the Society of Apothecaries, which then changed its rules to prevent other women from following. She co-founded the London School of Medicine for Women and became the first female mayor in England. Her persistence paved the way for women in British medicine.",
+    "bioCn": "伊丽莎白·加勒特·安德森是英国第一位获得医师和外科医生资格的女性。被每所医学院拒绝后，她通过药剂师协会获得资格，该协会随后更改了规则以阻止其他女性效仿。她共同创办了伦敦女子医学院，并成为英格兰第一位女性市长。她的坚持为英国医学界的女性铺平了道路。",
+    "achievements": [
+      "First woman to qualify as physician in Britain",
+      "Co-founded London School of Medicine for Women",
+      "First female mayor in England"
+    ],
+    "achievementsCn": [
+      "英国第一位获得医师资格的女性",
+      "共同创办伦敦女子医学院",
+      "英格兰第一位女性市长"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Elizabeth_Garrett_Anderson.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Elizabeth Garrett Anderson — https://en.wikipedia.org/wiki/Elizabeth_Garrett_Anderson",
+      "Manton, Jo. Elizabeth Garrett Anderson. Methuen, 1965."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Virginia Apgar",
+    "nameCn": "弗吉尼亚·阿普加",
+    "slug": "virginia-apgar",
+    "field": "biology-medicine",
+    "born": 1909,
+    "died": 1974,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Creator of the Apgar Score for Newborns",
+    "taglineCn": "新生儿阿普加评分系统创立者",
+    "bio": "Virginia Apgar developed the Apgar Score in 1952, a simple and rapid method to assess the health of newborn babies immediately after birth. This five-criteria scoring system — Appearance, Pulse, Grimace, Activity, Respiration — has been used on virtually every baby born in a modern hospital and is credited with dramatically reducing infant mortality worldwide. She was also the first woman to become a full professor at Columbia University's medical school.",
+    "bioCn": "弗吉尼亚·阿普加于1952年开发了阿普加评分，一种在婴儿出生后立即快速评估新生儿健康状况的简单方法。这个五项标准评分系统——外观、脉搏、反射、活动、呼吸——几乎在现代医院出生的每个婴儿身上使用，被认为大幅降低了全球婴儿死亡率。她也是哥伦比亚大学医学院第一位女性正教授。",
+    "achievements": [
+      "Created the Apgar Score used worldwide on newborns",
+      "Dramatically reduced infant mortality globally",
+      "First female full professor at Columbia medical school"
+    ],
+    "achievementsCn": [
+      "创建了全球使用的新生儿阿普加评分",
+      "大幅降低了全球婴儿死亡率",
+      "哥伦比亚大学医学院第一位女性正教授"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Apgar.jpg",
+    "quote": "Nobody, but nobody, is going to stop breathing on me.",
+    "quoteCn": "没有人，任何人都不能在我面前停止呼吸。",
+    "quoteSource": "Widely attributed, from clinical practice",
+    "references": [
+      "Wikipedia: Virginia Apgar — https://en.wikipedia.org/wiki/Virginia_Apgar",
+      "Apgar, V. 'A Proposal for a New Method of Evaluation of the Newborn Infant,' Anesthesia & Analgesia, 1953."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Caroline Herschel",
+    "nameCn": "卡罗琳·赫歇尔",
+    "slug": "caroline-herschel",
+    "field": "astronomy-space",
+    "born": 1750,
+    "died": 1848,
+    "nationality": "German-British",
+    "nationalityCn": "德裔英国人",
+    "tagline": "First Woman to Discover a Comet",
+    "taglineCn": "第一位发现彗星的女性",
+    "bio": "Caroline Herschel was the first woman to discover a comet, eventually finding eight comets and three nebulae over her career. Working alongside her brother William, she became the first woman to receive a salary as a scientist when King George III appointed her as William's astronomical assistant. She was also the first woman to receive honorary membership in the Royal Astronomical Society and to receive a Gold Medal of the Royal Astronomical Society.",
+    "bioCn": "卡罗琳·赫歇尔是第一位发现彗星的女性，在她的职业生涯中共发现了八颗彗星和三个星云。与兄弟威廉一起工作，当乔治三世国王任命她为威廉的天文助手时，她成为第一位获得科学家薪水的女性。她也是第一位获得皇家天文学会荣誉会员和皇家天文学会金奖的女性。",
+    "achievements": [
+      "First woman to discover a comet",
+      "Discovered 8 comets and 3 nebulae",
+      "First woman paid as a scientist by the British Crown"
+    ],
+    "achievementsCn": [
+      "第一位发现彗星的女性",
+      "发现8颗彗星和3个星云",
+      "第一位获英国王室科学家薪水的女性"
+    ],
+    "era": "18th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Caroline_Herschel.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Caroline Herschel — https://en.wikipedia.org/wiki/Caroline_Herschel",
+      "Hoskin, Michael. The Herschel Partnership. Science History Publications, 2003."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Henrietta Swan Leavitt",
+    "nameCn": "亨丽埃塔·勒维特",
+    "slug": "henrietta-swan-leavitt",
+    "field": "astronomy-space",
+    "born": 1868,
+    "died": 1921,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered How to Measure the Universe",
+    "taglineCn": "发现了测量宇宙的方法",
+    "bio": "Henrietta Swan Leavitt discovered the period-luminosity relationship of Cepheid variable stars — the brighter the star, the longer its pulsation period. This relationship became the first 'standard candle' for measuring cosmic distances, enabling Edwin Hubble to prove that the universe extends far beyond our galaxy. Hired as one of the 'Harvard Computers' — women who catalogued stars for minimal pay — her discovery fundamentally changed our understanding of the scale of the universe.",
+    "bioCn": "亨丽埃塔·勒维特发现了造父变星的周光关系——恒星越亮，其脉动周期越长。这一关系成为测量宇宙距离的第一个'标准烛光'，使哈勃得以证明宇宙远远超出我们的银河系。她被聘为'哈佛计算员'之一——为微薄报酬编目恒星的女性——她的发现从根本上改变了我们对宇宙尺度的理解。",
+    "achievements": [
+      "Discovered the period-luminosity relationship of Cepheid stars",
+      "Enabled measurement of cosmic distances",
+      "Made possible the discovery of the expanding universe"
+    ],
+    "achievementsCn": [
+      "发现造父变星的周光关系",
+      "使宇宙距离的测量成为可能",
+      "使发现宇宙膨胀成为可能"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Henrietta_Swan_Leavitt.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Henrietta Swan Leavitt — https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt",
+      "Johnson, George. Miss Leavitt's Stars. W.W. Norton, 2005."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Annie Jump Cannon",
+    "nameCn": "安妮·坎农",
+    "slug": "annie-jump-cannon",
+    "field": "astronomy-space",
+    "born": 1863,
+    "died": 1941,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Classified Nearly 400,000 Stars",
+    "taglineCn": "分类了近40万颗恒星",
+    "bio": "Annie Jump Cannon developed the Harvard spectral classification system (OBAFGKM) still used by astronomers today to classify stars by temperature. She manually classified nearly 400,000 stars — more than any other person in history — earning her the nickname 'Census Taker of the Sky.' Nearly deaf from childhood, she was one of the famous 'Harvard Computers' and became the first woman to receive an honorary doctorate from Oxford University.",
+    "bioCn": "安妮·坎农开发了哈佛光谱分类系统（OBAFGKM），至今仍被天文学家用来按温度分类恒星。她手动分类了近40万颗恒星——比历史上任何人都多——因此被称为'天空的人口普查员'。她从小近乎失聪，是著名的'哈佛计算员'之一，成为第一位获得牛津大学荣誉博士学位的女性。",
+    "achievements": [
+      "Developed the Harvard spectral classification system",
+      "Classified nearly 400,000 stars",
+      "First woman to receive an honorary doctorate from Oxford"
+    ],
+    "achievementsCn": [
+      "开发哈佛光谱分类系统",
+      "分类近40万颗恒星",
+      "第一位获牛津大学荣誉博士学位的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Annie_Jump_Cannon_1922.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Annie Jump Cannon — https://en.wikipedia.org/wiki/Annie_Jump_Cannon",
+      "Sobel, Dava. The Glass Universe. Viking, 2016."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Williamina Fleming",
+    "nameCn": "威廉明娜·弗莱明",
+    "slug": "williamina-fleming",
+    "field": "astronomy-space",
+    "born": 1857,
+    "died": 1911,
+    "nationality": "Scottish-American",
+    "nationalityCn": "苏格兰裔美国人",
+    "tagline": "Discovered the Horsehead Nebula",
+    "taglineCn": "发现了马头星云",
+    "bio": "Williamina Fleming was hired as a maid by astronomer Edward Pickering, who reportedly said his maid could do a better job than his male assistants. He was right. She became one of the first 'Harvard Computers' and developed a system for classifying stars by their spectra. She discovered the Horsehead Nebula, catalogued over 10,000 stars, and identified 59 gaseous nebulae, 310 variable stars, and 10 novae.",
+    "bioCn": "威廉明娜·弗莱明被天文学家爱德华·皮克林聘为女仆，据报道皮克林曾说他的女仆比他的男助手做得更好。他说对了。她成为最早的'哈佛计算员'之一，开发了一种通过光谱分类恒星的系统。她发现了马头星云，编目了超过10000颗恒星，鉴定了59个气体星云、310颗变星和10颗新星。",
+    "achievements": [
+      "Discovered the Horsehead Nebula",
+      "Catalogued over 10,000 stars",
+      "Developed early stellar classification system"
+    ],
+    "achievementsCn": [
+      "发现马头星云",
+      "编目超过10000颗恒星",
+      "开发早期恒星分类系统"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Williamina_Paton_Stevens_Fleming.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Williamina Fleming — https://en.wikipedia.org/wiki/Williamina_Fleming",
+      "Sobel, Dava. The Glass Universe. Viking, 2016."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Valentina Tereshkova",
+    "nameCn": "瓦莲京娜·捷列什科娃",
+    "slug": "valentina-tereshkova",
+    "field": "astronomy-space",
+    "born": 1937,
+    "died": null,
+    "nationality": "Russian",
+    "nationalityCn": "俄罗斯",
+    "tagline": "First Woman in Space",
+    "taglineCn": "第一位进入太空的女性",
+    "bio": "Valentina Tereshkova became the first woman to fly in space on June 16, 1963, aboard Vostok 6. A former textile factory worker and amateur parachutist, she was selected from over 400 applicants for the Soviet cosmonaut program. She orbited Earth 48 times over nearly three days, logging more flight time than all American astronauts combined at that point. She remains the only woman to have completed a solo space mission.",
+    "bioCn": "瓦莲京娜·捷列什科娃于1963年6月16日乘坐东方6号飞船成为第一位飞入太空的女性。她曾是纺织厂工人和业余跳伞运动员，从400多名申请者中被选入苏联宇航员计划。她在近三天内绕地球飞行48圈，飞行时间超过了当时所有美国宇航员的总和。她至今仍是唯一一位完成独自太空任务的女性。",
+    "achievements": [
+      "First woman in space (1963)",
+      "Orbited Earth 48 times in nearly 3 days",
+      "Only woman to have completed a solo space mission"
+    ],
+    "achievementsCn": [
+      "第一位进入太空的女性（1963年）",
+      "在近3天内绕地球飞行48圈",
+      "唯一完成独自太空任务的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RIAN_archive_612748_Valentina_Tereshkova.jpg",
+    "quote": "Once you've been in space, you appreciate how small and fragile the Earth is.",
+    "quoteCn": "一旦你去过太空，就会体会到地球是多么渺小和脆弱。",
+    "quoteSource": "From interviews",
+    "references": [
+      "Wikipedia: Valentina Tereshkova — https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+      "ESA: Valentina Tereshkova biography"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Sally Ride",
+    "nameCn": "萨莉·赖德",
+    "slug": "sally-ride",
+    "field": "astronomy-space",
+    "born": 1951,
+    "died": 2012,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First American Woman in Space",
+    "taglineCn": "第一位进入太空的美国女性",
+    "bio": "Sally Ride became the first American woman in space when she flew on the Space Shuttle Challenger in 1983 at age 32. A physicist with a PhD from Stanford, she operated the shuttle's robotic arm to deploy satellites. After leaving NASA, she became a physics professor and founded Sally Ride Science, a company creating educational programs to inspire young people — especially girls — in STEM fields.",
+    "bioCn": "萨莉·赖德于1983年32岁时乘坐挑战者号航天飞机成为第一位进入太空的美国女性。她拥有斯坦福大学物理学博士学位，操作航天飞机的机械臂部署卫星。离开NASA后，她成为物理学教授并创办了Sally Ride Science，一家创建教育项目以激励年轻人——特别是女孩——投身STEM领域的公司。",
+    "achievements": [
+      "First American woman in space (1983)",
+      "Youngest American astronaut at the time",
+      "Founded Sally Ride Science for STEM education"
+    ],
+    "achievementsCn": [
+      "第一位进入太空的美国女性（1983年）",
+      "当时最年轻的美国宇航员",
+      "创办Sally Ride Science推广STEM教育"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sally_Ride%2C_America%27s_first_woman_astronaut_communitcates_with_ground_controllers_from_the_flight_deck_-_NARA_-_541940.jpg",
+    "quote": "All adventures, especially into new territory, are scary.",
+    "quoteCn": "所有的冒险，尤其是进入新领域的冒险，都是令人恐惧的。",
+    "quoteSource": "From her writings",
+    "references": [
+      "Wikipedia: Sally Ride — https://en.wikipedia.org/wiki/Sally_Ride",
+      "Sherr, Lynn. Sally Ride: America's First Woman in Space. Simon & Schuster, 2014."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Mae Jemison",
+    "nameCn": "梅·杰米森",
+    "slug": "mae-jemison",
+    "field": "astronomy-space",
+    "born": 1956,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First African-American Woman in Space",
+    "taglineCn": "第一位进入太空的非裔美国女性",
+    "bio": "Mae Jemison became the first African-American woman to travel into space when she flew aboard Space Shuttle Endeavour in 1992. Before joining NASA, she earned degrees in chemical engineering and medicine, served in the Peace Corps as a medical officer in Sierra Leone, and worked as a general practitioner. After leaving NASA, she founded the 100 Year Starship project to make interstellar travel possible within a century.",
+    "bioCn": "梅·杰米森于1992年乘坐奋进号航天飞机成为第一位进入太空的非裔美国女性。在加入NASA之前，她获得了化学工程和医学学位，在塞拉利昂担任和平队医疗官，并从事全科医生工作。离开NASA后，她创立了100年星际飞船项目，旨在一个世纪内实现星际旅行。",
+    "achievements": [
+      "First African-American woman in space (1992)",
+      "Engineer, physician, and astronaut",
+      "Founded 100 Year Starship project"
+    ],
+    "achievementsCn": [
+      "第一位进入太空的非裔美国女性（1992年）",
+      "工程师、医生和宇航员",
+      "创立100年星际飞船项目"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mae_C._Jemison%2C_MD.jpg",
+    "quote": "Never limit yourself because of others' limited imagination; never limit others because of your own limited imagination.",
+    "quoteCn": "永远不要因为他人有限的想象力而限制自己；也永远不要因为自己有限的想象力而限制他人。",
+    "quoteSource": "From talks and published works",
+    "references": [
+      "Wikipedia: Mae Jemison — https://en.wikipedia.org/wiki/Mae_Jemison",
+      "Jemison, Mae. Find Where the Wind Goes. Scholastic, 2001."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Liu Yang",
+    "nameCn": "刘洋",
+    "slug": "liu-yang",
+    "field": "astronomy-space",
+    "born": 1978,
+    "died": null,
+    "nationality": "Chinese",
+    "nationalityCn": "中国",
+    "tagline": "First Chinese Woman in Space",
+    "taglineCn": "中国第一位女性宇航员",
+    "bio": "Liu Yang became the first Chinese woman to travel to space in June 2012, aboard the Shenzhou 9 spacecraft. A former Air Force pilot with nearly 1,700 hours of flight experience, she was selected for China's astronaut program in 2010. She returned to space in 2022 aboard Shenzhou 14, serving as part of the crew that completed the assembly of the Tiangong space station.",
+    "bioCn": "刘洋于2012年6月乘坐神舟九号飞船成为中国第一位进入太空的女性。她曾是空军飞行员，拥有近1700小时的飞行经验，2010年被选入中国航天员计划。2022年她乘坐神舟十四号再次进入太空，作为完成天宫空间站组装的乘组成员。",
+    "achievements": [
+      "First Chinese woman in space (2012)",
+      "Flew on both Shenzhou 9 and Shenzhou 14",
+      "Helped complete assembly of Tiangong space station"
+    ],
+    "achievementsCn": [
+      "中国第一位进入太空的女性（2012年）",
+      "乘坐神舟九号和神舟十四号",
+      "帮助完成天宫空间站的组装"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Liu_Yang%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Liu Yang (astronaut) — https://en.wikipedia.org/wiki/Liu_Yang_(astronaut)",
+      "China Manned Space Agency archives"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Peggy Whitson",
+    "nameCn": "佩吉·惠特森",
+    "slug": "peggy-whitson",
+    "field": "astronomy-space",
+    "born": 1960,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Record-Setting Astronaut",
+    "taglineCn": "创纪录的宇航员",
+    "bio": "Peggy Whitson holds the record for the most time spent in space by an American astronaut, accumulating 665 days across three missions. She was the first woman to command the International Space Station and the first female chief of the Astronaut Office at NASA. Growing up on a farm in Iowa, she watched the Apollo moon landings on television and decided to become an astronaut at age nine.",
+    "bioCn": "佩吉·惠特森保持着美国宇航员在太空停留时间最长的纪录，在三次任务中累计665天。她是第一位指挥国际空间站的女性，也是NASA宇航员办公室第一位女性负责人。她在爱荷华州的一个农场长大，在电视上观看了阿波罗登月任务，9岁时决定成为宇航员。",
+    "achievements": [
+      "Most time in space by an American astronaut (665 days)",
+      "First woman to command the International Space Station",
+      "First female chief of NASA Astronaut Office"
+    ],
+    "achievementsCn": [
+      "美国宇航员太空最长时间纪录（665天）",
+      "第一位指挥国际空间站的女性",
+      "NASA宇航员办公室第一位女性负责人"
+    ],
+    "era": "21st Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Peggy_Whitson_official_portrait_2016.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Peggy Whitson — https://en.wikipedia.org/wiki/Peggy_Whitson",
+      "NASA astronaut biography — https://www.nasa.gov/"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Carolyn Shoemaker",
+    "nameCn": "卡罗琳·舒梅克",
+    "slug": "carolyn-shoemaker",
+    "field": "astronomy-space",
+    "born": 1929,
+    "died": 2021,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered More Comets Than Any Living Person",
+    "taglineCn": "发现彗星数量超过任何在世者",
+    "bio": "Carolyn Shoemaker discovered 32 comets and over 800 asteroids, more comets than any other living person at the time. She co-discovered Comet Shoemaker-Levy 9, which spectacularly crashed into Jupiter in 1994 — the first directly observed collision of two solar system objects. She began her career in astronomy at age 51, proving it is never too late to make world-changing discoveries.",
+    "bioCn": "卡罗琳·舒梅克发现了32颗彗星和800多颗小行星，当时发现的彗星数量超过任何在世者。她共同发现了舒梅克-列维9号彗星，1994年该彗星壮观地撞击了木星——这是第一次直接观测到的两个太阳系天体碰撞。她51岁才开始天文学职业生涯，证明了做出改变世界的发现永远不会太晚。",
+    "achievements": [
+      "Discovered 32 comets — more than any living person at the time",
+      "Co-discovered Comet Shoemaker-Levy 9",
+      "Found over 800 asteroids"
+    ],
+    "achievementsCn": [
+      "发现32颗彗星——当时超过任何在世者",
+      "共同发现舒梅克-列维9号彗星",
+      "发现800多颗小行星"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Carolyn_Shoemaker.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Carolyn Shoemaker — https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Hedy Lamarr",
+    "nameCn": "海蒂·拉玛",
+    "slug": "hedy-lamarr",
+    "field": "engineering",
+    "born": 1914,
+    "died": 2000,
+    "nationality": "Austrian-American",
+    "nationalityCn": "奥地利裔美国人",
+    "tagline": "Hollywood Star Who Invented Wireless Communication",
+    "taglineCn": "发明无线通信技术的好莱坞明星",
+    "bio": "Hedy Lamarr was both a glamorous Hollywood actress and a brilliant inventor. During World War II, she co-invented a frequency-hopping spread spectrum communication system to prevent the jamming of torpedo guidance signals. Though the Navy initially dismissed her work, the principles she developed became the foundation for modern wireless technologies including Wi-Fi, Bluetooth, and GPS. She was posthumously inducted into the National Inventors Hall of Fame.",
+    "bioCn": "海蒂·拉玛既是一位迷人的好莱坞女演员，也是一位杰出的发明家。二战期间，她共同发明了一种跳频扩频通信系统，用于防止鱼雷导引信号被干扰。虽然海军最初否定了她的工作，但她开发的原理成为了现代无线技术——包括Wi-Fi、蓝牙和GPS——的基础。她在去世后被追授入美国国家发明家名人堂。",
+    "achievements": [
+      "Co-invented frequency-hopping spread spectrum technology",
+      "Foundation for Wi-Fi, Bluetooth, and GPS",
+      "Inducted into National Inventors Hall of Fame"
+    ],
+    "achievementsCn": [
+      "共同发明跳频扩频技术",
+      "Wi-Fi、蓝牙和GPS的基础",
+      "入选美国国家发明家名人堂"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg",
+    "quote": "All creative people want to do the unexpected.",
+    "quoteCn": "所有有创造力的人都想做出人意料的事。",
+    "quoteSource": "From interviews",
+    "references": [
+      "Wikipedia: Hedy Lamarr — https://en.wikipedia.org/wiki/Hedy_Lamarr",
+      "Rhodes, Richard. Hedy's Folly. Doubleday, 2011.",
+      "Lamarr, H. & Antheil, G. US Patent 2,292,387: Secret Communication System, 1942."
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Stephanie Kwolek",
+    "nameCn": "斯蒂芬妮·科沃莱克",
+    "slug": "stephanie-kwolek",
+    "field": "engineering",
+    "born": 1923,
+    "died": 2014,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Inventor of Kevlar",
+    "taglineCn": "凯夫拉的发明者",
+    "bio": "Stephanie Kwolek invented Kevlar, a heat-resistant synthetic fiber five times stronger than steel by weight, while working at DuPont. Her discovery was accidental — she almost discarded the unusual solution she had created. Kevlar is now used in bulletproof vests, firefighter gear, suspension bridge cables, and spacecraft components. Her invention has saved countless lives and earned her the National Medal of Technology.",
+    "bioCn": "斯蒂芬妮·科沃莱克在杜邦工作时发明了凯夫拉——一种按重量计算是钢铁五倍强度的耐热合成纤维。她的发现是偶然的——她差点丢弃了她创造的异常溶液。凯夫拉现在被用于防弹衣、消防员装备、悬索桥缆绳和航天器部件。她的发明挽救了无数生命，为她赢得了国家技术奖章。",
+    "achievements": [
+      "Invented Kevlar, five times stronger than steel",
+      "National Medal of Technology recipient",
+      "Inducted into National Inventors Hall of Fame"
+    ],
+    "achievementsCn": [
+      "发明凯夫拉，强度是钢铁的五倍",
+      "获得国家技术奖章",
+      "入选国家发明家名人堂"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stephanie_Kwolek_at_ceremony.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Stephanie Kwolek — https://en.wikipedia.org/wiki/Stephanie_Kwolek",
+      "Chemical Heritage Foundation oral history"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Edith Clarke",
+    "nameCn": "伊迪丝·克拉克",
+    "slug": "edith-clarke",
+    "field": "engineering",
+    "born": 1883,
+    "died": 1959,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Female Electrical Engineering Professor",
+    "taglineCn": "首位女性电气工程教授",
+    "bio": "Edith Clarke was the first woman to earn a Master's degree in electrical engineering from MIT, the first female professionally employed electrical engineer in the United States, and the first female professor of electrical engineering in the country. She invented the Clarke calculator, a graphical device that solved equations involving electric current, and her textbook on power systems was widely used for decades.",
+    "bioCn": "伊迪丝·克拉克是第一位从MIT获得电气工程硕士学位的女性，美国第一位被专业雇用的女性电气工程师，也是美国第一位电气工程女性教授。她发明了克拉克计算器——一种解决电流方程的图形设备，她的电力系统教科书被广泛使用了几十年。",
+    "achievements": [
+      "First woman with an EE Master's from MIT",
+      "First female electrical engineering professor in the U.S.",
+      "Invented the Clarke calculator"
+    ],
+    "achievementsCn": [
+      "第一位从MIT获得电气工程硕士学位的女性",
+      "美国第一位女性电气工程教授",
+      "发明了克拉克计算器"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edith_Clarke_1948.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Edith Clarke — https://en.wikipedia.org/wiki/Edith_Clarke",
+      "IEEE History Center"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Emily Warren Roebling",
+    "nameCn": "艾米丽·沃伦·罗布林",
+    "slug": "emily-warren-roebling",
+    "field": "engineering",
+    "born": 1843,
+    "died": 1903,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "The Woman Who Built the Brooklyn Bridge",
+    "taglineCn": "建造布鲁克林大桥的女性",
+    "bio": "Emily Warren Roebling took over the day-to-day supervision of the Brooklyn Bridge construction when her husband, the chief engineer, became bedridden with caisson disease. She studied higher mathematics, bridge engineering, and materials science to manage the project. For over a decade, she was the primary liaison between her husband and the engineers on site. She was the first person to cross the completed bridge in 1883.",
+    "bioCn": "当她的丈夫——首席工程师——因沉箱病卧床不起时，艾米丽·沃伦·罗布林接管了布鲁克林大桥建设的日常监督工作。她学习了高等数学、桥梁工程和材料科学来管理项目。十多年来，她是丈夫和现场工程师之间的主要联络人。1883年她是第一个走过建成的大桥的人。",
+    "achievements": [
+      "Supervised construction of the Brooklyn Bridge",
+      "Self-taught bridge engineering and materials science",
+      "First person to cross the completed Brooklyn Bridge"
+    ],
+    "achievementsCn": [
+      "监督布鲁克林大桥的建设",
+      "自学桥梁工程和材料科学",
+      "第一个走过建成的布鲁克林大桥的人"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Emily_Warren_Roebling_%281843-1903%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Emily Warren Roebling — https://en.wikipedia.org/wiki/Emily_Warren_Roebling",
+      "McCullough, David. The Great Bridge. Simon & Schuster, 1972."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Lillian Gilbreth",
+    "nameCn": "莉莲·吉尔布雷思",
+    "slug": "lillian-gilbreth",
+    "field": "engineering",
+    "born": 1878,
+    "died": 1972,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mother of Modern Management",
+    "taglineCn": "现代管理之母",
+    "bio": "Lillian Gilbreth was a pioneer of industrial engineering and management who applied psychology to workplace efficiency. She held a PhD in psychology, raised 12 children, and designed kitchens and household products that reduced physical strain — including the foot-pedal trash can and shelves inside refrigerator doors. She was the first woman elected to the National Academy of Engineering and the first woman to receive an honorary membership in the American Society of Mechanical Engineers.",
+    "bioCn": "莉莲·吉尔布雷思是工业工程和管理的先驱，将心理学应用于工作场所效率。她拥有心理学博士学位，养育了12个孩子，并设计了减轻体力负担的厨房和家用产品——包括脚踏式垃圾桶和冰箱门内搁架。她是第一位当选国家工程院院士的女性，也是第一位获得美国机械工程师协会荣誉会员的女性。",
+    "achievements": [
+      "Pioneer of industrial engineering and ergonomics",
+      "First woman elected to National Academy of Engineering",
+      "Designed everyday products still used today"
+    ],
+    "achievementsCn": [
+      "工业工程和人体工程学先驱",
+      "第一位当选国家工程院院士的女性",
+      "设计了至今仍在使用的日常产品"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Lillian_Moller_Gilbreth.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Lillian Moller Gilbreth — https://en.wikipedia.org/wiki/Lillian_Moller_Gilbreth",
+      "Lancaster, Jane. Making Time: Lillian Moller Gilbreth. Northeastern Univ Press, 2004."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Mary Anderson",
+    "nameCn": "玛丽·安德森",
+    "slug": "mary-anderson",
+    "field": "engineering",
+    "born": 1866,
+    "died": 1953,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Inventor of the Windshield Wiper",
+    "taglineCn": "雨刮器的发明者",
+    "bio": "Mary Anderson invented the first practical windshield wiper in 1903 after observing a streetcar driver struggling to see through sleet in New York City. She received a patent for her 'window cleaning device' — a spring-loaded arm with a rubber blade that could be operated from inside the vehicle. Though manufacturers initially showed no interest, her invention became standard equipment on all American cars by 1916.",
+    "bioCn": "玛丽·安德森于1903年观察到一位街车司机在纽约雨雪中挣扎看路后，发明了第一个实用的雨刮器。她为她的'车窗清洁装置'——一个带弹簧的臂和橡胶刮片，可从车内操作——获得了专利。虽然制造商最初没有兴趣，但到1916年她的发明成为所有美国汽车的标准设备。",
+    "achievements": [
+      "Invented the windshield wiper (1903)",
+      "Patent for window cleaning device",
+      "Standard equipment on all American cars by 1916"
+    ],
+    "achievementsCn": [
+      "发明雨刮器（1903年）",
+      "获得车窗清洁装置专利",
+      "1916年成为所有美国汽车标准设备"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Anderson (inventor) — https://en.wikipedia.org/wiki/Mary_Anderson_(inventor)"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Beulah Louise Henry",
+    "nameCn": "比尤拉·路易丝·亨利",
+    "slug": "beulah-louise-henry",
+    "field": "engineering",
+    "born": 1887,
+    "died": 1973,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Lady Edison — 49 Patents and 110 Inventions",
+    "taglineCn": "女爱迪生——49项专利和110项发明",
+    "bio": "Beulah Louise Henry was dubbed 'Lady Edison' by the press for her prolific inventive output. She received 49 patents and is credited with approximately 110 inventions, spanning vacuum ice cream freezers, typewriter improvements, dolls with changeable eye colors, and a protograph that could produce four copies of a document without carbon paper. Despite having no formal engineering training, her mechanical intuition was extraordinary.",
+    "bioCn": "比尤拉·路易丝·亨利因其丰富的发明产出被媒体称为'女爱迪生'。她获得了49项专利，被认为有大约110项发明，涵盖真空冰淇淋冷冻机、打字机改进、可变换眼睛颜色的洋娃娃，以及无需碳纸即可复制四份文件的复印机。尽管没有正式的工程培训，她的机械直觉非常出众。",
+    "achievements": [
+      "Received 49 patents for her inventions",
+      "Credited with approximately 110 inventions",
+      "Known as 'Lady Edison'"
+    ],
+    "achievementsCn": [
+      "获得49项发明专利",
+      "被认为有大约110项发明",
+      "被称为'女爱迪生'"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Beulah Louise Henry — https://en.wikipedia.org/wiki/Beulah_Louise_Henry"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Ellen Swallow Richards",
+    "nameCn": "艾伦·斯沃洛·理查兹",
+    "slug": "ellen-swallow-richards",
+    "field": "engineering",
+    "born": 1842,
+    "died": 1911,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Environmental Engineering",
+    "taglineCn": "环境工程先驱",
+    "bio": "Ellen Swallow Richards was the first woman admitted to MIT, where she earned a degree in chemistry. She pioneered the field of sanitary engineering (now environmental engineering), conducting the first comprehensive water quality survey in the United States. Her work led to the first state water quality standards in America and the first modern sewage treatment plant. She also established the field of home economics as a science.",
+    "bioCn": "艾伦·斯沃洛·理查兹是第一位被MIT录取的女性，在那里获得了化学学位。她开创了卫生工程（现在的环境工程）领域，进行了美国第一次全面的水质调查。她的工作促成了美国第一个州水质标准和第一座现代污水处理厂。她还将家政学确立为一门科学。",
+    "achievements": [
+      "First woman admitted to MIT",
+      "Pioneered environmental engineering in the U.S.",
+      "Conducted first comprehensive water quality survey"
+    ],
+    "achievementsCn": [
+      "第一位被MIT录取的女性",
+      "在美国开创环境工程",
+      "进行了第一次全面水质调查"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ellen_Swallow_Richards.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ellen Swallow Richards — https://en.wikipedia.org/wiki/Ellen_Swallow_Richards",
+      "Clarke, Robert. Ellen Swallow: The Woman Who Founded Ecology. Follett, 1973."
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Bessie Coleman",
+    "nameCn": "贝西·科尔曼",
+    "slug": "bessie-coleman",
+    "field": "engineering",
+    "born": 1892,
+    "died": 1926,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First African-American Woman Pilot",
+    "taglineCn": "第一位非裔美国女飞行员",
+    "bio": "Bessie Coleman became the first African-American woman — and the first Native American — to hold a pilot's license. Denied admission to flight schools in the United States because of her race and gender, she learned French and traveled to France to earn her license in 1921. She became a celebrated barnstormer and refused to perform at venues that would not admit African Americans. She died in a plane crash at 34 while preparing for an aerial show.",
+    "bioCn": "贝西·科尔曼成为第一位获得飞行员执照的非裔美国女性——也是第一位美洲原住民。由于种族和性别原因被美国飞行学校拒绝后，她学习了法语，前往法国并于1921年获得执照。她成为著名的特技飞行员，拒绝在不接纳非裔美国人的场地表演。她34岁时在准备航空表演时因飞机失事去世。",
+    "achievements": [
+      "First African-American and Native American woman pilot",
+      "Earned license in France after U.S. rejection",
+      "Pioneered racial integration in aviation"
+    ],
+    "achievementsCn": [
+      "第一位非裔美国和美洲原住民女飞行员",
+      "在被美国拒绝后在法国获得执照",
+      "开创了航空界的种族融合"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bessie_Coleman%2C_First_African_American_Pilot_-_GPN-2004-00027.jpg",
+    "quote": "I refused to take no for an answer.",
+    "quoteCn": "我拒绝接受否定的回答。",
+    "quoteSource": "Attributed, from biographical accounts",
+    "references": [
+      "Wikipedia: Bessie Coleman — https://en.wikipedia.org/wiki/Bessie_Coleman",
+      "Rich, Doris L. Queen Bess: Daredevil Aviator. Smithsonian, 1993."
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Beatrice Shilling",
+    "nameCn": "比阿特丽斯·希林",
+    "slug": "beatrice-shilling",
+    "field": "engineering",
+    "born": 1909,
+    "died": 1990,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Engineer Who Saved RAF Pilots in WWII",
+    "taglineCn": "二战中拯救RAF飞行员的工程师",
+    "bio": "Beatrice Shilling was a British aeronautical engineer whose simple yet brilliant invention saved countless RAF pilots' lives during World War II. She designed a small metal disc — nicknamed 'Miss Shilling's Orifice' — that prevented Merlin engines in Spitfires and Hurricanes from cutting out during negative-G maneuvers. She was also an accomplished motorcycle racer who earned the coveted Brooklands Gold Star.",
+    "bioCn": "比阿特丽斯·希林是一位英国航空工程师，她简单而巧妙的发明在二战中挽救了无数RAF飞行员的生命。她设计了一个小金属盘——被戏称为'希林小姐的孔'——防止喷火式和飓风式战斗机的梅林发动机在负G机动时熄火。她还是一位出色的摩托车赛车手，获得了令人梦寐以求的布鲁克兰兹金星。",
+    "achievements": [
+      "Invented device saving RAF pilots in WWII",
+      "Solved engine failure problem in Spitfires and Hurricanes",
+      "Earned Brooklands Gold Star in motorcycle racing"
+    ],
+    "achievementsCn": [
+      "发明了二战中挽救RAF飞行员的装置",
+      "解决了喷火式和飓风式战斗机的发动机故障问题",
+      "在摩托车赛中获得布鲁克兰兹金星"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Beatrice Shilling — https://en.wikipedia.org/wiki/Beatrice_Shilling"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Gwynne Shotwell",
+    "nameCn": "格温·肖特韦尔",
+    "slug": "gwynne-shotwell",
+    "field": "engineering",
+    "born": 1963,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "President of SpaceX",
+    "taglineCn": "SpaceX总裁",
+    "bio": "Gwynne Shotwell has served as President and COO of SpaceX since 2008, managing day-to-day operations and business development for the company that has revolutionized space transportation. Under her leadership, SpaceX developed reusable rockets, launched astronauts to the International Space Station, and built the Starlink satellite network. She was inspired to pursue engineering after attending a talk by a woman mechanical engineer as a teenager.",
+    "bioCn": "格温·肖特韦尔自2008年以来一直担任SpaceX总裁兼首席运营官，管理这家彻底改变太空运输的公司的日常运营和业务发展。在她的领导下，SpaceX开发了可重复使用的火箭、将宇航员送入国际空间站、并建立了星链卫星网络。她是在少年时参加一位女机械工程师的演讲后受到启发而从事工程的。",
+    "achievements": [
+      "President and COO of SpaceX since 2008",
+      "Led development of reusable rocket technology",
+      "Oversaw Starlink satellite network deployment"
+    ],
+    "achievementsCn": [
+      "自2008年起担任SpaceX总裁兼COO",
+      "领导可重复使用火箭技术的开发",
+      "监督星链卫星网络部署"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Gwynne Shotwell — https://en.wikipedia.org/wiki/Gwynne_Shotwell",
+      "SpaceX company profile"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Limor Fried",
+    "nameCn": "利莫·弗里德",
+    "slug": "limor-fried",
+    "field": "engineering",
+    "born": 1979,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Open-Source Hardware Pioneer",
+    "taglineCn": "开源硬件先驱",
+    "bio": "Limor Fried is the founder and lead engineer of Adafruit Industries, one of the world's leading open-source hardware companies. An MIT-trained engineer, she has been a leading voice in the maker movement and open-source hardware community. In 2012, she became the first female engineer on the cover of WIRED magazine. Adafruit has grown into a company that educates and empowers millions of people to learn electronics.",
+    "bioCn": "利莫·弗里德是Adafruit Industries的创始人和首席工程师，这是世界领先的开源硬件公司之一。作为MIT培养的工程师，她一直是创客运动和开源硬件社区的领军人物。2012年，她成为第一位登上《连线》杂志封面的女性工程师。Adafruit已发展成为一家教育和赋能数百万人学习电子技术的公司。",
+    "achievements": [
+      "Founded Adafruit Industries",
+      "First female engineer on the cover of WIRED",
+      "Pioneer of open-source hardware movement"
+    ],
+    "achievementsCn": [
+      "创立Adafruit Industries",
+      "第一位登上《连线》杂志封面的女性工程师",
+      "开源硬件运动先驱"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Limor_Fried_-_PopTech_2012_-_Camden_Maine_USA_%288092095792%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Limor Fried — https://en.wikipedia.org/wiki/Limor_Fried",
+      "Adafruit Industries — https://www.adafruit.com/"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Eunice Newton Foote",
+    "nameCn": "尤尼斯·牛顿·富特",
+    "slug": "eunice-newton-foote",
+    "field": "earth-environment",
+    "born": 1819,
+    "died": 1888,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First to Discover the Greenhouse Effect",
+    "taglineCn": "第一个发现温室效应的人",
+    "bio": "Eunice Newton Foote was the first scientist to demonstrate the greenhouse effect of carbon dioxide. In 1856 — three years before John Tyndall's more famous experiments — she showed that a cylinder of CO2 heated more in sunlight than one filled with air, and that it cooled more slowly. As a woman, she was not allowed to present her own paper at the AAAS meeting; a male colleague read it for her. Her work was forgotten for over 150 years.",
+    "bioCn": "尤尼斯·牛顿·富特是第一位证明二氧化碳温室效应的科学家。1856年——比约翰·廷德尔更著名的实验早三年——她表明装有CO2的圆筒在阳光下比装满空气的加热更多，冷却更慢。作为一名女性，她不被允许在AAAS会议上宣读自己的论文；由一位男同事代为宣读。她的工作被遗忘了150多年。",
+    "achievements": [
+      "First to demonstrate CO2 greenhouse effect (1856)",
+      "Preceded Tyndall's experiments by three years",
+      "Work rediscovered after 150+ years"
+    ],
+    "achievementsCn": [
+      "第一个证明CO2温室效应（1856年）",
+      "比廷德尔的实验早三年",
+      "工作在150多年后被重新发现"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Eunice Newton Foote — https://en.wikipedia.org/wiki/Eunice_Newton_Foote",
+      "Foote, E.N. 'Circumstances Affecting the Heat of the Sun's Rays,' American Journal of Science, 1856."
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Inge Lehmann",
+    "nameCn": "英格·莱曼",
+    "slug": "inge-lehmann",
+    "field": "earth-environment",
+    "born": 1888,
+    "died": 1993,
+    "nationality": "Danish",
+    "nationalityCn": "丹麦",
+    "tagline": "Discovered Earth's Inner Core",
+    "taglineCn": "发现了地球内核",
+    "bio": "Inge Lehmann was a Danish seismologist who discovered that Earth has a solid inner core within its liquid outer core. By analyzing seismic waves from earthquakes, she proposed in 1936 that the Earth's core is not a single molten sphere, as previously believed, but has a solid inner part. She lived to 104, making her one of the longest-lived scientists in history, and continued publishing research into her 70s.",
+    "bioCn": "英格·莱曼是一位丹麦地震学家，她发现地球在液态外核内有一个固态内核。通过分析地震产生的地震波，她于1936年提出地球的核心不像之前认为的那样是单一的熔融球体，而是有一个固态的内部。她活到了104岁，成为历史上最长寿的科学家之一，70多岁仍在发表研究。",
+    "achievements": [
+      "Discovered Earth's solid inner core (1936)",
+      "Lived to age 104",
+      "Fundamentally changed understanding of Earth's structure"
+    ],
+    "achievementsCn": [
+      "发现地球固态内核（1936年）",
+      "活到104岁",
+      "从根本上改变了对地球结构的理解"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Inge_Lehmann.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Inge Lehmann — https://en.wikipedia.org/wiki/Inge_Lehmann",
+      "Lehmann, I. 'P',' Publications du Bureau Central Séismologique International, 1936."
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Marie Tharp",
+    "nameCn": "玛丽·萨普",
+    "slug": "marie-tharp",
+    "field": "earth-environment",
+    "born": 1920,
+    "died": 2006,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mapped the Ocean Floor",
+    "taglineCn": "绘制了海底地图",
+    "bio": "Marie Tharp created the first comprehensive map of the ocean floor, revealing the Mid-Atlantic Ridge and providing crucial evidence for the theory of plate tectonics and continental drift. Banned from research ships because she was a woman, she worked from shore analyzing sonar data. When she first identified the rift valley, her colleague Bruce Heezen dismissed her findings as 'girl talk.' Her maps fundamentally changed our understanding of Earth's geology.",
+    "bioCn": "玛丽·萨普创建了第一张综合性海底地图，揭示了大西洋中脊，为板块构造和大陆漂移理论提供了关键证据。因为她是女性而被禁止上研究船，她在岸上工作分析声纳数据。当她首次发现裂谷时，她的同事布鲁斯·黑曾将她的发现斥为'女人话'。她的地图从根本上改变了我们对地球地质的理解。",
+    "achievements": [
+      "Created first comprehensive map of the ocean floor",
+      "Discovered the Mid-Atlantic Ridge rift valley",
+      "Provided key evidence for plate tectonics theory"
+    ],
+    "achievementsCn": [
+      "创建第一张综合性海底地图",
+      "发现大西洋中脊裂谷",
+      "为板块构造理论提供关键证据"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Marie_Tharp_in_her_lab.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Marie Tharp — https://en.wikipedia.org/wiki/Marie_Tharp",
+      "Felt, Hali. Soundings: The Story of the Remarkable Woman Who Mapped the Ocean Floor. Henry Holt, 2012."
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Wangari Maathai",
+    "nameCn": "旺加里·马塔伊",
+    "slug": "wangari-maathai",
+    "field": "earth-environment",
+    "born": 1940,
+    "died": 2011,
+    "nationality": "Kenyan",
+    "nationalityCn": "肯尼亚",
+    "tagline": "Nobel Peace Prize for Environmental Conservation",
+    "taglineCn": "因环境保护获诺贝尔和平奖",
+    "bio": "Wangari Maathai was the first African woman to receive the Nobel Peace Prize (2004) for her contribution to sustainable development, democracy, and peace through her Green Belt Movement. She mobilized rural women across Kenya to plant over 51 million trees, combating deforestation and providing livelihoods. She was also the first woman in East and Central Africa to earn a PhD and the first female professor in Kenya.",
+    "bioCn": "旺加里·马塔伊是第一位获得诺贝尔和平奖（2004年）的非洲女性，表彰她通过绿带运动对可持续发展、民主和和平的贡献。她动员肯尼亚各地的农村妇女种植了超过5100万棵树，对抗森林砍伐并提供生计。她还是东非和中非第一位获得博士学位的女性，也是肯尼亚第一位女性教授。",
+    "achievements": [
+      "Nobel Peace Prize (2004) for environmental conservation",
+      "Green Belt Movement planted 51+ million trees",
+      "First African woman to receive the Nobel Peace Prize"
+    ],
+    "achievementsCn": [
+      "因环境保护获诺贝尔和平奖（2004年）",
+      "绿带运动种植超过5100万棵树",
+      "第一位获诺贝尔和平奖的非洲女性"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wangari_Maathai_portrait_by_Martin_Rowe.jpg",
+    "quote": "It's the little things citizens do. That's what will make the difference. My little thing is planting trees.",
+    "quoteCn": "正是公民做的小事会带来改变。我的小事就是种树。",
+    "quoteSource": "Nobel lecture, 2004",
+    "references": [
+      "Wikipedia: Wangari Maathai — https://en.wikipedia.org/wiki/Wangari_Maathai",
+      "Nobel Prize: Wangari Maathai — https://www.nobelprize.org/prizes/peace/2004/maathai/",
+      "Maathai, W. Unbowed: A Memoir. Knopf, 2006."
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Sylvia Earle",
+    "nameCn": "西尔维亚·厄尔",
+    "slug": "sylvia-earle",
+    "field": "earth-environment",
+    "born": 1935,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Her Deepness — Queen of the Deep",
+    "taglineCn": "深海女王",
+    "bio": "Sylvia Earle is a marine biologist, explorer, and author who has been at the forefront of ocean exploration for over five decades. In 1979, she walked untethered on the sea floor at 381 meters depth — deeper than any human before. Known as 'Her Deepness,' she was the first female chief scientist of NOAA and has led over 100 expeditions. She founded Mission Blue, a global initiative to establish marine protected areas.",
+    "bioCn": "西尔维亚·厄尔是一位海洋生物学家、探险家和作家，五十多年来一直处于海洋探索的最前沿。1979年，她在381米深处无系绳行走于海底——比之前任何人都深。被称为'深海女王'，她是NOAA第一位女性首席科学家，领导了100多次探险。她创立了Mission Blue，一个建立海洋保护区的全球倡议。",
+    "achievements": [
+      "Set solo ocean depth record at 381 meters",
+      "First female chief scientist of NOAA",
+      "Led over 100 ocean expeditions"
+    ],
+    "achievementsCn": [
+      "创下381米独自海底深潜纪录",
+      "NOAA第一位女性首席科学家",
+      "领导100多次海洋探险"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Dr._Sylvia_Earle%2C_Construction_Worker%3F_%286666200905%29_%28cropped%29.jpg",
+    "quote": "No water, no life. No blue, no green.",
+    "quoteCn": "没有水就没有生命。没有蓝色就没有绿色。",
+    "quoteSource": "From TED Prize speech, 2009",
+    "references": [
+      "Wikipedia: Sylvia Earle — https://en.wikipedia.org/wiki/Sylvia_Earle",
+      "Earle, Sylvia. The World Is Blue. National Geographic, 2009."
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Katia Krafft",
+    "nameCn": "卡提亚·克拉夫特",
+    "slug": "katia-krafft",
+    "field": "earth-environment",
+    "born": 1942,
+    "died": 1991,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Pioneer Volcanologist",
+    "taglineCn": "火山学先驱",
+    "bio": "Katia Krafft was a French volcanologist who, together with her husband Maurice, documented volcanic eruptions around the world with extraordinary courage and scientific rigor. Their footage and photographs of eruptions from dangerously close range have been invaluable for volcanology and public safety. Their film of pyroclastic flows directly influenced evacuation procedures that saved tens of thousands of lives during the 1991 Mount Pinatubo eruption. Tragically, both Kraffts died in a pyroclastic flow at Mount Unzen, Japan, in 1991.",
+    "bioCn": "卡提亚·克拉夫特是一位法国火山学家，与丈夫莫里斯一起以非凡的勇气和科学严谨性记录了世界各地的火山喷发。他们在危险近距离拍摄的火山喷发影像和照片对火山学和公共安全具有无价的价值。他们拍摄的火山碎屑流影片直接影响了1991年皮纳图博火山喷发时的疏散程序，拯救了数万人的生命。不幸的是，两位克拉夫特于1991年在日本云仙岳的一次火山碎屑流中遇难。",
+    "achievements": [
+      "Pioneered close-range volcanic documentation",
+      "Footage saved tens of thousands during Pinatubo eruption",
+      "Documented over 150 volcanic eruptions worldwide"
+    ],
+    "achievementsCn": [
+      "开创近距离火山记录",
+      "影像在皮纳图博喷发期间拯救了数万人",
+      "在全球记录了150多次火山喷发"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Katia Krafft — https://en.wikipedia.org/wiki/Katia_Krafft"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Mary-Claire King",
+    "nameCn": "玛丽-克莱尔·金",
+    "slug": "mary-claire-king",
+    "field": "genetics-biotech",
+    "born": 1946,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered the BRCA1 Cancer Gene",
+    "taglineCn": "发现了BRCA1癌症基因",
+    "bio": "Mary-Claire King proved that breast cancer can be inherited through a single gene — BRCA1 — revolutionizing cancer research and prevention. Her discovery, made in 1990 after 17 years of research, enabled genetic testing that has saved countless lives through early detection. She also proved that humans and chimpanzees are 99% genetically identical and used DNA analysis to identify victims of Argentina's 'Dirty War,' reuniting stolen children with their biological families.",
+    "bioCn": "玛丽-克莱尔·金证明了乳腺癌可以通过单一基因——BRCA1——遗传，革新了癌症研究和预防。她的发现是在17年研究之后于1990年做出的，使基因检测成为可能，通过早期检测挽救了无数生命。她还证明人类和黑猩猩在基因上有99%相同，并利用DNA分析鉴定阿根廷'肮脏战争'的受害者，帮助被盗儿童与亲生家庭团聚。",
+    "achievements": [
+      "Discovered BRCA1 breast cancer gene",
+      "Proved 99% genetic similarity between humans and chimps",
+      "Used DNA to identify victims of Argentina's Dirty War"
+    ],
+    "achievementsCn": [
+      "发现BRCA1乳腺癌基因",
+      "证明人类和黑猩猩99%基因相似",
+      "利用DNA鉴定阿根廷肮脏战争受害者"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mary-Claire_King_-_World_Economic_Forum_Annual_Meeting_2012.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary-Claire King — https://en.wikipedia.org/wiki/Mary-Claire_King",
+      "King, M.C. et al. 'Breast and Ovarian Cancer Risks Due to Inherited Mutations in BRCA1 and BRCA2,' Science, 2003."
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Katalin Karikó",
+    "nameCn": "卡塔林·卡里科",
+    "slug": "katalin-kariko",
+    "field": "genetics-biotech",
+    "born": 1955,
+    "died": null,
+    "nationality": "Hungarian-American",
+    "nationalityCn": "匈牙利裔美国人",
+    "tagline": "Pioneer of mRNA Technology",
+    "taglineCn": "mRNA技术先驱",
+    "bio": "Katalin Karikó spent decades researching mRNA technology despite repeated rejections, demotions, and funding denials. Her persistence paid off spectacularly when her foundational work on modified mRNA enabled the rapid development of the Pfizer-BioNTech and Moderna COVID-19 vaccines, which have been administered billions of times worldwide. She received the 2023 Nobel Prize in Physiology or Medicine, vindicating decades of underfunded, underappreciated research.",
+    "bioCn": "卡塔林·卡里科尽管一再遭到拒绝、降职和资金否决，仍花了数十年研究mRNA技术。她的坚持获得了惊人的回报——她在修饰mRNA方面的基础工作使辉瑞-BioNTech和Moderna新冠疫苗得以快速开发，这些疫苗已在全球接种数十亿次。她获得了2023年诺贝尔生理学或医学奖，证明了数十年来资金不足、不受重视的研究的价值。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2023)",
+      "Foundational mRNA research enabled COVID-19 vaccines",
+      "Vaccines administered billions of times worldwide"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2023年）",
+      "基础mRNA研究使新冠疫苗成为可能",
+      "疫苗在全球接种数十亿次"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Katalin_Karik%C3%B3_on_22_May_2022.jpg",
+    "quote": "I thought of leaving science many times, but I always went back to the bench.",
+    "quoteCn": "我多次想过离开科学，但总是回到了实验台前。",
+    "quoteSource": "From interviews, The Guardian, 2021",
+    "references": [
+      "Wikipedia: Katalin Karikó — https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3",
+      "Nobel Prize: Katalin Karikó — https://www.nobelprize.org/prizes/medicine/2023/kariko/"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Flossie Wong-Staal",
+    "nameCn": "黄以静",
+    "slug": "flossie-wong-staal",
+    "field": "genetics-biotech",
+    "born": 1947,
+    "died": 2020,
+    "nationality": "Chinese-American",
+    "nationalityCn": "华裔美国人",
+    "tagline": "First to Clone and Map HIV Genome",
+    "taglineCn": "首次克隆和绘制HIV基因组图谱",
+    "bio": "Flossie Wong-Staal was the first scientist to clone HIV and determine the function of its genes, work that was essential for proving HIV causes AIDS and for developing the first HIV blood test. Born in Guangzhou, China, she moved to the United States and became one of the most cited scientists in the world. She later developed a novel approach to gene therapy and co-founded a biotech company focused on treating hepatitis C.",
+    "bioCn": "黄以静是第一位克隆HIV并确定其基因功能的科学家，这一工作对证明HIV导致AIDS以及开发第一个HIV血液检测至关重要。她出生于中国广州，移居美国后成为世界上被引用最多的科学家之一。她后来开发了一种新的基因治疗方法，并共同创办了一家专注于治疗丙型肝炎的生物技术公司。",
+    "achievements": [
+      "First to clone HIV and map its genome",
+      "Work essential for first HIV blood test",
+      "Among most cited scientists in the world"
+    ],
+    "achievementsCn": [
+      "首次克隆HIV并绘制其基因组图谱",
+      "工作对第一个HIV血液检测至关重要",
+      "世界上被引用最多的科学家之一"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Flossie Wong-Staal — https://en.wikipedia.org/wiki/Flossie_Wong-Staal"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Patricia Bath",
+    "nameCn": "帕特里夏·巴斯",
+    "slug": "patricia-bath",
+    "field": "genetics-biotech",
+    "born": 1942,
+    "died": 2019,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Invented Laser Cataract Surgery",
+    "taglineCn": "发明了激光白内障手术",
+    "bio": "Patricia Bath was an ophthalmologist and inventor who created the Laserphaco Probe, a device that uses laser technology to remove cataracts and restore sight. She was the first African-American woman to complete a residency in ophthalmology, the first to receive a medical patent, and the first African-American woman doctor to receive a patent for a medical purpose. Her invention has restored sight to people who had been blind for over 30 years.",
+    "bioCn": "帕特里夏·巴斯是一位眼科医生和发明家，她创造了Laserphaco探针——一种使用激光技术去除白内障并恢复视力的设备。她是第一位完成眼科住院医师培训的非裔美国女性，第一位获得医学专利的非裔美国女性，也是第一位因医疗目的获得专利的非裔美国女医生。她的发明已为失明超过30年的人恢复了视力。",
+    "achievements": [
+      "Invented Laserphaco Probe for cataract surgery",
+      "First African-American woman with a medical patent",
+      "Restored sight to people blind for 30+ years"
+    ],
+    "achievementsCn": [
+      "发明了用于白内障手术的Laserphaco探针",
+      "第一位获得医学专利的非裔美国女性",
+      "为失明超过30年的人恢复了视力"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Patriciabath.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Patricia Bath — https://en.wikipedia.org/wiki/Patricia_Bath",
+      "Bath, P. US Patent 4,744,360: Apparatus for ablating and removing cataract lenses, 1988."
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Esther Lederberg",
+    "nameCn": "埃丝特·莱德伯格",
+    "slug": "esther-lederberg",
+    "field": "genetics-biotech",
+    "born": 1922,
+    "died": 2006,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Bacterial Genetics",
+    "taglineCn": "细菌遗传学先驱",
+    "bio": "Esther Lederberg made foundational discoveries in bacterial genetics, including the discovery of lambda phage (a virus that infects bacteria) and the invention of replica plating, a technique still used in microbiology labs worldwide. Despite these breakthrough contributions, the 1958 Nobel Prize for work on bacterial genetics was awarded only to her husband Joshua Lederberg. Her techniques remain essential tools in genetics and molecular biology research.",
+    "bioCn": "埃丝特·莱德伯格在细菌遗传学方面做出了奠基性发现，包括发现λ噬菌体（一种感染细菌的病毒）和发明复制平板法——一种至今仍在全世界微生物学实验室使用的技术。尽管她做出了突破性贡献，1958年细菌遗传学方面的诺贝尔奖仅授予了她的丈夫约书亚·莱德伯格。她的技术至今仍是遗传学和分子生物学研究的基本工具。",
+    "achievements": [
+      "Discovered lambda phage",
+      "Invented replica plating technique",
+      "Foundational contributions to bacterial genetics"
+    ],
+    "achievementsCn": [
+      "发现λ噬菌体",
+      "发明复制平板法",
+      "对细菌遗传学做出奠基性贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Esther_Lederberg.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Esther Lederberg — https://en.wikipedia.org/wiki/Esther_Lederberg",
+      "Stanford University archives"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Dorothy Vaughan",
+    "nameCn": "多萝西·沃恩",
+    "slug": "dorothy-vaughan",
+    "field": "data-science-ai",
+    "born": 1910,
+    "died": 2008,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "NASA's First African-American Manager",
+    "taglineCn": "NASA第一位非裔美国管理者",
+    "bio": "Dorothy Vaughan was a mathematician and NASA's first African-American manager. She led the West Area Computers, a group of African-American women mathematicians who performed complex calculations for the space program during the era of segregation. When electronic computers arrived, she taught herself and her team FORTRAN programming, ensuring they remained vital to NASA's operations. Her story was told in the book and film Hidden Figures.",
+    "bioCn": "多萝西·沃恩是一位数学家和NASA第一位非裔美国管理者。在种族隔离时代，她领导西区计算员——一群为太空项目进行复杂计算的非裔美国女数学家。当电子计算机到来时，她自学并教团队FORTRAN编程，确保她们对NASA的运营仍然至关重要。她的故事在书籍和电影《隐藏人物》中被讲述。",
+    "achievements": [
+      "NASA's first African-American manager",
+      "Led West Area Computers group",
+      "Self-taught FORTRAN programming to adapt to electronic computers"
+    ],
+    "achievementsCn": [
+      "NASA第一位非裔美国管理者",
+      "领导西区计算员团队",
+      "自学FORTRAN编程以适应电子计算机"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dorothy_Vaughan.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Dorothy Vaughan — https://en.wikipedia.org/wiki/Dorothy_Vaughan",
+      "Shetterly, Margot Lee. Hidden Figures. William Morrow, 2016."
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Annie Easley",
+    "nameCn": "安妮·伊斯利",
+    "slug": "annie-easley",
+    "field": "data-science-ai",
+    "born": 1933,
+    "died": 2011,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "NASA Computer Scientist and Rocket Pioneer",
+    "taglineCn": "NASA计算机科学家和火箭先驱",
+    "bio": "Annie Easley was an African-American computer scientist and mathematician who worked at NASA for 34 years. She developed and implemented code for the Centaur rocket stage, which launched the first missions to explore other planets. She also contributed to energy-conversion systems and battery technology that laid the groundwork for hybrid vehicles. Throughout her career, she faced racial discrimination but remained a fierce advocate for equal opportunity in STEM.",
+    "bioCn": "安妮·伊斯利是一位非裔美国计算机科学家和数学家，在NASA工作了34年。她为半人马座火箭级开发和实施了代码，该火箭发射了探索其他行星的第一批任务。她还为能量转换系统和电池技术做出了贡献，这为混合动力汽车奠定了基础。在她的整个职业生涯中，她面临种族歧视但始终是STEM领域机会平等的坚定倡导者。",
+    "achievements": [
+      "Developed code for the Centaur rocket stage",
+      "Contributed to battery technology for hybrid vehicles",
+      "34-year career at NASA as a computer scientist"
+    ],
+    "achievementsCn": [
+      "为半人马座火箭级开发代码",
+      "为混合动力汽车的电池技术做出贡献",
+      "在NASA担任34年计算机科学家"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Annie_Easley_in_1955.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Annie Easley — https://en.wikipedia.org/wiki/Annie_Easley",
+      "NASA Glenn Research Center oral history, 2001"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Mary Allen Wilkes",
+    "nameCn": "玛丽·艾伦·威尔克斯",
+    "slug": "mary-allen-wilkes",
+    "field": "data-science-ai",
+    "born": 1937,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Home Computer User",
+    "taglineCn": "第一位家用电脑用户",
+    "bio": "Mary Allen Wilkes was a pioneering computer programmer who became the first person to have a personal computer in her home. While working at MIT Lincoln Laboratory, she designed the operating system for the LINC, often considered the first minicomputer. In 1965, she took a LINC home to continue her work — years before personal computers existed commercially. She later became a lawyer, but her early work helped envision the personal computing revolution.",
+    "bioCn": "玛丽·艾伦·威尔克斯是一位开创性的计算机程序员，她成为第一个在家中拥有个人电脑的人。在MIT林肯实验室工作时，她为LINC设计了操作系统——LINC通常被认为是第一台小型计算机。1965年，她把一台LINC带回家继续工作——比个人电脑商业化早了好几年。她后来成为律师，但她的早期工作帮助构想了个人计算革命。",
+    "achievements": [
+      "First person to use a computer at home (1965)",
+      "Designed the operating system for the LINC minicomputer",
+      "Pioneered the concept of personal computing"
+    ],
+    "achievementsCn": [
+      "第一个在家使用电脑的人（1965年）",
+      "为LINC小型计算机设计操作系统",
+      "开创了个人计算的概念"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Allen Wilkes — https://en.wikipedia.org/wiki/Mary_Allen_Wilkes"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Evelyn Boyd Granville",
+    "nameCn": "伊芙琳·博伊德·格兰维尔",
+    "slug": "evelyn-boyd-granville",
+    "field": "data-science-ai",
+    "born": 1924,
+    "died": 2023,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Second African-American Woman to Earn a Math PhD",
+    "taglineCn": "第二位获得数学博士学位的非裔美国女性",
+    "bio": "Evelyn Boyd Granville was the second African-American woman to receive a PhD in mathematics in the United States, earning her degree from Yale in 1949. She worked at IBM and later at NASA's Jet Propulsion Laboratory, where she developed computer programs for trajectory analysis during the Mercury and Apollo missions. She spent the latter part of her career teaching mathematics at universities, inspiring future generations.",
+    "bioCn": "伊芙琳·博伊德·格兰维尔是美国第二位获得数学博士学位的非裔美国女性，1949年从耶鲁大学获得学位。她在IBM和后来的NASA喷气推进实验室工作，在那里她为水星和阿波罗任务开发了轨迹分析计算机程序。她职业生涯的后期在大学教授数学，激励了未来的世代。",
+    "achievements": [
+      "Second African-American woman with a math PhD from Yale (1949)",
+      "Developed trajectory programs for Mercury and Apollo missions",
+      "Taught mathematics at multiple universities"
+    ],
+    "achievementsCn": [
+      "第二位从耶鲁获得数学博士的非裔美国女性（1949年）",
+      "为水星和阿波罗任务开发轨迹程序",
+      "在多所大学教授数学"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Evelyn Boyd Granville — https://en.wikipedia.org/wiki/Evelyn_Boyd_Granville"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Gladys West",
+    "nameCn": "格拉迪丝·韦斯特",
+    "slug": "gladys-west",
+    "field": "data-science-ai",
+    "born": 1930,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mathematical Mind Behind GPS",
+    "taglineCn": "GPS背后的数学头脑",
+    "bio": "Gladys West was a mathematician whose work at the Naval Surface Warfare Center was critical to the development of the Global Positioning System (GPS). She programmed an IBM computer to deliver precise calculations for an accurate geodetic Earth model, which became the basis for GPS technology. Her contributions were unknown to the public for decades until she was inducted into the Air Force Space and Missile Pioneers Hall of Fame in 2018.",
+    "bioCn": "格拉迪丝·韦斯特是一位数学家，她在海军水面作战中心的工作对全球定位系统（GPS）的开发至关重要。她为IBM计算机编程，提供精确计算以建立准确的大地测量地球模型，这成为了GPS技术的基础。她的贡献在几十年里不为公众所知，直到2018年她入选空军太空和导弹先驱名人堂。",
+    "achievements": [
+      "Mathematical modeling critical to GPS development",
+      "Inducted into Air Force Space and Missile Pioneers Hall of Fame",
+      "Programmed precise geodetic Earth model"
+    ],
+    "achievementsCn": [
+      "对GPS开发至关重要的数学建模",
+      "入选空军太空和导弹先驱名人堂",
+      "编程精确的大地测量地球模型"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Gladys West — https://en.wikipedia.org/wiki/Gladys_West",
+      "USAF Hall of Fame induction, 2018"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Cynthia Breazeal",
+    "nameCn": "辛西娅·布雷齐尔",
+    "slug": "cynthia-breazeal",
+    "field": "data-science-ai",
+    "born": 1967,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Social Robotics",
+    "taglineCn": "社交机器人先驱",
+    "bio": "Cynthia Breazeal is a roboticist and professor at MIT who pioneered the field of social robotics. She designed Kismet, one of the first robots capable of recognizing and simulating human emotions, and later created Jibo, described as the world's first social robot for the home. Her work explores how robots can interact with humans as collaborative partners rather than mere tools.",
+    "bioCn": "辛西娅·布雷齐尔是MIT的机器人学家和教授，开创了社交机器人领域。她设计了Kismet——第一批能够识别和模拟人类情感的机器人之一，后来又创造了Jibo——被描述为世界上第一个家用社交机器人。她的工作探索机器人如何作为协作伙伴而非仅仅是工具与人类互动。",
+    "achievements": [
+      "Created Kismet, early robot recognizing human emotions",
+      "Developed Jibo, first social robot for the home",
+      "Pioneered human-robot interaction research at MIT"
+    ],
+    "achievementsCn": [
+      "创造Kismet，早期识别人类情感的机器人",
+      "开发Jibo，第一个家用社交机器人",
+      "在MIT开创人机交互研究"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Cynthia_Breazeal_2014.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Cynthia Breazeal — https://en.wikipedia.org/wiki/Cynthia_Breazeal",
+      "Breazeal, C. Designing Sociable Robots. MIT Press, 2002."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Daphne Koller",
+    "nameCn": "达芙妮·科勒",
+    "slug": "daphne-koller",
+    "field": "data-science-ai",
+    "born": 1968,
+    "died": null,
+    "nationality": "Israeli-American",
+    "nationalityCn": "以色列裔美国人",
+    "tagline": "AI Pioneer and Coursera Co-founder",
+    "taglineCn": "AI先驱与Coursera联合创始人",
+    "bio": "Daphne Koller is a computer scientist whose work on probabilistic graphical models and machine learning has shaped modern artificial intelligence. As a Stanford professor, she co-founded Coursera in 2012, democratizing education by making university-level courses available to millions worldwide for free. She was awarded the MacArthur Fellowship and is a member of the National Academy of Sciences. She later founded Insitro, applying machine learning to drug discovery.",
+    "bioCn": "达芙妮·科勒是一位计算机科学家，她在概率图模型和机器学习方面的工作塑造了现代人工智能。作为斯坦福教授，她于2012年联合创立Coursera，通过向全球数百万人免费提供大学级课程来实现教育民主化。她获得了麦克阿瑟奖并是国家科学院成员。她后来创立了Insitro，将机器学习应用于药物发现。",
+    "achievements": [
+      "Co-founded Coursera, educating millions worldwide",
+      "MacArthur Fellowship recipient",
+      "Pioneer of probabilistic graphical models in AI"
+    ],
+    "achievementsCn": [
+      "联合创立Coursera，教育全球数百万人",
+      "获得麦克阿瑟奖",
+      "AI概率图模型先驱"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Daphne_Koller_2015.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Daphne Koller — https://en.wikipedia.org/wiki/Daphne_Koller",
+      "Coursera co-founder — https://www.coursera.org/"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Joy Buolamwini",
+    "nameCn": "乔伊·布兰维尼",
+    "slug": "joy-buolamwini",
+    "field": "data-science-ai",
+    "born": 1989,
+    "died": null,
+    "nationality": "Ghanaian-Canadian-American",
+    "nationalityCn": "加纳裔加拿大裔美国人",
+    "tagline": "Champion of Algorithmic Justice",
+    "taglineCn": "算法公正倡导者",
+    "bio": "Joy Buolamwini is a computer scientist and digital activist who founded the Algorithmic Justice League after discovering significant racial and gender bias in commercial facial recognition systems. Her MIT research showed that facial analysis software from major tech companies had error rates up to 34% higher for darker-skinned women compared to lighter-skinned men. Her work has led to concrete policy changes and corporate accountability in AI development.",
+    "bioCn": "乔伊·布兰维尼是一位计算机科学家和数字活动家，在发现商业面部识别系统中存在严重的种族和性别偏见后，创立了算法正义联盟。她在MIT的研究表明，主要科技公司的面部分析软件对深肤色女性的错误率比浅肤色男性高出34%。她的工作促成了AI开发方面的具体政策变化和企业问责。",
+    "achievements": [
+      "Founded the Algorithmic Justice League",
+      "Exposed racial and gender bias in AI facial recognition",
+      "Influenced policy changes in AI development"
+    ],
+    "achievementsCn": [
+      "创立算法正义联盟",
+      "揭露AI面部识别中的种族和性别偏见",
+      "影响AI开发的政策变化"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Joy Buolamwini — https://en.wikipedia.org/wiki/Joy_Buolamwini",
+      "Buolamwini, J. & Gebru, T. 'Gender Shades,' Proceedings of Machine Learning Research, 2018."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Timnit Gebru",
+    "nameCn": "蒂姆尼特·格布鲁",
+    "slug": "timnit-gebru",
+    "field": "data-science-ai",
+    "born": 1982,
+    "died": null,
+    "nationality": "Ethiopian-American",
+    "nationalityCn": "埃塞俄比亚裔美国人",
+    "tagline": "Leader in AI Ethics",
+    "taglineCn": "AI伦理领袖",
+    "bio": "Timnit Gebru is a computer scientist and advocate for ethical AI who co-founded Black in AI, a community of Black researchers in artificial intelligence. Her research highlighted the social and environmental costs of large language models and the disproportionate harm AI systems can cause to marginalized communities. She founded the Distributed AI Research Institute (DAIR) to conduct independent, community-rooted AI research.",
+    "bioCn": "蒂姆尼特·格布鲁是一位计算机科学家和AI伦理倡导者，她联合创立了Black in AI——一个人工智能领域黑人研究者社区。她的研究突出了大型语言模型的社会和环境成本，以及AI系统可能对边缘化社区造成的不成比例的伤害。她创立了分布式AI研究所（DAIR），进行独立的、以社区为根基的AI研究。",
+    "achievements": [
+      "Co-founded Black in AI community",
+      "Founded Distributed AI Research Institute (DAIR)",
+      "Highlighted social costs of large language models"
+    ],
+    "achievementsCn": [
+      "联合创立Black in AI社区",
+      "创立分布式AI研究所（DAIR）",
+      "突出大型语言模型的社会成本"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Timnit Gebru — https://en.wikipedia.org/wiki/Timnit_Gebru",
+      "Distributed AI Research Institute (DAIR) — https://www.dair-institute.org/"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Lisa Randall",
+    "nameCn": "丽莎·兰道尔",
+    "slug": "lisa-randall",
+    "field": "data-science-ai",
+    "born": 1962,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Theoretical Physicist Exploring Extra Dimensions",
+    "taglineCn": "探索额外维度的理论物理学家",
+    "bio": "Lisa Randall is a theoretical physicist at Harvard University whose work on particle physics and cosmology has proposed models involving extra dimensions of space. Her Randall-Sundrum model, developed with Raman Sundrum, suggests that our visible universe exists on a membrane within a higher-dimensional space. She is one of the most cited theoretical physicists in the world and has authored popular science books making complex physics accessible to general audiences.",
+    "bioCn": "丽莎·兰道尔是哈佛大学的理论物理学家，她在粒子物理学和宇宙学方面的工作提出了涉及空间额外维度的模型。她与拉曼·桑德鲁姆共同开发的兰道尔-桑德鲁姆模型表明，我们可见的宇宙存在于更高维空间中的一个膜上。她是世界上被引用最多的理论物理学家之一，还撰写了科普书籍，使复杂的物理学对普通读者变得易于理解。",
+    "achievements": [
+      "Developed the Randall-Sundrum model of extra dimensions",
+      "Most cited theoretical physicist in the world",
+      "Best-selling author making physics accessible"
+    ],
+    "achievementsCn": [
+      "开发兰道尔-桑德鲁姆额外维度模型",
+      "世界上被引用最多的理论物理学家",
+      "畅销书作者，使物理学变得易懂"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Harvard_physicist_Lisa_Randall_2006.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Lisa Randall — https://en.wikipedia.org/wiki/Lisa_Randall",
+      "Randall, L. Warped Passages. Ecco Press, 2005."
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Sophie Wilson",
+    "nameCn": "苏菲·威尔逊",
+    "slug": "sophie-wilson",
+    "field": "computer-science",
+    "born": 1957,
+    "died": null,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Architect of the ARM Instruction Set",
+    "taglineCn": "ARM指令集架构师",
+    "bio": "Sophie Wilson designed the instruction set for the ARM processor while working at Acorn Computers in the 1980s. The ARM architecture she created went on to become the most widely used processor design in the world, powering billions of smartphones, tablets, and embedded devices. She also designed the BBC Micro computer, which introduced a generation of British children to computing. Wilson was elected a Fellow of the Royal Society in 2019 and appointed CBE.",
+    "bioCn": "苏菲·威尔逊在1980年代于Acorn计算机公司工作期间设计了ARM处理器的指令集。她创造的ARM架构后来成为世界上使用最广泛的处理器设计，驱动着数十亿部智能手机、平板电脑和嵌入式设备。她还设计了BBC Micro计算机，将一代英国儿童引入了计算机世界。威尔逊于2019年当选皇家学会院士，并被授予CBE勋章。",
+    "achievements": [
+      "Designed the ARM instruction set, used in billions of devices",
+      "Created the BBC Micro computer",
+      "Elected Fellow of the Royal Society (2019)"
+    ],
+    "achievementsCn": [
+      "设计了ARM指令集，用于数十亿设备",
+      "创造了BBC Micro计算机",
+      "当选皇家学会院士（2019年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Sophie Wilson — https://en.wikipedia.org/wiki/Sophie_Wilson",
+      "Royal Society Fellow profile — https://royalsociety.org/people/sophie-wilson-13316/",
+      "Acorn Computers archive, Centre for Computing History"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Dame Stephanie Shirley",
+    "nameCn": "斯蒂芬妮·雪莉女爵士",
+    "slug": "stephanie-shirley",
+    "field": "computer-science",
+    "born": 1933,
+    "died": null,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Software Industry Pioneer Who Signed Letters as 'Steve'",
+    "taglineCn": "以'Steve'署名的软件产业先驱",
+    "bio": "Born Vera Buchthal in Dortmund, Germany, Stephanie Shirley arrived in Britain as a Kindertransport child refugee in 1939. In 1962, she founded Freelance Programmers — a software company staffed almost entirely by women working from home, decades before remote work became mainstream. She adopted the name 'Steve' to combat the sexism that prevented her business letters from receiving replies. Her company, later renamed FI Group, grew to employ over 8,500 people and was valued at $3 billion. She has since donated over £67 million to charity, particularly for autism research.",
+    "bioCn": "斯蒂芬妮·雪莉原名维拉·布赫塔尔，出生于德国多特蒙德，1939年作为儿童运输计划的难民抵达英国。1962年，她创办了自由程序员公司——一家几乎全由女性在家办公的软件公司，比远程办公成为主流早了几十年。她采用'Steve'这个名字来对抗性别歧视，因为她以女性名字寄出的商业信函总是得不到回复。她的公司后来更名为FI Group，员工超过8,500人，市值达30亿美元。此后她已捐赠超过6,700万英镑用于慈善事业，特别是自闭症研究。",
+    "achievements": [
+      "Founded Freelance Programmers (1962), pioneering remote work",
+      "Built FI Group into a $3 billion company",
+      "Donated over £67 million to charity"
+    ],
+    "achievementsCn": [
+      "创办自由程序员公司（1962年），开创远程工作模式",
+      "将FI Group发展为价值30亿美元的公司",
+      "捐赠超过6,700万英镑用于慈善"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "In those days, I had to use the name Steve to get past the door.",
+    "quoteCn": "在那个年代，我不得不用Steve这个名字才能敲开商业的大门。",
+    "quoteSource": "TED Talk, 2015",
+    "references": [
+      "Wikipedia: Steve Shirley — https://en.wikipedia.org/wiki/Steve_Shirley",
+      "Shirley, Stephanie. Let It Go: My Extraordinary Story. Penguin, 2012.",
+      "TED Talk: Why do ambitious women have flat heads? 2015"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Anita Borg",
+    "nameCn": "安妮塔·博格",
+    "slug": "anita-borg",
+    "field": "computer-science",
+    "born": 1949,
+    "died": 2003,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Founded the Grace Hopper Celebration of Women in Computing",
+    "taglineCn": "创办女性计算机大会Grace Hopper Celebration",
+    "bio": "Anita Borg was a computer scientist whose passion for increasing the representation of women in technology led her to create lasting institutions. In 1987, she founded Systers, the first electronic mailing list for women in computing, which grew to become a global network. In 1994, she co-founded the Grace Hopper Celebration of Women in Computing, now the world's largest gathering of women technologists. In 1997, she established the Institute for Women and Technology (now AnitaB.org). She received the Augusta Ada Lovelace Award and the EFF Pioneer Award before her death from brain cancer at 54.",
+    "bioCn": "安妮塔·博格是一位计算机科学家，她对增加女性在技术领域代表性的热情促使她创建了持久的机构。1987年，她创办了Systers——第一个面向计算机领域女性的电子邮件列表，发展成为一个全球网络。1994年，她联合创办了Grace Hopper女性计算机大会，现已成为全球最大的女性技术人员聚会。1997年，她创立了女性与技术研究所（现AnitaB.org）。她在54岁因脑癌去世前，获得了阿达·洛芙莱斯奖和EFF先驱奖。",
+    "achievements": [
+      "Created Systers mailing list for women in computing (1987)",
+      "Co-founded the Grace Hopper Celebration (1994)",
+      "Founded the Institute for Women and Technology"
+    ],
+    "achievementsCn": [
+      "创建了女性计算机领域的Systers邮件列表（1987年）",
+      "联合创办Grace Hopper Celebration（1994年）",
+      "创立女性与技术研究所"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Anita Borg — https://en.wikipedia.org/wiki/Anita_Borg",
+      "AnitaB.org — https://anitab.org/about-us/",
+      "Computing Research Association obituary, 2003"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Joan Clarke",
+    "nameCn": "琼·克拉克",
+    "slug": "joan-clarke",
+    "field": "computer-science",
+    "born": 1917,
+    "died": 1996,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Bletchley Park Codebreaker Who Cracked Enigma",
+    "taglineCn": "布莱切利园密码破译者",
+    "bio": "Joan Clarke was a cryptanalyst at Bletchley Park during World War II, where she worked in Hut 8 on breaking German Naval Enigma codes alongside Alan Turing. She was the only woman in Hut 8 to be promoted to the senior role of linguist — a deliberately misleading title, as the civil service had no protocols for women in such positions. She used the Banburismus statistical technique to crack Enigma settings. After the war, she worked at GCHQ. Her story gained wider recognition through the 2014 film The Imitation Game, where she was portrayed by Keira Knightley.",
+    "bioCn": "琼·克拉克是二战期间布莱切利园的密码分析员，她在第8小屋与艾伦·图灵一起破解德国海军恩尼格玛密码。她是第8小屋中唯一被提升为高级'语言学家'的女性——这是一个故意误导的头衔，因为公务员系统没有女性担任此类职位的先例。她使用班布里斯姆斯统计技术破解恩尼格玛设置。战后，她在政府通信总部(GCHQ)工作。她的故事通过2014年电影《模仿游戏》获得了更广泛的认知。",
+    "achievements": [
+      "Broke German Naval Enigma codes at Bletchley Park",
+      "Only woman promoted to senior role in Hut 8",
+      "Worked alongside Alan Turing on cryptanalysis"
+    ],
+    "achievementsCn": [
+      "在布莱切利园破解德国海军恩尼格玛密码",
+      "第8小屋中唯一晋升高级职位的女性",
+      "与艾伦·图灵一起从事密码分析工作"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Bletchley Park Trust, Historical",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Joan Clarke — https://en.wikipedia.org/wiki/Joan_Clarke",
+      "Smith, Michael. The Debs of Bletchley Park. Aurum Press, 2015.",
+      "Bletchley Park Trust archives"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Susan Kare",
+    "nameCn": "苏珊·卡尔",
+    "slug": "susan-kare",
+    "field": "computer-science",
+    "born": 1954,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "The Woman Who Gave the Macintosh a Smile",
+    "taglineCn": "赋予Macintosh微笑的女人",
+    "bio": "Susan Kare is the graphic designer who created the original icons, fonts, and interface elements for the Apple Macintosh in 1983. Working on a pixel grid, she crafted the Happy Mac startup icon, the command key symbol, the bomb error icon, and bitmap fonts like Chicago and Geneva that became integral to the Mac identity. Her work established the visual language of personal computing and influenced user interface design worldwide. She went on to design icons for Windows 3.0, IBM, and Facebook, and was inducted into the AIGA Medal hall of fame.",
+    "bioCn": "苏珊·卡尔是图形设计师，1983年为Apple Macintosh创造了原始图标、字体和界面元素。她在像素网格上精心设计了Happy Mac启动图标、command键符号、炸弹错误图标，以及Chicago和Geneva等位图字体，这些都成为Mac身份的核心组成部分。她的工作确立了个人计算的视觉语言，影响了全球的用户界面设计。她后来为Windows 3.0、IBM和Facebook设计了图标，并入选AIGA奖章名人堂。",
+    "achievements": [
+      "Created the original Macintosh icons and fonts",
+      "Designed the Happy Mac, command key symbol, and bomb error icon",
+      "Established the visual language of personal computing"
+    ],
+    "achievementsCn": [
+      "创造了原始Macintosh图标和字体",
+      "设计了Happy Mac、command键符号和炸弹错误图标",
+      "确立了个人计算的视觉语言"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Susan Kare — https://en.wikipedia.org/wiki/Susan_Kare",
+      "kare.com — Susan Kare's portfolio",
+      "Hertzfeld, Andy. Revolution in the Valley. O'Reilly, 2004."
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Carol Shaw",
+    "nameCn": "卡罗尔·肖",
+    "slug": "carol-shaw",
+    "field": "computer-science",
+    "born": 1955,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "One of the First Female Video Game Designers",
+    "taglineCn": "最早的女性电子游戏设计师之一",
+    "bio": "Carol Shaw is recognized as one of the first female video game designers in the industry. After studying computer science and electrical engineering at UC Berkeley, she joined Atari in 1978, where she programmed games for the Atari 2600 including 3-D Tic-Tac-Toe. She later moved to Activision, where she created River Raid (1982), a critically acclaimed and commercially successful scrolling shooter that became one of the best-selling games of its era. River Raid was notable for its procedural level generation algorithm, a sophisticated technique for its time.",
+    "bioCn": "卡罗尔·肖被认为是电子游戏行业最早的女性游戏设计师之一。在加州大学伯克利分校学习计算机科学和电气工程后，她于1978年加入Atari，为Atari 2600编程游戏。她后来转到Activision，创作了《River Raid》（1982年），这款广受好评且商业成功的卷轴射击游戏成为那个时代最畅销的游戏之一。《River Raid》以其程序化关卡生成算法而著称，这在当时是一种先进的技术。",
+    "achievements": [
+      "Created River Raid, a landmark video game (1982)",
+      "One of the first women in the video game industry",
+      "Pioneered procedural level generation"
+    ],
+    "achievementsCn": [
+      "创作了里程碑式电子游戏《River Raid》（1982年）",
+      "电子游戏行业最早的女性之一",
+      "开创了程序化关卡生成技术"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Historical",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Carol Shaw — https://en.wikipedia.org/wiki/Carol_Shaw",
+      "Donovan, Tristan. Replay: The History of Video Games. Yellow Ant, 2010."
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Evelyn Berezin",
+    "nameCn": "伊芙琳·贝雷津",
+    "slug": "evelyn-berezin",
+    "field": "computer-science",
+    "born": 1925,
+    "died": 2018,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Creator of the First Computerized Word Processor",
+    "taglineCn": "第一台电脑化文字处理器的创造者",
+    "bio": "Evelyn Berezin was a computer engineer who built the first true computerized word processor. In 1969, she founded Redactron Corporation and designed the Data Secretary, a desk-sized machine that allowed users to edit, delete, and reformat text — capabilities taken for granted today but revolutionary at the time. Earlier in her career at Underwood Corporation and Teleregister, she helped design one of the first computer-based airline reservation systems for United Airlines. The New York Times called her 'the most important person in history that you've never heard of.'",
+    "bioCn": "伊芙琳·贝雷津是一位计算机工程师，创造了第一台真正的电脑化文字处理器。1969年，她创办了Redactron公司，设计了Data Secretary——一台桌子大小的机器，允许用户编辑、删除和重新格式化文本。这些功能在今天被视为理所当然，但在当时是革命性的。在她职业生涯早期，她在Teleregister公司帮助设计了联合航空公司最早的计算机订票系统之一。《纽约时报》称她为'你从未听说过的历史上最重要的人'。",
+    "achievements": [
+      "Created the first computerized word processor (1969)",
+      "Founded Redactron Corporation",
+      "Helped design early airline reservation systems"
+    ],
+    "achievementsCn": [
+      "创造了第一台电脑化文字处理器（1969年）",
+      "创办Redactron公司",
+      "帮助设计了早期航空订票系统"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Historical",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Evelyn Berezin — https://en.wikipedia.org/wiki/Evelyn_Berezin",
+      "The New York Times obituary, December 2018",
+      "Computer History Museum: Evelyn Berezin"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Dame Wendy Hall",
+    "nameCn": "温迪·霍尔女爵士",
+    "slug": "wendy-hall",
+    "field": "computer-science",
+    "born": 1952,
+    "died": null,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Web Science",
+    "taglineCn": "网络科学先驱",
+    "bio": "Dame Wendy Hall is a British computer scientist who pioneered work in multimedia and hypermedia. In the late 1980s, her Microcosm system at the University of Southampton explored open hypermedia linking — ideas that predated and paralleled the development of the World Wide Web. She co-founded the Web Science Research Initiative with Tim Berners-Lee, establishing Web Science as an interdisciplinary academic field. She has served as President of the ACM, the first person outside North America to hold the position, and was appointed Dame Commander of the Order of the British Empire.",
+    "bioCn": "温迪·霍尔女爵士是英国计算机科学家，在多媒体和超媒体领域做出了开创性工作。1980年代末，她在南安普顿大学的Microcosm系统探索了开放超媒体链接——这些理念早于并平行于万维网的发展。她与蒂姆·伯纳斯-李共同创办了网络科学研究倡议，将网络科学确立为一个跨学科学术领域。她曾担任ACM（美国计算机协会）主席——北美以外第一位担任此职务的人，并被授予大英帝国司令勋章。",
+    "achievements": [
+      "Pioneered open hypermedia and the Microcosm system",
+      "Co-founded Web Science with Tim Berners-Lee",
+      "First non-North American ACM President"
+    ],
+    "achievementsCn": [
+      "开创开放超媒体和Microcosm系统",
+      "与蒂姆·伯纳斯-李共同创立网络科学",
+      "首位非北美ACM主席"
+    ],
+    "era": "20th Century",
+    "imageCredit": "University of Southampton, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Wendy Hall — https://en.wikipedia.org/wiki/Wendy_Hall",
+      "University of Southampton profile",
+      "Web Science Trust — https://www.webscience.org/"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Katie Bouman",
+    "nameCn": "凯蒂·鲍曼",
+    "slug": "katie-bouman",
+    "field": "computer-science",
+    "born": 1989,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Led the Algorithm That Captured the First Black Hole Image",
+    "taglineCn": "领导算法捕捉首张黑洞图像",
+    "bio": "Katherine Louise Bouman is a computer scientist and electrical engineer who led the development of a computational imaging algorithm that made it possible to capture the first-ever image of a black hole. As part of the Event Horizon Telescope project, she developed the CHIRP algorithm (Continuous High-resolution Image Reconstruction using Patch priors) to combine data from radio telescopes around the world. The resulting image of the black hole at the center of galaxy M87, released on April 10, 2019, was hailed as a landmark achievement. She is currently an assistant professor at Caltech.",
+    "bioCn": "凯瑟琳·路易斯·鲍曼是一位计算机科学家和电气工程师，她领导开发了使捕捉首张黑洞图像成为可能的计算成像算法。作为事件视界望远镜项目的一部分，她开发了CHIRP算法，将来自世界各地射电望远镜的数据组合在一起。2019年4月10日发布的M87星系中心黑洞图像被誉为里程碑式的成就。她目前是加州理工学院的助理教授。",
+    "achievements": [
+      "Led development of black hole imaging algorithm",
+      "Key contributor to Event Horizon Telescope project",
+      "Assistant Professor at Caltech"
+    ],
+    "achievementsCn": [
+      "领导开发黑洞成像算法",
+      "事件视界望远镜项目关键贡献者",
+      "加州理工学院助理教授"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Event Horizon Telescope, CC BY",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Katie Bouman — https://en.wikipedia.org/wiki/Katie_Bouman",
+      "Event Horizon Telescope — https://eventhorizontelescope.org/",
+      "Bouman et al. Computational Imaging for VLBI Image Reconstruction. IEEE, 2016."
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Chieko Asakawa",
+    "nameCn": "浅川智惠子",
+    "slug": "chieko-asakawa",
+    "field": "computer-science",
+    "born": 1958,
+    "died": null,
+    "nationality": "Japanese",
+    "nationalityCn": "日本",
+    "tagline": "Pioneer of Digital Accessibility for the Visually Impaired",
+    "taglineCn": "视障人士数字无障碍先驱",
+    "bio": "Chieko Asakawa is a computer scientist and IBM Fellow who has devoted her career to making technology accessible to the visually impaired — a mission born from personal experience, as she lost her sight at age 14 due to a swimming accident. At IBM Research in Tokyo, she developed the Home Page Reader, one of the first practical voice browsers for navigating the web. She also created the aDesigner accessibility simulation tool and leads research in AI-powered navigation for blind users. In 2019, she was inducted into the National Inventors Hall of Fame.",
+    "bioCn": "浅川智惠子是计算机科学家和IBM院士，她将职业生涯投入到使技术对视障人士无障碍的事业中——这一使命源于个人经历，她14岁时因游泳事故失明。在IBM东京研究院，她开发了Home Page Reader——最早的实用型网页语音浏览器之一。她还创建了aDesigner无障碍模拟工具，并领导AI辅助导航研究。2019年，她入选美国发明家名人堂。",
+    "achievements": [
+      "Developed IBM Home Page Reader voice browser",
+      "IBM Fellow and accessibility technology pioneer",
+      "Inducted into National Inventors Hall of Fame (2019)"
+    ],
+    "achievementsCn": [
+      "开发IBM Home Page Reader语音浏览器",
+      "IBM院士和无障碍技术先驱",
+      "入选美国发明家名人堂（2019年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "IBM Research",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Chieko Asakawa — https://en.wikipedia.org/wiki/Chieko_Asakawa",
+      "IBM Research profile",
+      "TED Talk: How new technology helps blind people explore the world, 2015"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Elizabeth Blackburn",
+    "nameCn": "伊丽莎白·布莱克本",
+    "slug": "elizabeth-blackburn",
+    "field": "genetics-biotech",
+    "born": 1948,
+    "died": null,
+    "nationality": "Australian-American",
+    "nationalityCn": "澳大利亚裔美国人",
+    "tagline": "Nobel Laureate Who Discovered Telomerase",
+    "taglineCn": "发现端粒酶的诺贝尔奖得主",
+    "bio": "Elizabeth Blackburn is a molecular biologist who discovered the molecular nature of telomeres — the protective caps at the ends of chromosomes — and co-discovered telomerase, the enzyme that replenishes them. This work revealed fundamental mechanisms of aging and cancer. She shared the 2009 Nobel Prize in Physiology or Medicine with Carol Greider and Jack Szostak. Her research has opened vast new fields in aging biology, cancer research, and stress physiology. She served as President of the Salk Institute for Biological Studies.",
+    "bioCn": "伊丽莎白·布莱克本是一位分子生物学家，她发现了端粒——染色体末端保护帽——的分子本质，并共同发现了补充端粒的端粒酶。这项工作揭示了衰老和癌症的基本机制。她与卡罗尔·格雷德和杰克·绍斯塔克共同获得了2009年诺贝尔生理学或医学奖。她的研究开辟了衰老生物学、癌症研究和应激生理学的广阔新领域。她曾担任索尔克生物研究所所长。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2009)",
+      "Discovered the molecular nature of telomeres",
+      "Co-discovered telomerase enzyme"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2009年）",
+      "发现端粒的分子本质",
+      "共同发现端粒酶"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Elizabeth_Blackburn_CHF_Heritage_Day_2012_crop.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Elizabeth Blackburn — https://en.wikipedia.org/wiki/Elizabeth_Blackburn",
+      "Nobel Prize: Elizabeth H. Blackburn — https://www.nobelprize.org/prizes/medicine/2009/blackburn/",
+      "Blackburn, E. & Epel, E. The Telomere Effect. Grand Central Publishing, 2017."
+    ]
+  }
+]

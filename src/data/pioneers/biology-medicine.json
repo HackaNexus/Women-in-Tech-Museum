@@ -1,0 +1,437 @@
+[
+  {
+    "id": 46,
+    "name": "Elizabeth Blackwell",
+    "nameCn": "伊丽莎白·布莱克韦尔",
+    "slug": "elizabeth-blackwell",
+    "field": "biology-medicine",
+    "born": 1821,
+    "died": 1910,
+    "nationality": "British-American",
+    "nationalityCn": "英裔美国人",
+    "tagline": "First Woman to Earn a Medical Degree in the U.S.",
+    "taglineCn": "美国第一位获得医学学位的女性",
+    "bio": "Elizabeth Blackwell became the first woman to receive a medical degree in the United States in 1849, graduating first in her class from Geneva Medical College. She faced enormous prejudice — her acceptance had been put to a student vote as a joke, but she persevered. She went on to found the New York Infirmary for Indigent Women and Children and established a medical college for women, opening the door for generations of female physicians.",
+    "bioCn": "伊丽莎白·布莱克韦尔于1849年成为美国第一位获得医学学位的女性，以全班第一名从日内瓦医学院毕业。她面对了巨大的偏见——她的录取曾被作为玩笑交由学生投票，但她坚持了下来。她后来创办了纽约贫困妇女儿童医院，并建立了女性医学院，为几代女性医生打开了大门。",
+    "achievements": [
+      "First woman to earn a medical degree in the U.S. (1849)",
+      "Founded New York Infirmary for Indigent Women and Children",
+      "Established a medical college for women"
+    ],
+    "achievementsCn": [
+      "美国第一位获得医学学位的女性（1849年）",
+      "创办纽约贫困妇女儿童医院",
+      "建立女性医学院"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Elizabeth_Blackwell.jpg",
+    "quote": "It is not easy to be a pioneer — but oh, it is fascinating!",
+    "quoteCn": "成为先驱并不容易——但天哪，这太迷人了！",
+    "quoteSource": "From her diary and letters",
+    "references": [
+      "Wikipedia: Elizabeth Blackwell — https://en.wikipedia.org/wiki/Elizabeth_Blackwell",
+      "Nimura, Janice. The Doctors Blackwell. W.W. Norton, 2021."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Barbara McClintock",
+    "nameCn": "芭芭拉·麦克林托克",
+    "slug": "barbara-mcclintock",
+    "field": "biology-medicine",
+    "born": 1902,
+    "died": 1992,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discoverer of Genetic Transposition",
+    "taglineCn": "遗传转座的发现者",
+    "bio": "Barbara McClintock discovered genetic transposition — the ability of genes to change position on chromosomes — decades before the scientific community accepted her findings. Working alone with maize plants at Cold Spring Harbor Laboratory, she showed that genes could move and regulate the expression of other genes. Her work, initially dismissed, was vindicated when she received the Nobel Prize in Physiology or Medicine in 1983, the first woman to win the prize unshared.",
+    "bioCn": "芭芭拉·麦克林托克发现了遗传转座——基因在染色体上改变位置的能力——比科学界接受她的发现早了几十年。她在冷泉港实验室独自研究玉米植物，表明基因可以移动并调节其他基因的表达。她的工作最初被否定，但在1983年获得诺贝尔生理学或医学奖时得到了平反，她是第一位独享该奖的女性。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1983)",
+      "Discovered genetic transposition (jumping genes)",
+      "First woman to win an unshared Nobel in Physiology or Medicine"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（1983年）",
+      "发现遗传转座（跳跃基因）",
+      "第一位独享诺贝尔生理学或医学奖的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947.jpg",
+    "quote": "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off.",
+    "quoteCn": "如果你知道自己走在正确的道路上，如果你有这种内在的认知，那么没有人能阻止你。",
+    "quoteSource": "Documented in Keller, Evelyn Fox. A Feeling for the Organism, 1983.",
+    "references": [
+      "Wikipedia: Barbara McClintock — https://en.wikipedia.org/wiki/Barbara_McClintock",
+      "Nobel Prize: Barbara McClintock — https://www.nobelprize.org/prizes/medicine/1983/mcclintock/",
+      "Keller, Evelyn Fox. A Feeling for the Organism. W.H. Freeman, 1983."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Rachel Carson",
+    "nameCn": "蕾切尔·卡逊",
+    "slug": "rachel-carson",
+    "field": "biology-medicine",
+    "born": 1907,
+    "died": 1964,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mother of the Environmental Movement",
+    "taglineCn": "环保运动之母",
+    "bio": "Rachel Carson was a marine biologist and author whose 1962 book Silent Spring documented the devastating effects of pesticides on the environment, particularly DDT's impact on bird populations. Despite a vicious industry campaign to discredit her, her meticulous scientific research catalyzed the modern environmental movement and led directly to the creation of the U.S. Environmental Protection Agency and the ban on DDT.",
+    "bioCn": "蕾切尔·卡逊是一位海洋生物学家和作家，她1962年的著作《寂静的春天》记录了农药对环境的毁灭性影响，特别是DDT对鸟类种群的影响。尽管面对行业恶意的诋毁运动，她细致的科学研究催化了现代环保运动，直接促成了美国环境保护署的创建和DDT的禁用。",
+    "achievements": [
+      "Published Silent Spring, catalyzing the environmental movement",
+      "Led to creation of the U.S. Environmental Protection Agency",
+      "Time magazine's 100 most influential people of the 20th century"
+    ],
+    "achievementsCn": [
+      "出版《寂静的春天》，催化环保运动",
+      "促成美国环境保护署的创建",
+      "《时代》杂志20世纪100位最具影响力人物"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Rachel-Carson.jpg",
+    "quote": "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
+    "quoteCn": "我们越清楚地将注意力集中在周围宇宙的奇迹和现实上，就越不会有毁灭的欲望。",
+    "quoteSource": "Silent Spring, 1962",
+    "references": [
+      "Wikipedia: Rachel Carson — https://en.wikipedia.org/wiki/Rachel_Carson",
+      "Carson, Rachel. Silent Spring. Houghton Mifflin, 1962.",
+      "Lear, Linda. Rachel Carson: Witness for Nature. Henry Holt, 1997."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Jane Goodall",
+    "nameCn": "珍·古道尔",
+    "slug": "jane-goodall",
+    "field": "biology-medicine",
+    "born": 1934,
+    "died": null,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "World's Foremost Expert on Chimpanzees",
+    "taglineCn": "世界最杰出的黑猩猩专家",
+    "bio": "Jane Goodall revolutionized our understanding of primates through her 60-year study of chimpanzees in Gombe, Tanzania. She was the first to observe that chimpanzees make and use tools — a discovery that blurred the line between humans and other animals. Without a college degree when she began, she earned her PhD from Cambridge and became one of the most influential scientists and conservationists in history.",
+    "bioCn": "珍·古道尔通过在坦桑尼亚贡贝长达60年的黑猩猩研究，彻底改变了我们对灵长类动物的理解。她是第一个观察到黑猩猩制造和使用工具的人——这一发现模糊了人类和其他动物之间的界限。开始研究时她没有大学学位，后来在剑桥获得博士学位，成为历史上最具影响力的科学家和保育人士之一。",
+    "achievements": [
+      "Discovered chimpanzees make and use tools",
+      "60+ year study of chimpanzees in Gombe, Tanzania",
+      "UN Messenger of Peace"
+    ],
+    "achievementsCn": [
+      "发现黑猩猩制造和使用工具",
+      "在坦桑尼亚贡贝进行60多年的黑猩猩研究",
+      "联合国和平信使"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jane_Goodall_2015.jpg/440px-Jane_Goodall_2015.jpg",
+    "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+    "quoteCn": "你所做的事会产生影响，你必须决定你想产生什么样的影响。",
+    "quoteSource": "From talks and published works",
+    "references": [
+      "Wikipedia: Jane Goodall — https://en.wikipedia.org/wiki/Jane_Goodall",
+      "Goodall, Jane. In the Shadow of Man. Houghton Mifflin, 1971.",
+      "Jane Goodall Institute — https://www.janegoodall.org/"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Mary Anning",
+    "nameCn": "玛丽·安宁",
+    "slug": "mary-anning",
+    "field": "biology-medicine",
+    "born": 1799,
+    "died": 1847,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Paleontology",
+    "taglineCn": "古生物学先驱",
+    "bio": "Mary Anning was a fossil collector and self-taught paleontologist who made some of the most important finds in the history of geology. Working the treacherous cliffs of Lyme Regis, she discovered the first correctly identified ichthyosaur skeleton at age 12, and later found the first plesiosaur and the first pterosaur known outside Germany. Despite her extraordinary discoveries, as a working-class woman she was excluded from the scientific societies that studied her finds.",
+    "bioCn": "玛丽·安宁是一位化石收集者和自学成才的古生物学家，她做出了地质学史上一些最重要的发现。在莱姆里吉斯危险的悬崖上工作，她12岁时发现了第一具被正确鉴定的鱼龙骨骼，后来又发现了第一具蛇颈龙和德国以外已知的第一只翼龙。尽管她的发现非同寻常，但作为一名工人阶级女性，她被排斥在研究她发现的科学学会之外。",
+    "achievements": [
+      "Discovered first correctly identified ichthyosaur skeleton",
+      "Found first plesiosaur and first British pterosaur",
+      "Fundamental contributions to understanding prehistoric life"
+    ],
+    "achievementsCn": [
+      "发现第一具被正确鉴定的鱼龙骨骼",
+      "发现第一具蛇颈龙和第一只英国翼龙",
+      "对理解史前生命做出根本性贡献"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mary_Anning_painting.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Anning — https://en.wikipedia.org/wiki/Mary_Anning",
+      "Emling, Shelley. The Fossil Hunter. Palgrave Macmillan, 2009."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Rita Levi-Montalcini",
+    "nameCn": "丽塔·列维-蒙塔尔奇尼",
+    "slug": "rita-levi-montalcini",
+    "field": "biology-medicine",
+    "born": 1909,
+    "died": 2012,
+    "nationality": "Italian",
+    "nationalityCn": "意大利",
+    "tagline": "Nobel Laureate Who Discovered Nerve Growth Factor",
+    "taglineCn": "发现神经生长因子的诺贝尔奖得主",
+    "bio": "Rita Levi-Montalcini discovered nerve growth factor (NGF), revealing how cells grow and develop. Banned from university by Mussolini's racial laws as a Jewish Italian, she set up a laboratory in her bedroom and continued her research in hiding during World War II. She shared the 1986 Nobel Prize in Physiology or Medicine and remained scientifically active until her death at 103, making her the longest-lived Nobel laureate at that time.",
+    "bioCn": "丽塔·列维-蒙塔尔奇尼发现了神经生长因子（NGF），揭示了细胞如何生长和发育。作为意大利犹太人，她因墨索里尼的种族法被禁止进入大学，于是在卧室里建了一个实验室，在二战期间秘密继续研究。她分享了1986年诺贝尔生理学或医学奖，并一直从事科学工作直到103岁去世，是当时最长寿的诺贝尔奖得主。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1986)",
+      "Discovered nerve growth factor (NGF)",
+      "Continued research hidden from fascist authorities"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（1986年）",
+      "发现神经生长因子（NGF）",
+      "在法西斯当局眼皮底下秘密继续研究"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Rita_Levi_Montalcini.jpg",
+    "quote": "Above all, don't fear difficult moments. The best comes from them.",
+    "quoteCn": "最重要的是，不要害怕困难时刻。最好的东西正是从中而来。",
+    "quoteSource": "From interviews",
+    "references": [
+      "Wikipedia: Rita Levi-Montalcini — https://en.wikipedia.org/wiki/Rita_Levi-Montalcini",
+      "Nobel Prize: Rita Levi-Montalcini — https://www.nobelprize.org/prizes/medicine/1986/levi-montalcini/"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Nettie Stevens",
+    "nameCn": "内蒂·史蒂文斯",
+    "slug": "nettie-stevens",
+    "field": "biology-medicine",
+    "born": 1861,
+    "died": 1912,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered Chromosomal Basis of Sex",
+    "taglineCn": "发现性别的染色体基础",
+    "bio": "Nettie Stevens discovered that sex is determined by chromosomes — specifically that XX chromosomes produce females and XY produce males in many species. Working with mealworms, she provided the crucial evidence linking chromosomes to inherited traits. Her colleague Edmund Beecher Wilson published similar findings simultaneously but received most of the credit, while Stevens' contribution was largely forgotten for decades.",
+    "bioCn": "内蒂·史蒂文斯发现性别是由染色体决定的——特别是在许多物种中XX染色体产生雌性，XY产生雄性。通过研究黄粉虫，她提供了将染色体与遗传特征联系起来的关键证据。她的同事埃德蒙·比彻·威尔逊同时发表了类似发现但获得了大部分荣誉，而史蒂文斯的贡献在几十年里几乎被遗忘。",
+    "achievements": [
+      "Discovered chromosomal basis of sex determination",
+      "Linked chromosomes to inherited traits",
+      "Pioneered the field of cytogenetics"
+    ],
+    "achievementsCn": [
+      "发现性别决定的染色体基础",
+      "将染色体与遗传特征联系起来",
+      "开创了细胞遗传学领域"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nettie_Stevens.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Nettie Stevens — https://en.wikipedia.org/wiki/Nettie_Stevens",
+      "Brush, Stephen G. 'Nettie M. Stevens and the Discovery of Sex Determination by Chromosomes,' Isis, 1978."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Françoise Barré-Sinoussi",
+    "nameCn": "弗朗索瓦丝·巴尔-西诺西",
+    "slug": "francoise-barre-sinoussi",
+    "field": "biology-medicine",
+    "born": 1947,
+    "died": null,
+    "nationality": "French",
+    "nationalityCn": "法国",
+    "tagline": "Co-discoverer of HIV",
+    "taglineCn": "HIV的共同发现者",
+    "bio": "Françoise Barré-Sinoussi co-discovered the human immunodeficiency virus (HIV) as the cause of AIDS in 1983 at the Pasteur Institute in Paris. Her identification of the retrovirus was crucial for developing diagnostic tests and treatments that have saved millions of lives. She received the 2008 Nobel Prize in Physiology or Medicine and has dedicated her career to fighting HIV/AIDS, particularly in developing countries.",
+    "bioCn": "弗朗索瓦丝·巴尔-西诺西于1983年在巴黎巴斯德研究所共同发现了人类免疫缺陷病毒（HIV）是艾滋病的病因。她对逆转录病毒的鉴定对于开发诊断测试和治疗方法至关重要，挽救了数百万人的生命。她获得了2008年诺贝尔生理学或医学奖，并将一生致力于抗击HIV/AIDS，特别是在发展中国家。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2008)",
+      "Co-discovered HIV as cause of AIDS",
+      "Dedicated career to fighting HIV/AIDS globally"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2008年）",
+      "共同发现HIV是艾滋病的病因",
+      "毕生致力于在全球范围内抗击HIV/AIDS"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Fran%C3%A7oise_Barr%C3%A9-Sinoussi-press_conference_Dec_06th%2C_2008-1.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Françoise Barré-Sinoussi — https://en.wikipedia.org/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi",
+      "Nobel Prize: Françoise Barré-Sinoussi — https://www.nobelprize.org/prizes/medicine/2008/barre-sinoussi/"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Christiane Nüsslein-Volhard",
+    "nameCn": "克里斯蒂安娜·纽斯林-沃尔哈德",
+    "slug": "christiane-nusslein-volhard",
+    "field": "biology-medicine",
+    "born": 1942,
+    "died": null,
+    "nationality": "German",
+    "nationalityCn": "德国",
+    "tagline": "Nobel Laureate for Embryonic Development Research",
+    "taglineCn": "胚胎发育研究诺贝尔奖得主",
+    "bio": "Christiane Nüsslein-Volhard shared the 1995 Nobel Prize in Physiology or Medicine for her discoveries concerning the genetic control of early embryonic development. Using fruit flies as a model organism, she identified the genes that control the body plan of the developing embryo, showing how a fertilized egg becomes a complex organism. She later established a foundation to support young women scientists with children.",
+    "bioCn": "克里斯蒂安娜·纽斯林-沃尔哈德因发现早期胚胎发育的遗传控制机制而分享了1995年诺贝尔生理学或医学奖。以果蝇作为模式生物，她鉴定了控制发育中胚胎体型的基因，展示了受精卵如何变成复杂有机体。她后来建立了一个基金会来支持有孩子的年轻女科学家。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1995)",
+      "Identified genes controlling embryonic body plan",
+      "Founded foundation supporting women scientists with children"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（1995年）",
+      "鉴定控制胚胎体型的基因",
+      "创建支持有孩子的女科学家的基金会"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Christiane_N%C3%BCsslein-Volhard_mg_4383.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Christiane Nüsslein-Volhard — https://en.wikipedia.org/wiki/Christiane_N%C3%BCsslein-Volhard",
+      "Nobel Prize: Christiane Nüsslein-Volhard — https://www.nobelprize.org/prizes/medicine/1995/nusslein-volhard/"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Linda Buck",
+    "nameCn": "琳达·巴克",
+    "slug": "linda-buck",
+    "field": "biology-medicine",
+    "born": 1947,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Nobel Laureate for Discovering Olfactory Receptors",
+    "taglineCn": "发现嗅觉受体的诺贝尔奖得主",
+    "bio": "Linda Buck shared the 2004 Nobel Prize in Physiology or Medicine for her discoveries of odorant receptors and the organization of the olfactory system. She identified approximately 1,000 different olfactory receptor genes, revealing how humans can detect and distinguish about 10,000 different odors. Her work opened entirely new areas of neuroscience research.",
+    "bioCn": "琳达·巴克因发现气味受体和嗅觉系统的组织方式而分享了2004年诺贝尔生理学或医学奖。她鉴定了约1000个不同的嗅觉受体基因，揭示了人类如何检测和区分约10000种不同的气味。她的工作开辟了全新的神经科学研究领域。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2004)",
+      "Identified ~1,000 olfactory receptor genes",
+      "Revealed how humans detect 10,000 different odors"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2004年）",
+      "鉴定了约1000个嗅觉受体基因",
+      "揭示了人类如何检测10000种不同气味"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Linda_Buck_2015.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Linda B. Buck — https://en.wikipedia.org/wiki/Linda_B._Buck",
+      "Nobel Prize: Linda B. Buck — https://www.nobelprize.org/prizes/medicine/2004/buck/"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Elizabeth Garrett Anderson",
+    "nameCn": "伊丽莎白·加勒特·安德森",
+    "slug": "elizabeth-garrett-anderson",
+    "field": "biology-medicine",
+    "born": 1836,
+    "died": 1917,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Britain's First Female Physician",
+    "taglineCn": "英国第一位女医师",
+    "bio": "Elizabeth Garrett Anderson was the first woman to qualify as a physician and surgeon in Britain. Rejected by every medical school, she qualified through the Society of Apothecaries, which then changed its rules to prevent other women from following. She co-founded the London School of Medicine for Women and became the first female mayor in England. Her persistence paved the way for women in British medicine.",
+    "bioCn": "伊丽莎白·加勒特·安德森是英国第一位获得医师和外科医生资格的女性。被每所医学院拒绝后，她通过药剂师协会获得资格，该协会随后更改了规则以阻止其他女性效仿。她共同创办了伦敦女子医学院，并成为英格兰第一位女性市长。她的坚持为英国医学界的女性铺平了道路。",
+    "achievements": [
+      "First woman to qualify as physician in Britain",
+      "Co-founded London School of Medicine for Women",
+      "First female mayor in England"
+    ],
+    "achievementsCn": [
+      "英国第一位获得医师资格的女性",
+      "共同创办伦敦女子医学院",
+      "英格兰第一位女性市长"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Elizabeth_Garrett_Anderson.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Elizabeth Garrett Anderson — https://en.wikipedia.org/wiki/Elizabeth_Garrett_Anderson",
+      "Manton, Jo. Elizabeth Garrett Anderson. Methuen, 1965."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Virginia Apgar",
+    "nameCn": "弗吉尼亚·阿普加",
+    "slug": "virginia-apgar",
+    "field": "biology-medicine",
+    "born": 1909,
+    "died": 1974,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Creator of the Apgar Score for Newborns",
+    "taglineCn": "新生儿阿普加评分系统创立者",
+    "bio": "Virginia Apgar developed the Apgar Score in 1952, a simple and rapid method to assess the health of newborn babies immediately after birth. This five-criteria scoring system — Appearance, Pulse, Grimace, Activity, Respiration — has been used on virtually every baby born in a modern hospital and is credited with dramatically reducing infant mortality worldwide. She was also the first woman to become a full professor at Columbia University's medical school.",
+    "bioCn": "弗吉尼亚·阿普加于1952年开发了阿普加评分，一种在婴儿出生后立即快速评估新生儿健康状况的简单方法。这个五项标准评分系统——外观、脉搏、反射、活动、呼吸——几乎在现代医院出生的每个婴儿身上使用，被认为大幅降低了全球婴儿死亡率。她也是哥伦比亚大学医学院第一位女性正教授。",
+    "achievements": [
+      "Created the Apgar Score used worldwide on newborns",
+      "Dramatically reduced infant mortality globally",
+      "First female full professor at Columbia medical school"
+    ],
+    "achievementsCn": [
+      "创建了全球使用的新生儿阿普加评分",
+      "大幅降低了全球婴儿死亡率",
+      "哥伦比亚大学医学院第一位女性正教授"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Apgar.jpg",
+    "quote": "Nobody, but nobody, is going to stop breathing on me.",
+    "quoteCn": "没有人，任何人都不能在我面前停止呼吸。",
+    "quoteSource": "Widely attributed, from clinical practice",
+    "references": [
+      "Wikipedia: Virginia Apgar — https://en.wikipedia.org/wiki/Virginia_Apgar",
+      "Apgar, V. 'A Proposal for a New Method of Evaluation of the Newborn Infant,' Anesthesia & Analgesia, 1953."
+    ]
+  }
+]

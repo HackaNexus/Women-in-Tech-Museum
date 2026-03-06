@@ -1,0 +1,922 @@
+[
+  {
+    "id": 1,
+    "name": "Ada Lovelace",
+    "nameCn": "阿达·洛芙莱斯",
+    "slug": "ada-lovelace",
+    "field": "computer-science",
+    "born": 1815,
+    "died": 1852,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "The World's First Computer Programmer",
+    "taglineCn": "世界第一位计算机程序员",
+    "bio": "Augusta Ada King, Countess of Lovelace, recognized that Charles Babbage's proposed Analytical Engine had potential far beyond mere calculation. In 1843, she published extensive notes on the engine that included what is now recognized as the first algorithm intended for machine processing — making her the world's first computer programmer. Her visionary insight that machines could manipulate symbols according to rules anticipated modern computing by a full century.",
+    "bioCn": "阿达·洛芙莱斯，洛芙莱斯伯爵夫人，认识到查尔斯·巴贝奇提出的分析机的潜力远不止简单的计算。1843年，她发表了关于分析机的详细注释，其中包含了现在被公认为第一个为机器处理而设计的算法——使她成为世界上第一位计算机程序员。她关于机器可以按规则操纵符号的远见卓识，提前整整一个世纪预见了现代计算。",
+    "achievements": [
+      "Published the first computer algorithm",
+      "Envisioned general-purpose computing a century ahead",
+      "First to recognize machines could process more than numbers"
+    ],
+    "achievementsCn": [
+      "发表了第一个计算机算法",
+      "提前一个世纪预见了通用计算",
+      "第一个认识到机器可以处理数字以外的事物"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg",
+    "quote": "That brain of mine is something more than merely mortal, as time will show.",
+    "quoteCn": "我的大脑不仅仅是凡人的大脑，时间会证明这一点。",
+    "quoteSource": "Letter to her mother, 1843",
+    "references": [
+      "Toole, Betty A. Ada, the Enchantress of Numbers: Poetical Science. Strawberry Press, 1998.",
+      "Wikipedia: Ada Lovelace — https://en.wikipedia.org/wiki/Ada_Lovelace",
+      "Lovelace, A. 'Notes on L. Menabrea's Sketch of the Analytical Engine,' 1843."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Grace Hopper",
+    "nameCn": "格蕾丝·霍珀",
+    "slug": "grace-hopper",
+    "field": "computer-science",
+    "born": 1906,
+    "died": 1992,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Computer Programming Languages",
+    "taglineCn": "计算机编程语言先驱",
+    "bio": "Rear Admiral Grace Murray Hopper was a mathematician and U.S. Navy officer who revolutionized computer programming. She developed the first compiler, which translated written language into computer code, and led the team that created COBOL, one of the first modern programming languages. Her insistence that programming languages should be closer to English transformed the accessibility of computing for generations.",
+    "bioCn": "海军少将格蕾丝·穆雷·霍珀是一位数学家和美国海军军官，她彻底改变了计算机编程。她开发了第一个编译器，将书面语言翻译成计算机代码，并领导团队创建了COBOL——最早的现代编程语言之一。她坚持认为编程语言应该更接近英语的理念，改变了几代人接触计算的方式。",
+    "achievements": [
+      "Developed the first compiler (A-0 System)",
+      "Led creation of COBOL programming language",
+      "Popularized the term 'debugging'",
+      "Reached rank of Rear Admiral in U.S. Navy"
+    ],
+    "achievementsCn": [
+      "开发了第一个编译器（A-0系统）",
+      "领导创建了COBOL编程语言",
+      "普及了'调试（debugging）'一词",
+      "晋升为美国海军少将"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.'",
+    "quoteCn": "语言中最危险的一句话是：'我们一直都是这样做的。'",
+    "quoteSource": "From various lectures and speeches",
+    "references": [
+      "Wikipedia: Grace Hopper — https://en.wikipedia.org/wiki/Grace_Hopper",
+      "Beyer, Kurt W. Grace Hopper and the Invention of the Information Age. MIT Press, 2009.",
+      "Yale University: Grace Murray Hopper Collection"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Betty Holberton",
+    "nameCn": "贝蒂·霍尔伯顿",
+    "slug": "betty-holberton",
+    "field": "computer-science",
+    "born": 1917,
+    "died": 2001,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "ENIAC Programmer Who Invented Breakpoints",
+    "taglineCn": "发明断点调试的ENIAC程序员",
+    "bio": "Betty Holberton was one of the six original programmers of ENIAC, the world's first general-purpose electronic computer. She wrote the first software application, invented breakpoints for debugging, and helped develop the UNIVAC. She also played a key role in developing the first sort-merge generator and contributed to the creation of COBOL and Fortran standards.",
+    "bioCn": "贝蒂·霍尔伯顿是世界上第一台通用电子计算机ENIAC的六位原始程序员之一。她编写了第一个软件应用程序，发明了用于调试的断点，并帮助开发了UNIVAC。她还在开发第一个排序合并生成器方面发挥了关键作用，并为COBOL和Fortran标准的创建做出了贡献。",
+    "achievements": [
+      "One of six original ENIAC programmers",
+      "Invented breakpoints for debugging",
+      "Helped develop COBOL and Fortran standards"
+    ],
+    "achievementsCn": [
+      "六位ENIAC原始程序员之一",
+      "发明了用于调试的断点",
+      "帮助开发了COBOL和Fortran标准"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Betty_Holberton.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Betty Holberton — https://en.wikipedia.org/wiki/Betty_Holberton",
+      "Kleiman, Kathy. Proving Ground: The Untold Story of the Six Women Who Programmed the World's First Modern Computer. Grand Central, 2022.",
+      "ENIAC Programmers Project — http://eniacprogrammers.org/"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Jean Jennings Bartik",
+    "nameCn": "琼·詹宁斯·巴蒂克",
+    "slug": "jean-jennings-bartik",
+    "field": "computer-science",
+    "born": 1924,
+    "died": 2011,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "ENIAC Pioneer and Computing Visionary",
+    "taglineCn": "ENIAC先驱与计算远见者",
+    "bio": "Jean Jennings Bartik was one of the original programmers of ENIAC. Born on a farm in Missouri, she studied mathematics and was hired to calculate ballistic trajectories during World War II. She went on to help convert ENIAC into a stored-program computer and later worked on BINAC and UNIVAC. Her contributions were overlooked for decades until she was inducted into the Women in Technology International Hall of Fame in 1997.",
+    "bioCn": "琼·詹宁斯·巴蒂克是ENIAC的原始程序员之一。她出生在密苏里州的一个农场，学习数学后在二战期间被聘用计算弹道轨迹。她后来帮助将ENIAC转换为存储程序计算机，并参与了BINAC和UNIVAC的开发。她的贡献被忽视了数十年，直到1997年入选国际女性技术名人堂。",
+    "achievements": [
+      "One of six original ENIAC programmers",
+      "Helped convert ENIAC to stored-program computer",
+      "Worked on BINAC and UNIVAC"
+    ],
+    "achievementsCn": [
+      "六位ENIAC原始程序员之一",
+      "帮助将ENIAC转换为存储程序计算机",
+      "参与BINAC和UNIVAC开发"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jean_Bartik_%282008%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Jean Bartik — https://en.wikipedia.org/wiki/Jean_Bartik",
+      "Bartik, Jean. Pioneer Programmer: Jean Jennings Bartik and the Computer That Changed the World. Truman State Univ Press, 2013.",
+      "ENIAC Programmers Project — http://eniacprogrammers.org/"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kathleen McNulty",
+    "nameCn": "凯瑟琳·麦克纳尔蒂",
+    "slug": "kathleen-mcnulty",
+    "field": "computer-science",
+    "born": 1921,
+    "died": 2006,
+    "nationality": "Irish-American",
+    "nationalityCn": "爱尔兰裔美国人",
+    "tagline": "ENIAC Programmer and Mathematical Computer",
+    "taglineCn": "ENIAC程序员与数学计算员",
+    "bio": "Kathleen McNulty Mauchly Antonelli was born in Ireland and emigrated to the United States as a child. One of the six original ENIAC programmers, she used her mathematics degree to compute ballistic firing tables during World War II. She later married ENIAC co-inventor John Mauchly and continued to contribute to the development of computing technology throughout her life.",
+    "bioCn": "凯瑟琳·麦克纳尔蒂·莫奇利·安东内利出生于爱尔兰，童年时移居美国。作为ENIAC六位原始程序员之一，她利用数学学位在二战期间计算弹道射击表。她后来嫁给了ENIAC的共同发明人约翰·莫奇利，并在一生中继续为计算技术的发展做出贡献。",
+    "achievements": [
+      "One of six original ENIAC programmers",
+      "Computed ballistic firing tables during WWII",
+      "Contributed to early computing development"
+    ],
+    "achievementsCn": [
+      "六位ENIAC原始程序员之一",
+      "二战期间计算弹道射击表",
+      "为早期计算发展做出贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kay_McNulty_Mauchly_Antonelli.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Kathleen Antonelli — https://en.wikipedia.org/wiki/Kathleen_Antonelli",
+      "Kleiman, Kathy. Proving Ground. Grand Central, 2022."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Frances Allen",
+    "nameCn": "弗朗西丝·艾伦",
+    "slug": "frances-allen",
+    "field": "computer-science",
+    "born": 1932,
+    "died": 2020,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Woman to Win the Turing Award",
+    "taglineCn": "首位女性图灵奖得主",
+    "bio": "Frances Allen spent her career at IBM pioneering compiler optimization and parallelization. Her seminal 1966 paper on program optimization laid the theoretical foundation for modern compilers. In 2006, she became the first woman to receive the A.M. Turing Award, computing's highest honor, for her contributions to the theory and practice of optimizing compiler techniques.",
+    "bioCn": "弗朗西丝·艾伦在IBM度过了她的职业生涯，开创了编译器优化和并行化的先河。她1966年发表的关于程序优化的开创性论文为现代编译器奠定了理论基础。2006年，她因对优化编译器技术的理论和实践的贡献，成为第一位获得图灵奖——计算机领域最高荣誉——的女性。",
+    "achievements": [
+      "First woman to receive the Turing Award (2006)",
+      "Pioneered compiler optimization theory",
+      "Foundational work on parallelization at IBM"
+    ],
+    "achievementsCn": [
+      "首位女性图灵奖得主（2006年）",
+      "开创编译器优化理论",
+      "在IBM进行并行化基础工作"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Allen_mg_2528-3750K-b.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Frances Allen — https://en.wikipedia.org/wiki/Frances_Allen",
+      "ACM Turing Award: Frances E. Allen — https://amturing.acm.org/award_winners/allen_1012327.cfm",
+      "Allen, F.E. 'Program Optimization,' Annual Review in Automatic Programming, 1969."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Margaret Hamilton",
+    "nameCn": "玛格丽特·汉密尔顿",
+    "slug": "margaret-hamilton",
+    "field": "computer-science",
+    "born": 1936,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Coded the Moon Landing",
+    "taglineCn": "编写了登月代码",
+    "bio": "Margaret Hamilton led the team that developed the on-board flight software for NASA's Apollo missions. Her rigorous approach to software engineering — a term she coined — ensured the Apollo 11 mission's success when her error-detection code prevented an abort during the lunar landing. The iconic photograph of her standing next to a stack of Apollo guidance code taller than herself has become a symbol of women in computing.",
+    "bioCn": "玛格丽特·汉密尔顿领导团队开发了NASA阿波罗任务的机载飞行软件。她严谨的软件工程方法——这个术语正是她创造的——确保了阿波罗11号任务的成功，她的错误检测代码在登月过程中阻止了任务中止。她站在比自己还高的阿波罗导航代码旁边的标志性照片，已经成为计算机领域女性的象征。",
+    "achievements": [
+      "Led Apollo on-board flight software development",
+      "Coined the term 'software engineering'",
+      "Received Presidential Medal of Freedom (2016)"
+    ],
+    "achievementsCn": [
+      "领导阿波罗机载飞行软件开发",
+      "创造了'软件工程'一词",
+      "获得总统自由勋章（2016年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": true,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Margaret_Hamilton_-_restoration.jpg",
+    "quote": "There was no choice but to be pioneers.",
+    "quoteCn": "我们别无选择，只能成为先驱。",
+    "quoteSource": "On the Apollo program, from interviews",
+    "references": [
+      "Wikipedia: Margaret Hamilton (software engineer) — https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+      "NASA History: Margaret Hamilton — https://www.nasa.gov/",
+      "Hamilton, M. 'Universal Systems Language,' 1986."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Radia Perlman",
+    "nameCn": "拉迪亚·珀尔曼",
+    "slug": "radia-perlman",
+    "field": "computer-science",
+    "born": 1951,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Mother of the Internet",
+    "taglineCn": "互联网之母",
+    "bio": "Radia Perlman's invention of the Spanning Tree Protocol (STP) was fundamental to the operation of network bridges and made today's internet possible. Often called the 'Mother of the Internet,' she has made lasting contributions to network design and security, including the TRILL protocol. She holds over 100 patents and continues to shape how data moves across global networks.",
+    "bioCn": "拉迪亚·珀尔曼发明的生成树协议（STP）是网络桥接操作的基础，使今天的互联网成为可能。她常被称为'互联网之母'，在网络设计和安全方面做出了持久的贡献，包括TRILL协议。她拥有100多项专利，继续影响着数据在全球网络中的传输方式。",
+    "achievements": [
+      "Invented Spanning Tree Protocol (STP)",
+      "Holds over 100 patents in networking",
+      "Developed TRILL protocol"
+    ],
+    "achievementsCn": [
+      "发明了生成树协议（STP）",
+      "在网络领域拥有100多项专利",
+      "开发了TRILL协议"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Radia_Perlman_2009.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Radia Perlman — https://en.wikipedia.org/wiki/Radia_Perlman",
+      "Perlman, Radia. Interconnections: Bridges, Routers, Switches. Addison-Wesley, 1999."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Barbara Liskov",
+    "nameCn": "芭芭拉·利斯科夫",
+    "slug": "barbara-liskov",
+    "field": "computer-science",
+    "born": 1939,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Turing Award Winner, Liskov Substitution Principle",
+    "taglineCn": "图灵奖得主，里氏替换原则",
+    "bio": "Barbara Liskov is a computer scientist whose work on programming language design, software engineering methodology, and distributed systems earned her the 2008 Turing Award. She is best known for the Liskov Substitution Principle, a fundamental concept in object-oriented programming. She was one of the first women in the United States to earn a PhD in computer science.",
+    "bioCn": "芭芭拉·利斯科夫是一位计算机科学家，她在编程语言设计、软件工程方法和分布式系统方面的工作使她获得了2008年图灵奖。她最著名的是里氏替换原则，这是面向对象编程中的基本概念。她是美国最早获得计算机科学博士学位的女性之一。",
+    "achievements": [
+      "Turing Award recipient (2008)",
+      "Formulated the Liskov Substitution Principle",
+      "Pioneered data abstraction in programming"
+    ],
+    "achievementsCn": [
+      "图灵奖得主（2008年）",
+      "提出里氏替换原则",
+      "开创了编程中的数据抽象"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Barbara_Liskov_MIT_computer_scientist_2010.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Barbara Liskov — https://en.wikipedia.org/wiki/Barbara_Liskov",
+      "ACM Turing Award: Barbara Liskov — https://amturing.acm.org/award_winners/liskov_1108679.cfm"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Shafi Goldwasser",
+    "nameCn": "沙菲·戈德瓦塞尔",
+    "slug": "shafi-goldwasser",
+    "field": "computer-science",
+    "born": 1958,
+    "died": null,
+    "nationality": "Israeli-American",
+    "nationalityCn": "以色列裔美国人",
+    "tagline": "Pioneer of Modern Cryptography",
+    "taglineCn": "现代密码学先驱",
+    "bio": "Shafi Goldwasser co-invented probabilistic encryption and zero-knowledge proofs, two cornerstones of modern cryptography. Her work laid the mathematical foundations for secure digital communication. She received the Turing Award in 2012, becoming only the third woman to receive the honor, alongside two Gödel Prizes and numerous other accolades.",
+    "bioCn": "沙菲·戈德瓦塞尔共同发明了概率加密和零知识证明，这是现代密码学的两大基石。她的工作为安全数字通信奠定了数学基础。她在2012年获得图灵奖，成为第三位获此殊荣的女性，此外还获得了两项哥德尔奖和众多其他荣誉。",
+    "achievements": [
+      "Turing Award recipient (2012)",
+      "Co-invented probabilistic encryption",
+      "Pioneered zero-knowledge proofs"
+    ],
+    "achievementsCn": [
+      "图灵奖得主（2012年）",
+      "共同发明概率加密",
+      "开创零知识证明"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Shafi_Goldwasser.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Shafi Goldwasser — https://en.wikipedia.org/wiki/Shafi_Goldwasser",
+      "ACM Turing Award: Shafi Goldwasser — https://amturing.acm.org/award_winners/goldwasser_8627889.cfm"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Fei-Fei Li",
+    "nameCn": "李飞飞",
+    "slug": "fei-fei-li",
+    "field": "computer-science",
+    "born": 1976,
+    "died": null,
+    "nationality": "Chinese-American",
+    "nationalityCn": "华裔美国人",
+    "tagline": "Pioneer of Computer Vision and ImageNet",
+    "taglineCn": "计算机视觉与ImageNet先驱",
+    "bio": "Fei-Fei Li is a computer scientist who transformed the field of artificial intelligence through ImageNet, a massive visual database that catalyzed the deep learning revolution. Her work demonstrated that AI systems need large, diverse datasets to learn effectively. As a professor at Stanford and former chief scientist at Google Cloud, she advocates for human-centered AI and diversity in technology.",
+    "bioCn": "李飞飞是一位计算机科学家，通过ImageNet——一个催化深度学习革命的大型视觉数据库——改变了人工智能领域。她的工作表明，AI系统需要大规模、多样化的数据集来有效学习。作为斯坦福大学教授和前谷歌云首席科学家，她倡导以人为本的AI和技术多样性。",
+    "achievements": [
+      "Created ImageNet, catalyzing the deep learning revolution",
+      "Stanford professor and AI research leader",
+      "Advocates for human-centered AI"
+    ],
+    "achievementsCn": [
+      "创建ImageNet，催化深度学习革命",
+      "斯坦福大学教授和AI研究领导者",
+      "倡导以人为本的AI"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fei-Fei_Li_at_AI_for_Good_2017.jpg",
+    "quote": "If we want machines to think, we need to teach them to see.",
+    "quoteCn": "如果我们想让机器思考，就需要教它们看见。",
+    "quoteSource": "TED Talk, 2015",
+    "references": [
+      "Wikipedia: Fei-Fei Li — https://en.wikipedia.org/wiki/Fei-Fei_Li",
+      "Stanford HAI — https://hai.stanford.edu/",
+      "Deng et al. ImageNet: A Large-Scale Hierarchical Image Database. CVPR, 2009."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Sister Mary Kenneth Keller",
+    "nameCn": "玛丽·肯尼斯·凯勒修女",
+    "slug": "mary-kenneth-keller",
+    "field": "computer-science",
+    "born": 1913,
+    "died": 1985,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First American Woman with a Computer Science PhD",
+    "taglineCn": "美国首位计算机科学女博士",
+    "bio": "Sister Mary Kenneth Keller was a Catholic nun who became one of the first people in America — and the first woman — to earn a PhD in computer science in 1965. She contributed to the development of the BASIC programming language at Dartmouth College, which was originally men-only but made an exception for her. She founded the computer science department at Clarke College and championed computing education for all.",
+    "bioCn": "玛丽·肯尼斯·凯勒修女是一位天主教修女，1965年成为美国最早获得计算机科学博士学位的人之一——也是第一位女性。她在达特茅斯学院参与了BASIC编程语言的开发，该学院原本只收男生，但为她破了例。她在克拉克学院创建了计算机科学系，倡导面向所有人的计算机教育。",
+    "achievements": [
+      "First American woman with a PhD in Computer Science (1965)",
+      "Contributed to developing BASIC programming language",
+      "Founded computer science department at Clarke College"
+    ],
+    "achievementsCn": [
+      "美国首位计算机科学女博士（1965年）",
+      "参与开发BASIC编程语言",
+      "在克拉克学院创建计算机科学系"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Kenneth Keller — https://en.wikipedia.org/wiki/Mary_Kenneth_Keller",
+      "Clarke University archives"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Adele Goldberg",
+    "nameCn": "阿黛尔·戈德堡",
+    "slug": "adele-goldberg",
+    "field": "computer-science",
+    "born": 1945,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Co-developer of Smalltalk Programming Language",
+    "taglineCn": "Smalltalk编程语言共同开发者",
+    "bio": "Adele Goldberg worked at Xerox PARC where she co-developed the Smalltalk programming language and contributed to the graphical user interface concepts that Steve Jobs famously saw during his 1979 visit. Her work on object-oriented programming and interactive development environments influenced generations of software design, from the Macintosh to modern IDEs.",
+    "bioCn": "阿黛尔·戈德堡在施乐帕洛阿尔托研究中心（Xerox PARC）工作，共同开发了Smalltalk编程语言，并为图形用户界面概念做出了贡献——这正是史蒂夫·乔布斯1979年访问时著名地看到的东西。她在面向对象编程和交互式开发环境方面的工作影响了几代软件设计，从Macintosh到现代IDE。",
+    "achievements": [
+      "Co-developed Smalltalk at Xerox PARC",
+      "Influenced graphical user interface design",
+      "Pioneered object-oriented programming education"
+    ],
+    "achievementsCn": [
+      "在施乐PARC共同开发Smalltalk",
+      "影响了图形用户界面设计",
+      "开创面向对象编程教育"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Adele_Goldberg_at_PyCon_2007.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Adele Goldberg (computer scientist) — https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
+      "Goldberg, A. & Robson, D. Smalltalk-80: The Language. Addison-Wesley, 1989."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Karen Spärck Jones",
+    "nameCn": "凯伦·斯帕克·琼斯",
+    "slug": "karen-sparck-jones",
+    "field": "computer-science",
+    "born": 1935,
+    "died": 2007,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Information Retrieval and Search Engines",
+    "taglineCn": "信息检索与搜索引擎先驱",
+    "bio": "Karen Spärck Jones was a British computer scientist who developed the concept of inverse document frequency (IDF), a foundational technique now used by virtually every search engine in the world. Working at the Cambridge Computer Laboratory, she bridged the gap between linguistics and computing, establishing the field of natural language processing. Her famous dictum — 'Computing is too important to be left to men' — remains a rallying cry for diversity in tech.",
+    "bioCn": "凯伦·斯帕克·琼斯是一位英国计算机科学家，她提出了逆文档频率（IDF）的概念，这一基础技术现在被全世界几乎所有搜索引擎使用。在剑桥计算机实验室工作期间，她架起了语言学和计算之间的桥梁，建立了自然语言处理领域。她的名言——'计算太重要了，不能只留给男人'——至今仍是科技多元化的号角。",
+    "achievements": [
+      "Developed inverse document frequency (IDF)",
+      "Pioneer of natural language processing",
+      "Bridged linguistics and computer science"
+    ],
+    "achievementsCn": [
+      "开发逆文档频率（IDF）",
+      "自然语言处理先驱",
+      "架起语言学和计算机科学的桥梁"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Prof._Karen_Sp%C3%A4rck_Jones.jpg",
+    "quote": "Computing is too important to be left to men.",
+    "quoteCn": "计算太重要了，不能只留给男人。",
+    "quoteSource": "Cambridge Computer Laboratory report, 2002",
+    "references": [
+      "Wikipedia: Karen Spärck Jones — https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones",
+      "Spärck Jones, K. 'A statistical interpretation of term specificity,' Journal of Documentation, 1972.",
+      "Cambridge Computer Laboratory memorial"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Lynn Conway",
+    "nameCn": "林恩·康威",
+    "slug": "lynn-conway",
+    "field": "computer-science",
+    "born": 1938,
+    "died": 2024,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Revolutionized VLSI Chip Design",
+    "taglineCn": "革新了超大规模集成电路设计",
+    "bio": "Lynn Conway revolutionized microchip design through her work on VLSI (Very Large Scale Integration) technology at Xerox PARC. The Mead-Conway approach she co-developed democratized chip design, enabling thousands of engineers to create custom chips. She also made key contributions to superscalar architecture at IBM. Conway is recognized both for her technical achievements and as a transgender pioneer who rebuilt her career after being fired from IBM in 1968.",
+    "bioCn": "林恩·康威通过在施乐PARC进行的VLSI（超大规模集成）技术研究，彻底改变了微芯片设计。她共同开发的Mead-Conway方法使芯片设计民主化，使数千名工程师能够创建定制芯片。她还在IBM对超标量架构做出了关键贡献。康威因其技术成就以及作为跨性别先驱——她在1968年被IBM解雇后重新建立了自己的事业——而受到认可。",
+    "achievements": [
+      "Revolutionized VLSI chip design",
+      "Co-developed Mead-Conway approach",
+      "Key contributions to superscalar architecture"
+    ],
+    "achievementsCn": [
+      "革新了VLSI芯片设计",
+      "共同开发Mead-Conway方法",
+      "对超标量架构做出关键贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lynn_Conway_July_2006.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Lynn Conway — https://en.wikipedia.org/wiki/Lynn_Conway",
+      "Mead, C. & Conway, L. Introduction to VLSI Systems. Addison-Wesley, 1980.",
+      "Lynn Conway's personal archive — https://ai.eecs.umich.edu/people/conway/"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Sophie Wilson",
+    "nameCn": "苏菲·威尔逊",
+    "slug": "sophie-wilson",
+    "field": "computer-science",
+    "born": 1957,
+    "died": null,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Architect of the ARM Instruction Set",
+    "taglineCn": "ARM指令集架构师",
+    "bio": "Sophie Wilson designed the instruction set for the ARM processor while working at Acorn Computers in the 1980s. The ARM architecture she created went on to become the most widely used processor design in the world, powering billions of smartphones, tablets, and embedded devices. She also designed the BBC Micro computer, which introduced a generation of British children to computing. Wilson was elected a Fellow of the Royal Society in 2019 and appointed CBE.",
+    "bioCn": "苏菲·威尔逊在1980年代于Acorn计算机公司工作期间设计了ARM处理器的指令集。她创造的ARM架构后来成为世界上使用最广泛的处理器设计，驱动着数十亿部智能手机、平板电脑和嵌入式设备。她还设计了BBC Micro计算机，将一代英国儿童引入了计算机世界。威尔逊于2019年当选皇家学会院士，并被授予CBE勋章。",
+    "achievements": [
+      "Designed the ARM instruction set, used in billions of devices",
+      "Created the BBC Micro computer",
+      "Elected Fellow of the Royal Society (2019)"
+    ],
+    "achievementsCn": [
+      "设计了ARM指令集，用于数十亿设备",
+      "创造了BBC Micro计算机",
+      "当选皇家学会院士（2019年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Sophie Wilson — https://en.wikipedia.org/wiki/Sophie_Wilson",
+      "Royal Society Fellow profile — https://royalsociety.org/people/sophie-wilson-13316/",
+      "Acorn Computers archive, Centre for Computing History"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Dame Stephanie Shirley",
+    "nameCn": "斯蒂芬妮·雪莉女爵士",
+    "slug": "stephanie-shirley",
+    "field": "computer-science",
+    "born": 1933,
+    "died": null,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Software Industry Pioneer Who Signed Letters as 'Steve'",
+    "taglineCn": "以'Steve'署名的软件产业先驱",
+    "bio": "Born Vera Buchthal in Dortmund, Germany, Stephanie Shirley arrived in Britain as a Kindertransport child refugee in 1939. In 1962, she founded Freelance Programmers — a software company staffed almost entirely by women working from home, decades before remote work became mainstream. She adopted the name 'Steve' to combat the sexism that prevented her business letters from receiving replies. Her company, later renamed FI Group, grew to employ over 8,500 people and was valued at $3 billion. She has since donated over £67 million to charity, particularly for autism research.",
+    "bioCn": "斯蒂芬妮·雪莉原名维拉·布赫塔尔，出生于德国多特蒙德，1939年作为儿童运输计划的难民抵达英国。1962年，她创办了自由程序员公司——一家几乎全由女性在家办公的软件公司，比远程办公成为主流早了几十年。她采用'Steve'这个名字来对抗性别歧视，因为她以女性名字寄出的商业信函总是得不到回复。她的公司后来更名为FI Group，员工超过8,500人，市值达30亿美元。此后她已捐赠超过6,700万英镑用于慈善事业，特别是自闭症研究。",
+    "achievements": [
+      "Founded Freelance Programmers (1962), pioneering remote work",
+      "Built FI Group into a $3 billion company",
+      "Donated over £67 million to charity"
+    ],
+    "achievementsCn": [
+      "创办自由程序员公司（1962年），开创远程工作模式",
+      "将FI Group发展为价值30亿美元的公司",
+      "捐赠超过6,700万英镑用于慈善"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "In those days, I had to use the name Steve to get past the door.",
+    "quoteCn": "在那个年代，我不得不用Steve这个名字才能敲开商业的大门。",
+    "quoteSource": "TED Talk, 2015",
+    "references": [
+      "Wikipedia: Steve Shirley — https://en.wikipedia.org/wiki/Steve_Shirley",
+      "Shirley, Stephanie. Let It Go: My Extraordinary Story. Penguin, 2012.",
+      "TED Talk: Why do ambitious women have flat heads? 2015"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Anita Borg",
+    "nameCn": "安妮塔·博格",
+    "slug": "anita-borg",
+    "field": "computer-science",
+    "born": 1949,
+    "died": 2003,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Founded the Grace Hopper Celebration of Women in Computing",
+    "taglineCn": "创办女性计算机大会Grace Hopper Celebration",
+    "bio": "Anita Borg was a computer scientist whose passion for increasing the representation of women in technology led her to create lasting institutions. In 1987, she founded Systers, the first electronic mailing list for women in computing, which grew to become a global network. In 1994, she co-founded the Grace Hopper Celebration of Women in Computing, now the world's largest gathering of women technologists. In 1997, she established the Institute for Women and Technology (now AnitaB.org). She received the Augusta Ada Lovelace Award and the EFF Pioneer Award before her death from brain cancer at 54.",
+    "bioCn": "安妮塔·博格是一位计算机科学家，她对增加女性在技术领域代表性的热情促使她创建了持久的机构。1987年，她创办了Systers——第一个面向计算机领域女性的电子邮件列表，发展成为一个全球网络。1994年，她联合创办了Grace Hopper女性计算机大会，现已成为全球最大的女性技术人员聚会。1997年，她创立了女性与技术研究所（现AnitaB.org）。她在54岁因脑癌去世前，获得了阿达·洛芙莱斯奖和EFF先驱奖。",
+    "achievements": [
+      "Created Systers mailing list for women in computing (1987)",
+      "Co-founded the Grace Hopper Celebration (1994)",
+      "Founded the Institute for Women and Technology"
+    ],
+    "achievementsCn": [
+      "创建了女性计算机领域的Systers邮件列表（1987年）",
+      "联合创办Grace Hopper Celebration（1994年）",
+      "创立女性与技术研究所"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Anita Borg — https://en.wikipedia.org/wiki/Anita_Borg",
+      "AnitaB.org — https://anitab.org/about-us/",
+      "Computing Research Association obituary, 2003"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Joan Clarke",
+    "nameCn": "琼·克拉克",
+    "slug": "joan-clarke",
+    "field": "computer-science",
+    "born": 1917,
+    "died": 1996,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Bletchley Park Codebreaker Who Cracked Enigma",
+    "taglineCn": "布莱切利园密码破译者",
+    "bio": "Joan Clarke was a cryptanalyst at Bletchley Park during World War II, where she worked in Hut 8 on breaking German Naval Enigma codes alongside Alan Turing. She was the only woman in Hut 8 to be promoted to the senior role of linguist — a deliberately misleading title, as the civil service had no protocols for women in such positions. She used the Banburismus statistical technique to crack Enigma settings. After the war, she worked at GCHQ. Her story gained wider recognition through the 2014 film The Imitation Game, where she was portrayed by Keira Knightley.",
+    "bioCn": "琼·克拉克是二战期间布莱切利园的密码分析员，她在第8小屋与艾伦·图灵一起破解德国海军恩尼格玛密码。她是第8小屋中唯一被提升为高级'语言学家'的女性——这是一个故意误导的头衔，因为公务员系统没有女性担任此类职位的先例。她使用班布里斯姆斯统计技术破解恩尼格玛设置。战后，她在政府通信总部(GCHQ)工作。她的故事通过2014年电影《模仿游戏》获得了更广泛的认知。",
+    "achievements": [
+      "Broke German Naval Enigma codes at Bletchley Park",
+      "Only woman promoted to senior role in Hut 8",
+      "Worked alongside Alan Turing on cryptanalysis"
+    ],
+    "achievementsCn": [
+      "在布莱切利园破解德国海军恩尼格玛密码",
+      "第8小屋中唯一晋升高级职位的女性",
+      "与艾伦·图灵一起从事密码分析工作"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Bletchley Park Trust, Historical",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Joan Clarke — https://en.wikipedia.org/wiki/Joan_Clarke",
+      "Smith, Michael. The Debs of Bletchley Park. Aurum Press, 2015.",
+      "Bletchley Park Trust archives"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Susan Kare",
+    "nameCn": "苏珊·卡尔",
+    "slug": "susan-kare",
+    "field": "computer-science",
+    "born": 1954,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "The Woman Who Gave the Macintosh a Smile",
+    "taglineCn": "赋予Macintosh微笑的女人",
+    "bio": "Susan Kare is the graphic designer who created the original icons, fonts, and interface elements for the Apple Macintosh in 1983. Working on a pixel grid, she crafted the Happy Mac startup icon, the command key symbol, the bomb error icon, and bitmap fonts like Chicago and Geneva that became integral to the Mac identity. Her work established the visual language of personal computing and influenced user interface design worldwide. She went on to design icons for Windows 3.0, IBM, and Facebook, and was inducted into the AIGA Medal hall of fame.",
+    "bioCn": "苏珊·卡尔是图形设计师，1983年为Apple Macintosh创造了原始图标、字体和界面元素。她在像素网格上精心设计了Happy Mac启动图标、command键符号、炸弹错误图标，以及Chicago和Geneva等位图字体，这些都成为Mac身份的核心组成部分。她的工作确立了个人计算的视觉语言，影响了全球的用户界面设计。她后来为Windows 3.0、IBM和Facebook设计了图标，并入选AIGA奖章名人堂。",
+    "achievements": [
+      "Created the original Macintosh icons and fonts",
+      "Designed the Happy Mac, command key symbol, and bomb error icon",
+      "Established the visual language of personal computing"
+    ],
+    "achievementsCn": [
+      "创造了原始Macintosh图标和字体",
+      "设计了Happy Mac、command键符号和炸弹错误图标",
+      "确立了个人计算的视觉语言"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Susan Kare — https://en.wikipedia.org/wiki/Susan_Kare",
+      "kare.com — Susan Kare's portfolio",
+      "Hertzfeld, Andy. Revolution in the Valley. O'Reilly, 2004."
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Carol Shaw",
+    "nameCn": "卡罗尔·肖",
+    "slug": "carol-shaw",
+    "field": "computer-science",
+    "born": 1955,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "One of the First Female Video Game Designers",
+    "taglineCn": "最早的女性电子游戏设计师之一",
+    "bio": "Carol Shaw is recognized as one of the first female video game designers in the industry. After studying computer science and electrical engineering at UC Berkeley, she joined Atari in 1978, where she programmed games for the Atari 2600 including 3-D Tic-Tac-Toe. She later moved to Activision, where she created River Raid (1982), a critically acclaimed and commercially successful scrolling shooter that became one of the best-selling games of its era. River Raid was notable for its procedural level generation algorithm, a sophisticated technique for its time.",
+    "bioCn": "卡罗尔·肖被认为是电子游戏行业最早的女性游戏设计师之一。在加州大学伯克利分校学习计算机科学和电气工程后，她于1978年加入Atari，为Atari 2600编程游戏。她后来转到Activision，创作了《River Raid》（1982年），这款广受好评且商业成功的卷轴射击游戏成为那个时代最畅销的游戏之一。《River Raid》以其程序化关卡生成算法而著称，这在当时是一种先进的技术。",
+    "achievements": [
+      "Created River Raid, a landmark video game (1982)",
+      "One of the first women in the video game industry",
+      "Pioneered procedural level generation"
+    ],
+    "achievementsCn": [
+      "创作了里程碑式电子游戏《River Raid》（1982年）",
+      "电子游戏行业最早的女性之一",
+      "开创了程序化关卡生成技术"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Historical",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Carol Shaw — https://en.wikipedia.org/wiki/Carol_Shaw",
+      "Donovan, Tristan. Replay: The History of Video Games. Yellow Ant, 2010."
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Evelyn Berezin",
+    "nameCn": "伊芙琳·贝雷津",
+    "slug": "evelyn-berezin",
+    "field": "computer-science",
+    "born": 1925,
+    "died": 2018,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Creator of the First Computerized Word Processor",
+    "taglineCn": "第一台电脑化文字处理器的创造者",
+    "bio": "Evelyn Berezin was a computer engineer who built the first true computerized word processor. In 1969, she founded Redactron Corporation and designed the Data Secretary, a desk-sized machine that allowed users to edit, delete, and reformat text — capabilities taken for granted today but revolutionary at the time. Earlier in her career at Underwood Corporation and Teleregister, she helped design one of the first computer-based airline reservation systems for United Airlines. The New York Times called her 'the most important person in history that you've never heard of.'",
+    "bioCn": "伊芙琳·贝雷津是一位计算机工程师，创造了第一台真正的电脑化文字处理器。1969年，她创办了Redactron公司，设计了Data Secretary——一台桌子大小的机器，允许用户编辑、删除和重新格式化文本。这些功能在今天被视为理所当然，但在当时是革命性的。在她职业生涯早期，她在Teleregister公司帮助设计了联合航空公司最早的计算机订票系统之一。《纽约时报》称她为'你从未听说过的历史上最重要的人'。",
+    "achievements": [
+      "Created the first computerized word processor (1969)",
+      "Founded Redactron Corporation",
+      "Helped design early airline reservation systems"
+    ],
+    "achievementsCn": [
+      "创造了第一台电脑化文字处理器（1969年）",
+      "创办Redactron公司",
+      "帮助设计了早期航空订票系统"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Historical",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Evelyn Berezin — https://en.wikipedia.org/wiki/Evelyn_Berezin",
+      "The New York Times obituary, December 2018",
+      "Computer History Museum: Evelyn Berezin"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Dame Wendy Hall",
+    "nameCn": "温迪·霍尔女爵士",
+    "slug": "wendy-hall",
+    "field": "computer-science",
+    "born": 1952,
+    "died": null,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer of Web Science",
+    "taglineCn": "网络科学先驱",
+    "bio": "Dame Wendy Hall is a British computer scientist who pioneered work in multimedia and hypermedia. In the late 1980s, her Microcosm system at the University of Southampton explored open hypermedia linking — ideas that predated and paralleled the development of the World Wide Web. She co-founded the Web Science Research Initiative with Tim Berners-Lee, establishing Web Science as an interdisciplinary academic field. She has served as President of the ACM, the first person outside North America to hold the position, and was appointed Dame Commander of the Order of the British Empire.",
+    "bioCn": "温迪·霍尔女爵士是英国计算机科学家，在多媒体和超媒体领域做出了开创性工作。1980年代末，她在南安普顿大学的Microcosm系统探索了开放超媒体链接——这些理念早于并平行于万维网的发展。她与蒂姆·伯纳斯-李共同创办了网络科学研究倡议，将网络科学确立为一个跨学科学术领域。她曾担任ACM（美国计算机协会）主席——北美以外第一位担任此职务的人，并被授予大英帝国司令勋章。",
+    "achievements": [
+      "Pioneered open hypermedia and the Microcosm system",
+      "Co-founded Web Science with Tim Berners-Lee",
+      "First non-North American ACM President"
+    ],
+    "achievementsCn": [
+      "开创开放超媒体和Microcosm系统",
+      "与蒂姆·伯纳斯-李共同创立网络科学",
+      "首位非北美ACM主席"
+    ],
+    "era": "20th Century",
+    "imageCredit": "University of Southampton, CC BY-SA",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Wendy Hall — https://en.wikipedia.org/wiki/Wendy_Hall",
+      "University of Southampton profile",
+      "Web Science Trust — https://www.webscience.org/"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Katie Bouman",
+    "nameCn": "凯蒂·鲍曼",
+    "slug": "katie-bouman",
+    "field": "computer-science",
+    "born": 1989,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Led the Algorithm That Captured the First Black Hole Image",
+    "taglineCn": "领导算法捕捉首张黑洞图像",
+    "bio": "Katherine Louise Bouman is a computer scientist and electrical engineer who led the development of a computational imaging algorithm that made it possible to capture the first-ever image of a black hole. As part of the Event Horizon Telescope project, she developed the CHIRP algorithm (Continuous High-resolution Image Reconstruction using Patch priors) to combine data from radio telescopes around the world. The resulting image of the black hole at the center of galaxy M87, released on April 10, 2019, was hailed as a landmark achievement. She is currently an assistant professor at Caltech.",
+    "bioCn": "凯瑟琳·路易斯·鲍曼是一位计算机科学家和电气工程师，她领导开发了使捕捉首张黑洞图像成为可能的计算成像算法。作为事件视界望远镜项目的一部分，她开发了CHIRP算法，将来自世界各地射电望远镜的数据组合在一起。2019年4月10日发布的M87星系中心黑洞图像被誉为里程碑式的成就。她目前是加州理工学院的助理教授。",
+    "achievements": [
+      "Led development of black hole imaging algorithm",
+      "Key contributor to Event Horizon Telescope project",
+      "Assistant Professor at Caltech"
+    ],
+    "achievementsCn": [
+      "领导开发黑洞成像算法",
+      "事件视界望远镜项目关键贡献者",
+      "加州理工学院助理教授"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Event Horizon Telescope, CC BY",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Katie Bouman — https://en.wikipedia.org/wiki/Katie_Bouman",
+      "Event Horizon Telescope — https://eventhorizontelescope.org/",
+      "Bouman et al. Computational Imaging for VLBI Image Reconstruction. IEEE, 2016."
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Chieko Asakawa",
+    "nameCn": "浅川智惠子",
+    "slug": "chieko-asakawa",
+    "field": "computer-science",
+    "born": 1958,
+    "died": null,
+    "nationality": "Japanese",
+    "nationalityCn": "日本",
+    "tagline": "Pioneer of Digital Accessibility for the Visually Impaired",
+    "taglineCn": "视障人士数字无障碍先驱",
+    "bio": "Chieko Asakawa is a computer scientist and IBM Fellow who has devoted her career to making technology accessible to the visually impaired — a mission born from personal experience, as she lost her sight at age 14 due to a swimming accident. At IBM Research in Tokyo, she developed the Home Page Reader, one of the first practical voice browsers for navigating the web. She also created the aDesigner accessibility simulation tool and leads research in AI-powered navigation for blind users. In 2019, she was inducted into the National Inventors Hall of Fame.",
+    "bioCn": "浅川智惠子是计算机科学家和IBM院士，她将职业生涯投入到使技术对视障人士无障碍的事业中——这一使命源于个人经历，她14岁时因游泳事故失明。在IBM东京研究院，她开发了Home Page Reader——最早的实用型网页语音浏览器之一。她还创建了aDesigner无障碍模拟工具，并领导AI辅助导航研究。2019年，她入选美国发明家名人堂。",
+    "achievements": [
+      "Developed IBM Home Page Reader voice browser",
+      "IBM Fellow and accessibility technology pioneer",
+      "Inducted into National Inventors Hall of Fame (2019)"
+    ],
+    "achievementsCn": [
+      "开发IBM Home Page Reader语音浏览器",
+      "IBM院士和无障碍技术先驱",
+      "入选美国发明家名人堂（2019年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "IBM Research",
+    "featured": false,
+    "image": "",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Chieko Asakawa — https://en.wikipedia.org/wiki/Chieko_Asakawa",
+      "IBM Research profile",
+      "TED Talk: How new technology helps blind people explore the world, 2015"
+    ]
+  }
+]

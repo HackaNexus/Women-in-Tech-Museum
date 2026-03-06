@@ -1,0 +1,361 @@
+[
+  {
+    "id": 58,
+    "name": "Caroline Herschel",
+    "nameCn": "卡罗琳·赫歇尔",
+    "slug": "caroline-herschel",
+    "field": "astronomy-space",
+    "born": 1750,
+    "died": 1848,
+    "nationality": "German-British",
+    "nationalityCn": "德裔英国人",
+    "tagline": "First Woman to Discover a Comet",
+    "taglineCn": "第一位发现彗星的女性",
+    "bio": "Caroline Herschel was the first woman to discover a comet, eventually finding eight comets and three nebulae over her career. Working alongside her brother William, she became the first woman to receive a salary as a scientist when King George III appointed her as William's astronomical assistant. She was also the first woman to receive honorary membership in the Royal Astronomical Society and to receive a Gold Medal of the Royal Astronomical Society.",
+    "bioCn": "卡罗琳·赫歇尔是第一位发现彗星的女性，在她的职业生涯中共发现了八颗彗星和三个星云。与兄弟威廉一起工作，当乔治三世国王任命她为威廉的天文助手时，她成为第一位获得科学家薪水的女性。她也是第一位获得皇家天文学会荣誉会员和皇家天文学会金奖的女性。",
+    "achievements": [
+      "First woman to discover a comet",
+      "Discovered 8 comets and 3 nebulae",
+      "First woman paid as a scientist by the British Crown"
+    ],
+    "achievementsCn": [
+      "第一位发现彗星的女性",
+      "发现8颗彗星和3个星云",
+      "第一位获英国王室科学家薪水的女性"
+    ],
+    "era": "18th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Caroline_Herschel.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Caroline Herschel — https://en.wikipedia.org/wiki/Caroline_Herschel",
+      "Hoskin, Michael. The Herschel Partnership. Science History Publications, 2003."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Henrietta Swan Leavitt",
+    "nameCn": "亨丽埃塔·勒维特",
+    "slug": "henrietta-swan-leavitt",
+    "field": "astronomy-space",
+    "born": 1868,
+    "died": 1921,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered How to Measure the Universe",
+    "taglineCn": "发现了测量宇宙的方法",
+    "bio": "Henrietta Swan Leavitt discovered the period-luminosity relationship of Cepheid variable stars — the brighter the star, the longer its pulsation period. This relationship became the first 'standard candle' for measuring cosmic distances, enabling Edwin Hubble to prove that the universe extends far beyond our galaxy. Hired as one of the 'Harvard Computers' — women who catalogued stars for minimal pay — her discovery fundamentally changed our understanding of the scale of the universe.",
+    "bioCn": "亨丽埃塔·勒维特发现了造父变星的周光关系——恒星越亮，其脉动周期越长。这一关系成为测量宇宙距离的第一个'标准烛光'，使哈勃得以证明宇宙远远超出我们的银河系。她被聘为'哈佛计算员'之一——为微薄报酬编目恒星的女性——她的发现从根本上改变了我们对宇宙尺度的理解。",
+    "achievements": [
+      "Discovered the period-luminosity relationship of Cepheid stars",
+      "Enabled measurement of cosmic distances",
+      "Made possible the discovery of the expanding universe"
+    ],
+    "achievementsCn": [
+      "发现造父变星的周光关系",
+      "使宇宙距离的测量成为可能",
+      "使发现宇宙膨胀成为可能"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Henrietta_Swan_Leavitt.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Henrietta Swan Leavitt — https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt",
+      "Johnson, George. Miss Leavitt's Stars. W.W. Norton, 2005."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Annie Jump Cannon",
+    "nameCn": "安妮·坎农",
+    "slug": "annie-jump-cannon",
+    "field": "astronomy-space",
+    "born": 1863,
+    "died": 1941,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Classified Nearly 400,000 Stars",
+    "taglineCn": "分类了近40万颗恒星",
+    "bio": "Annie Jump Cannon developed the Harvard spectral classification system (OBAFGKM) still used by astronomers today to classify stars by temperature. She manually classified nearly 400,000 stars — more than any other person in history — earning her the nickname 'Census Taker of the Sky.' Nearly deaf from childhood, she was one of the famous 'Harvard Computers' and became the first woman to receive an honorary doctorate from Oxford University.",
+    "bioCn": "安妮·坎农开发了哈佛光谱分类系统（OBAFGKM），至今仍被天文学家用来按温度分类恒星。她手动分类了近40万颗恒星——比历史上任何人都多——因此被称为'天空的人口普查员'。她从小近乎失聪，是著名的'哈佛计算员'之一，成为第一位获得牛津大学荣誉博士学位的女性。",
+    "achievements": [
+      "Developed the Harvard spectral classification system",
+      "Classified nearly 400,000 stars",
+      "First woman to receive an honorary doctorate from Oxford"
+    ],
+    "achievementsCn": [
+      "开发哈佛光谱分类系统",
+      "分类近40万颗恒星",
+      "第一位获牛津大学荣誉博士学位的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Annie_Jump_Cannon_1922.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Annie Jump Cannon — https://en.wikipedia.org/wiki/Annie_Jump_Cannon",
+      "Sobel, Dava. The Glass Universe. Viking, 2016."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Williamina Fleming",
+    "nameCn": "威廉明娜·弗莱明",
+    "slug": "williamina-fleming",
+    "field": "astronomy-space",
+    "born": 1857,
+    "died": 1911,
+    "nationality": "Scottish-American",
+    "nationalityCn": "苏格兰裔美国人",
+    "tagline": "Discovered the Horsehead Nebula",
+    "taglineCn": "发现了马头星云",
+    "bio": "Williamina Fleming was hired as a maid by astronomer Edward Pickering, who reportedly said his maid could do a better job than his male assistants. He was right. She became one of the first 'Harvard Computers' and developed a system for classifying stars by their spectra. She discovered the Horsehead Nebula, catalogued over 10,000 stars, and identified 59 gaseous nebulae, 310 variable stars, and 10 novae.",
+    "bioCn": "威廉明娜·弗莱明被天文学家爱德华·皮克林聘为女仆，据报道皮克林曾说他的女仆比他的男助手做得更好。他说对了。她成为最早的'哈佛计算员'之一，开发了一种通过光谱分类恒星的系统。她发现了马头星云，编目了超过10000颗恒星，鉴定了59个气体星云、310颗变星和10颗新星。",
+    "achievements": [
+      "Discovered the Horsehead Nebula",
+      "Catalogued over 10,000 stars",
+      "Developed early stellar classification system"
+    ],
+    "achievementsCn": [
+      "发现马头星云",
+      "编目超过10000颗恒星",
+      "开发早期恒星分类系统"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Williamina_Paton_Stevens_Fleming.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Williamina Fleming — https://en.wikipedia.org/wiki/Williamina_Fleming",
+      "Sobel, Dava. The Glass Universe. Viking, 2016."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Valentina Tereshkova",
+    "nameCn": "瓦莲京娜·捷列什科娃",
+    "slug": "valentina-tereshkova",
+    "field": "astronomy-space",
+    "born": 1937,
+    "died": null,
+    "nationality": "Russian",
+    "nationalityCn": "俄罗斯",
+    "tagline": "First Woman in Space",
+    "taglineCn": "第一位进入太空的女性",
+    "bio": "Valentina Tereshkova became the first woman to fly in space on June 16, 1963, aboard Vostok 6. A former textile factory worker and amateur parachutist, she was selected from over 400 applicants for the Soviet cosmonaut program. She orbited Earth 48 times over nearly three days, logging more flight time than all American astronauts combined at that point. She remains the only woman to have completed a solo space mission.",
+    "bioCn": "瓦莲京娜·捷列什科娃于1963年6月16日乘坐东方6号飞船成为第一位飞入太空的女性。她曾是纺织厂工人和业余跳伞运动员，从400多名申请者中被选入苏联宇航员计划。她在近三天内绕地球飞行48圈，飞行时间超过了当时所有美国宇航员的总和。她至今仍是唯一一位完成独自太空任务的女性。",
+    "achievements": [
+      "First woman in space (1963)",
+      "Orbited Earth 48 times in nearly 3 days",
+      "Only woman to have completed a solo space mission"
+    ],
+    "achievementsCn": [
+      "第一位进入太空的女性（1963年）",
+      "在近3天内绕地球飞行48圈",
+      "唯一完成独自太空任务的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/RIAN_archive_612748_Valentina_Tereshkova.jpg",
+    "quote": "Once you've been in space, you appreciate how small and fragile the Earth is.",
+    "quoteCn": "一旦你去过太空，就会体会到地球是多么渺小和脆弱。",
+    "quoteSource": "From interviews",
+    "references": [
+      "Wikipedia: Valentina Tereshkova — https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+      "ESA: Valentina Tereshkova biography"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Sally Ride",
+    "nameCn": "萨莉·赖德",
+    "slug": "sally-ride",
+    "field": "astronomy-space",
+    "born": 1951,
+    "died": 2012,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First American Woman in Space",
+    "taglineCn": "第一位进入太空的美国女性",
+    "bio": "Sally Ride became the first American woman in space when she flew on the Space Shuttle Challenger in 1983 at age 32. A physicist with a PhD from Stanford, she operated the shuttle's robotic arm to deploy satellites. After leaving NASA, she became a physics professor and founded Sally Ride Science, a company creating educational programs to inspire young people — especially girls — in STEM fields.",
+    "bioCn": "萨莉·赖德于1983年32岁时乘坐挑战者号航天飞机成为第一位进入太空的美国女性。她拥有斯坦福大学物理学博士学位，操作航天飞机的机械臂部署卫星。离开NASA后，她成为物理学教授并创办了Sally Ride Science，一家创建教育项目以激励年轻人——特别是女孩——投身STEM领域的公司。",
+    "achievements": [
+      "First American woman in space (1983)",
+      "Youngest American astronaut at the time",
+      "Founded Sally Ride Science for STEM education"
+    ],
+    "achievementsCn": [
+      "第一位进入太空的美国女性（1983年）",
+      "当时最年轻的美国宇航员",
+      "创办Sally Ride Science推广STEM教育"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sally_Ride%2C_America%27s_first_woman_astronaut_communitcates_with_ground_controllers_from_the_flight_deck_-_NARA_-_541940.jpg",
+    "quote": "All adventures, especially into new territory, are scary.",
+    "quoteCn": "所有的冒险，尤其是进入新领域的冒险，都是令人恐惧的。",
+    "quoteSource": "From her writings",
+    "references": [
+      "Wikipedia: Sally Ride — https://en.wikipedia.org/wiki/Sally_Ride",
+      "Sherr, Lynn. Sally Ride: America's First Woman in Space. Simon & Schuster, 2014."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Mae Jemison",
+    "nameCn": "梅·杰米森",
+    "slug": "mae-jemison",
+    "field": "astronomy-space",
+    "born": 1956,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First African-American Woman in Space",
+    "taglineCn": "第一位进入太空的非裔美国女性",
+    "bio": "Mae Jemison became the first African-American woman to travel into space when she flew aboard Space Shuttle Endeavour in 1992. Before joining NASA, she earned degrees in chemical engineering and medicine, served in the Peace Corps as a medical officer in Sierra Leone, and worked as a general practitioner. After leaving NASA, she founded the 100 Year Starship project to make interstellar travel possible within a century.",
+    "bioCn": "梅·杰米森于1992年乘坐奋进号航天飞机成为第一位进入太空的非裔美国女性。在加入NASA之前，她获得了化学工程和医学学位，在塞拉利昂担任和平队医疗官，并从事全科医生工作。离开NASA后，她创立了100年星际飞船项目，旨在一个世纪内实现星际旅行。",
+    "achievements": [
+      "First African-American woman in space (1992)",
+      "Engineer, physician, and astronaut",
+      "Founded 100 Year Starship project"
+    ],
+    "achievementsCn": [
+      "第一位进入太空的非裔美国女性（1992年）",
+      "工程师、医生和宇航员",
+      "创立100年星际飞船项目"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mae_C._Jemison%2C_MD.jpg",
+    "quote": "Never limit yourself because of others' limited imagination; never limit others because of your own limited imagination.",
+    "quoteCn": "永远不要因为他人有限的想象力而限制自己；也永远不要因为自己有限的想象力而限制他人。",
+    "quoteSource": "From talks and published works",
+    "references": [
+      "Wikipedia: Mae Jemison — https://en.wikipedia.org/wiki/Mae_Jemison",
+      "Jemison, Mae. Find Where the Wind Goes. Scholastic, 2001."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Liu Yang",
+    "nameCn": "刘洋",
+    "slug": "liu-yang",
+    "field": "astronomy-space",
+    "born": 1978,
+    "died": null,
+    "nationality": "Chinese",
+    "nationalityCn": "中国",
+    "tagline": "First Chinese Woman in Space",
+    "taglineCn": "中国第一位女性宇航员",
+    "bio": "Liu Yang became the first Chinese woman to travel to space in June 2012, aboard the Shenzhou 9 spacecraft. A former Air Force pilot with nearly 1,700 hours of flight experience, she was selected for China's astronaut program in 2010. She returned to space in 2022 aboard Shenzhou 14, serving as part of the crew that completed the assembly of the Tiangong space station.",
+    "bioCn": "刘洋于2012年6月乘坐神舟九号飞船成为中国第一位进入太空的女性。她曾是空军飞行员，拥有近1700小时的飞行经验，2010年被选入中国航天员计划。2022年她乘坐神舟十四号再次进入太空，作为完成天宫空间站组装的乘组成员。",
+    "achievements": [
+      "First Chinese woman in space (2012)",
+      "Flew on both Shenzhou 9 and Shenzhou 14",
+      "Helped complete assembly of Tiangong space station"
+    ],
+    "achievementsCn": [
+      "中国第一位进入太空的女性（2012年）",
+      "乘坐神舟九号和神舟十四号",
+      "帮助完成天宫空间站的组装"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Liu_Yang%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Liu Yang (astronaut) — https://en.wikipedia.org/wiki/Liu_Yang_(astronaut)",
+      "China Manned Space Agency archives"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Peggy Whitson",
+    "nameCn": "佩吉·惠特森",
+    "slug": "peggy-whitson",
+    "field": "astronomy-space",
+    "born": 1960,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Record-Setting Astronaut",
+    "taglineCn": "创纪录的宇航员",
+    "bio": "Peggy Whitson holds the record for the most time spent in space by an American astronaut, accumulating 665 days across three missions. She was the first woman to command the International Space Station and the first female chief of the Astronaut Office at NASA. Growing up on a farm in Iowa, she watched the Apollo moon landings on television and decided to become an astronaut at age nine.",
+    "bioCn": "佩吉·惠特森保持着美国宇航员在太空停留时间最长的纪录，在三次任务中累计665天。她是第一位指挥国际空间站的女性，也是NASA宇航员办公室第一位女性负责人。她在爱荷华州的一个农场长大，在电视上观看了阿波罗登月任务，9岁时决定成为宇航员。",
+    "achievements": [
+      "Most time in space by an American astronaut (665 days)",
+      "First woman to command the International Space Station",
+      "First female chief of NASA Astronaut Office"
+    ],
+    "achievementsCn": [
+      "美国宇航员太空最长时间纪录（665天）",
+      "第一位指挥国际空间站的女性",
+      "NASA宇航员办公室第一位女性负责人"
+    ],
+    "era": "21st Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Peggy_Whitson_official_portrait_2016.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Peggy Whitson — https://en.wikipedia.org/wiki/Peggy_Whitson",
+      "NASA astronaut biography — https://www.nasa.gov/"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Carolyn Shoemaker",
+    "nameCn": "卡罗琳·舒梅克",
+    "slug": "carolyn-shoemaker",
+    "field": "astronomy-space",
+    "born": 1929,
+    "died": 2021,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered More Comets Than Any Living Person",
+    "taglineCn": "发现彗星数量超过任何在世者",
+    "bio": "Carolyn Shoemaker discovered 32 comets and over 800 asteroids, more comets than any other living person at the time. She co-discovered Comet Shoemaker-Levy 9, which spectacularly crashed into Jupiter in 1994 — the first directly observed collision of two solar system objects. She began her career in astronomy at age 51, proving it is never too late to make world-changing discoveries.",
+    "bioCn": "卡罗琳·舒梅克发现了32颗彗星和800多颗小行星，当时发现的彗星数量超过任何在世者。她共同发现了舒梅克-列维9号彗星，1994年该彗星壮观地撞击了木星——这是第一次直接观测到的两个太阳系天体碰撞。她51岁才开始天文学职业生涯，证明了做出改变世界的发现永远不会太晚。",
+    "achievements": [
+      "Discovered 32 comets — more than any living person at the time",
+      "Co-discovered Comet Shoemaker-Levy 9",
+      "Found over 800 asteroids"
+    ],
+    "achievementsCn": [
+      "发现32颗彗星——当时超过任何在世者",
+      "共同发现舒梅克-列维9号彗星",
+      "发现800多颗小行星"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Carolyn_Shoemaker.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Carolyn Shoemaker — https://en.wikipedia.org/wiki/Carolyn_S._Shoemaker"
+    ]
+  }
+]
