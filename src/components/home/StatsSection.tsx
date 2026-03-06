@@ -280,7 +280,7 @@ export function StatsSection() {
                 </blockquote>
                 <p className="font-display text-base sm:text-lg text-white/35 display-italic mt-6">
                   我们的使命是颂扬和保存女性先驱的故事，
-                  邀请访客通过当代平台感受她们贡献的丰厚遗产。
+                  邀请访客通过当代平台感受她们贡献的丰厚财产。
                 </p>
                 <div className="w-12 h-px bg-museum-gold/30 mx-auto mt-8" />
               </div>
