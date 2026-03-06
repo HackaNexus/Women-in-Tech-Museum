@@ -45,8 +45,7 @@ Herstory/
 │   │
 │   ├── data/                   # 数据
 │   │   ├── fields.json         # 领域定义
-│   │   ├── pioneers.json        # 先驱主数据
-│   │   └── pioneers/            # 按领域拆分 (可选)
+│   │   └── pioneers/           # 先驱主数据 (按领域拆分)
 │   │
 │   └── lib/
 │       ├── data.ts             # 数据读取与查询
@@ -71,8 +70,8 @@ Herstory/
 ### 数据流
 
 - `fields.json`：领域列表 (id, name, slug, color, count 等)
-- `pioneers.json`：先驱列表 (name, field, bio, image 等)
-- `lib/data.ts`：`getPioneersByField`, `getFieldBySlug`, `getFeaturedPioneers` 等
+- `pioneers/*.json`：先驱列表 (按领域拆分，name, field, bio, image 等)
+- `lib/data.ts`：聚合 pioneers 并导出 `getPioneersByField`, `getFieldBySlug`, `getFeaturedPioneers` 等
 
 ---
 
@@ -133,6 +132,6 @@ npm run lint
 ## 自定义与扩展
 
 - **新增领域**：编辑 `src/data/fields.json`
-- **新增先驱**：编辑 `src/data/pioneers.json` 或对应 `pioneers/*.json`
+- **新增先驱**：编辑 `src/data/pioneers/[领域].json`（如 `computer-science.json`）
 - **修改主题色**：在 `src/app/globals.css` 的 `@theme` 中调整 `--color-museum-*`
 - **修改领域封面图**：在 `src/components/shared/FieldCard.tsx` 的 `fieldImages` 中配置

@@ -3,6 +3,9 @@ node_modules
 .pnp
 .pnp.js
 
+# Generated (split-data.mjs creates this from pioneers/)
+src/data/pioneers.json
+
 # Build
 .next
 out

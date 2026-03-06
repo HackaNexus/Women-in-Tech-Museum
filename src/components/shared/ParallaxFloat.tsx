@@ -21,7 +21,7 @@ interface ParallaxFloatProps {
   className?: string;
 }
 
-function FloatItem({ item, scrollYProgress }: { item: FloatingItem; scrollYProgress: ReturnType<typeof useScroll>["scrollYProgress"] }) {
+function FloatItem({ item, scrollYProgress, index }: { item: FloatingItem; scrollYProgress: ReturnType<typeof useScroll>["scrollYProgress"]; index: number }) {
   const speed = item.speed;
   const y = useTransform(scrollYProgress, [0, 1], [speed * 60, -speed * 60]);
   const rotate = useTransform(
@@ -29,6 +29,10 @@ function FloatItem({ item, scrollYProgress }: { item: FloatingItem; scrollYProgr
     [0, 1],
     [-(item.rotate ?? 0), item.rotate ?? 0]
   );
+
+  // 每个图标不同的浮动周期，营造有机感
+  const floatDuration = 4 + (index % 3) * 1.5;
+  const floatOffset = 6 + (index % 4) * 2;
 
   return (
     <motion.div
@@ -42,7 +46,21 @@ function FloatItem({ item, scrollYProgress }: { item: FloatingItem; scrollYProgr
         scale: item.scale ?? 1,
       }}
     >
-      {item.content}
+      <motion.div
+        animate={{
+          y: [-floatOffset, floatOffset, -floatOffset],
+          x: [0, floatOffset * 0.5, 0],
+          rotate: [-2, 2, -2],
+        }}
+        transition={{
+          duration: floatDuration,
+          repeat: Infinity,
+          repeatType: "reverse",
+          ease: "easeInOut",
+        }}
+      >
+        {item.content}
+      </motion.div>
     </motion.div>
   );
 }
@@ -57,7 +75,7 @@ export function ParallaxFloat({ items, className = "" }: ParallaxFloatProps) {
   return (
     <div ref={ref} className={`absolute inset-0 overflow-hidden ${className}`}>
       {items.map((item, i) => (
-        <FloatItem key={i} item={item} scrollYProgress={scrollYProgress} />
+        <FloatItem key={i} item={item} scrollYProgress={scrollYProgress} index={i} />
       ))}
     </div>
   );

@@ -18,28 +18,22 @@ export default async function FieldPage({
   const list = getPioneersByField(field.id);
 
   return (
-    <div className="bg-museum-ivory min-h-screen pt-24">
-      {/* Field header */}
-      <section
-        className="pb-16 px-5 sm:px-8 lg:px-10"
-        style={{
-          background: `linear-gradient(135deg, ${field.color}0D 0%, transparent 50%)`,
-        }}
-      >
+    <div className="bg-museum-bg min-h-screen pt-24">
+      <section className="pb-16 px-5 sm:px-8 lg:px-10">
         <div className="max-w-7xl mx-auto">
-          <nav className="text-xs text-museum-stone tracking-wide mb-10">
+          <nav className="text-xs text-white/30 tracking-wide mb-10">
             <Link href="/" className="hover:text-museum-gold transition-colors">
               Home
             </Link>
-            <span className="mx-2 text-museum-line">/</span>
+            <span className="mx-2 text-white/10">/</span>
             <Link
               href="/exhibitions"
               className="hover:text-museum-gold transition-colors"
             >
               Exhibitions
             </Link>
-            <span className="mx-2 text-museum-line">/</span>
-            <span className="text-museum-ink">{field.nameCn}</span>
+            <span className="mx-2 text-white/10">/</span>
+            <span className="text-white/60">{field.nameCn}</span>
           </nav>
 
           <div className="flex items-start gap-4">
@@ -48,25 +42,24 @@ export default async function FieldPage({
               style={{ backgroundColor: field.color }}
             />
             <div>
-              <h1 className="font-display text-4xl sm:text-5xl text-museum-ink">
+              <h1 className="font-display text-4xl sm:text-5xl text-white font-light">
                 {field.nameCn}
               </h1>
-              <p className="text-museum-slate mt-1">{field.name}</p>
+              <p className="text-white/40 mt-1">{field.name}</p>
             </div>
           </div>
 
-          <p className="mt-8 text-museum-ink max-w-3xl leading-relaxed">
+          <p className="mt-8 text-white/70 max-w-3xl leading-relaxed">
             {field.description}
           </p>
-          <p className="mt-3 text-museum-slate max-w-3xl text-sm leading-relaxed">
+          <p className="mt-3 text-white/35 max-w-3xl text-sm leading-relaxed">
             {field.descriptionCn}
           </p>
         </div>
       </section>
 
-      {/* Pioneer grid */}
       <section className="max-w-7xl mx-auto px-5 sm:px-8 lg:px-10 pb-24">
-        <p className="text-sm text-museum-stone mb-10">
+        <p className="text-sm text-white/25 mb-10">
           {list.length} pioneers in this exhibition
         </p>
 
@@ -77,7 +70,7 @@ export default async function FieldPage({
               href={`/exhibitions/${field.slug}/${p.slug}`}
               className="group"
             >
-              <div className="portrait-frame aspect-[3/4] rounded-sm mb-4">
+              <div className="portrait-frame photo-frame aspect-[3/4] rounded-sm mb-4">
                 {p.image ? (
                   <img
                     src={p.image}
@@ -91,14 +84,14 @@ export default async function FieldPage({
                   </div>
                 )}
               </div>
-              <h3 className="font-display text-base text-museum-ink group-hover:text-museum-gold-dark transition-colors">
+              <h3 className="font-display text-base text-white/80 group-hover:text-museum-gold transition-colors">
                 {p.name}
               </h3>
-              <p className="text-sm text-museum-slate">{p.nameCn}</p>
-              <p className="text-xs text-museum-stone mt-1">
+              <p className="text-sm text-white/40">{p.nameCn}</p>
+              <p className="text-xs text-white/25 mt-1">
                 {formatLifespan(p.born, p.died)}
               </p>
-              <p className="text-xs text-museum-stone mt-1.5 line-clamp-2 leading-relaxed">
+              <p className="text-xs text-white/25 mt-1.5 line-clamp-2 leading-relaxed">
                 {p.taglineCn}
               </p>
             </Link>

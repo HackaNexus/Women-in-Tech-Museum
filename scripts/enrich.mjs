@@ -1,10 +1,14 @@
-import { readFileSync, writeFileSync, mkdirSync } from 'fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
-const pioneers = JSON.parse(readFileSync(join(root, 'src/data/pioneers.json'), 'utf-8'));
+const pioneersDir = join(root, 'src/data/pioneers');
+const pioneers = [];
+for (const fn of readdirSync(pioneersDir).filter((f) => f.endsWith('.json'))) {
+  pioneers.push(...JSON.parse(readFileSync(join(pioneersDir, fn), 'utf-8')));
+}
 const fields = JSON.parse(readFileSync(join(root, 'src/data/fields.json'), 'utf-8'));
 
 // ====================================================================
@@ -1075,24 +1079,16 @@ pioneers.push(...newCSPioneers);
 // Add Elizabeth Blackburn
 pioneers.push(newGenPioneer);
 
-// Write enriched pioneers.json
-writeFileSync(
-  join(root, 'src/data/pioneers.json'),
-  JSON.stringify(pioneers, null, 2) + '\n'
-);
-console.log(`Wrote enriched pioneers.json (${pioneers.length} total)`);
-
-// Re-split by field
+// Re-split by field and write to pioneers/
 const byField = {};
 for (const p of pioneers) {
   if (!byField[p.field]) byField[p.field] = [];
   byField[p.field].push(p);
 }
 
-const outDir = join(root, 'src/data/pioneers');
-mkdirSync(outDir, { recursive: true });
+mkdirSync(pioneersDir, { recursive: true });
 for (const [fieldId, list] of Object.entries(byField)) {
-  writeFileSync(join(outDir, `${fieldId}.json`), JSON.stringify(list, null, 2) + '\n');
+  writeFileSync(join(pioneersDir, `${fieldId}.json`), JSON.stringify(list, null, 2) + '\n');
   console.log(`  ${fieldId}.json → ${list.length} pioneers`);
 }
 

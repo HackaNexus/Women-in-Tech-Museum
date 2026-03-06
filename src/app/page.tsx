@@ -10,17 +10,13 @@ export default function HomePage() {
       {/* Hero has its own scroll-driven animation internally */}
       <Hero />
 
-      <ScrollSection noEnterFade={false} noExitFade={false}>
-        <FeaturedCarousel />
-      </ScrollSection>
+      <FeaturedCarousel />
 
       <ScrollSection>
         <FieldGrid />
       </ScrollSection>
 
-      <ScrollSection noExitFade>
-        <StatsSection />
-      </ScrollSection>
+      <StatsSection />
     </>
   );
 }

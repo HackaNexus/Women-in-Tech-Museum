@@ -1,10 +1,16 @@
-import { readFileSync, writeFileSync, mkdirSync } from 'fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
-const pioneers = JSON.parse(readFileSync(join(root, 'src/data/pioneers.json'), 'utf-8'));
+const pioneersDir = join(root, 'src/data/pioneers');
+
+// Read all pioneers from folder
+const pioneers = [];
+for (const fn of readdirSync(pioneersDir).filter((f) => f.endsWith('.json'))) {
+  pioneers.push(...JSON.parse(readFileSync(join(pioneersDir, fn), 'utf-8')));
+}
 
 const fixes = {
   'patricia-bath': 'https://upload.wikimedia.org/wikipedia/commons/0/08/Patriciabath.jpg',
@@ -24,18 +30,14 @@ for (const p of pioneers) {
   }
 }
 
-writeFileSync(join(root, 'src/data/pioneers.json'), JSON.stringify(pioneers, null, 2) + '\n');
-console.log(`\nFixed ${fixed} image URLs`);
-
-// Re-split by field
+// Re-split by field and write back to pioneers/
 const byField = {};
 for (const p of pioneers) {
   if (!byField[p.field]) byField[p.field] = [];
   byField[p.field].push(p);
 }
-const outDir = join(root, 'src/data/pioneers');
-mkdirSync(outDir, { recursive: true });
+mkdirSync(pioneersDir, { recursive: true });
 for (const [fieldId, list] of Object.entries(byField)) {
-  writeFileSync(join(outDir, `${fieldId}.json`), JSON.stringify(list, null, 2) + '\n');
+  writeFileSync(join(pioneersDir, `${fieldId}.json`), JSON.stringify(list, null, 2) + '\n');
 }
-console.log('Re-split field files');
+console.log(`\nFixed ${fixed} image URLs, wrote to pioneers/*.json`);

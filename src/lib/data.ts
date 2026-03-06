@@ -1,8 +1,28 @@
-import pioneersData from "../data/pioneers.json";
+import computerScience from "../data/pioneers/computer-science.json";
+import mathematics from "../data/pioneers/mathematics.json";
+import physics from "../data/pioneers/physics.json";
+import chemistry from "../data/pioneers/chemistry.json";
+import biologyMedicine from "../data/pioneers/biology-medicine.json";
+import astronomySpace from "../data/pioneers/astronomy-space.json";
+import engineering from "../data/pioneers/engineering.json";
+import earthEnvironment from "../data/pioneers/earth-environment.json";
+import geneticsBiotech from "../data/pioneers/genetics-biotech.json";
+import dataScienceAi from "../data/pioneers/data-science-ai.json";
 import fieldsData from "../data/fields.json";
 import type { Pioneer, Field } from "./types";
 
-export const pioneers: Pioneer[] = pioneersData as Pioneer[];
+export const pioneers: Pioneer[] = [
+  ...(computerScience as Pioneer[]),
+  ...(mathematics as Pioneer[]),
+  ...(physics as Pioneer[]),
+  ...(chemistry as Pioneer[]),
+  ...(biologyMedicine as Pioneer[]),
+  ...(astronomySpace as Pioneer[]),
+  ...(engineering as Pioneer[]),
+  ...(earthEnvironment as Pioneer[]),
+  ...(geneticsBiotech as Pioneer[]),
+  ...(dataScienceAi as Pioneer[]),
+];
 export const fields: Field[] = fieldsData as Field[];
 
 export function getPioneersByField(fieldId: string): Pioneer[] {

@@ -11,19 +11,19 @@ export default function ExhibitionsPage() {
   const row2 = fields.slice(mid);
 
   return (
-    <div className="bg-museum-ivory pt-24">
+    <div className="bg-museum-bg min-h-screen pt-24">
       <section className="mx-auto max-w-7xl px-5 sm:px-8 lg:px-10 pb-24">
-        <p className="text-xs tracking-[0.3em] uppercase text-museum-gold mb-3">
+        <p className="text-[0.65rem] tracking-[0.4em] uppercase text-museum-gold/60 mb-4">
           Explore
         </p>
-        <h1 className="font-display text-4xl sm:text-5xl text-museum-ink mb-2">
+        <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl text-white font-light mb-2">
           Exhibition Halls
         </h1>
-        <p className="text-museum-slate text-lg mb-16">
-          展览馆 &mdash; 10 fields, 100 pioneers
+        <p className="text-white/30 text-lg mb-16">
+          展览馆 &mdash; 10 fields, 111 pioneers
         </p>
 
-        <div className="bookshelf-wrapper">
+        <div className="bookshelf-wrapper bookshelf-dark">
           {[row1, row2].map((row, rowIdx) => (
             <Shelf key={rowIdx}>
               {row.map((field, i) => (

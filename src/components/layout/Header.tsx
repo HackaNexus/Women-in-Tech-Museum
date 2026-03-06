@@ -23,7 +23,7 @@ export function Header() {
     <header
       className={`fixed top-0 inset-x-0 z-50 transition-all duration-500 ${
         scrolled
-          ? "bg-museum-ivory/90 glass border-b border-museum-line shadow-sm"
+          ? "bg-museum-bg/80 glass border-b border-white/[0.06] shadow-lg shadow-black/20"
           : "bg-transparent"
       }`}
     >
@@ -31,9 +31,7 @@ export function Header() {
         <div className="flex h-16 items-center justify-between">
           <Link
             href="/"
-            className={`font-display text-[0.8rem] tracking-[0.25em] uppercase transition-colors duration-300 ${
-              scrolled ? "text-museum-ink" : "text-white"
-            }`}
+            className="font-display text-[0.8rem] tracking-[0.25em] uppercase text-white/90 hover:text-museum-gold transition-colors duration-300"
           >
             Women in Tech Museum
           </Link>
@@ -43,22 +41,22 @@ export function Header() {
               <Link
                 key={l.href}
                 href={l.href}
-                className={`text-[0.75rem] tracking-[0.15em] uppercase transition-colors duration-300 ${
-                  scrolled
-                    ? "text-museum-slate hover:text-museum-gold"
-                    : "text-white/80 hover:text-white"
-                }`}
+                className="text-[0.75rem] tracking-[0.15em] uppercase text-white/60 hover:text-museum-gold transition-colors duration-300"
               >
                 {l.label}
               </Link>
             ))}
+            <Link
+              href="/exhibitions"
+              className="text-[0.7rem] tracking-[0.15em] uppercase border border-white/20 text-white/70 px-5 py-2 hover:border-museum-gold/50 hover:text-museum-gold transition-all duration-300"
+            >
+              Explore
+            </Link>
           </div>
 
           <button
             onClick={() => setOpen(!open)}
-            className={`md:hidden p-2 transition-colors ${
-              scrolled ? "text-museum-ink" : "text-white"
-            }`}
+            className="md:hidden p-2 text-white/80"
             aria-label="Menu"
           >
             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.5">
@@ -72,13 +70,13 @@ export function Header() {
         </div>
 
         {open && (
-          <div className="md:hidden pb-6 pt-2 border-t border-museum-line/30">
+          <div className="md:hidden pb-6 pt-2 border-t border-white/[0.06]">
             {links.map((l) => (
               <Link
                 key={l.href}
                 href={l.href}
                 onClick={() => setOpen(false)}
-                className="block py-3 text-sm tracking-[0.12em] uppercase text-museum-slate hover:text-museum-gold transition-colors"
+                className="block py-3 text-sm tracking-[0.12em] uppercase text-white/60 hover:text-museum-gold transition-colors"
               >
                 {l.label}
               </Link>

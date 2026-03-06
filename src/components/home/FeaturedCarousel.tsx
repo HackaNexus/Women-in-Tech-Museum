@@ -1,94 +1,106 @@
 "use client";
 
+import { useRef } from "react";
 import Link from "next/link";
-import { motion } from "framer-motion";
+import { motion, useScroll, useTransform, type MotionValue } from "framer-motion";
 import { getFeaturedPioneers, getFieldById, getInitials } from "@/lib/data";
 import type { Pioneer } from "@/lib/types";
-import {
-  ParallaxFloat,
-  GridPattern,
-  FormulaText,
-  CompassRose,
-} from "@/components/shared/ParallaxFloat";
 
-const floatingItems = [
-  {
-    content: <GridPattern size={140} color="#B8956A" />,
-    x: 90,
-    y: 8,
-    speed: 0.3,
-    rotate: 8,
-    opacity: 0.1,
-  },
-  {
-    content: <FormulaText text="∑(n=1→∞)" size={18} color="#8A8A9A" />,
-    x: 3,
-    y: 82,
-    speed: -0.2,
-    rotate: -6,
-    opacity: 0.15,
-  },
-  {
-    content: <FormulaText text="φ = 1.618…" size={16} color="#8A8A9A" />,
-    x: 88,
-    y: 78,
-    speed: 0.25,
-    rotate: 4,
-    opacity: 0.14,
-  },
-  {
-    content: <CompassRose size={65} color="#B8956A" />,
-    x: 2,
-    y: 15,
-    speed: 0.35,
-    rotate: -8,
-    opacity: 0.1,
-  },
-];
-
-function Card({ pioneer, index }: { pioneer: Pioneer; index: number }) {
+function RevealImage({
+  pioneer,
+  scrollYProgress,
+  revealRange,
+  parallaxRange,
+  className,
+}: {
+  pioneer: Pioneer;
+  scrollYProgress: MotionValue<number>;
+  revealRange: [number, number];
+  parallaxRange: [number, number];
+  className?: string;
+}) {
   const field = getFieldById(pioneer.field);
+  const clipPercent = useTransform(scrollYProgress, revealRange, [100, 0]);
+  const clipPath = useTransform(clipPercent, (v) => `inset(0% ${v}% 0% 0%)`);
+  const y = useTransform(scrollYProgress, [0, 1], parallaxRange);
+  const imgScale = useTransform(scrollYProgress, [0, 1], [1.15, 1]);
+
+  return (
+    <motion.div className={className} style={{ clipPath, y }}>
+      <Link
+        href={`/exhibitions/${field?.slug ?? pioneer.field}/${pioneer.slug}`}
+        className="group block w-full h-full"
+      >
+        <div className="photo-frame overflow-hidden w-full h-full relative">
+          {pioneer.image ? (
+            <motion.img
+              src={pioneer.image}
+              alt={pioneer.name}
+              className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-[filter] duration-700"
+              style={{ scale: imgScale }}
+              loading="lazy"
+            />
+          ) : (
+            <div className="portrait-initials w-full h-full text-3xl bg-museum-surface">
+              {getInitials(pioneer.name)}
+            </div>
+          )}
+        </div>
+      </Link>
+    </motion.div>
+  );
+}
+
+function GalleryCard({ pioneer, index }: { pioneer: Pioneer; index: number }) {
+  const field = getFieldById(pioneer.field);
+  const isOdd = index % 2 === 1;
+
+  const textBlock = (
+    <>
+      <h3 className="font-display text-base text-white/90 group-hover:text-museum-gold transition-colors duration-300">
+        {pioneer.name}
+      </h3>
+      <p className="text-[0.6rem] tracking-[0.1em] uppercase text-museum-gold/50 mt-0.5">
+        {field?.name}
+      </p>
+      <p className="text-xs text-white/30 mt-1 line-clamp-2 leading-relaxed">
+        {pioneer.tagline}
+      </p>
+    </>
+  );
+
   return (
     <motion.div
-      initial={{ opacity: 0, y: 30, scale: 0.96 }}
-      whileInView={{ opacity: 1, y: 0, scale: 1 }}
+      initial={{ opacity: 0, y: 40 }}
+      whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: "-60px" }}
       transition={{
-        duration: 0.6,
-        delay: index * 0.08,
+        duration: 0.7,
+        delay: index * 0.1,
         ease: [0.25, 0.46, 0.45, 0.94],
       }}
+      className=""
     >
       <Link
         href={`/exhibitions/${field?.slug ?? pioneer.field}/${pioneer.slug}`}
-        className="group block w-72 flex-none"
+        className="group block"
       >
-        <div className="portrait-frame aspect-[3/4] rounded-sm mb-4">
+        {isOdd && <div className="mb-3">{textBlock}</div>}
+        <div className="photo-frame overflow-hidden aspect-square">
           {pioneer.image ? (
             <img
               src={pioneer.image}
               alt={pioneer.name}
-              className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
+              className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 group-hover:scale-105"
               loading="lazy"
             />
           ) : (
-            <div className="portrait-initials w-full h-full text-3xl">
+            <div className="portrait-initials w-full h-full text-3xl bg-museum-surface">
               {getInitials(pioneer.name)}
             </div>
           )}
-          <div className="absolute inset-0 overlay-bottom opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
         </div>
-
-        <p className="text-xs tracking-[0.15em] uppercase text-museum-stone mb-1.5">
-          {field?.name}
-        </p>
-        <h3 className="font-display text-lg text-museum-ink group-hover:text-museum-gold-dark transition-colors duration-300">
-          {pioneer.name}
-        </h3>
-        <p className="text-sm text-museum-slate mt-0.5">{pioneer.nameCn}</p>
-        <p className="text-sm text-museum-stone mt-2 line-clamp-2 leading-relaxed">
-          {pioneer.tagline}
-        </p>
+        {!isOdd && <div className="mt-3">{textBlock}</div>}
       </Link>
     </motion.div>
   );
@@ -96,49 +108,139 @@ function Card({ pioneer, index }: { pioneer: Pioneer; index: number }) {
 
 export function FeaturedCarousel() {
   const featured = getFeaturedPioneers();
+  const sectionRef = useRef<HTMLElement>(null);
+
+  const { scrollYProgress } = useScroll({
+    target: sectionRef,
+    offset: ["start end", "end start"],
+  });
+
+  const heroRight = featured[3]; // Marie Curie
+  const heroLeft = featured[0]; // Ada Lovelace
+  const carouselPioneers = featured.filter(
+    (p) => p.id !== heroRight.id && p.id !== heroLeft.id
+  );
+
+  const titleOpacity = useTransform(scrollYProgress, [0.02, 0.12], [0, 1]);
+  const titleY = useTransform(scrollYProgress, [0.02, 0.12], [60, 0]);
+
+  const descOpacity = useTransform(scrollYProgress, [0.15, 0.28], [0, 1]);
+  const descY = useTransform(scrollYProgress, [0.15, 0.28], [40, 0]);
 
   return (
-    <section className="relative py-24 px-5 sm:px-8 lg:px-10 overflow-hidden">
-      {/* Vitruvian Man background — verified working URL */}
-      <div
-        className="absolute inset-0 opacity-[0.06]"
-        style={{
-          backgroundImage:
-            "url('https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg')",
-          backgroundSize: "600px",
-          backgroundPosition: "right center",
-          backgroundRepeat: "no-repeat",
-          filter: "grayscale(1)",
-        }}
-      />
-
-      <ParallaxFloat items={floatingItems} />
-
+    <section
+      ref={sectionRef}
+      className="relative py-28 sm:py-36 lg:py-44 px-5 sm:px-8 lg:px-10 overflow-hidden bg-museum-bg"
+    >
       <div className="relative z-10 max-w-7xl mx-auto">
-        <p className="text-xs tracking-[0.3em] uppercase text-museum-gold mb-3">
-          Featured
-        </p>
-        <div className="flex items-end justify-between gap-4 flex-wrap">
-          <div>
-            <h2 className="font-display text-3xl sm:text-4xl text-museum-ink">
-              Pioneering Figures
+        {/* Lumen-style asymmetric hero layout */}
+        <div className="relative lg:min-h-[85vh]">
+          {/* Title — upper left */}
+          <motion.div
+            className="relative z-10 max-w-xl"
+            style={{ opacity: titleOpacity, y: titleY }}
+          >
+            <p className="text-[0.65rem] tracking-[0.4em] uppercase text-museum-gold/60 mb-6">
+              Featured
+            </p>
+            <h2 className="font-display text-5xl sm:text-6xl lg:text-8xl text-white font-light leading-[1.05]">
+              A{" "}
+              <em className="display-italic text-white/70">(Journey)</em>
+              <br />
+              Through{" "}
+              <em className="display-italic text-museum-gold-light">
+                Science
+              </em>
             </h2>
-            <p className="text-museum-slate mt-2">杰出先驱</p>
-          </div>
+          </motion.div>
+
+          {/* Image — upper right: clip-path scroll reveal + parallax */}
+          <RevealImage
+            pioneer={heroRight}
+            scrollYProgress={scrollYProgress}
+            revealRange={[0.04, 0.28]}
+            parallaxRange={[-30, 50]}
+            className="
+              lg:absolute lg:top-0 lg:right-0
+              relative mt-12 lg:mt-0
+              w-full sm:w-[65%] lg:w-[38%] xl:w-[36%]
+              aspect-[3/4]
+            "
+          />
+
+          {/* Description + About link — center area */}
+          <motion.div
+            className="
+              relative z-10
+              lg:absolute lg:left-[28%] lg:top-[58%]
+              max-w-md mt-14 lg:mt-0
+            "
+            style={{ opacity: descOpacity, y: descY }}
+          >
+            <p className="text-white/40 text-base leading-relaxed font-light">
+              Step into a world where brilliance transcends boundaries. Here, you
+              are invited to explore a curated collection of pioneering women in
+              science, where each story reveals layers of discovery, resilience,
+              and the enduring beauty of human curiosity.
+            </p>
+            <Link
+              href="/about"
+              className="group inline-flex items-center gap-3 mt-8 text-white/50 hover:text-white transition-colors duration-300"
+            >
+              <span className="flex items-center justify-center w-10 h-10 rounded-full border border-white/15 group-hover:border-white/40 transition-colors duration-300">
+                <svg
+                  className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-0.5"
+                  viewBox="0 0 16 16"
+                  fill="none"
+                >
+                  <path
+                    d="M3 8h10M9 4l4 4-4 4"
+                    stroke="currentColor"
+                    strokeWidth="1.5"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                </svg>
+              </span>
+              <span className="text-sm tracking-wide">About Us</span>
+            </Link>
+          </motion.div>
+
+          {/* Image — lower left: clip-path scroll reveal + parallax (staggered) */}
+          <RevealImage
+            pioneer={heroLeft}
+            scrollYProgress={scrollYProgress}
+            revealRange={[0.1, 0.35]}
+            parallaxRange={[-15, 35]}
+            className="
+              lg:absolute lg:bottom-0 lg:left-0
+              relative mt-14 lg:mt-0
+              w-full sm:w-[55%] lg:w-[28%] xl:w-[26%]
+              aspect-[4/5]
+            "
+          />
+        </div>
+
+        {/* Divider */}
+        <div className="divider my-20 sm:my-28" />
+
+        {/* Staggered gallery grid */}
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-6 sm:gap-x-8 gap-y-10 items-center">
+          {carouselPioneers.map((p, i) => (
+            <GalleryCard key={p.id} pioneer={p} index={i} />
+          ))}
+        </div>
+
+        <div className="mt-12 flex justify-end">
           <Link
             href="/timeline"
-            className="group flex items-center gap-1.5 text-sm text-museum-stone hover:text-museum-gold-dark transition-colors duration-300 mb-1"
+            className="group flex items-center gap-2 text-sm text-white/30 hover:text-museum-gold transition-colors duration-300"
           >
-            <span>跟随时间线看更多</span>
-            <span className="inline-block transition-transform duration-300 group-hover:translate-x-1">&rarr;</span>
+            <span className="tracking-wide">跟随时间线看更多</span>
+            <span className="inline-block transition-transform duration-300 group-hover:translate-x-1">
+              &rarr;
+            </span>
           </Link>
-        </div>
-        <div className="mb-12" />
-
-        <div className="flex gap-8 overflow-x-auto scroll-clean pb-4">
-          {featured.map((p, i) => (
-            <Card key={p.id} pioneer={p} index={i} />
-          ))}
         </div>
       </div>
     </section>

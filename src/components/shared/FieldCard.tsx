@@ -8,23 +8,23 @@ export const fieldImages: Record<string, string> = {
   "computer-science":
     "https://upload.wikimedia.org/wikipedia/commons/d/db/Margaret_Hamilton_-_restoration.jpg",
   mathematics:
-    "https://upload.wikimedia.org/wikipedia/commons/a/a0/Maryam_Mirzakhani_%282014%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b1/Maryam_Mirzakhani_in_Seoul_2014.jpg",
   physics:
-    "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c._1920s.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marie_Curie_c._1920s.jpg",
   chemistry:
     "https://upload.wikimedia.org/wikipedia/commons/6/66/Emmanuelle_Charpentier.jpg",
   "biology-medicine":
     "https://upload.wikimedia.org/wikipedia/commons/f/f4/Rachel-Carson.jpg",
   "astronomy-space":
-    "https://upload.wikimedia.org/wikipedia/commons/a/a8/RIAN_archive_612748_Valentina_Tereshkova.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Valentina_Tereshkova_%282024-02-29%29_crop.jpg/960px-Valentina_Tereshkova_%282024-02-29%29_crop.jpg",
   engineering:
     "https://upload.wikimedia.org/wikipedia/commons/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg",
   "earth-environment":
-    "https://upload.wikimedia.org/wikipedia/commons/c/c4/Marie_Tharp_in_her_lab.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f8/Marie_Tharp_working_with_fathometer_record_%28cropped%29.jpg",
   "genetics-biotech":
     "https://upload.wikimedia.org/wikipedia/commons/5/5d/Professor_Jennifer_Doudna_ForMemRS.jpg",
   "data-science-ai":
-    "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dorothy_Vaughan.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/98/Dorothy_Vaughan_2.jpg",
 };
 
 export function FieldCard({ field }: { field: Field }) {
