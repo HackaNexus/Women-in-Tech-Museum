@@ -70,7 +70,7 @@ export function FieldCard({ field }: { field: Field }) {
                 style={{ backgroundColor: field.color }}
               />
               <span className="text-[0.6rem] text-white/40 tracking-[0.15em] uppercase">
-                {field.count}
+                {pioneers.length}
               </span>
             </div>
 

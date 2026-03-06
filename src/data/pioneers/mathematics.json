@@ -363,5 +363,185 @@
       "Shetterly, Margot Lee. Hidden Figures. William Morrow, 2016.",
       "NASA: Katherine Johnson biography — https://www.nasa.gov/"
     ]
+  },
+  {
+    "id": 122,
+    "name": "Julia Robinson",
+    "nameCn": "朱莉娅·罗宾逊",
+    "slug": "julia-robinson",
+    "field": "mathematics",
+    "born": 1919,
+    "died": 1985,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Key Solver of Hilbert's Tenth Problem",
+    "taglineCn": "希尔伯特第十问题的关键解决者",
+    "bio": "Julia Robinson made fundamental contributions to the solution of Hilbert's tenth problem, which asked whether there exists an algorithm to determine if a Diophantine equation has integer solutions. Her work, combined with that of Martin Davis, Hilary Putnam, and Yuri Matiyasevich, proved that no such algorithm exists. In 1976, she became the first woman elected to the mathematics section of the National Academy of Sciences, and in 1983, she became the first woman president of the American Mathematical Society.",
+    "bioCn": "朱莉娅·罗宾逊对希尔伯特第十问题的解决做出了根本性贡献，该问题询问是否存在一种算法来判断丢番图方程是否有整数解。她的工作与马丁·戴维斯、希拉里·普特南和尤里·马蒂亚塞维奇的成果相结合，证明了这样的算法不存在。1976年，她成为首位当选美国国家科学院数学部门成员的女性；1983年，她成为美国数学学会第一位女性主席。",
+    "achievements": [
+      "Key contributor to solving Hilbert's tenth problem",
+      "First woman elected to NAS mathematics section (1976)",
+      "First woman president of the American Mathematical Society (1983)"
+    ],
+    "achievementsCn": [
+      "对解决希尔伯特第十问题做出关键贡献",
+      "首位当选美国国家科学院数学部门成员的女性（1976年）",
+      "美国数学学会第一位女性主席（1983年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Julia_Robinson_1975.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Julia Robinson — https://en.wikipedia.org/wiki/Julia_Robinson",
+      "Reid, Constance. Julia: A Life in Mathematics. MAA, 1996."
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Karen Uhlenbeck",
+    "nameCn": "凯伦·乌伦贝克",
+    "slug": "karen-uhlenbeck",
+    "field": "mathematics",
+    "born": 1942,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Woman to Win the Abel Prize",
+    "taglineCn": "首位阿贝尔奖女性得主",
+    "bio": "Karen Uhlenbeck became the first woman to win the Abel Prize in 2019, recognized for her pioneering achievements in geometric partial differential equations, gauge theory, and integrable systems. Her work laid the foundation for modern geometric analysis and has deep connections to theoretical physics, including gauge theory and string theory. A professor at the University of Texas at Austin and a visiting scholar at the Institute for Advanced Study, she has profoundly shaped the landscape of modern mathematics.",
+    "bioCn": "凯伦·乌伦贝克于2019年成为首位获得阿贝尔奖的女性，以表彰她在几何偏微分方程、规范理论和可积系统方面的开创性成就。她的工作为现代几何分析奠定了基础，并与理论物理（包括规范理论和弦理论）有着深刻的联系。她曾任德克萨斯大学奥斯汀分校教授和普林斯顿高等研究院访问学者，深刻影响了现代数学的格局。",
+    "achievements": [
+      "First woman to win the Abel Prize (2019)",
+      "Pioneered geometric analysis and gauge theory",
+      "Fellow of major mathematical and scientific societies"
+    ],
+    "achievementsCn": [
+      "首位获得阿贝尔奖的女性（2019年）",
+      "开创了几何分析和规范理论",
+      "多个重要数学和科学学会会士"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Uhlenbeck_Karen_1982_%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Karen Uhlenbeck — https://en.wikipedia.org/wiki/Karen_Uhlenbeck",
+      "Abel Prize: Karen Uhlenbeck — https://abelprize.no/abel-prize-laureates/2019"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Ingrid Daubechies",
+    "nameCn": "英格丽·多贝西",
+    "slug": "ingrid-daubechies",
+    "field": "mathematics",
+    "born": 1954,
+    "died": null,
+    "nationality": "Belgian-American",
+    "nationalityCn": "比利时裔美国人",
+    "tagline": "Pioneer of Wavelet Theory",
+    "taglineCn": "小波理论先驱",
+    "bio": "Ingrid Daubechies is a Belgian-American mathematician who revolutionized signal processing through her groundbreaking work on wavelet theory. Her compactly supported wavelets, known as Daubechies wavelets, transformed data compression and image analysis, underpinning technologies from JPEG 2000 to FBI fingerprint compression. She served as the first woman president of the International Mathematical Union from 2011 to 2014 and continues to apply mathematical tools to problems in art conservation and neuroscience.",
+    "bioCn": "英格丽·多贝西是一位比利时裔美国数学家，她通过在小波理论方面的开创性工作彻底改变了信号处理领域。她的紧支撑小波（即多贝西小波）改变了数据压缩和图像分析方式，为从JPEG 2000到FBI指纹压缩等技术提供了基础。她于2011年至2014年担任国际数学联盟首位女性主席，并继续将数学工具应用于艺术品保护和神经科学等领域。",
+    "achievements": [
+      "Developed Daubechies wavelets for signal processing",
+      "First woman president of the International Mathematical Union",
+      "Wavelets used in JPEG 2000 and FBI fingerprint compression"
+    ],
+    "achievementsCn": [
+      "开发了用于信号处理的多贝西小波",
+      "国际数学联盟首位女性主席",
+      "小波技术应用于JPEG 2000和FBI指纹压缩"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA 2.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ingrid_Daubechies_ICM_2018_%2842687401960%29_%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ingrid Daubechies — https://en.wikipedia.org/wiki/Ingrid_Daubechies",
+      "Daubechies, Ingrid. Ten Lectures on Wavelets. SIAM, 1992."
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Maryna Viazovska",
+    "nameCn": "玛丽娜·维亚佐夫斯卡",
+    "slug": "maryna-viazovska",
+    "field": "mathematics",
+    "born": 1984,
+    "died": null,
+    "nationality": "Ukrainian",
+    "nationalityCn": "乌克兰",
+    "tagline": "Second Woman to Win the Fields Medal",
+    "taglineCn": "第二位菲尔兹奖女性得主",
+    "bio": "Maryna Viazovska became the second woman ever to win the Fields Medal in 2022, recognized for her proof that the E8 lattice provides the densest sphere packing in 8 dimensions. Her 2016 proof was celebrated for its remarkable elegance, using modular forms to solve a problem that had eluded mathematicians for centuries. She also contributed to solving the sphere packing problem in 24 dimensions and serves as a professor at the École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland.",
+    "bioCn": "玛丽娜·维亚佐夫斯卡于2022年成为第二位获得菲尔兹奖的女性，以表彰她证明E8格提供了八维空间中最密球堆积的成就。她2016年的证明因非凡的优雅性而备受赞誉，运用模形式解决了困扰数学家数个世纪的问题。她还为解决24维空间的球堆积问题做出了贡献，目前担任瑞士洛桑联邦理工学院（EPFL）教授。",
+    "achievements": [
+      "Second woman to win the Fields Medal (2022)",
+      "Solved the sphere packing problem in 8 dimensions",
+      "Used modular forms to prove E8 lattice optimality"
+    ],
+    "achievementsCn": [
+      "第二位获得菲尔兹奖的女性（2022年）",
+      "解决了八维空间的球堆积问题",
+      "运用模形式证明E8格的最优性"
+    ],
+    "era": "21st Century",
+    "imageCredit": "MFO, CC BY-SA 2.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Maryna_Vazovska_MFO_2013_crop.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Maryna Viazovska — https://en.wikipedia.org/wiki/Maryna_Viazovska",
+      "Fields Medal citation, International Mathematical Union, 2022."
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Fan Chung",
+    "nameCn": "金芳蓉",
+    "slug": "fan-chung",
+    "field": "mathematics",
+    "born": 1949,
+    "died": null,
+    "nationality": "Taiwanese-American",
+    "nationalityCn": "台湾裔美国人",
+    "tagline": "World-Leading Expert in Spectral Graph Theory",
+    "taglineCn": "谱图论领域的世界顶级专家",
+    "bio": "Fan Chung is a Taiwanese-American mathematician and one of the world's foremost experts in combinatorics, graph theory, and spectral graph theory. Her book \"Spectral Graph Theory\" (1997) is a foundational text in the field. She has published over 300 papers and held positions at Bell Labs and the University of Pennsylvania before joining UC San Diego, where her work on network modeling has found wide applications in internet and complex network analysis.",
+    "bioCn": "金芳蓉是一位台湾裔美国数学家，也是组合数学、图论和谱图论领域世界最顶尖的专家之一。她的著作《谱图论》（1997年）是该领域的奠基性文本。她发表了300多篇论文，曾在贝尔实验室和宾夕法尼亚大学任职，后加入加州大学圣迭戈分校，她在网络建模方面的工作在互联网和复杂网络分析中得到了广泛应用。",
+    "achievements": [
+      "Author of foundational text 'Spectral Graph Theory'",
+      "Published over 300 papers in combinatorics and graph theory",
+      "Pioneering work in internet and complex network modeling"
+    ],
+    "achievementsCn": [
+      "撰写了奠基性著作《谱图论》",
+      "在组合数学和图论领域发表300多篇论文",
+      "在互联网和复杂网络建模方面的开创性工作"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Fan_Chung.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Fan Chung — https://en.wikipedia.org/wiki/Fan_Chung",
+      "Chung, Fan R.K. Spectral Graph Theory. AMS, 1997."
+    ]
   }
 ]

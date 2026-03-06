@@ -428,5 +428,185 @@
       "Wikipedia: Limor Fried — https://en.wikipedia.org/wiki/Limor_Fried",
       "Adafruit Industries — https://www.adafruit.com/"
     ]
+  },
+  {
+    "id": 142,
+    "name": "Mária Telkes",
+    "nameCn": "玛丽亚·特尔克斯",
+    "slug": "maria-telkes",
+    "field": "engineering",
+    "born": 1900,
+    "died": 1995,
+    "nationality": "Hungarian-American",
+    "nationalityCn": "匈裔美国人",
+    "tagline": "The Sun Queen — Pioneer of Solar Energy",
+    "taglineCn": "'太阳女王'——太阳能先驱",
+    "bio": "Mária Telkes was a Hungarian-American biophysicist and inventor known as the \"Sun Queen\" for her pioneering work in solar energy technology. She co-designed the Dover Sun House in 1948, the first residential building heated entirely by solar energy, using a sodium sulfate thermal storage system she developed. During World War II, she invented a solar-powered water desalination system included in life rafts to provide drinking water for downed pilots. She held over 20 patents in solar energy and devoted her career to making solar power practical for everyday use.",
+    "bioCn": "玛丽亚·特尔克斯是一位匈裔美国生物物理学家和发明家，因在太阳能技术方面的开创性工作而被称为'太阳女王'。她于1948年共同设计了多佛太阳房——第一座完全由太阳能供暖的住宅建筑，使用了她开发的硫酸钠蓄热系统。二战期间，她发明了太阳能海水淡化系统，安装在救生筏上为坠海飞行员提供饮用水。她拥有20多项太阳能专利，毕生致力于使太阳能在日常生活中实用化。",
+    "achievements": [
+      "Co-designed the first solar-heated house (Dover Sun House, 1948)",
+      "Invented solar-powered water desalination for WWII lifeboats",
+      "Held over 20 patents in solar energy technology"
+    ],
+    "achievementsCn": [
+      "共同设计了第一座太阳能供暖住宅（多佛太阳房，1948年）",
+      "发明了二战救生筏用的太阳能海水淡化系统",
+      "拥有20多项太阳能技术专利"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Maria_Telkes_NYWTS.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mária Telkes — https://en.wikipedia.org/wiki/M%C3%A1ria_Telkes",
+      "Swaby, Rachel. Headstrong: 52 Women Who Changed Science. Crown/Broadway, 2015."
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Olive Dennis",
+    "nameCn": "奥利芙·丹尼斯",
+    "slug": "olive-dennis",
+    "field": "engineering",
+    "born": 1885,
+    "died": 1957,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Woman Engineer of Service for a Railroad",
+    "taglineCn": "铁路公司第一位女性服务工程师",
+    "bio": "Olive Dennis was the first woman to earn a master's degree in engineering from Cornell University, graduating in 1920. She worked for the Baltimore and Ohio Railroad for over 30 years, serving as the first \"Engineer of Service,\" a role created specifically for her to improve the passenger travel experience. She invented and implemented numerous improvements to passenger rail comfort, including reclining seats, stain-resistant upholstery, improved ventilation systems, and adjustable ceiling lights. Her human-centered engineering approach transformed American rail travel.",
+    "bioCn": "奥利芙·丹尼斯是第一位从康奈尔大学获得工程硕士学位的女性，于1920年毕业。她在巴尔的摩与俄亥俄铁路公司工作了30多年，担任第一位'服务工程师'——这是专门为她设立的职位，旨在改善乘客旅行体验。她发明并实施了许多改善客运列车舒适度的设计，包括可倾斜座椅、防污面料、改进的通风系统和可调节亮度的天花板灯。她以人为本的工程方法改变了美国铁路旅行。",
+    "achievements": [
+      "First woman to earn an engineering master's from Cornell (1920)",
+      "First 'Engineer of Service' for the Baltimore and Ohio Railroad",
+      "Invented reclining seats, ventilation systems, and other rail comfort improvements"
+    ],
+    "achievementsCn": [
+      "第一位从康奈尔大学获得工程硕士学位的女性（1920年）",
+      "巴尔的摩与俄亥俄铁路公司第一位'服务工程师'",
+      "发明了可倾斜座椅、通风系统等铁路舒适改进"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Olive_Dennis.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Olive Dennis — https://en.wikipedia.org/wiki/Olive_Dennis",
+      "Baltimore and Ohio Railroad Museum historical records"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Kate Gleason",
+    "nameCn": "凯特·格利森",
+    "slug": "kate-gleason",
+    "field": "engineering",
+    "born": 1865,
+    "died": 1933,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Woman Member of ASME",
+    "taglineCn": "美国机械工程师学会第一位女性成员",
+    "bio": "Kate Gleason was the first woman member of the American Society of Mechanical Engineers, admitted in 1914. She revolutionized gear manufacturing at her family's Gleason Works in Rochester, New York, developing innovative methods for producing precision bevel gears used worldwide. After leaving the family business, she became a pioneering real estate developer, using poured concrete construction to build affordable housing — a technique ahead of its time. She was also the first woman elected president of a national bank in the United States.",
+    "bioCn": "凯特·格利森是美国机械工程师学会的第一位女性成员，于1914年被接纳。她在家族企业——纽约罗切斯特的格利森工厂——革新了齿轮制造，开发了生产全球使用的精密锥齿轮的创新方法。离开家族企业后，她成为开创性的房地产开发商，使用浇筑混凝土技术建造经济适用房——这一技术在当时非常超前。她还是美国第一位当选全国性银行行长的女性。",
+    "achievements": [
+      "First woman member of the American Society of Mechanical Engineers (1914)",
+      "Revolutionized precision gear manufacturing at Gleason Works",
+      "First woman elected president of a national bank in the U.S."
+    ],
+    "achievementsCn": [
+      "美国机械工程师学会第一位女性成员（1914年）",
+      "在格利森工厂革新了精密齿轮制造",
+      "美国第一位当选全国性银行行长的女性"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Kate_Gleason_portrait_%281890-1910%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Kate Gleason — https://en.wikipedia.org/wiki/Kate_Gleason",
+      "Rochester Regional Library Council: Kate Gleason historical records"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Ellen Ochoa",
+    "nameCn": "埃伦·奥乔亚",
+    "slug": "ellen-ochoa",
+    "field": "engineering",
+    "born": 1958,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First Hispanic Woman in Space",
+    "taglineCn": "第一位进入太空的西班牙裔女性",
+    "bio": "Ellen Ochoa became the first Hispanic woman to travel to space when she flew aboard the Space Shuttle Discovery in 1993. She completed four Space Shuttle missions, logging nearly 1,000 hours in orbit, and co-invented three optical systems that were patented by NASA. In 2013, she was appointed Director of NASA's Johnson Space Center, becoming the second woman to hold that position, serving until 2018. She was inducted into the U.S. Astronaut Hall of Fame in 2017.",
+    "bioCn": "埃伦·奥乔亚于1993年搭乘发现号航天飞机，成为第一位进入太空的西班牙裔女性。她完成了四次航天飞机任务，在轨飞行近1000小时，并共同发明了三项由NASA申请专利的光学系统。2013年她被任命为NASA约翰逊航天中心主任，成为第二位担任该职务的女性，任期至2018年。2017年她入选美国宇航员名人堂。",
+    "achievements": [
+      "First Hispanic woman to go to space (1993)",
+      "Co-inventor of three NASA-patented optical systems",
+      "Director of NASA's Johnson Space Center (2013–2018)"
+    ],
+    "achievementsCn": [
+      "第一位进入太空的西班牙裔女性（1993年）",
+      "三项NASA专利光学系统的共同发明者",
+      "NASA约翰逊航天中心主任（2013–2018年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ellen_Ochoa.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ellen Ochoa — https://en.wikipedia.org/wiki/Ellen_Ochoa",
+      "NASA Biography: Ellen Ochoa — https://www.nasa.gov/astronauts/biographies/ellen-ochoa"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Martha Coston",
+    "nameCn": "玛莎·科斯顿",
+    "slug": "martha-coston",
+    "field": "engineering",
+    "born": 1826,
+    "died": 1904,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Inventor of the Coston Signal Flare",
+    "taglineCn": "科斯顿信号弹的发明者",
+    "bio": "Martha Coston developed the Coston flare, a system of colored signal flares that was adopted by the U.S. Navy for maritime communication. After discovering her late husband's unfinished notes for a pyrotechnic night signal, she spent ten years researching, experimenting, and collaborating with chemists and pyrotechnicians to create a practical system. She received a patent in 1859, and her flares were widely used during the Civil War and by navies worldwide. Her autobiography \"A Signal Success\" documented the significant obstacles women faced as inventors in the 19th century.",
+    "bioCn": "玛莎·科斯顿开发了科斯顿信号弹——一种被美国海军采用的彩色信号弹系统，用于海上通信。在发现已故丈夫未完成的烟火夜间信号笔记后，她花了十年时间研究、实验，并与化学家和烟火技师合作，最终创造了一套实用系统。她于1859年获得专利，其信号弹在内战期间被广泛使用，也被世界各国海军采用。她的自传《信号的成功》记录了19世纪女性作为发明家所面临的重大障碍。",
+    "achievements": [
+      "Invented the Coston flare system for maritime signaling",
+      "Flares adopted by the U.S. Navy and used worldwide",
+      "Authored 'A Signal Success' documenting challenges for women inventors"
+    ],
+    "achievementsCn": [
+      "发明了用于海上信号传递的科斯顿信号弹系统",
+      "信号弹被美国海军采用并在全球使用",
+      "著有《信号的成功》，记录了女性发明家面临的挑战"
+    ],
+    "era": "19th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Martha_Coston.png",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Martha Coston — https://en.wikipedia.org/wiki/Martha_Coston",
+      "Coston, Martha J. A Signal Success. J.B. Lippincott, 1886."
+    ]
   }
 ]

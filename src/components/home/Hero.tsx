@@ -13,6 +13,7 @@ import {
   CompassRose,
   DNAHelix,
 } from "@/components/shared/ParallaxFloat";
+import { stats } from "@/lib/data";
 
 const heroFloatingItems = [
   { content: <AtomIcon size={80} color="#C9A87C" />, x: 6, y: 12, speed: 0.6, rotate: 15, opacity: 0.3 },
@@ -142,7 +143,7 @@ export function Hero() {
             variants={fadeUp}
             className="text-white/30 text-sm mt-6 tracking-widest"
           >
-            111 Pioneers&ensp;/&ensp;10 Fields&ensp;/&ensp;4,000 Years
+            {stats.pioneerCount} Pioneers&ensp;/&ensp;{stats.fieldCount} Fields&ensp;/&ensp;{stats.yearSpan.toLocaleString()}+ Years
           </motion.p>
 
           <motion.div variants={fadeUp} className="mt-14">

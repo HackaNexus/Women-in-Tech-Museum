@@ -8,7 +8,7 @@ import {
   FormulaText,
   DNAHelix,
 } from "@/components/shared/ParallaxFloat";
-import { pioneers, fields } from "@/lib/data";
+import { pioneers, fields, stats } from "@/lib/data";
 
 const floatingItems = [
   {
@@ -294,9 +294,9 @@ export function StatsSection() {
         <div className="max-w-4xl mx-auto text-center px-5 sm:px-8 lg:px-10 py-24">
           <div className="grid grid-cols-3 gap-8 mb-16">
             {[
-              { value: 111, label: "Pioneers", labelCn: "位先驱" },
-              { value: 10, label: "Fields", labelCn: "个领域" },
-              { value: 4000, suffix: "+", label: "Years", labelCn: "年历史" },
+              { value: stats.pioneerCount, label: "Pioneers", labelCn: "位先驱" },
+              { value: stats.fieldCount, label: "Fields", labelCn: "个领域" },
+              { value: stats.yearSpan, suffix: "+", label: "Years", labelCn: "年历史" },
             ].map((s) => (
               <div key={s.label}>
                 <p className="font-display text-4xl sm:text-5xl text-museum-gold font-light">

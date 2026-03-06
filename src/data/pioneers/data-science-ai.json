@@ -356,5 +356,185 @@
       "Wikipedia: Lisa Randall — https://en.wikipedia.org/wiki/Lisa_Randall",
       "Randall, L. Warped Passages. Ecco Press, 2005."
     ]
+  },
+  {
+    "id": 157,
+    "name": "Daniela Rus",
+    "nameCn": "达妮埃拉·鲁斯",
+    "slug": "daniela-rus",
+    "field": "data-science-ai",
+    "born": 1963,
+    "died": null,
+    "nationality": "Romanian-American",
+    "nationalityCn": "罗马尼亚裔美国人",
+    "tagline": "Director of MIT CSAIL",
+    "taglineCn": "MIT计算机科学与人工智能实验室主任",
+    "bio": "Daniela Rus is a Romanian-American roboticist and computer scientist who serves as director of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL). Her research spans self-reconfiguring robots, autonomous vehicles, and soft robotics, creating machines that can change shape, swim, fly, and work alongside humans. She is a MacArthur Fellow and member of the National Academy of Engineering. Her vision of a future where robots seamlessly integrate into daily life drives one of the most prolific robotics research programs in the world.",
+    "bioCn": "达妮埃拉·鲁斯是一位罗马尼亚裔美国机器人学家和计算机科学家，担任MIT计算机科学与人工智能实验室（CSAIL）主任。她的研究涵盖自重构机器人、自动驾驶汽车和软体机器人，创造了能够变形、游泳、飞行并与人类协同工作的机器。她是麦克阿瑟奖获得者和美国国家工程院院士。她关于机器人无缝融入日常生活的愿景推动着世界上最高产的机器人研究项目之一。",
+    "achievements": [
+      "Director of MIT CSAIL",
+      "Pioneered self-reconfiguring and soft robotics",
+      "MacArthur Fellow and National Academy of Engineering member"
+    ],
+    "achievementsCn": [
+      "MIT CSAIL主任",
+      "开创自重构和软体机器人研究",
+      "麦克阿瑟奖获得者和美国国家工程院院士"
+    ],
+    "era": "21st Century",
+    "imageCredit": "UN ITU, CC BY 2.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/UN_AI_for_Good_Summit_2025_-_Daniela_Rus_01_%28cropped%29_2.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Daniela Rus — https://en.wikipedia.org/wiki/Daniela_L._Rus",
+      "MIT CSAIL — https://www.csail.mit.edu/"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Latanya Sweeney",
+    "nameCn": "拉坦尼亚·斯威尼",
+    "slug": "latanya-sweeney",
+    "field": "data-science-ai",
+    "born": 1966,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Data Privacy Research",
+    "taglineCn": "数据隐私研究先驱",
+    "bio": "Latanya Sweeney is a computer scientist and data privacy pioneer who demonstrated that 87% of Americans could be uniquely identified using just their ZIP code, birthdate, and sex. She developed the foundational concept of k-anonymity, a widely adopted technique for protecting individual privacy in released datasets. She was the first African American woman to earn a PhD in computer science from MIT. As a professor at Harvard, she continues to research the intersection of technology, policy, and privacy.",
+    "bioCn": "拉坦尼亚·斯威尼是一位计算机科学家和数据隐私研究先驱，她证明了仅凭邮政编码、出生日期和性别就可以唯一识别87%的美国人。她提出了k-匿名性的基础概念，这是一种被广泛采用的数据去标识化技术。她是第一位在MIT获得计算机科学博士学位的非裔美国女性。作为哈佛大学教授，她持续研究技术、政策与隐私的交叉领域。",
+    "achievements": [
+      "Proved 87% of Americans identifiable by ZIP, birthdate, and sex",
+      "Developed foundational k-anonymity privacy concept",
+      "First African American woman with a CS PhD from MIT"
+    ],
+    "achievementsCn": [
+      "证明87%的美国人可通过邮编、生日和性别被识别",
+      "提出基础性的k-匿名隐私概念",
+      "第一位在MIT获得计算机科学博士的非裔美国女性"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Latanya_Sweeney_at_a_Knight_News_Challenge_event_in_New_York_City%2C_November_2017.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Latanya Sweeney — https://en.wikipedia.org/wiki/Latanya_Sweeney",
+      "Sweeney, L. 'k-anonymity: A model for protecting privacy,' International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 2002."
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Rana el Kaliouby",
+    "nameCn": "拉娜·卡利乌比",
+    "slug": "rana-el-kaliouby",
+    "field": "data-science-ai",
+    "born": 1978,
+    "died": null,
+    "nationality": "Egyptian-American",
+    "nationalityCn": "埃及裔美国人",
+    "tagline": "Pioneer of Emotion AI",
+    "taglineCn": "情感人工智能先驱",
+    "bio": "Rana el Kaliouby is an Egyptian-American computer scientist who pioneered the field of emotion AI — technology that can read and respond to human emotions. She co-founded Affectiva, the first company to commercialize emotion recognition technology, with applications spanning healthcare, automotive safety, and market research. Her algorithms analyze facial expressions to detect nuanced emotional states in real time. She is the author of 'Girl Decoded' (2020) and serves as deputy CEO of Smart Eye.",
+    "bioCn": "拉娜·卡利乌比是一位埃及裔美国计算机科学家，开创了情感人工智能领域——能够读取和回应人类情感的技术。她联合创立了Affectiva，这是第一家将情感识别技术商业化的公司，应用覆盖医疗、汽车安全和市场研究等领域。她的算法可以实时分析面部表情以检测细微的情感状态。她是《Girl Decoded》（2020年）一书的作者，现任Smart Eye副首席执行官。",
+    "achievements": [
+      "Co-founded Affectiva, first emotion AI company",
+      "Pioneered facial expression emotion recognition technology",
+      "Author of 'Girl Decoded' and deputy CEO of Smart Eye"
+    ],
+    "achievementsCn": [
+      "联合创立第一家情感AI公司Affectiva",
+      "开创面部表情情感识别技术",
+      "《Girl Decoded》作者、Smart Eye副首席执行官"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Rana_El_Kaliouby.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Rana el Kaliouby — https://en.wikipedia.org/wiki/Rana_el_Kaliouby",
+      "el Kaliouby, R. Girl Decoded. Currency, 2020."
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Cathy O'Neil",
+    "nameCn": "凯西·奥尼尔",
+    "slug": "cathy-oneil",
+    "field": "data-science-ai",
+    "born": 1972,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Champion of Algorithmic Accountability",
+    "taglineCn": "算法问责倡导者",
+    "bio": "Cathy O'Neil is a mathematician and data scientist who became a leading voice for algorithmic accountability. Her bestselling book 'Weapons of Math Destruction' (2016) exposed how opaque big data algorithms can reinforce inequality and threaten democracy through biased decisions in areas like hiring, lending, and criminal justice. She founded ORCAA, an algorithmic auditing company that helps organizations identify and correct bias in their models. She previously worked as a quantitative analyst at the hedge fund D.E. Shaw.",
+    "bioCn": "凯西·奥尼尔是一位数学家和数据科学家，成为算法问责领域的领军人物。她的畅销书《数学杀伤性武器》（2016年）揭露了不透明的大数据算法如何在招聘、贷款和刑事司法等领域通过有偏见的决策加剧不平等并威胁民主。她创立了ORCAA——一家算法审计公司，帮助组织识别和纠正模型中的偏差。她此前曾在对冲基金D.E. Shaw担任量化分析师。",
+    "achievements": [
+      "Author of bestselling 'Weapons of Math Destruction' (2016)",
+      "Founded ORCAA algorithmic auditing company",
+      "Leading voice for algorithmic accountability and fairness"
+    ],
+    "achievementsCn": [
+      "畅销书《数学杀伤性武器》作者（2016年）",
+      "创立ORCAA算法审计公司",
+      "算法问责与公平的领军人物"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cathy_O%27Neil_at_Google_Cambridge.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Cathy O'Neil — https://en.wikipedia.org/wiki/Cathy_O%27Neil",
+      "O'Neil, C. Weapons of Math Destruction. Crown, 2016."
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Ayanna Howard",
+    "nameCn": "阿雅娜·霍华德",
+    "slug": "ayanna-howard",
+    "field": "data-science-ai",
+    "born": 1972,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Roboticist Advancing Human-Robot Interaction",
+    "taglineCn": "推进人机交互的机器人学家",
+    "bio": "Ayanna Howard is a roboticist and AI researcher who specializes in human-robot interaction and assistive robotics. She worked at NASA's Jet Propulsion Laboratory developing autonomous navigation systems for Mars rovers. As dean of the College of Engineering at Ohio State University, she is one of the highest-ranking African American women in engineering academia. Her research focuses on developing robots that can assist children with disabilities and on understanding how humans develop trust in autonomous systems.",
+    "bioCn": "阿雅娜·霍华德是一位机器人学家和人工智能研究者，专注于人机交互和辅助机器人技术。她曾在NASA喷气推进实验室为火星探测器开发自主导航系统。作为俄亥俄州立大学工程学院院长，她是工程学术界职位最高的非裔美国女性之一。她的研究致力于开发能够帮助残障儿童的机器人，以及理解人类如何对自主系统建立信任。",
+    "achievements": [
+      "Developed Mars rover autonomy at NASA JPL",
+      "Dean of Engineering at Ohio State University",
+      "Pioneer in assistive robotics for children with disabilities"
+    ],
+    "achievementsCn": [
+      "在NASA喷气推进实验室开发火星车自主系统",
+      "俄亥俄州立大学工程学院院长",
+      "残障儿童辅助机器人技术先驱"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ayanna_M._Howard_-_SnoMote.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ayanna Howard — https://en.wikipedia.org/wiki/Ayanna_Howard",
+      "Ohio State University College of Engineering — https://engineering.osu.edu/"
+    ]
   }
 ]

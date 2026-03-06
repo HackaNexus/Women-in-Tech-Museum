@@ -214,5 +214,185 @@
     "references": [
       "Wikipedia: Katia Krafft — https://en.wikipedia.org/wiki/Katia_Krafft"
     ]
+  },
+  {
+    "id": 147,
+    "name": "Mary Leakey",
+    "nameCn": "玛丽·利基",
+    "slug": "mary-leakey",
+    "field": "earth-environment",
+    "born": 1913,
+    "died": 1996,
+    "nationality": "British",
+    "nationalityCn": "英国",
+    "tagline": "Pioneer Paleoanthropologist Who Proved Bipedalism",
+    "taglineCn": "证明人类直立行走的古人类学先驱",
+    "bio": "Mary Leakey was one of the most significant paleoanthropologists of the 20th century. In 1959, she discovered the Zinjanthropus skull (Paranthropus boisei) at Olduvai Gorge in Tanzania, reshaping understanding of human evolution. Her most celebrated discovery came in 1978 when she found the 3.6-million-year-old Laetoli footprints, providing definitive evidence that early hominids walked upright. Her meticulous excavation techniques set the standard for paleoanthropological fieldwork.",
+    "bioCn": "玛丽·利基是20世纪最重要的古人类学家之一。1959年，她在坦桑尼亚奥杜瓦伊峡谷发现了东非人头骨（鲍氏傍人），重塑了人们对人类进化的认识。她最著名的发现是1978年发掘的距今360万年的莱托利脚印，为早期人类直立行走提供了确凿证据。她严谨细致的发掘技术为该领域树立了标准。",
+    "achievements": [
+      "Discovered Laetoli footprints proving bipedalism (1978)",
+      "Found Zinjanthropus skull at Olduvai Gorge (1959)",
+      "Set standards for paleoanthropological excavation techniques"
+    ],
+    "achievementsCn": [
+      "发现证明直立行走的莱托利脚印（1978年）",
+      "在奥杜瓦伊峡谷发现东非人头骨（1959年）",
+      "为古人类学发掘技术树立标准"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mary_Leakey.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Mary Leakey — https://en.wikipedia.org/wiki/Mary_Leakey",
+      "Leakey, M. Disclosing the Past. Doubleday, 1984."
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Tanya Atwater",
+    "nameCn": "坦尼娅·阿特沃特",
+    "slug": "tanya-atwater",
+    "field": "earth-environment",
+    "born": 1942,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Plate Tectonics Theory",
+    "taglineCn": "板块构造理论先驱",
+    "bio": "Tanya Atwater is a geophysicist who made groundbreaking contributions to the theory of plate tectonics. Her seminal 1970 paper explained the tectonic history of western North America, including the formation of the San Andreas Fault, fundamentally changing our understanding of the region's geology. She created widely used educational animations illustrating plate tectonic evolution over millions of years. As a professor at UC Santa Barbara, she has been a leading educator and researcher in geophysics.",
+    "bioCn": "坦尼娅·阿特沃特是一位地球物理学家，对板块构造理论做出了开创性贡献。她1970年发表的里程碑式论文解释了北美洲西部的构造历史，包括圣安德烈亚斯断层的形成，从根本上改变了人们对该地区地质的理解。她制作了广泛使用的教育动画，展示了数百万年来板块构造的演变。作为加州大学圣巴巴拉分校的教授，她一直是地球物理学领域的杰出教育者和研究者。",
+    "achievements": [
+      "Published landmark 1970 paper on western North American tectonics",
+      "Created influential plate tectonic educational animations",
+      "Leading geophysics researcher at UC Santa Barbara"
+    ],
+    "achievementsCn": [
+      "发表1970年关于北美西部构造的里程碑式论文",
+      "制作有影响力的板块构造教育动画",
+      "加州大学圣巴巴拉分校杰出地球物理学研究者"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tanya_Atwater_Galapagos_Rift_Expedition%2C_1982.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Tanya Atwater — https://en.wikipedia.org/wiki/Tanya_Atwater",
+      "Atwater, T. 'Implications of Plate Tectonics for the Cenozoic Tectonic Evolution of Western North America,' GSA Bulletin, 1970."
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Katharine Hayhoe",
+    "nameCn": "凯瑟琳·海霍",
+    "slug": "katharine-hayhoe",
+    "field": "earth-environment",
+    "born": 1972,
+    "died": null,
+    "nationality": "Canadian-American",
+    "nationalityCn": "加拿大裔美国人",
+    "tagline": "Leading Climate Scientist and Communicator",
+    "taglineCn": "顶尖气候科学家和科学传播者",
+    "bio": "Katharine Hayhoe is a leading climate scientist and one of the most effective science communicators of her generation. As chief scientist at The Nature Conservancy, her research focuses on understanding the regional impacts of climate change and helping cities and communities prepare for climate risks. She was named one of TIME's 100 Most Influential People in 2014 for her efforts to bridge the gap between scientific evidence and public understanding. She is particularly known for engaging faith communities in conversations about climate stewardship.",
+    "bioCn": "凯瑟琳·海霍是一位顶尖气候科学家，也是她这一代最有影响力的科学传播者之一。作为大自然保护协会的首席科学家，她的研究聚焦于理解气候变化的区域影响，帮助城市和社区应对气候风险。2014年，她因致力于弥合科学证据与公众认知之间的鸿沟而入选《时代》杂志100位最具影响力人物。她尤其以在信仰社区中推动气候保护对话而闻名。",
+    "achievements": [
+      "Chief scientist at The Nature Conservancy",
+      "TIME 100 Most Influential People (2014)",
+      "Pioneer in bridging climate science and faith communities"
+    ],
+    "achievementsCn": [
+      "大自然保护协会首席科学家",
+      "《时代》杂志100位最具影响力人物（2014年）",
+      "在气候科学与信仰社区间架起桥梁的先驱"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA 2.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Katharine_Hayhoe_2018_%28DIG14287-042%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Katharine Hayhoe — https://en.wikipedia.org/wiki/Katharine_Hayhoe",
+      "Hayhoe, K. Saving Us: A Climate Scientist's Case for Hope and Healing in a Divided World. One Signal Publishers, 2021."
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Katsuko Saruhashi",
+    "nameCn": "猿桥胜子",
+    "slug": "katsuko-saruhashi",
+    "field": "earth-environment",
+    "born": 1920,
+    "died": 2007,
+    "nationality": "Japanese",
+    "nationalityCn": "日本",
+    "tagline": "Pioneer of Ocean Geochemistry",
+    "taglineCn": "海洋地球化学先驱",
+    "bio": "Katsuko Saruhashi was a pioneering Japanese geochemist who developed the first method to accurately measure carbon dioxide levels in seawater. Her research traced radioactive fallout from nuclear weapons tests across the Pacific Ocean, providing crucial scientific evidence that supported nuclear test ban treaties. She was the first woman elected to the Science Council of Japan. To encourage women in science, she established the Saruhashi Prize, Japan's most prestigious award for women scientists.",
+    "bioCn": "猿桥胜子是一位开创性的日本地球化学家，开发了第一种精确测量海水中二氧化碳含量的方法。她的研究追踪了核武器试验产生的放射性沉降物在太平洋的扩散，为支持核试验禁令条约提供了关键科学证据。她是第一位当选日本学术会议成员的女性。为了鼓励女性从事科学研究，她设立了猿桥奖——日本最具声望的女科学家奖项。",
+    "achievements": [
+      "Developed first method to measure CO2 in seawater",
+      "Research supported nuclear test ban treaties",
+      "First woman elected to Science Council of Japan"
+    ],
+    "achievementsCn": [
+      "开发第一种测量海水CO2的方法",
+      "研究支持了核试验禁令条约",
+      "第一位当选日本学术会议成员的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Katsuko_Saruhashi.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Katsuko Saruhashi — https://en.wikipedia.org/wiki/Katsuko_Saruhashi",
+      "Saruhashi Prize for Women Scientists — https://www.saruhashi.net/"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Joanne Simpson",
+    "nameCn": "乔安妮·辛普森",
+    "slug": "joanne-simpson",
+    "field": "earth-environment",
+    "born": 1923,
+    "died": 2010,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First American Woman PhD in Meteorology",
+    "taglineCn": "美国第一位女性气象学博士",
+    "bio": "Joanne Simpson was the first woman in the United States to earn a PhD in meteorology, receiving her doctorate from the University of Chicago in 1949. She conducted pioneering research on tropical clouds and hurricanes, proposing the influential 'hot tower' hypothesis that explained how tropical cumulonimbus clouds drive global atmospheric circulation. At NASA, she led the development of the Tropical Rainfall Measuring Mission (TRMM) satellite, which revolutionized our understanding of tropical rainfall and its role in global climate.",
+    "bioCn": "乔安妮·辛普森是美国第一位获得气象学博士学位的女性，1949年从芝加哥大学获得博士学位。她对热带云系和飓风进行了开创性研究，提出了具有深远影响的'热塔'假说，解释了热带积雨云如何驱动全球大气环流。在NASA，她领导开发了热带降雨测量任务（TRMM）卫星，彻底改变了我们对热带降雨及其在全球气候中作用的理解。",
+    "achievements": [
+      "First woman in the US to earn a PhD in meteorology (1949)",
+      "Proposed the influential 'hot tower' hypothesis",
+      "Led development of NASA's TRMM satellite"
+    ],
+    "achievementsCn": [
+      "美国第一位获得气象学博士学位的女性（1949年）",
+      "提出有影响力的'热塔'假说",
+      "领导开发NASA的TRMM卫星"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Joanne_Simpson_meteorologist_in_the_1970s.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Joanne Simpson — https://en.wikipedia.org/wiki/Joanne_Simpson",
+      "NASA Goddard Space Flight Center: Joanne Simpson tribute."
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { pioneers, fields, formatLifespan } from "@/lib/data";
+import { pioneers, fields, stats, formatLifespan } from "@/lib/data";
 
 const galleryPioneers = pioneers
   .filter((p) => p.image)
@@ -149,7 +149,7 @@ export function Footer() {
                 Women in Tech Museum
               </p>
               <p className="text-sm leading-relaxed text-white/40 max-w-xs">
-                Celebrating 111 women pioneers across 10 fields of science,
+                Celebrating {stats.pioneerCount} women pioneers across {stats.fieldCount} fields of science,
                 technology, engineering, and mathematics.
               </p>
             </div>

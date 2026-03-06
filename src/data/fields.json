@@ -8,7 +8,7 @@
     "descriptionCn": "从世界上第一位程序员到现代AI的缔造者，女性塑造了计算机发展的每一个时代——编写代码、构建编译器、设计驱动数字世界的系统。",
     "icon": "terminal",
     "color": "#6366F1",
-    "count": 25
+    "count": 30
   },
   {
     "id": "mathematics",
@@ -19,7 +19,7 @@
     "descriptionCn": "跨越千年，女性数学家解开了宇宙的语言——从古代亚历山大到现代菲尔兹奖舞台，证明了重塑我们对现实理解的定理。",
     "icon": "sigma",
     "color": "#8B5CF6",
-    "count": 10
+    "count": 15
   },
   {
     "id": "physics",
@@ -30,7 +30,7 @@
     "descriptionCn": "女性物理学家分裂了原子、发现了暗物质、揭示了时空的结构——常常是在试图使她们隐形的制度壁垒面前完成的。",
     "icon": "atom",
     "color": "#EC4899",
-    "count": 12
+    "count": 17
   },
   {
     "id": "chemistry",
@@ -41,7 +41,7 @@
     "descriptionCn": "从解码DNA的双螺旋到编辑基因组本身，女性化学家改变了医学、材料科学以及我们对生命分子层面的理解。",
     "icon": "flask",
     "color": "#F59E0B",
-    "count": 8
+    "count": 13
   },
   {
     "id": "biology-medicine",
@@ -52,7 +52,7 @@
     "descriptionCn": "生物与医学领域的女性开创了挽救生命的治疗方法，解码了遗传之谜，捍卫了地球生态系统的健康。",
     "icon": "heart-pulse",
     "color": "#EF4444",
-    "count": 12
+    "count": 17
   },
   {
     "id": "astronomy-space",
@@ -63,7 +63,7 @@
     "descriptionCn": "女性绘制了星图、测量了宇宙、走出了地球——从天文台到太空轨道，为人类描绘穿越宇宙的航路。",
     "icon": "telescope",
     "color": "#3B82F6",
-    "count": 10
+    "count": 15
   },
   {
     "id": "engineering",
@@ -74,7 +74,7 @@
     "descriptionCn": "女性工程师和发明家建造了桥梁、创造了防弹材料、开创了无线通信、发射了火箭——切实地构建了现代世界。",
     "icon": "wrench",
     "color": "#F97316",
-    "count": 12
+    "count": 17
   },
   {
     "id": "earth-environment",
@@ -85,7 +85,7 @@
     "descriptionCn": "女性地球科学家发现了地球内核、绘制了海底地图、敲响了气候变化的警钟——揭示了塑造我们世界的力量。",
     "icon": "globe",
     "color": "#10B981",
-    "count": 6
+    "count": 11
   },
   {
     "id": "genetics-biotech",
@@ -96,7 +96,7 @@
     "descriptionCn": "女性遗传学家和生物技术专家绘制了HIV基因组图谱、发现了癌症基因、发明了拯救了数百万人生命的mRNA疫苗。",
     "icon": "dna",
     "color": "#14B8A6",
-    "count": 6
+    "count": 11
   },
   {
     "id": "data-science-ai",
@@ -107,6 +107,6 @@
     "descriptionCn": "从NASA的'隐藏人物'到AI伦理的先驱，女性一直处于数据科学的前沿——计算轨道、构建学习系统、倡导算法公正。",
     "icon": "brain",
     "color": "#A855F7",
-    "count": 10
+    "count": 15
   }
 ]

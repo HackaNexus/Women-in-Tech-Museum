@@ -288,5 +288,185 @@
       "Wikipedia: Tu Youyou — https://en.wikipedia.org/wiki/Tu_Youyou",
       "Nobel Prize: Tu Youyou — https://www.nobelprize.org/prizes/medicine/2015/tu/"
     ]
+  },
+  {
+    "id": 132,
+    "name": "Frances Arnold",
+    "nameCn": "弗朗西丝·阿诺德",
+    "slug": "frances-arnold",
+    "field": "chemistry",
+    "born": 1956,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Nobel Laureate for Directed Evolution of Enzymes",
+    "taglineCn": "因酶的定向进化获诺贝尔奖",
+    "bio": "Frances Arnold pioneered the use of directed evolution to engineer enzymes with new and useful properties, revolutionizing green chemistry and pharmaceutical manufacturing. She was awarded the 2018 Nobel Prize in Chemistry, becoming the fifth woman and the first American woman to win the prize. Her methods harness the power of natural selection to develop proteins that solve chemical problems, with applications ranging from biofuels to pharmaceuticals. A professor at Caltech, she has also co-founded several companies based on her technology.",
+    "bioCn": "弗朗西丝·阿诺德开创了利用定向进化来设计具有新的有用特性的酶的方法，彻底改变了绿色化学和制药行业。她因此获得2018年诺贝尔化学奖，成为第五位获此殊荣的女性，也是第一位获得诺贝尔化学奖的美国女性。她的方法利用自然选择的力量来开发能够解决化学问题的蛋白质，应用范围从生物燃料到药物制造。作为加州理工学院的教授，她还基于自己的技术共同创办了多家公司。",
+    "achievements": [
+      "Nobel Prize in Chemistry (2018) for directed evolution of enzymes",
+      "Pioneered methods to harness evolution for enzyme engineering",
+      "First American woman to win a Nobel Prize in Chemistry"
+    ],
+    "achievementsCn": [
+      "因酶的定向进化获诺贝尔化学奖（2018年）",
+      "开创了利用进化原理进行酶工程改造的方法",
+      "第一位获得诺贝尔化学奖的美国女性"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY 2.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Frances_Arnold_in_2021_at_Caltech_01_%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Frances Arnold — https://en.wikipedia.org/wiki/Frances_Arnold",
+      "Nobel Prize: Frances H. Arnold — https://www.nobelprize.org/prizes/chemistry/2018/arnold/"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Ada Yonath",
+    "nameCn": "阿达·约纳特",
+    "slug": "ada-yonath",
+    "field": "chemistry",
+    "born": 1939,
+    "died": null,
+    "nationality": "Israeli",
+    "nationalityCn": "以色列",
+    "tagline": "Nobel Laureate for Ribosome Structure",
+    "taglineCn": "因核糖体结构研究获诺贝尔奖",
+    "bio": "Ada Yonath is an Israeli crystallographer who pioneered the study of ribosome structure using X-ray crystallography. She was the first scientist to successfully crystallize ribosomes, a feat once thought impossible, and spent over two decades mapping their atomic structure. Her work was foundational for understanding how antibiotics target bacterial ribosomes, opening new paths for drug development. She received the 2009 Nobel Prize in Chemistry, becoming the first Israeli woman to win a Nobel Prize and the first woman in 45 years to win the Chemistry Nobel.",
+    "bioCn": "阿达·约纳特是以色列晶体学家，她开创了利用X射线晶体学研究核糖体结构的先河。她是第一位成功使核糖体结晶的科学家——这一壮举曾被认为不可能——并花了二十多年绘制其原子结构图。她的工作对于理解抗生素如何靶向细菌核糖体至关重要，为药物开发开辟了新途径。她获得了2009年诺贝尔化学奖，成为第一位获得诺贝尔奖的以色列女性，也是45年来首位获得化学诺贝尔奖的女性。",
+    "achievements": [
+      "Nobel Prize in Chemistry (2009) for ribosome structure studies",
+      "First scientist to successfully crystallize ribosomes",
+      "First Israeli woman to win a Nobel Prize"
+    ],
+    "achievementsCn": [
+      "因核糖体结构研究获诺贝尔化学奖（2009年）",
+      "第一位成功使核糖体结晶的科学家",
+      "第一位获得诺贝尔奖的以色列女性"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Chemical Heritage Foundation, CC BY-SA 3.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ada_Yonath_2013_January_CHF.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ada Yonath — https://en.wikipedia.org/wiki/Ada_Yonath",
+      "Nobel Prize: Ada E. Yonath — https://www.nobelprize.org/prizes/chemistry/2009/yonath/"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Carolyn Bertozzi",
+    "nameCn": "卡罗琳·贝尔托齐",
+    "slug": "carolyn-bertozzi",
+    "field": "chemistry",
+    "born": 1966,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Nobel Laureate for Bioorthogonal Chemistry",
+    "taglineCn": "因生物正交化学获诺贝尔奖",
+    "bio": "Carolyn Bertozzi developed bioorthogonal chemistry — chemical reactions that can occur inside living organisms without interfering with normal biological processes. Her work, alongside advances in click chemistry, earned her the 2022 Nobel Prize in Chemistry, shared with Morten Meldal and K. Barry Sharpless. Her innovations have enabled scientists to study cells and develop targeted pharmaceuticals in ways previously impossible. She is a professor at Stanford University and a Howard Hughes Medical Institute investigator.",
+    "bioCn": "卡罗琳·贝尔托齐开发了生物正交化学——一种可以在活体内进行而不干扰正常生物过程的化学反应。她的工作与点击化学的进展一起为她赢得了2022年诺贝尔化学奖，与莫滕·梅尔达尔和K·巴里·夏普利斯共享。她的创新使科学家能够以前所未有的方式研究细胞和开发靶向药物。她是斯坦福大学教授和霍华德·休斯医学研究所研究员。",
+    "achievements": [
+      "Nobel Prize in Chemistry (2022) for bioorthogonal and click chemistry",
+      "Developed chemical reactions that work inside living organisms",
+      "Stanford professor and Howard Hughes Medical Institute investigator"
+    ],
+    "achievementsCn": [
+      "因生物正交化学和点击化学获诺贝尔化学奖（2022年）",
+      "开发了可在活体内进行的化学反应",
+      "斯坦福大学教授和霍华德·休斯医学研究所研究员"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Christopher Michel, CC BY-SA 4.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Carolyn_Bertozzi_by_Christopher_Michel_in_2022_4.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Carolyn Bertozzi — https://en.wikipedia.org/wiki/Carolyn_Bertozzi",
+      "Nobel Prize: Carolyn R. Bertozzi — https://www.nobelprize.org/prizes/chemistry/2022/bertozzi/"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Marie Maynard Daly",
+    "nameCn": "玛丽·梅纳德·戴利",
+    "slug": "marie-maynard-daly",
+    "field": "chemistry",
+    "born": 1921,
+    "died": 2003,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "First African American Woman to Earn a Chemistry PhD",
+    "taglineCn": "第一位获得化学博士学位的非裔美国女性",
+    "bio": "Marie Maynard Daly became the first African American woman to earn a PhD in chemistry in the United States, graduating from Columbia University in 1947. Her groundbreaking research revealed the relationship between high cholesterol and clogged arteries, contributing significantly to the understanding of heart disease. She also studied the effects of aging, smoking, and hypertension on the lungs and circulatory system. Throughout her career, she worked tirelessly to increase enrollment of minority students in medical school and science graduate programs.",
+    "bioCn": "玛丽·梅纳德·戴利于1947年从哥伦比亚大学毕业，成为美国第一位获得化学博士学位的非裔美国女性。她的开创性研究揭示了高胆固醇与动脉堵塞之间的关系，对理解心脏病做出了重要贡献。她还研究了衰老、吸烟和高血压对肺部和循环系统的影响。在整个职业生涯中，她不懈努力，推动少数族裔学生进入医学院和科学研究生项目。",
+    "achievements": [
+      "First African American woman to earn a PhD in chemistry in the U.S. (1947)",
+      "Revealed the link between high cholesterol and clogged arteries",
+      "Pioneered research on the effects of smoking and aging on the lungs"
+    ],
+    "achievementsCn": [
+      "美国第一位获得化学博士学位的非裔美国女性（1947年）",
+      "揭示了高胆固醇与动脉堵塞之间的关系",
+      "开创了吸烟和衰老对肺部影响的研究"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Marie_Maynard_Daly.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Marie Maynard Daly — https://en.wikipedia.org/wiki/Marie_Maynard_Daly",
+      "Brown, Jeannette E. African American Women Chemists. Oxford University Press, 2011."
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Asima Chatterjee",
+    "nameCn": "阿西玛·查特吉",
+    "slug": "asima-chatterjee",
+    "field": "chemistry",
+    "born": 1917,
+    "died": 2006,
+    "nationality": "Indian",
+    "nationalityCn": "印度",
+    "tagline": "Pioneer of Organic Chemistry in India",
+    "taglineCn": "印度有机化学先驱",
+    "bio": "Asima Chatterjee was a pioneering Indian organic chemist renowned for her extensive work on alkaloids and medicinal plants. She developed anti-epileptic and anti-malarial drugs derived from plant sources, making significant contributions to pharmaceutical chemistry. She was the first woman to receive a Doctor of Science degree from an Indian university and published extensively on the chemistry of plant-based compounds. A recipient of the Padma Bhushan, one of India's highest civilian honors, she mentored generations of chemists throughout her distinguished career.",
+    "bioCn": "阿西玛·查特吉是一位开创性的印度有机化学家，以对生物碱和药用植物的广泛研究而闻名。她从植物来源开发了抗癫痫和抗疟疾药物，对药物化学做出了重大贡献。她是第一位获得印度大学理学博士学位的女性，并在植物化合物化学方面发表了大量论著。她是印度最高平民荣誉之一莲花装勋章的获得者，在其杰出的职业生涯中培养了几代化学家。",
+    "achievements": [
+      "Developed anti-epileptic and anti-malarial drugs from plant sources",
+      "First woman to receive a Doctor of Science from an Indian university",
+      "Padma Bhushan awardee for contributions to chemistry"
+    ],
+    "achievementsCn": [
+      "从植物来源开发了抗癫痫和抗疟疾药物",
+      "第一位获得印度大学理学博士学位的女性",
+      "因对化学的贡献获莲花装勋章"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7d/Asima_Chatterjee_1.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Asima Chatterjee — https://en.wikipedia.org/wiki/Asima_Chatterjee",
+      "Ray, P. History of Chemistry in Ancient and Medieval India. Indian Chemical Society, 1956."
+    ]
   }
 ]

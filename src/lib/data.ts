@@ -25,6 +25,14 @@ export const pioneers: Pioneer[] = [
 ];
 export const fields: Field[] = fieldsData as Field[];
 
+export const stats = {
+  pioneerCount: pioneers.length,
+  fieldCount: fields.length,
+  yearSpan:
+    new Date().getFullYear() -
+    Math.min(...pioneers.map((p) => p.born)),
+};
+
 export function getPioneersByField(fieldId: string): Pioneer[] {
   return pioneers.filter((p) => p.field === fieldId);
 }

@@ -433,5 +433,185 @@
       "Wikipedia: Mildred Dresselhaus — https://en.wikipedia.org/wiki/Mildred_Dresselhaus",
       "MIT memorial — https://news.mit.edu/"
     ]
+  },
+  {
+    "id": 127,
+    "name": "Fabiola Gianotti",
+    "nameCn": "法比奥拉·吉亚诺蒂",
+    "slug": "fabiola-gianotti",
+    "field": "physics",
+    "born": 1960,
+    "died": null,
+    "nationality": "Italian",
+    "nationalityCn": "意大利",
+    "tagline": "First Woman Director-General of CERN",
+    "taglineCn": "CERN首位女性总干事",
+    "bio": "Fabiola Gianotti is an Italian experimental particle physicist who became the first woman Director-General of CERN in 2016, and was re-elected in 2019. She led the ATLAS experiment at the Large Hadron Collider during the historic discovery of the Higgs boson in 2012, one of the most significant achievements in modern physics. Her leadership continues to guide the world's largest physics laboratory in pushing the frontiers of fundamental science.",
+    "bioCn": "法比奥拉·吉亚诺蒂是一位意大利实验粒子物理学家，于2016年成为欧洲核子研究中心（CERN）首位女性总干事，并于2019年连任。她在2012年希格斯玻色子这一历史性发现期间领导了大型强子对撞机上的ATLAS实验，这是现代物理学最重要的成就之一。她的领导力持续引领着世界最大的物理学实验室推进基础科学的前沿。",
+    "achievements": [
+      "First woman Director-General of CERN (2016)",
+      "Led ATLAS experiment during Higgs boson discovery (2012)",
+      "Re-elected as CERN Director-General (2019)"
+    ],
+    "achievementsCn": [
+      "CERN首位女性总干事（2016年）",
+      "在希格斯玻色子发现期间领导ATLAS实验（2012年）",
+      "连任CERN总干事（2019年）"
+    ],
+    "era": "21st Century",
+    "imageCredit": "CERN, CC BY-SA 4.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr_Fabiola_Gianotti.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Fabiola Gianotti — https://en.wikipedia.org/wiki/Fabiola_Gianotti",
+      "CERN: Director-General biography — https://home.cern/about/who-we-are/governance/director-general"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Helen Quinn",
+    "nameCn": "海伦·奎因",
+    "slug": "helen-quinn",
+    "field": "physics",
+    "born": 1943,
+    "died": null,
+    "nationality": "Australian-American",
+    "nationalityCn": "澳大利亚裔美国人",
+    "tagline": "Co-Developer of Peccei-Quinn Theory",
+    "taglineCn": "佩切伊-奎因理论共同提出者",
+    "bio": "Helen Quinn is an Australian-American theoretical physicist who co-developed the Peccei-Quinn theory in 1977, proposing an elegant solution to the strong CP problem in quantum chromodynamics. This theory predicted the existence of a hypothetical particle called the axion, which remains an active area of experimental search. A fellow of the American Physical Society and a professor at SLAC National Accelerator Laboratory, she has also made significant contributions to science education reform in the United States.",
+    "bioCn": "海伦·奎因是一位澳大利亚裔美国理论物理学家，于1977年共同提出了佩切伊-奎因理论，为量子色动力学中的强CP问题提供了一个优雅的解决方案。该理论预言了一种被称为轴子的假想粒子的存在，至今仍是实验探索的活跃领域。她是美国物理学会会士和SLAC国家加速器实验室教授，还为美国的科学教育改革做出了重要贡献。",
+    "achievements": [
+      "Co-developed Peccei-Quinn theory solving the strong CP problem",
+      "Predicted the existence of the axion particle",
+      "Major contributions to US science education reform"
+    ],
+    "achievementsCn": [
+      "共同提出解决强CP问题的佩切伊-奎因理论",
+      "预言了轴子粒子的存在",
+      "对美国科学教育改革做出重大贡献"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/HelenQuinnDiracMedal2000.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Helen Quinn — https://en.wikipedia.org/wiki/Helen_Quinn",
+      "SLAC National Accelerator Laboratory: Helen Quinn profile"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Ursula Franklin",
+    "nameCn": "厄休拉·富兰克林",
+    "slug": "ursula-franklin",
+    "field": "physics",
+    "born": 1921,
+    "died": 2016,
+    "nationality": "German-Canadian",
+    "nationalityCn": "德裔加拿大人",
+    "tagline": "Metallurgist and Peace Advocate",
+    "taglineCn": "冶金学家与和平倡导者",
+    "bio": "Ursula Franklin was a German-Canadian metallurgist and physicist who pioneered the use of physical science techniques in archaeology. As a Holocaust survivor, she devoted her career not only to science but also to social justice. Her research on the effects of nuclear fallout — particularly strontium-90 in baby teeth — provided critical evidence that helped build the case for nuclear test ban treaties. She authored the influential book \"The Real World of Technology\" (1989) and was named a Companion of the Order of Canada.",
+    "bioCn": "厄休拉·富兰克林是一位德裔加拿大冶金学家和物理学家，她开创了将物理科学技术应用于考古学的先河。作为大屠杀幸存者，她不仅致力于科学，还投身于社会公正事业。她对核辐射尘降影响的研究——特别是婴儿牙齿中的锶-90——提供了关键证据，帮助推动了核试验禁令条约的签署。她撰写了颇具影响力的著作《技术的真实世界》（1989年），并被授予加拿大勋章最高等级「同伴」称号。",
+    "achievements": [
+      "Pioneered physical science techniques in archaeology",
+      "Research on strontium-90 helped achieve nuclear test bans",
+      "Author of 'The Real World of Technology'"
+    ],
+    "achievementsCn": [
+      "开创了物理科学技术在考古学中的应用",
+      "对锶-90的研究助力推动核试验禁令",
+      "撰写《技术的真实世界》"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ursula_Franklin_at_book_launch_crop.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Ursula Franklin — https://en.wikipedia.org/wiki/Ursula_Franklin",
+      "Franklin, Ursula. The Real World of Technology. House of Anansi Press, 1999."
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Bibha Chowdhuri",
+    "nameCn": "比巴·乔杜里",
+    "slug": "bibha-chowdhuri",
+    "field": "physics",
+    "born": 1913,
+    "died": 1991,
+    "nationality": "Indian",
+    "nationalityCn": "印度",
+    "tagline": "Pioneer of Cosmic Ray Physics in India",
+    "taglineCn": "印度宇宙射线物理学先驱",
+    "bio": "Bibha Chowdhuri was an Indian physicist who made significant contributions to cosmic ray and particle physics. Working with D.M. Bose at the Bose Institute in the 1930s and 1940s, her research on cosmic ray tracks in photographic plates led to observations that were later connected to the discovery of the pi meson. Despite her groundbreaking work, her contributions remained largely unrecognized during her lifetime due to pervasive gender bias in the scientific community.",
+    "bioCn": "比巴·乔杜里是一位印度物理学家，在宇宙射线和粒子物理学领域做出了重要贡献。20世纪30至40年代，她在玻色研究所与D.M.玻色合作，对照相底片上宇宙射线径迹的研究产生了后来与π介子发现相关联的观测结果。尽管她的工作具有开创性意义，但由于科学界普遍存在的性别偏见，她的贡献在生前基本未获认可。",
+    "achievements": [
+      "Pioneering research on cosmic ray tracks in photographic plates",
+      "Observations linked to the discovery of the pi meson",
+      "One of India's earliest women physicists"
+    ],
+    "achievementsCn": [
+      "在照相底片上宇宙射线径迹方面的开创性研究",
+      "观测结果与π介子的发现相关联",
+      "印度最早的女性物理学家之一"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Indian_Scientist_Bibha_Chowdhuri.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Bibha Chowdhuri — https://en.wikipedia.org/wiki/Bibha_Chowdhuri",
+      "Bose, D.M. & Chowdhuri, B. 'On the production of new radioactive nuclei by cosmic radiation.' Nature, 1938."
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Nergis Mavalvala",
+    "nameCn": "内尔吉斯·马瓦尔瓦拉",
+    "slug": "nergis-mavalvala",
+    "field": "physics",
+    "born": 1968,
+    "died": null,
+    "nationality": "Pakistani-American",
+    "nationalityCn": "巴基斯坦裔美国人",
+    "tagline": "Key Member of the LIGO Gravitational Wave Team",
+    "taglineCn": "LIGO引力波团队核心成员",
+    "bio": "Nergis Mavalvala is a Pakistani-American experimental physicist who was part of the LIGO team that made the first direct observation of gravitational waves in 2015, confirming a prediction Einstein made a century earlier. Her expertise in precision measurement and quantum optics has been instrumental in improving the sensitivity of gravitational-wave detectors. She serves as Dean of the MIT School of Science and is a leading authority on gravitational-wave detection and quantum measurement.",
+    "bioCn": "内尔吉斯·马瓦尔瓦拉是一位巴基斯坦裔美国实验物理学家，她是LIGO团队的成员之一，该团队于2015年首次直接观测到引力波，证实了爱因斯坦一个世纪前的预言。她在精密测量和量子光学方面的专长对提高引力波探测器的灵敏度起到了关键作用。她现任MIT理学院院长，是引力波探测和量子测量领域的顶级权威。",
+    "achievements": [
+      "Part of LIGO team that first detected gravitational waves (2015)",
+      "Dean of the MIT School of Science",
+      "Leading expert in quantum measurement and gravitational-wave detection"
+    ],
+    "achievementsCn": [
+      "LIGO团队成员，首次探测到引力波（2015年）",
+      "MIT理学院院长",
+      "量子测量和引力波探测领域的顶级专家"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Nergis_Mavalvala.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Nergis Mavalvala — https://en.wikipedia.org/wiki/Nergis_Mavalvala",
+      "MIT News: Nergis Mavalvala named dean of science — https://news.mit.edu/"
+    ]
   }
 ]

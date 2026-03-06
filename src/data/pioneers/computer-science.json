@@ -918,5 +918,185 @@
       "IBM Research profile",
       "TED Talk: How new technology helps blind people explore the world, 2015"
     ]
+  },
+  {
+    "id": 117,
+    "name": "Thelma Estrin",
+    "nameCn": "塞尔玛·埃斯特林",
+    "slug": "thelma-estrin",
+    "field": "computer-science",
+    "born": 1924,
+    "died": 2014,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Biomedical Computing",
+    "taglineCn": "生物医学计算先驱",
+    "bio": "Thelma Estrin was a pioneer in applying computer technology to medical and neuroscience research. In the 1950s, she worked on WEIZAC, one of the first computers built in Israel, at the Weizmann Institute of Science. As a professor at UCLA, she helped establish the field of biomedical engineering by demonstrating how computers could analyze brain activity and other biological data. She was also a passionate advocate for women in engineering and technology throughout her career.",
+    "bioCn": "塞尔玛·埃斯特林是将计算机技术应用于医学和神经科学研究的先驱。1950年代，她在以色列魏茨曼科学研究所参与了WEIZAC的建造——这是以色列最早的计算机之一。作为加州大学洛杉矶分校教授，她通过展示计算机如何分析脑电活动和其他生物数据，帮助奠定了生物医学工程领域的基础。在整个职业生涯中，她也是女性投身工程和技术领域的积极倡导者。",
+    "achievements": [
+      "Pioneered the use of computers in biomedical research",
+      "Worked on WEIZAC, one of Israel's first computers",
+      "Championed women in engineering at UCLA"
+    ],
+    "achievementsCn": [
+      "开创了计算机在生物医学研究中的应用",
+      "参与建造以色列最早的计算机WEIZAC",
+      "在UCLA倡导女性投身工程领域"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Thelma_and_gerald_estrin.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Thelma Estrin — https://en.wikipedia.org/wiki/Thelma_Estrin",
+      "IEEE History Center: Thelma Estrin — https://ethw.org/Thelma_Estrin"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Parisa Tabriz",
+    "nameCn": "帕丽萨·塔布里兹",
+    "slug": "parisa-tabriz",
+    "field": "computer-science",
+    "born": 1983,
+    "died": null,
+    "nationality": "Iranian-American",
+    "nationalityCn": "伊朗裔美国人",
+    "tagline": "Google's 'Security Princess' and Chrome VP",
+    "taglineCn": "谷歌'安全公主'与Chrome副总裁",
+    "bio": "Parisa Tabriz is a computer security expert who serves as Vice President of Engineering for Google Chrome. She famously chose 'Security Princess' as her job title, reflecting her approachable style in a field often perceived as intimidating. Starting at Google in 2007 as an information security engineer, she built and led the team responsible for protecting Chrome's billions of users from cyber threats. Her work on browser security has made the internet fundamentally safer for users worldwide.",
+    "bioCn": "帕丽萨·塔布里兹是计算机安全专家，现任谷歌Chrome工程副总裁。她以自选的'安全公主'职位头衔闻名，体现了她在这一常被视为令人生畏的领域中平易近人的风格。2007年加入谷歌担任信息安全工程师后，她组建并领导了负责保护Chrome数十亿用户免受网络威胁的团队。她在浏览器安全方面的工作从根本上提升了全球用户的互联网安全。",
+    "achievements": [
+      "VP of Engineering for Google Chrome",
+      "Leading expert in browser and web security",
+      "Protects billions of users from cyber threats"
+    ],
+    "achievementsCn": [
+      "谷歌Chrome工程副总裁",
+      "浏览器和网络安全领域顶尖专家",
+      "保护数十亿用户免受网络威胁"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Black Hat Conference, CC BY 2.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Parisa_Tabriz_Blackhat%2717_profile.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Parisa Tabriz — https://en.wikipedia.org/wiki/Parisa_Tabriz",
+      "Wired profile: Google's Security Princess — https://www.wired.com/"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Rózsa Péter",
+    "nameCn": "罗莎·彼得",
+    "slug": "rozsa-peter",
+    "field": "computer-science",
+    "born": 1905,
+    "died": 1977,
+    "nationality": "Hungarian",
+    "nationalityCn": "匈牙利",
+    "tagline": "Founding Mother of Recursion Theory",
+    "taglineCn": "递归理论的奠基之母",
+    "bio": "Rózsa Péter is known as the 'founding mother of recursion theory,' a branch of mathematical logic that laid theoretical foundations for computer science. Her systematic study of recursive functions established the field as an independent area of research. She authored Playing with Infinity (1943), a beloved book that made complex mathematical ideas accessible to general readers and has been translated into over a dozen languages. In 1951, she became the first woman to be appointed an Academic Doctor of Mathematics in Hungary.",
+    "bioCn": "罗莎·彼得被誉为'递归理论的奠基之母'，递归理论是数理逻辑的一个分支，为计算机科学奠定了理论基础。她对递归函数的系统研究将该领域确立为独立的研究方向。1943年，她著有《与无穷共戏》一书，以通俗易懂的方式呈现复杂的数学思想，已被翻译成十多种语言。1951年，她成为匈牙利首位获得数学学术博士称号的女性。",
+    "achievements": [
+      "Founded recursion theory as an independent field",
+      "Authored Playing with Infinity, a classic popular math book",
+      "First woman Academic Doctor of Mathematics in Hungary"
+    ],
+    "achievementsCn": [
+      "将递归理论确立为独立研究领域",
+      "著有经典数学科普著作《与无穷共戏》",
+      "匈牙利首位数学学术女博士"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/RozsaPeter.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Rózsa Péter — https://en.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter",
+      "Péter, Rózsa. Playing with Infinity. Dover Publications, 1961."
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Klára Dán von Neumann",
+    "nameCn": "克拉拉·丹·冯·诺依曼",
+    "slug": "klara-dan-von-neumann",
+    "field": "computer-science",
+    "born": 1911,
+    "died": 1963,
+    "nationality": "Hungarian-American",
+    "nationalityCn": "匈裔美国人",
+    "tagline": "One of the First Computer Programmers",
+    "taglineCn": "最早的计算机程序员之一",
+    "bio": "Klára Dán von Neumann was one of the first computer programmers in history. She wrote the code for Monte Carlo method simulations on the ENIAC and MANIAC I computers, work that was critical to the Manhattan Project and hydrogen bomb calculations at Los Alamos National Laboratory. Despite her essential contributions to early computing, her work was largely uncredited during her lifetime, overshadowed by the fame of her husband, mathematician John von Neumann.",
+    "bioCn": "克拉拉·丹·冯·诺依曼是历史上最早的计算机程序员之一。她为ENIAC和MANIAC I计算机编写了蒙特卡洛方法模拟代码，这些工作对洛斯阿拉莫斯国家实验室的曼哈顿计划和氢弹计算至关重要。尽管她对早期计算做出了不可或缺的贡献，但在她有生之年，这些工作大多未被署名，被她丈夫——数学家约翰·冯·诺依曼——的声名所掩盖。",
+    "achievements": [
+      "Programmed Monte Carlo simulations on ENIAC and MANIAC I",
+      "Critical contributions to Manhattan Project computing",
+      "One of the first programmers in computing history"
+    ],
+    "achievementsCn": [
+      "在ENIAC和MANIAC I上编写蒙特卡洛模拟程序",
+      "对曼哈顿计划的计算工作做出关键贡献",
+      "计算机历史上最早的程序员之一"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Photograph_of_Klara_Dan_von_Neumann.png",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Klára Dán von Neumann — https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann",
+      "Computer History Museum: Klára Dán von Neumann — https://www.computerhistory.org/"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Valerie Thomas",
+    "nameCn": "瓦莱丽·托马斯",
+    "slug": "valerie-thomas",
+    "field": "computer-science",
+    "born": 1943,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "NASA Inventor of the Illusion Transmitter",
+    "taglineCn": "NASA幻象发射器发明者",
+    "bio": "Valerie Thomas is a NASA scientist and inventor who patented the illusion transmitter in 1980, a pioneering technology that uses concave mirrors to produce real-time three-dimensional illusions of remote objects. She managed the Landsat data system at NASA Goddard Space Flight Center, overseeing satellite imagery that has been used for decades in environmental and geological research. As one of the first African American women to work as a scientist at NASA, she paved the way for greater diversity in space science.",
+    "bioCn": "瓦莱丽·托马斯是NASA科学家和发明家，1980年获得幻象发射器专利——一项利用凹面镜实时生成远程物体三维影像的开创性技术。她在NASA戈达德航天飞行中心管理陆地卫星（Landsat）数据系统，监管的卫星图像数十年来广泛用于环境和地质研究。作为NASA最早的非裔美国女性科学家之一，她为太空科学的多元化铺平了道路。",
+    "achievements": [
+      "Patented the illusion transmitter for 3D imaging (1980)",
+      "Managed NASA's Landsat satellite data system",
+      "One of the first African American women scientists at NASA"
+    ],
+    "achievementsCn": [
+      "获得3D成像幻象发射器专利（1980年）",
+      "管理NASA陆地卫星数据系统",
+      "NASA最早的非裔美国女性科学家之一"
+    ],
+    "era": "20th Century",
+    "imageCredit": "NASA, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Valerie_L._Thomas_standing_with_a_stack_of_early_Landsat_Computer_Compatible_Tapes.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Valerie Thomas — https://en.wikipedia.org/wiki/Valerie_Thomas_(scientist)",
+      "NASA biography: Valerie Thomas — https://www.nasa.gov/"
+    ]
   }
 ]

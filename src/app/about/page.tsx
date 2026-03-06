@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { stats } from "@/lib/data";
 
 export default function AboutPage() {
   return (
@@ -29,8 +30,8 @@ export default function AboutPage() {
             </p>
             <p className="leading-relaxed text-lg mt-4">
               From Hypatia of ancient Alexandria to the AI researchers of today,
-              the museum presents a curated collection of 111 pioneers across 10
-              fields whose ideas, discoveries, and inventions have shaped the
+              the museum presents a curated collection of {stats.pioneerCount} pioneers across {stats.fieldCount}
+              {" "}fields whose ideas, discoveries, and inventions have shaped the
               technological world we inhabit.
             </p>
             <p className="leading-relaxed text-lg mt-4">
@@ -43,7 +44,7 @@ export default function AboutPage() {
             </p>
             <p className="leading-relaxed text-white/35 mt-4">
               从古代亚历山大的希帕提娅（Hypatia）到当代 AI 研究者，本馆收录了
-              10 个领域中的 111 位科技先驱。她们的思想、发现与发明共同塑造了今天的技术世界。
+              {stats.fieldCount} 个领域中的 {stats.pioneerCount} 位科技先驱。她们的思想、发现与发明共同塑造了今天的技术世界。
             </p>
             <p className="leading-relaxed text-white/35 mt-4">
               本项目被构想为一个不断生长的数字档案（Living Archive），持续记录那些推动知识进步、改变产业格局并拓展人类可能性的女性。

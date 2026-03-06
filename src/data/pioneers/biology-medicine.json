@@ -433,5 +433,185 @@
       "Wikipedia: Virginia Apgar — https://en.wikipedia.org/wiki/Virginia_Apgar",
       "Apgar, V. 'A Proposal for a New Method of Evaluation of the Newborn Infant,' Anesthesia & Analgesia, 1953."
     ]
+  },
+  {
+    "id": 137,
+    "name": "Gerty Cori",
+    "nameCn": "格蒂·科里",
+    "slug": "gerty-cori",
+    "field": "biology-medicine",
+    "born": 1896,
+    "died": 1957,
+    "nationality": "Czech-American",
+    "nationalityCn": "捷克裔美国人",
+    "tagline": "First American Woman to Win a Nobel Prize in Science",
+    "taglineCn": "第一位获得诺贝尔科学奖的美国女性",
+    "bio": "Gerty Cori shared the 1947 Nobel Prize in Physiology or Medicine with her husband Carl Cori for their discovery of the catalytic conversion of glycogen, known as the Cori cycle. She was the first American woman to win a Nobel Prize in science and only the third woman in history to receive a Nobel in any scientific field. Despite her extraordinary abilities, she faced persistent gender discrimination — universities refused to offer her a faculty position for years because she was a married woman. She continued groundbreaking research on carbohydrate metabolism until her death from myelofibrosis in 1957.",
+    "bioCn": "格蒂·科里与丈夫卡尔·科里因发现糖原的催化转化过程（即科里循环）而分享了1947年诺贝尔生理学或医学奖。她是第一位获得诺贝尔科学奖的美国女性，也是历史上第三位获得诺贝尔科学奖的女性。尽管她能力出众，却长期面临性别歧视——多所大学多年来拒绝给她教职，因为她是已婚女性。她继续进行开创性的碳水化合物代谢研究，直到1957年因骨髓纤维化去世。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (1947) for the Cori cycle",
+      "First American woman to win a Nobel Prize in science",
+      "Third woman in history to receive a scientific Nobel Prize"
+    ],
+    "achievementsCn": [
+      "因发现科里循环获诺贝尔生理学或医学奖（1947年）",
+      "第一位获得诺贝尔科学奖的美国女性",
+      "历史上第三位获得诺贝尔科学奖的女性"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Gerty_Theresa_Cori.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Gerty Cori — https://en.wikipedia.org/wiki/Gerty_Cori",
+      "Nobel Prize: Gerty Theresa Cori — https://www.nobelprize.org/prizes/medicine/1947/cori-gt/"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "May-Britt Moser",
+    "nameCn": "梅-布里特·莫泽",
+    "slug": "may-britt-moser",
+    "field": "biology-medicine",
+    "born": 1963,
+    "died": null,
+    "nationality": "Norwegian",
+    "nationalityCn": "挪威",
+    "tagline": "Nobel Laureate for Discovering Grid Cells in the Brain",
+    "taglineCn": "因发现大脑网格细胞获诺贝尔奖",
+    "bio": "May-Britt Moser shared the 2014 Nobel Prize in Physiology or Medicine for discovering grid cells in the brain that form a positioning system enabling spatial navigation. Working alongside Edvard Moser at the Norwegian University of Science and Technology, she revealed how the brain creates an internal map of the environment. Their discoveries were fundamental to understanding how the brain computes location, direction, and distance. Her work has profound implications for understanding memory disorders such as Alzheimer's disease.",
+    "bioCn": "梅-布里特·莫泽因发现大脑中构成定位系统、实现空间导航的网格细胞而分享了2014年诺贝尔生理学或医学奖。她与爱德华·莫泽在挪威科技大学合作，揭示了大脑如何创建环境的内部地图。他们的发现对于理解大脑如何计算位置、方向和距离至关重要。她的工作对理解阿尔茨海默症等记忆障碍有深远影响。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2014) for discovering grid cells",
+      "Revealed how the brain creates internal maps for navigation",
+      "Research has major implications for understanding Alzheimer's disease"
+    ],
+    "achievementsCn": [
+      "因发现网格细胞获诺贝尔生理学或医学奖（2014年）",
+      "揭示了大脑如何创建用于导航的内部地图",
+      "研究对理解阿尔茨海默症有重大意义"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA 3.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/May-Britt_Moser_2014.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: May-Britt Moser — https://en.wikipedia.org/wiki/May-Britt_Moser",
+      "Nobel Prize: May-Britt Moser — https://www.nobelprize.org/prizes/medicine/2014/moser/"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Florence Sabin",
+    "nameCn": "弗洛伦斯·萨宾",
+    "slug": "florence-sabin",
+    "field": "biology-medicine",
+    "born": 1871,
+    "died": 1953,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer of Lymphatic System Research",
+    "taglineCn": "淋巴系统研究先驱",
+    "bio": "Florence Sabin was the first woman to hold a full professorship at Johns Hopkins School of Medicine and the first woman elected to the National Academy of Sciences. She made pioneering contributions to the understanding of the lymphatic system, demonstrating that lymphatic vessels grow from veins through a process of budding. Her research on tuberculosis at the Rockefeller Institute advanced the understanding of the disease. After retirement, she led a public health crusade in Colorado that resulted in landmark legislation known as the Sabin health laws.",
+    "bioCn": "弗洛伦斯·萨宾是约翰斯·霍普金斯医学院第一位女性正教授，也是第一位当选美国国家科学院院士的女性。她对淋巴系统的理解做出了开创性贡献，证明淋巴管通过出芽方式从静脉生长而来。她在洛克菲勒研究所对结核病的研究推进了对该疾病的认识。退休后，她在科罗拉多州领导了一场公共卫生运动，促成了被称为'萨宾卫生法'的里程碑式立法。",
+    "achievements": [
+      "First woman to hold a full professorship at Johns Hopkins Medicine",
+      "First woman elected to the National Academy of Sciences",
+      "Led Colorado public health reform known as the Sabin health laws"
+    ],
+    "achievementsCn": [
+      "约翰斯·霍普金斯医学院第一位女性正教授",
+      "第一位当选美国国家科学院院士的女性",
+      "领导科罗拉多州公共卫生改革，促成'萨宾卫生法'"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Public Domain",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Florence_Sabin_1922-09-01.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Florence R. Sabin — https://en.wikipedia.org/wiki/Florence_R._Sabin",
+      "Bluemel, Elinor. Florence Sabin: Colorado Woman of the Century. University Press of Colorado, 1959."
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Helen Taussig",
+    "nameCn": "海伦·陶西格",
+    "slug": "helen-taussig",
+    "field": "biology-medicine",
+    "born": 1898,
+    "died": 1986,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Founder of Pediatric Cardiology",
+    "taglineCn": "小儿心脏病学创始人",
+    "bio": "Helen Taussig is widely recognized as the founder of pediatric cardiology. She conceived the idea for the Blalock-Taussig shunt, a surgical procedure first performed in 1944 that saved thousands of infants born with congenital heart defects known as \"blue babies.\" Overcoming severe hearing loss and dyslexia, she became one of the most influential cardiologists of the 20th century. She also played a key role in alerting the United States to the dangers of thalidomide, helping prevent a major drug disaster in America.",
+    "bioCn": "海伦·陶西格被公认为小儿心脏病学的创始人。她构想了布莱洛克-陶西格分流术，这一手术于1944年首次实施，拯救了数千名患有先天性心脏缺陷（即'蓝婴'）的婴儿。她克服了严重的听力损失和阅读障碍，成为20世纪最具影响力的心脏病学家之一。她还在提醒美国注意沙利度胺的危险方面发挥了关键作用，帮助避免了一场重大药物灾难。",
+    "achievements": [
+      "Founded the field of pediatric cardiology",
+      "Conceived the Blalock-Taussig shunt saving thousands of blue babies",
+      "Helped expose the thalidomide crisis and prevent its spread in the U.S."
+    ],
+    "achievementsCn": [
+      "创立了小儿心脏病学领域",
+      "构想了布莱洛克-陶西格分流术，拯救了数千名蓝婴",
+      "帮助揭露沙利度胺危机并防止其在美国蔓延"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fa/Helen_B._Taussig.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Helen B. Taussig — https://en.wikipedia.org/wiki/Helen_B._Taussig",
+      "Baldwin, Joyce. To Heal the Heart of a Child: Helen Taussig, M.D. Walker & Co., 1992."
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Dian Fossey",
+    "nameCn": "黛安·弗西",
+    "slug": "dian-fossey",
+    "field": "biology-medicine",
+    "born": 1932,
+    "died": 1985,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Devoted Her Life to Protecting Mountain Gorillas",
+    "taglineCn": "毕生致力于保护山地大猩猩",
+    "bio": "Dian Fossey was an American primatologist who devoted her life to studying and protecting mountain gorillas in the Virunga Mountains of Rwanda. She founded the Karisoke Research Center in 1967, where she spent 18 years conducting groundbreaking field research on gorilla behavior and social structure. Her 1983 book \"Gorillas in the Mist\" brought worldwide attention to the plight of endangered gorillas and galvanized conservation efforts. She was murdered at her camp in 1985, likely by poachers she had fiercely fought against throughout her career.",
+    "bioCn": "黛安·弗西是一位美国灵长类动物学家，她毕生致力于在卢旺达维龙加山脉研究和保护山地大猩猩。她于1967年创立了卡里索凯研究中心，在那里花了18年进行开创性的大猩猩行为和社会结构的野外研究。她1983年的著作《迷雾中的大猩猩》引起了全世界对濒危大猩猩困境的关注，推动了保护工作。1985年她在营地被谋杀，凶手很可能是她在整个职业生涯中激烈对抗的偷猎者。",
+    "achievements": [
+      "Founded the Karisoke Research Center in Rwanda (1967)",
+      "Published 'Gorillas in the Mist,' galvanizing gorilla conservation worldwide",
+      "Conducted 18 years of groundbreaking gorilla field research"
+    ],
+    "achievementsCn": [
+      "在卢旺达创立卡里索凯研究中心（1967年）",
+      "出版《迷雾中的大猩猩》，推动全球大猩猩保护",
+      "进行了18年开创性的大猩猩野外研究"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Santa Barbara News-Press, Fair Use",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Dian_Fossey_sitting%2C_Santa_Barbara_News-Press_1981-05-06_25.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Dian Fossey — https://en.wikipedia.org/wiki/Dian_Fossey",
+      "Fossey, Dian. Gorillas in the Mist. Houghton Mifflin, 1983."
+    ]
   }
 ]

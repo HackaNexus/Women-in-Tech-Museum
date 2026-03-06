@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { fields } from "@/lib/data";
+import { fields, stats } from "@/lib/data";
 import { Shelf } from "@/components/shared/Shelf";
 import { FieldCard } from "@/components/shared/FieldCard";
 
@@ -20,7 +20,7 @@ export default function ExhibitionsPage() {
           Exhibition Halls
         </h1>
         <p className="text-white/30 text-lg mb-16">
-          展览馆 &mdash; 10 fields, 111 pioneers
+          展览馆 &mdash; {stats.fieldCount} fields, {stats.pioneerCount} pioneers
         </p>
 
         <div className="bookshelf-wrapper bookshelf-dark">

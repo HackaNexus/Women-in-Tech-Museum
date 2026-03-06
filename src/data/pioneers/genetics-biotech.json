@@ -214,5 +214,185 @@
       "Nobel Prize: Elizabeth H. Blackburn — https://www.nobelprize.org/prizes/medicine/2009/blackburn/",
       "Blackburn, E. & Epel, E. The Telomere Effect. Grand Central Publishing, 2017."
     ]
+  },
+  {
+    "id": 152,
+    "name": "Nancy Wexler",
+    "nameCn": "南希·韦克斯勒",
+    "slug": "nancy-wexler",
+    "field": "genetics-biotech",
+    "born": 1945,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Led Discovery of the Huntington's Disease Gene",
+    "taglineCn": "领导发现亨廷顿病基因",
+    "bio": "Nancy Wexler is a neuropsychologist who led the international effort to locate the gene responsible for Huntington's disease. Her groundbreaking research with a large Venezuelan kindred near Lake Maracaibo was crucial to mapping the gene to chromosome 4 in 1983 and ultimately identifying it in 1993. Her quest was deeply personal — her own mother died of Huntington's disease. As president of the Hereditary Disease Foundation, she has dedicated her career to understanding and combating hereditary diseases.",
+    "bioCn": "南希·韦克斯勒是一位神经心理学家，领导了定位亨廷顿病致病基因的国际研究。她对委内瑞拉马拉开波湖附近一个大家族的开创性研究，对1983年将该基因定位到第4号染色体以及1993年最终鉴定该基因起到了关键作用。她的探索有着深刻的个人原因——她的母亲死于亨廷顿病。作为遗传性疾病基金会主席，她毕生致力于理解和对抗遗传性疾病。",
+    "achievements": [
+      "Led effort to locate the Huntington's disease gene",
+      "Research crucial to mapping gene to chromosome 4 (1983)",
+      "President of the Hereditary Disease Foundation"
+    ],
+    "achievementsCn": [
+      "领导定位亨廷顿病基因的研究",
+      "研究对将基因定位到第4号染色体起关键作用（1983年）",
+      "遗传性疾病基金会主席"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Nancy_Wexler_%281%29_%28cropped%29.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Nancy Wexler — https://en.wikipedia.org/wiki/Nancy_Wexler",
+      "Wexler, A. Mapping Fate: A Memoir of Family, Risk, and Genetic Research. University of California Press, 1996."
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Janet Rowley",
+    "nameCn": "珍妮特·罗利",
+    "slug": "janet-rowley",
+    "field": "genetics-biotech",
+    "born": 1925,
+    "died": 2013,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Proved Chromosomal Translocations Cause Cancer",
+    "taglineCn": "证明染色体易位可导致癌症",
+    "bio": "Janet Rowley was a geneticist who discovered in 1972 that chromosomal translocations — where pieces of chromosomes swap places — can cause cancer, fundamentally changing our understanding of cancer genetics. She identified the specific translocation in the Philadelphia chromosome responsible for chronic myelogenous leukemia. Her work led directly to the development of imatinib (Gleevec), one of the first targeted cancer therapies. She received the Presidential Medal of Freedom in 2009 for her transformative contributions to medicine.",
+    "bioCn": "珍妮特·罗利是一位遗传学家，1972年发现染色体易位——即染色体片段互换位置——可以导致癌症，从根本上改变了人们对癌症遗传学的认识。她鉴定了慢性粒细胞白血病中费城染色体的特定易位。她的工作直接促成了伊马替尼（格列卫）的开发，这是最早的靶向癌症疗法之一。2009年，她因对医学的变革性贡献获得了总统自由勋章。",
+    "achievements": [
+      "Discovered chromosomal translocations cause cancer (1972)",
+      "Identified Philadelphia chromosome translocation in leukemia",
+      "Presidential Medal of Freedom (2009)"
+    ],
+    "achievementsCn": [
+      "发现染色体易位可导致癌症（1972年）",
+      "鉴定白血病中费城染色体的易位",
+      "总统自由勋章（2009年）"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Janet_Rowley_2009.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Janet Rowley — https://en.wikipedia.org/wiki/Janet_Rowley",
+      "National Medal of Science and Presidential Medal of Freedom citations."
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Carol Greider",
+    "nameCn": "卡罗尔·格雷德",
+    "slug": "carol-greider",
+    "field": "genetics-biotech",
+    "born": 1961,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Nobel Laureate for Telomerase Discovery",
+    "taglineCn": "因发现端粒酶获诺贝尔奖",
+    "bio": "Carol Greider is a molecular biologist who co-discovered telomerase, the enzyme that replenishes telomeres at chromosome ends, while still a graduate student in Elizabeth Blackburn's laboratory in 1984. This groundbreaking discovery revealed a fundamental mechanism of cellular aging and cancer biology. She shared the 2009 Nobel Prize in Physiology or Medicine with Blackburn and Jack Szostak. Her continued research on telomere biology has profound implications for understanding aging, cancer, and age-related diseases.",
+    "bioCn": "卡罗尔·格雷德是一位分子生物学家，1984年还在伊丽莎白·布莱克本实验室攻读研究生时，就共同发现了端粒酶——一种补充染色体末端端粒的酶。这一突破性发现揭示了细胞衰老和癌症生物学的基本机制。她与布莱克本和杰克·绍斯塔克共同获得2009年诺贝尔生理学或医学奖。她在端粒生物学方面的持续研究对理解衰老、癌症和衰老相关疾病具有深远意义。",
+    "achievements": [
+      "Nobel Prize in Physiology or Medicine (2009)",
+      "Co-discovered telomerase as a graduate student (1984)",
+      "Revealed fundamental mechanisms of cellular aging"
+    ],
+    "achievementsCn": [
+      "诺贝尔生理学或医学奖（2009年）",
+      "研究生期间共同发现端粒酶（1984年）",
+      "揭示细胞衰老的基本机制"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Christopher Michel, CC BY-SA 4.0",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Carol_Greider_by_Chris_Michel_1s946948-11-23.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Carol W. Greider — https://en.wikipedia.org/wiki/Carol_W._Greider",
+      "Nobel Prize: Carol W. Greider — https://www.nobelprize.org/prizes/medicine/2009/greider/"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Lydia Villa-Komaroff",
+    "nameCn": "莉迪亚·比利亚-科马罗夫",
+    "slug": "lydia-villa-komaroff",
+    "field": "genetics-biotech",
+    "born": 1947,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Pioneer in Bacterial Insulin Gene Cloning",
+    "taglineCn": "细菌胰岛素基因克隆先驱",
+    "bio": "Lydia Villa-Komaroff is a Mexican-American molecular biologist who was part of the team that first demonstrated bacteria could be engineered to produce insulin in 1978, paving the way for mass production of synthetic insulin for diabetes treatment. She was one of the first Mexican-American women to earn a PhD in science. As a co-founder of the Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS), she has been a tireless advocate for diversity in STEM fields.",
+    "bioCn": "莉迪亚·比利亚-科马罗夫是一位墨西哥裔美国分子生物学家，1978年她所在的团队首次证明细菌可以被改造以生产胰岛素，为大规模生产合成胰岛素治疗糖尿病铺平了道路。她是最早获得科学博士学位的墨西哥裔美国女性之一。作为推动奇卡诺/拉丁裔和美洲原住民科学进步协会（SACNAS）的联合创始人，她一直是STEM领域多元化的不懈倡导者。",
+    "achievements": [
+      "Part of team that first cloned insulin gene in bacteria (1978)",
+      "One of the first Mexican-American women with a science PhD",
+      "Co-founded SACNAS for diversity in STEM"
+    ],
+    "achievementsCn": [
+      "参与首次在细菌中克隆胰岛素基因的团队（1978年）",
+      "最早获得科学博士学位的墨西哥裔美国女性之一",
+      "联合创立推动STEM多元化的SACNAS"
+    ],
+    "era": "20th Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lydia_Villa-Komaroff-2.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Lydia Villa-Komaroff — https://en.wikipedia.org/wiki/Lydia_Villa-Komaroff",
+      "SACNAS — https://www.sacnas.org/"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Bonnie Bassler",
+    "nameCn": "邦妮·巴斯勒",
+    "slug": "bonnie-bassler",
+    "field": "genetics-biotech",
+    "born": 1962,
+    "died": null,
+    "nationality": "American",
+    "nationalityCn": "美国",
+    "tagline": "Discovered Bacterial Quorum Sensing",
+    "taglineCn": "发现细菌群体感应",
+    "bio": "Bonnie Bassler is a molecular biologist who discovered that bacteria communicate through chemical signaling molecules in a process called quorum sensing. Her research revealed that bacteria coordinate group behaviors — including virulence, biofilm formation, and antibiotic resistance — by detecting the density of their population through these chemical signals. This work has opened entirely new approaches to developing antibiotics. She is a MacArthur Fellow, Howard Hughes Medical Institute investigator, and professor at Princeton University.",
+    "bioCn": "邦妮·巴斯勒是一位分子生物学家，发现了细菌通过化学信号分子进行交流的过程——群体感应。她的研究揭示了细菌通过检测其种群密度的化学信号来协调群体行为，包括毒力、生物膜形成和抗生素耐药性。这一工作开辟了开发抗生素的全新途径。她是麦克阿瑟奖获得者、霍华德·休斯医学研究所研究员和普林斯顿大学教授。",
+    "achievements": [
+      "Discovered quorum sensing in bacteria",
+      "Opened new approaches to antibiotic development",
+      "MacArthur Fellow and HHMI investigator"
+    ],
+    "achievementsCn": [
+      "发现细菌群体感应",
+      "开辟抗生素开发的新途径",
+      "麦克阿瑟奖获得者和HHMI研究员"
+    ],
+    "era": "21st Century",
+    "imageCredit": "Wikimedia Commons, CC BY-SA",
+    "featured": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bassler.jpg",
+    "quote": "",
+    "quoteCn": "",
+    "quoteSource": "",
+    "references": [
+      "Wikipedia: Bonnie Bassler — https://en.wikipedia.org/wiki/Bonnie_Bassler",
+      "Bassler, B. 'How Bacteria Talk to Each Other,' TED Talk, 2009."
+    ]
   }
 ]
