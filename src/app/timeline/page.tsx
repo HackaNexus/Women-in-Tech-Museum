@@ -81,9 +81,9 @@ export default function TimelinePage() {
       </motion.svg>
 
       <section ref={sectionRef} className="relative z-10 max-w-7xl mx-auto px-5 sm:px-8 lg:px-10 pb-24">
-        <nav className="text-xs text-white/30 tracking-wide mb-10">
+        <nav className="text-xs text-white/45 tracking-wide mb-10">
           <Link href="/" className="hover:text-museum-gold transition-colors">Home</Link>
-          <span className="mx-2 text-white/10">/</span>
+          <span className="mx-2 text-white/18">/</span>
           <span className="text-white/60">Timeline</span>
         </nav>
 
@@ -93,10 +93,10 @@ export default function TimelinePage() {
         <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl text-white font-light mb-2">
           Timeline
         </h1>
-        <p className="text-white/30 mb-14">
+        <p className="text-white/45 mb-14">
           时间长廊 &mdash; 4,000 years of women in STEM
         </p>
-        <p className="text-[0.65rem] text-white/40 mb-8">
+        <p className="text-[0.65rem] text-white/55 mb-8">
           按出生年份筛选 · Filter by birth year
         </p>
 
@@ -107,7 +107,7 @@ export default function TimelinePage() {
             className={`px-4 py-2 rounded-sm text-xs tracking-wide transition-colors ${
               eraIdx === null
                 ? "bg-museum-gold text-museum-bg"
-                : "text-white/40 border border-white/10 hover:border-museum-gold/40"
+                : "text-white/55 border border-white/18 hover:border-museum-gold/40"
             }`}
           >
             All Eras
@@ -119,7 +119,7 @@ export default function TimelinePage() {
               className={`px-4 py-2 rounded-sm text-xs tracking-wide transition-colors ${
                 eraIdx === i
                   ? "bg-museum-gold text-museum-bg"
-                  : "text-white/40 border border-white/10 hover:border-museum-gold/40"
+                  : "text-white/55 border border-white/18 hover:border-museum-gold/40"
               }`}
             >
               {e.cn}
@@ -134,7 +134,7 @@ export default function TimelinePage() {
             className={`px-3 py-1.5 rounded-sm text-xs transition-colors ${
               fieldId === null
                 ? "bg-museum-gold text-museum-bg"
-                : "text-white/40 border border-white/10 hover:border-museum-gold/40"
+                : "text-white/55 border border-white/18 hover:border-museum-gold/40"
             }`}
           >
             All Fields
@@ -146,7 +146,7 @@ export default function TimelinePage() {
               className={`px-3 py-1.5 rounded-sm text-xs transition-colors ${
                 fieldId === f.id
                   ? "text-white"
-                  : "text-white/40 border border-white/10 hover:border-museum-gold/40"
+                  : "text-white/55 border border-white/18 hover:border-museum-gold/40"
               }`}
               style={fieldId === f.id ? { backgroundColor: f.color } : undefined}
             >
@@ -201,13 +201,13 @@ export default function TimelinePage() {
                           <h3 className="font-display text-sm text-white/80 group-hover:text-museum-gold transition-colors">
                             {p.name}
                           </h3>
-                          <p className="text-xs text-white/30">{p.nameCn}</p>
+                          <p className="text-xs text-white/45">{p.nameCn}</p>
                         </div>
                       </div>
-                      <p className={`text-[0.7rem] text-white/20 mt-2 ${left ? "sm:text-right" : ""}`}>
+                      <p className={`text-[0.7rem] text-white/35 mt-2 ${left ? "sm:text-right" : ""}`}>
                         {formatLifespan(p.born, p.died)}
                       </p>
-                      <p className={`text-xs text-white/30 mt-1 line-clamp-2 ${left ? "sm:text-right" : ""}`}>
+                      <p className={`text-xs text-white/45 mt-1 line-clamp-2 ${left ? "sm:text-right" : ""}`}>
                         {p.taglineCn}
                       </p>
                     </Link>
@@ -219,7 +219,7 @@ export default function TimelinePage() {
         </div>
 
         {filtered.length === 0 && (
-          <div className="text-center py-24 text-white/30">
+          <div className="text-center py-24 text-white/45">
             <p>No results for this filter combination.</p>
             <button
               onClick={() => { setEraIdx(null); setFieldId(null); }}

@@ -69,7 +69,7 @@ export function FieldCard({ field }: { field: Field }) {
                 className="inline-block w-2 h-2 rounded-full mt-0.5 opacity-80"
                 style={{ backgroundColor: field.color }}
               />
-              <span className="text-[0.6rem] text-white/40 tracking-[0.15em] uppercase">
+              <span className="text-[0.6rem] text-white/55 tracking-[0.15em] uppercase">
                 {pioneers.length}
               </span>
             </div>
@@ -78,13 +78,13 @@ export function FieldCard({ field }: { field: Field }) {
               <h3 className="font-display text-white text-lg sm:text-xl leading-[1.15] mb-1">
                 {field.nameCn}
               </h3>
-              <p className="text-white/50 text-[0.6rem] sm:text-[0.65rem] tracking-[0.08em] uppercase leading-snug">
+              <p className="text-white/65 text-[0.6rem] sm:text-[0.65rem] tracking-[0.08em] uppercase leading-snug">
                 {field.name}
               </p>
 
               <div className="mt-2 max-h-0 group-hover:max-h-16 overflow-hidden transition-all duration-500 ease-out">
                 <div className="pt-2 border-t border-white/10">
-                  <p className="text-white/40 text-[0.6rem] leading-relaxed tracking-wide">
+                  <p className="text-white/55 text-[0.6rem] leading-relaxed tracking-wide">
                     {names}
                   </p>
                 </div>

@@ -165,10 +165,10 @@ export function StatsSection() {
             className="absolute inset-0"
             style={{ opacity: galleryOpacity, scale: galleryScale }}
           >
-            {/* Deep dark base */}
-            <div className="absolute inset-0 bg-[#060608]" />
+            {/* Base — 略提亮 */}
+            <div className="absolute inset-0 bg-[#0c0c10]" />
 
-            {/* Classical portrait mosaic — very low opacity background */}
+            {/* Classical portrait mosaic — 提高肖像可见度 */}
             <div className="absolute inset-0 grid grid-cols-4 grid-rows-3 gap-0">
               {galleryImages.slice(0, 8).map((img, i) => {
                 const placements = [
@@ -189,13 +189,13 @@ export function StatsSection() {
                     style={{
                       gridColumn: p.col,
                       gridRow: p.row,
-                      opacity: 0.15 + (i % 3) * 0.05,
+                      opacity: 0.35 + (i % 3) * 0.1,
                     }}
                   >
                     <img
                       src={img.src}
                       alt={img.name}
-                      className="w-full h-full object-cover grayscale"
+                      className="w-full h-full object-cover grayscale brightness-110"
                       loading="lazy"
                     />
                   </div>
@@ -203,17 +203,17 @@ export function StatsSection() {
               })}
             </div>
 
-            {/* Dark overlay to deepen the portraits */}
+            {/* 减弱暗色遮罩，让背景更亮 */}
             <div className="absolute inset-0" style={{
               background:
-                "radial-gradient(ellipse 90% 80% at 50% 50%, rgba(6,6,8,0.55) 0%, rgba(6,6,8,0.8) 100%)",
+                "radial-gradient(ellipse 90% 80% at 50% 50%, rgba(6,6,8,0.25) 0%, rgba(6,6,8,0.5) 100%)",
             }} />
 
-            {/* Warm atmospheric glow */}
+            {/* Warm atmospheric glow — 略增强 */}
             <div className="absolute inset-0" style={{
               background:
-                "radial-gradient(ellipse 50% 40% at 30% 25%, rgba(180,140,80,0.08) 0%, transparent 70%), " +
-                "radial-gradient(ellipse 40% 35% at 75% 70%, rgba(120,90,60,0.06) 0%, transparent 65%)",
+                "radial-gradient(ellipse 50% 40% at 30% 25%, rgba(180,140,80,0.14) 0%, transparent 70%), " +
+                "radial-gradient(ellipse 40% 35% at 75% 70%, rgba(120,90,60,0.1) 0%, transparent 65%)",
             }} />
 
             {/* Geometric line decorations — Shopify Editions style */}
@@ -261,9 +261,9 @@ export function StatsSection() {
               backgroundSize: "256px 256px",
             }} />
 
-            {/* Vignette */}
+            {/* Vignette — 减弱暗角 */}
             <div className="absolute inset-0" style={{
-              background: "radial-gradient(ellipse 75% 65% at 50% 50%, transparent 30%, rgba(0,0,0,0.5) 100%)",
+              background: "radial-gradient(ellipse 75% 65% at 50% 50%, transparent 40%, rgba(0,0,0,0.25) 100%)",
             }} />
 
             {/* Mission statement */}
@@ -278,7 +278,7 @@ export function StatsSection() {
                   pioneers, inviting visitors to engage with the rich legacy of
                   their contributions through a contemporary platform.
                 </blockquote>
-                <p className="font-display text-base sm:text-lg text-white/35 display-italic mt-6">
+                <p className="font-display text-base sm:text-lg text-white/75 display-italic mt-6">
                   我们的使命是颂扬和保存女性先驱的故事，
                   邀请访客通过当代平台感受她们贡献的丰厚财产。
                 </p>
@@ -302,10 +302,10 @@ export function StatsSection() {
                 <p className="font-display text-4xl sm:text-5xl text-museum-gold font-light">
                   <Counter value={s.value} suffix={s.suffix} />
                 </p>
-                <p className="text-xs tracking-[0.15em] uppercase text-white/30 mt-2">
+                <p className="text-xs tracking-[0.15em] uppercase text-white/45 mt-2">
                   {s.label}
                 </p>
-                <p className="text-xs text-white/20 mt-0.5">{s.labelCn}</p>
+                <p className="text-xs text-white/50 mt-0.5">{s.labelCn}</p>
               </div>
             ))}
           </div>
@@ -319,15 +319,15 @@ export function StatsSection() {
             <p className="font-display text-lg sm:text-xl text-white/80">
               Continuously Updated &middot; Contributions Welcome
             </p>
-            <p className="text-sm text-white/35 mt-2">
+            <p className="text-sm text-white/50 mt-2">
               持续更新中 &middot; 欢迎投稿
             </p>
-            <p className="text-xs text-white/20 mt-4 max-w-md mx-auto leading-relaxed">
+            <p className="text-xs text-white/50 mt-4 max-w-md mx-auto leading-relaxed">
               This is a living collection. We welcome suggestions for additional
               pioneers, corrections to existing entries, and contributions of
               public domain images.
             </p>
-            <p className="text-xs text-white/15 mt-2">
+            <p className="text-xs text-white/40 mt-2">
               欢迎推荐新的先驱人物、指正内容错误，或贡献公有领域图片。
             </p>
           </div>

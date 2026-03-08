@@ -19,7 +19,7 @@ export default function ExhibitionsPage() {
         <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl text-white font-light mb-2">
           Exhibition Halls
         </h1>
-        <p className="text-white/30 text-lg mb-16">
+        <p className="text-white/45 text-lg mb-16">
           展览馆 &mdash; {stats.fieldCount} fields, {stats.pioneerCount} pioneers
         </p>
 

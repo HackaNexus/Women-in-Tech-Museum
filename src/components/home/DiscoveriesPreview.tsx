@@ -113,7 +113,7 @@ function PreviewCard({ item, index }: { item: FloatingItem; index: number }) {
           <span style={{ color: `${item.fieldColor}66` }}>/</span>
           <span className="text-white/70 tracking-wide font-light ml-1">{item.text}</span>
         </div>
-        <p className="text-white/20 text-[0.6rem] mt-0.5 ml-3 whitespace-nowrap">{item.textEn}</p>
+        <p className="text-white/35 text-[0.6rem] mt-0.5 ml-3 whitespace-nowrap">{item.textEn}</p>
       </motion.div>
 
       {hovered && (
@@ -177,7 +177,7 @@ export function DiscoveriesPreview() {
             </h2>
             <Link
               href="/discoveries"
-              className="group inline-flex items-center gap-3 text-white/40 hover:text-museum-gold transition-colors duration-300 self-start sm:self-auto"
+              className="group inline-flex items-center gap-3 text-white/55 hover:text-museum-gold transition-colors duration-300 self-start sm:self-auto"
             >
               <span className="text-sm tracking-wide">Explore All</span>
               <span className="inline-block transition-transform duration-300 group-hover:translate-x-1">
@@ -185,7 +185,7 @@ export function DiscoveriesPreview() {
               </span>
             </Link>
           </div>
-          <p className="text-white/20 mt-4 text-sm">
+          <p className="text-white/35 mt-4 text-sm">
             悬停探索每项成就背后的先驱者
           </p>
         </motion.div>
@@ -218,7 +218,7 @@ export function DiscoveriesPreview() {
         >
           <Link
             href="/discoveries"
-            className="inline-block border border-white/15 text-white/50 text-xs tracking-[0.2em] uppercase px-10 py-4 hover:border-museum-gold/40 hover:text-museum-gold transition-all duration-500"
+            className="inline-block border border-white/22 text-white/65 text-xs tracking-[0.2em] uppercase px-10 py-4 hover:border-museum-gold/40 hover:text-museum-gold transition-all duration-500"
           >
             View Full Collection
           </Link>

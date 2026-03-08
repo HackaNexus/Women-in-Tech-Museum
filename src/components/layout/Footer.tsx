@@ -33,10 +33,10 @@ function GalleryCard({
       <h4 className="font-display text-sm text-white/60 group-hover:text-museum-gold transition-colors display-italic">
         {pioneer.name}
       </h4>
-      <p className="text-[0.6rem] text-white/25 mt-0.5">
+      <p className="text-[0.6rem] text-white/55 mt-0.5">
         {field?.name}
       </p>
-      <p className="text-[0.6rem] text-white/20">
+      <p className="text-[0.6rem] text-white/35">
         {formatLifespan(pioneer.born, pioneer.died)}
       </p>
     </Link>
@@ -123,14 +123,14 @@ export function Footer() {
       </section>
 
       {/* ── Brand marquee ── */}
-      <div className="bg-museum-bg border-t border-white/[0.04] overflow-hidden py-12 sm:py-16">
+      <div className="overflow-hidden py-12 sm:py-16" style={{ backgroundColor: "#c9a87f" }}>
         <div className="flex whitespace-nowrap animate-marquee">
           {Array.from({ length: 4 }).map((_, i) => (
             <span
               key={i}
               className="font-display text-[3rem] sm:text-[5rem] lg:text-[7rem] font-light tracking-[0.05em] uppercase mx-8"
               style={{
-                WebkitTextStroke: "1px rgba(255,255,255,0.06)",
+                WebkitTextStroke: "1px rgba(100,80,40,0.45)",
                 color: "transparent",
               }}
             >
@@ -148,14 +148,14 @@ export function Footer() {
               <p className="font-display text-xs tracking-[0.25em] uppercase text-white/70 mb-4">
                 Women in Tech Museum
               </p>
-              <p className="text-sm leading-relaxed text-white/40 max-w-xs">
+              <p className="text-sm leading-relaxed text-white/55 max-w-xs">
                 Celebrating {stats.pioneerCount} women pioneers across {stats.fieldCount} fields of science,
                 technology, engineering, and mathematics.
               </p>
             </div>
 
             <nav className="flex flex-col gap-3">
-              <p className="text-xs tracking-[0.2em] uppercase text-white/30 mb-1">
+              <p className="text-xs tracking-[0.2em] uppercase text-white/45 mb-1">
                 Navigate
               </p>
               {[
@@ -166,7 +166,7 @@ export function Footer() {
                 <Link
                   key={l.href}
                   href={l.href}
-                  className="text-sm text-white/40 hover:text-museum-gold transition-colors"
+                  className="text-sm text-white/55 hover:text-museum-gold transition-colors"
                 >
                   {l.label}
                 </Link>
@@ -174,10 +174,10 @@ export function Footer() {
             </nav>
 
             <div>
-              <p className="text-xs tracking-[0.2em] uppercase text-white/30 mb-3">
+              <p className="text-xs tracking-[0.2em] uppercase text-white/45 mb-3">
                 Credits
               </p>
-              <p className="text-xs leading-relaxed text-white/30">
+              <p className="text-xs leading-relaxed text-white/45">
                 All biographical content is original, based on historical
                 research. Portrait images are sourced from Wikimedia Commons
                 and other public domain collections.
@@ -188,10 +188,10 @@ export function Footer() {
           <div className="divider mt-12 mb-6 opacity-30" />
 
           <div className="flex items-center justify-between">
-            <p className="text-xs text-white/20">
+            <p className="text-xs text-white/35">
               &copy; {new Date().getFullYear()} Women in Tech Museum
             </p>
-            <p className="text-[0.6rem] tracking-[0.2em] uppercase text-white/15">
+            <p className="text-[0.6rem] tracking-[0.2em] uppercase text-white/25">
               The Essence of Herstory
             </p>
           </div>

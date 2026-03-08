@@ -54,9 +54,9 @@ const sizePy: Record<CardSize, string> = {
 };
 
 const sizeBaseOpacity: Record<CardSize, string> = {
-  sm: "opacity-30",
-  md: "opacity-45",
-  lg: "opacity-65",
+  sm: "opacity-75",
+  md: "opacity-88",
+  lg: "opacity-9",
 };
 
 /* ── Pioneer hover popup ── */
@@ -95,20 +95,20 @@ function PioneerPopup({ item }: { item: DiscoveryItem }) {
             <h4 className="font-display text-base text-white/90 group-hover:text-museum-gold transition-colors duration-300 leading-tight">
               {pioneer.name}
             </h4>
-            <p className="text-[0.65rem] text-white/30 mt-0.5">{pioneer.nameCn}</p>
+            <p className="text-[0.65rem] text-white/80 mt-0.5">{pioneer.nameCn}</p>
             <p className="text-[0.6rem] tracking-[0.06em] uppercase mt-1.5" style={{ color: field.color }}>
               {field.nameCn}
             </p>
-            <p className="text-xs text-white/40 mt-1.5 line-clamp-2 leading-relaxed">
+            <p className="text-xs text-white/85 mt-1.5 line-clamp-2 leading-relaxed">
               {pioneer.taglineCn}
             </p>
           </div>
         </div>
         <div className="mt-3 pt-2.5 border-t border-white/[0.06] flex items-center justify-between">
-          <span className="text-[0.6rem] tracking-[0.08em] uppercase text-white/25">
+          <span className="text-[0.6rem] tracking-[0.08em] uppercase text-white/85">
             View Pioneer →
           </span>
-          <span className="text-[0.65rem] text-white/20">
+          <span className="text-[0.65rem] text-white/80">
             {pioneer.born < 0 ? `${Math.abs(pioneer.born)} BCE` : pioneer.born}
             {pioneer.died ? ` – ${pioneer.died}` : ""}
           </span>
@@ -157,7 +157,7 @@ function DiscoveryCard({ item, index }: { item: DiscoveryItem; index: number }) 
               </span>
             )}
           </div>
-          <p className="text-white/20 text-[0.6rem] mt-0.5 ml-4 whitespace-nowrap">{item.achievement}</p>
+          <p className="text-white/75 text-[0.6rem] mt-0.5 ml-4 whitespace-nowrap">{item.achievement}</p>
         </motion.div>
 
         <AnimatePresence>
@@ -188,7 +188,7 @@ function FieldSection({
             {field.nameCn}
           </h2>
           <div className="flex-1 h-px bg-white/[0.04]" />
-          <span className="text-[0.6rem] text-white/15 font-mono">{ROMAN[index]}</span>
+          <span className="text-[0.6rem] text-white/85 font-mono">{ROMAN[index]}</span>
         </div>
       </div>
 
@@ -222,19 +222,19 @@ function Sidebar({
               key={f.id}
               onClick={() => onFieldClick(f.id)}
               className={`group flex items-center gap-2.5 w-full text-left py-2 transition-all duration-300 ${
-                isActive ? "opacity-100" : "opacity-35 hover:opacity-70"
+                isActive ? "opacity-100" : "opacity-75 hover:opacity-95"
               }`}
             >
               <span
                 className={`text-[0.6rem] font-mono w-7 text-right flex-shrink-0 transition-colors duration-300 ${
-                  isActive ? "text-museum-gold" : "text-white/40"
+                  isActive ? "text-museum-gold" : "text-white/85"
                 }`}
               >
                 {ROMAN[i]}
               </span>
               <span
                 className={`text-[0.7rem] tracking-[0.04em] transition-colors duration-300 truncate ${
-                  isActive ? "text-white font-medium" : "text-white/50"
+                  isActive ? "text-white font-medium" : "text-white/90"
                 }`}
               >
                 {f.nameCn}
@@ -253,7 +253,7 @@ function Sidebar({
       </div>
 
       <div className="mt-auto pt-8 pb-8">
-        <p className="text-[0.55rem] text-white/12 leading-relaxed">
+        <p className="text-[0.55rem] text-white/85 leading-relaxed">
           © Women in Tech
           <br />
           Museum
@@ -294,7 +294,7 @@ function MobileFieldNav({
               className={`flex-shrink-0 px-3 py-1.5 rounded-full text-[0.65rem] tracking-wide transition-all duration-300 ${
                 isActive
                   ? "bg-white/10 text-white"
-                  : "text-white/30 hover:text-white/55"
+                  : "text-white/75 hover:text-white/90"
               }`}
             >
               {f.nameCn}
@@ -365,13 +365,13 @@ export default function DiscoveriesPage() {
             Discoveries{" "}
             <em className="display-italic text-museum-gold-light">&</em>
             <br />
-            <em className="display-italic text-white/60">Inventions</em>
+            <em className="display-italic text-white/90">Inventions</em>
           </motion.h1>
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.4, duration: 0.6 }}
-            className="mt-8 flex flex-wrap items-center gap-6 text-sm text-white/30"
+            className="mt-8 flex flex-wrap items-center gap-6 text-sm text-white/75"
           >
             <span>{totalAchievements}+ Contributions</span>
             <span className="w-px h-4 bg-white/10" />
@@ -383,7 +383,7 @@ export default function DiscoveriesPage() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.6, duration: 0.6 }}
-            className="mt-4 text-white/20 text-sm max-w-lg"
+            className="mt-4 text-white/75 text-sm max-w-lg"
           >
             探索她们的发明、发现与突破——悬停查看每项成就背后的先驱者
           </motion.p>
@@ -410,10 +410,10 @@ export default function DiscoveriesPage() {
       <footer className="relative pb-24 px-6 sm:px-8 lg:pl-56 lg:pr-10">
         <div className="max-w-6xl mx-auto text-center">
           <div className="divider opacity-20 mb-16" />
-          <p className="font-display text-2xl sm:text-3xl text-white/60 display-italic">
+          <p className="font-display text-2xl sm:text-3xl text-white/85 display-italic">
             Every discovery tells her story
           </p>
-          <p className="text-white/25 text-sm mt-3">每一项发现都诉说着她的故事</p>
+          <p className="text-white/85 text-sm mt-3">每一项发现都诉说着她的故事</p>
           <div className="mt-10 flex flex-wrap justify-center gap-4">
             <Link
               href="/exhibitions"
@@ -423,7 +423,7 @@ export default function DiscoveriesPage() {
             </Link>
             <Link
               href="/timeline"
-              className="text-[0.7rem] tracking-[0.15em] uppercase border border-white/15 text-white/50 px-8 py-3 hover:border-white/30 hover:text-white/70 transition-all duration-300"
+              className="text-[0.7rem] tracking-[0.15em] uppercase border border-white/40 text-white/90 px-8 py-3 hover:border-white/50 hover:text-white transition-all duration-300"
             >
               Timeline
             </Link>

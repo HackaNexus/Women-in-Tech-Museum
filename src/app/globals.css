@@ -9,10 +9,10 @@
   --color-museum-deep: #0E0E14;
   --color-museum-deep-soft: #16161E;
 
-  /* Text hierarchy on dark */
-  --color-museum-text: #F0EDE8;
-  --color-museum-text-secondary: #B8B4AE;
-  --color-museum-ink: #F0EDE8;
+  /* Text hierarchy on dark — 再提亮，减轻阅读疲劳 */
+  --color-museum-text: #FFFCF8;
+  --color-museum-text-secondary: #EDE9E4;
+  --color-museum-ink: #FFFCF8;
 
   /* Gold accent — preserved, more vivid on black */
   --color-museum-gold: #C9A87C;
@@ -20,8 +20,8 @@
   --color-museum-gold-dark: #A07D52;
 
   /* Muted tones for dark bg readability */
-  --color-museum-slate: #9A96A0;
-  --color-museum-stone: #7A7680;
+  --color-museum-slate: #E0DCD8;
+  --color-museum-stone: #D8D4D0;
   --color-museum-mist: #2A2A30;
   --color-museum-line: #2A2830;
 

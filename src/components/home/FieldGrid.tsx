@@ -89,7 +89,7 @@ export function FieldGrid() {
             <br />
             <em className="display-italic text-museum-gold-light">Halls</em>
           </h2>
-          <p className="text-white/25 mt-4 text-lg">领域展台</p>
+          <p className="text-white/40 mt-4 text-lg">领域展台</p>
         </motion.div>
 
         <div className="bookshelf-wrapper bookshelf-dark">

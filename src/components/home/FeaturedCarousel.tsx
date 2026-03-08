@@ -63,7 +63,7 @@ function GalleryCard({ pioneer, index }: { pioneer: Pioneer; index: number }) {
       <p className="text-[0.6rem] tracking-[0.1em] uppercase text-museum-gold/50 mt-0.5">
         {field?.name}
       </p>
-      <p className="text-xs text-white/30 mt-1 line-clamp-2 leading-relaxed">
+      <p className="text-xs text-white/65 mt-1 line-clamp-2 leading-relaxed">
         {pioneer.tagline}
       </p>
     </>
@@ -145,7 +145,7 @@ export function FeaturedCarousel() {
             </p>
             <h2 className="font-display text-5xl sm:text-6xl lg:text-8xl text-white font-light leading-[1.05]">
               A{" "}
-              <em className="display-italic text-white/70">(Journey)</em>
+              <em className="display-italic text-white/85">(Journey)</em>
               <br />
               Through{" "}
               <em className="display-italic text-museum-gold-light">
@@ -177,18 +177,18 @@ export function FeaturedCarousel() {
             "
             style={{ opacity: descOpacity, y: descY }}
           >
-            <p className="text-white/40 text-base leading-relaxed font-light">
+            <p className="text-white/85 text-base leading-relaxed font-light">
               Step into a world where brilliance transcends boundaries. Here, you
               are invited to explore a curated collection of pioneering women in
               science, where each story reveals layers of discovery, resilience,
               and the enduring beauty of human curiosity.
             </p>
-            <p className="text-white/30 text-sm leading-relaxed font-light mt-3">
+            <p className="text-white/85 text-sm leading-relaxed font-light mt-3">
               步入一个才华超越边界的世界。在这里，你将探索一组杰出女性科学先驱的故事，每一段历程都揭示着发现的力量、坚韧的精神，以及人类求知欲的永恒之美。
             </p>
             <Link
               href="/about"
-              className="group inline-flex items-center gap-3 mt-8 text-white/50 hover:text-white transition-colors duration-300"
+              className="group inline-flex items-center gap-3 mt-8 text-white/80 hover:text-white transition-colors duration-300"
             >
               <span className="flex items-center justify-center w-10 h-10 rounded-full border border-white/15 group-hover:border-white/40 transition-colors duration-300">
                 <svg
@@ -237,7 +237,7 @@ export function FeaturedCarousel() {
         <div className="mt-12 flex justify-end">
           <Link
             href="/timeline"
-            className="group flex items-center gap-2 text-sm text-white/30 hover:text-museum-gold transition-colors duration-300"
+            className="group flex items-center gap-2 text-sm text-white/65 hover:text-museum-gold transition-colors duration-300"
           >
             <span className="tracking-wide">跟随时间线看更多</span>
             <span className="inline-block transition-transform duration-300 group-hover:translate-x-1">

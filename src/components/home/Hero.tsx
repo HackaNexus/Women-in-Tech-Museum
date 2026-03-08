@@ -134,14 +134,14 @@ export function Hero() {
 
           <motion.p
             variants={fadeUp}
-            className="text-white/50 text-xl sm:text-2xl font-display display-italic"
+            className="text-white/80 text-xl sm:text-2xl font-display display-italic"
           >
             她们改变了世界
           </motion.p>
 
           <motion.p
             variants={fadeUp}
-            className="text-white/30 text-sm mt-6 tracking-widest"
+            className="text-white/65 text-sm mt-6 tracking-widest"
           >
             {stats.pioneerCount} Pioneers&ensp;/&ensp;{stats.fieldCount} Fields&ensp;/&ensp;{stats.yearSpan.toLocaleString()}+ Years
           </motion.p>
@@ -164,7 +164,7 @@ export function Hero() {
         animate={{ opacity: 0.4 }}
         transition={{ delay: 2.5, duration: 1 }}
       >
-        <span className="text-[0.6rem] tracking-[0.3em] uppercase text-white/40">
+        <span className="text-[0.6rem] tracking-[0.3em] uppercase text-white/75">
           Scroll
         </span>
         <motion.div
