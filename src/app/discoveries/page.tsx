@@ -56,7 +56,7 @@ const sizePy: Record<CardSize, string> = {
 const sizeBaseOpacity: Record<CardSize, string> = {
   sm: "opacity-75",
   md: "opacity-88",
-  lg: "opacity-9",
+  lg: "opacity-95",
 };
 
 /* ── Pioneer hover popup ── */
@@ -185,7 +185,7 @@ function FieldSection({
         <div className="max-w-6xl mx-auto flex items-center gap-4">
           <div className="w-1.5 h-1.5 rounded-full flex-shrink-0" style={{ backgroundColor: field.color }} />
           <h2 className="text-[0.65rem] tracking-[0.2em] uppercase font-medium" style={{ color: field.color }}>
-            {field.nameCn}
+            {field.nameCn} <span className="normal-case tracking-normal text-white/70 font-normal">/ {field.name}</span>
           </h2>
           <div className="flex-1 h-px bg-white/[0.04]" />
           <span className="text-[0.6rem] text-white/85 font-mono">{ROMAN[index]}</span>
@@ -237,7 +237,7 @@ function Sidebar({
                   isActive ? "text-white font-medium" : "text-white/90"
                 }`}
               >
-                {f.nameCn}
+                {f.nameCn} <span className="text-white/60">/ {f.name}</span>
               </span>
               {isActive && (
                 <motion.div
@@ -297,7 +297,7 @@ function MobileFieldNav({
                   : "text-white/75 hover:text-white/90"
               }`}
             >
-              {f.nameCn}
+              {f.nameCn} / {f.name}
             </button>
           );
         })}
@@ -386,6 +386,7 @@ export default function DiscoveriesPage() {
             className="mt-4 text-white/75 text-sm max-w-lg"
           >
             探索她们的发明、发现与突破——悬停查看每项成就背后的先驱者
+            <span className="block text-white/60 mt-1">Explore their inventions, discoveries & breakthroughs — Hover to see the pioneer behind each achievement</span>
           </motion.p>
         </div>
       </header>

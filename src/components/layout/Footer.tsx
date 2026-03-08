@@ -129,10 +129,14 @@ export function Footer() {
             <span
               key={i}
               className="font-display text-[3rem] sm:text-[5rem] lg:text-[7rem] font-light tracking-[0.05em] uppercase mx-8"
-              style={{
-                WebkitTextStroke: "1px rgba(100,80,40,0.45)",
-                color: "transparent",
-              }}
+              style={
+                i % 2 === 0
+                  ? { color: "#0a0a0a" }
+                  : {
+                      WebkitTextStroke: "1px rgba(40,30,20,0.6)",
+                      color: "transparent",
+                    }
+              }
             >
               Women in Tech Museum&ensp;&middot;&ensp;
             </span>

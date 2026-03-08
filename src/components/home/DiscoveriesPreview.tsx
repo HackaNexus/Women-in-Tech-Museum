@@ -12,6 +12,7 @@ interface FloatingItem {
   pioneer: Pioneer;
   fieldColor: string;
   fieldName: string;
+  fieldNameEn: string;
   x: number;
   y: number;
   size: "sm" | "md" | "lg";
@@ -76,6 +77,7 @@ function buildPreviewItems(): FloatingItem[] {
         pioneer: p,
         fieldColor: f.color,
         fieldName: f.nameCn,
+        fieldNameEn: f.name,
         x: pos.x,
         y: pos.y,
         size: pos.size,
@@ -141,8 +143,9 @@ function PreviewCard({ item, index }: { item: FloatingItem; index: number }) {
               )}
             </div>
             <div>
-              <p className="text-xs text-white/80 group-hover:text-museum-gold transition-colors duration-300">{item.pioneer.nameCn}</p>
-              <p className="text-[0.6rem]" style={{ color: item.fieldColor }}>{item.fieldName}</p>
+              <p className="text-xs text-white/80 group-hover:text-museum-gold transition-colors duration-300">{item.pioneer.name}</p>
+              <p className="text-[0.6rem] text-white/60">{item.pioneer.nameCn}</p>
+              <p className="text-[0.55rem] mt-0.5" style={{ color: item.fieldColor }}>{item.fieldNameEn}</p>
             </div>
           </Link>
         </motion.div>
@@ -186,7 +189,7 @@ export function DiscoveriesPreview() {
             </Link>
           </div>
           <p className="text-white/35 mt-4 text-sm">
-            悬停探索每项成就背后的先驱者
+            悬停探索每项成就背后的先驱者 · Hover to explore the pioneers behind each achievement
           </p>
         </motion.div>
 

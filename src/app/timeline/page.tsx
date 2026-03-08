@@ -122,7 +122,7 @@ export default function TimelinePage() {
                   : "text-white/55 border border-white/18 hover:border-museum-gold/40"
               }`}
             >
-              {e.cn}
+              {e.cn} <span className="text-white/70">/ {e.label}</span>
             </button>
           ))}
         </div>
@@ -150,7 +150,7 @@ export default function TimelinePage() {
               }`}
               style={fieldId === f.id ? { backgroundColor: f.color } : undefined}
             >
-              {f.nameCn}
+              {f.nameCn} <span className="text-white/70">/ {f.name}</span>
             </button>
           ))}
         </div>
